@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="berkeleylm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/berkeleylm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

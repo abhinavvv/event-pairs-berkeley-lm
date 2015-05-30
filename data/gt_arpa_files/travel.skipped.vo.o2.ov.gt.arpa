@@ -1,0 +1,4324 @@
+
+\data\
+ngram 1=2832
+ngram 2=1482
+
+\1-grams:
+-6.810464	!!!|
+-6.810464	!!|
+-6.810464	:d|
+-2.095328	</s>
+-99	<s>	0.09626082
+-0.6342934	<unk>	0.182503
+-6.810464	abandon|
+-6.810464	absolve|myself
+-6.810464	accept|
+-6.810464	access|
+-6.810464	accompany|
+-6.810464	accomplish|
+-6.810464	accord|
+-6.810464	account|
+-6.810464	accustom|
+-6.810464	ache|
+-6.810464	act|
+-6.810464	add|
+-6.810464	add|MONEY
+-6.810464	add|half
+-6.810464	add|mile
+-6.810464	add|tarp
+-6.810464	add|water
+-3.437751	adjust|	-0.08873405
+-3.437751	admit|	0.02581225
+-3.136721	advise|	-0.07340349
+-6.810464	affect|
+-6.810464	agree|
+-6.810464	ahhh|
+-6.810464	aim|
+-6.810464	allow|
+-6.810464	allow|I
+-6.810464	allow|sleep
+-6.810464	allow|we
+-6.810464	along.|
+-6.810464	alternate|
+-3.437751	amaze|	-0.08794053
+-6.810464	amaze|I
+-6.810464	amount|
+-6.810464	anchor|
+-6.810464	announce|
+-6.810464	answer|
+-6.810464	answer|phone
+-6.810464	anticipate|
+-6.810464	appeal|
+-6.810464	appear|
+-6.810464	apply|
+-6.810464	appreciate|
+-6.810464	approach|
+-6.810464	aren|t
+-6.810464	arrange|
+-6.810464	arrange|trip
+-2.483508	arrive|	-0.002582632
+-6.810464	arrive|NUMBER
+-6.810464	arrive|home
+-6.810464	ascend|
+-6.810464	ask|
+-6.810464	ask|I
+-6.810464	ask|PERSON
+-6.810464	ask|favor
+-6.810464	ask|he
+-6.810464	ask|kid
+-6.810464	ask|people
+-6.810464	ask|question
+-6.810464	ask|she
+-6.810464	ask|we
+-6.810464	assese|space
+-6.810464	associate|
+-3.437751	assume|	0.02581225
+-6.810464	assure|
+-6.810464	assure|I
+-6.810464	attach|
+-6.810464	attack|
+-6.810464	attack|we
+-6.810464	attempt|
+-6.810464	attend|
+-6.810464	average|
+-6.810464	average|mpg
+-6.810464	avoid|
+-6.810464	await|
+-3.437751	awake|	-0.08873405
+-6.810464	award|
+-6.810464	backpack|
+-2.960629	backtrack|	0.04264747
+-3.437751	back|	0.01219817
+-6.810464	bail|
+-6.810464	balance|it
+-6.810464	balk|
+-6.810464	bang|
+-6.810464	bark|
+-3.437751	base|	0.01219817
+-6.810464	bath|
+-6.810464	beam|
+-6.810464	bear|
+-6.810464	beat|
+-6.810464	beat|stuff
+-3.437751	become|	0.02581225
+-2.73878	begin|	0.02891954
+-6.810464	begin|ascent
+-3.437751	begin|descent	0.01219817
+-6.810464	begin|down.
+-6.810464	beg|
+-6.810464	behave|
+-6.810464	behold|
+-3.437751	believe|	0.01219817
+-6.810464	believe|I
+-6.810464	believe|it
+-6.810464	belong|
+-6.810464	bend|
+-6.810464	bend|rule
+-3.437751	bet|	0.01219817
+-0.6826383	be|	0.1701688
+-6.810464	be|that
+-3.437751	be|what	-0.07373185
+-6.810464	bias|
+-6.810464	bind|
+-6.810464	bird|
+-6.810464	bite|
+-6.810464	blame|parenting
+-6.810464	blast|
+-3.437751	blaze|	0.01219817
+-6.810464	bleed|
+-3.136721	blend|	0.1627496
+-3.437751	bless|	-0.07765328
+-6.810464	bless|you
+-3.437751	block|	0.01219817
+-6.810464	blogg|
+-6.810464	bloom|
+-6.810464	blow|
+-6.810464	blow|it
+-6.810464	board|
+-6.810464	board|boat
+-6.810464	bob|
+-6.810464	boil|
+-6.810464	boil|water
+-6.810464	bonk|
+-6.810464	bookend|
+-6.810464	book|
+-6.810464	book|it
+-6.810464	book|room
+-6.810464	book|site
+-6.810464	border|
+-6.810464	bore|
+-3.437751	borrow|	-0.08857546
+-6.810464	bother|
+-3.437751	bother|I	0.02581225
+-6.810464	bounce|
+-6.810464	bowl|
+-6.810464	brave|
+-6.810464	brave|NUMBER
+-6.810464	breakfast.|
+-6.810464	breakfast|MONEY
+-6.810464	break|
+-6.810464	break|bone
+-3.136721	break|camp	0.1627496
+-6.810464	break|free.
+-6.810464	break|it
+-6.810464	break|rule
+-6.810464	break|vegetarianism
+-3.437751	breathe|	0.01219817
+-6.810464	breathe|alcohol
+-6.810464	breathe|sleep
+-2.73878	bring|	-0.01680339
+-3.437751	bring|I	-0.08857546
+-6.810464	bring|blast
+-6.810464	bring|bottle
+-6.810464	bring|camera
+-6.810464	bring|chook
+-6.810464	bring|cowrie
+-6.810464	bring|friend
+-6.810464	bring|in.
+-6.810464	bring|it
+-6.810464	bring|pot
+-6.810464	bring|rear
+-6.810464	bring|salad
+-6.810464	bring|set
+-6.810464	bring|some
+-6.810464	bring|stereo
+-6.810464	bring|stuff
+-6.810464	bring|veggy
+-6.810464	bring|water
+-6.810464	bring|we
+-3.437751	brush|tooth	-0.08587056
+-6.810464	buck|MONEY
+-6.810464	build|
+-6.810464	build|CAUSE_OF_DEATH
+-6.810464	build|DATE
+-6.810464	build|campfire
+-6.810464	bump|
+-6.810464	bundle|
+-6.810464	bunk|
+-6.810464	burn|
+-6.810464	burn|it
+-6.810464	bury|
+-6.810464	bushwack|way
+-3.437751	buy|	0.02581225
+-6.810464	buy|MONEY
+-6.810464	buy|NUMBER
+-6.810464	buy|camera
+-6.810464	buy|chicken
+-6.810464	buy|couple
+-3.437751	buy|food	-0.07765328
+-6.810464	buy|stove
+-6.810464	buy|tent
+-6.810464	buy|trucker
+-3.437751	buzz|	0.01219817
+-2.73878	call|	0.0278813
+-6.810464	call|I
+-6.810464	call|LOCATION
+-6.810464	call|Mushrooms
+-6.810464	call|NUMBER
+-6.810464	call|PERSON
+-6.810464	call|dib
+-6.810464	call|hat
+-3.437751	call|he	-0.08666787
+-6.810464	call|hotel
+-3.437751	call|it	-0.08571092
+-3.437751	call|they	0.02581225
+-6.810464	call|trip
+-3.437751	call|we	0.02581225
+-6.810464	call|what
+-6.810464	call|word
+-3.437751	calm|	-0.08778165
+-6.810464	calm|fear
+-6.810464	came|
+-3.437751	campground|	-0.08857546
+-2.73878	camp|	0.09534615
+-6.810464	camp|DATE
+-6.810464	camp|ORGANIZATION
+-6.810464	camp|better
+-6.810464	camp|time
+-6.810464	camp|trip
+-6.810464	cancel|
+-6.810464	cancel|reservation
+-6.810464	cancel|trip
+-6.810464	canoe|
+-6.810464	cant|
+-6.810464	can|
+-6.810464	can|MONEY
+-6.810464	can|wait
+-6.810464	capture|heart
+-6.810464	care|
+-6.810464	carry|
+-6.810464	carry|I
+-6.810464	carry|PERSON
+-6.810464	carry|dog
+-3.437751	carry|everything	0.02581225
+-6.810464	carry|grudge
+-6.810464	carry|it
+-6.810464	carry|tent
+-6.810464	carry|toy
+-6.810464	carry|water
+-6.810464	carry|what
+-6.810464	cast|
+-3.437751	catch|	0.01219817
+-6.810464	catch|NUMBER
+-6.810464	catch|anything
+-6.810464	catch|attention
+-6.810464	catch|bus
+-6.810464	catch|couple
+-3.136721	catch|fish	-0.07438791
+-6.810464	catch|fishing
+-6.810464	catch|frog
+-6.810464	catch|it
+-6.810464	catch|many
+-6.810464	catch|train
+-6.810464	catch|view
+-6.810464	cause|
+-6.810464	cause|plan
+-6.810464	cease|
+-6.810464	celebrate|
+-6.810464	certify|
+-2.960629	change|	-0.1626762
+-6.810464	change|clothes
+-6.810464	change|plan
+-6.810464	change|spot
+-6.810464	change|thing
+-6.810464	change|trip
+-3.437751	charge|	-0.08809935
+-6.810464	charter|PERSON
+-6.810464	char|
+-6.810464	chase|
+-6.810464	chase|bravado
+-6.810464	chat|
+-2.83569	check|	-0.08459182
+-6.810464	check|LOCATION
+-6.810464	check|PERSON
+-6.810464	check|gage
+-6.810464	check|geyser
+-6.810464	check|it
+-6.810464	check|kid
+-6.810464	check|lht
+-6.810464	check|place
+-6.810464	check|resort
+-6.810464	check|river
+-6.810464	check|time
+-6.810464	cherish|
+-6.810464	chew|
+-6.810464	chillin|MONEY
+-6.810464	chill|
+-6.810464	choose|
+-6.810464	choose|NUMBER
+-6.810464	chop|firewood
+-6.810464	chop|put
+-6.810464	circle|
+-6.810464	claim|dib
+-6.810464	clap|
+-3.136721	clean|	0.03710411
+-6.810464	clean|it
+-3.437751	clear|	-0.08571092
+-6.810464	clear|it
+-3.437751	click|	-0.08873405
+-6.810464	click|picture
+-2.83569	climb|	0.1842078
+-3.136721	climb|it	0.01259842
+-6.810464	climb|mountain
+-6.810464	climb|rock
+-6.810464	climb|tower
+-6.810464	climb|tree
+-6.810464	cling|
+-2.73878	close|	-0.004153147
+-6.810464	close|it
+-6.810464	cloud|
+-6.810464	coat|
+-6.810464	collapse|
+-6.810464	collect|
+-6.810464	color|
+-2.437751	come|	0.09525242
+-6.810464	come|DATE
+-6.810464	come|MONEY
+-6.810464	come|home
+-3.437751	come|it	0.01219817
+-6.810464	come|walking
+-6.810464	come|way
+-6.810464	commence|
+-6.810464	comment|
+-6.810464	commune|
+-6.810464	communicate|
+-6.810464	compare|
+-6.810464	compensate|
+-3.136721	complain|	0.1627496
+-6.810464	complain|ton
+-6.810464	complete|
+-6.810464	complete|course
+-6.810464	complete|dive
+-6.810464	complete|hike
+-6.810464	complete|journey
+-6.810464	compliment|
+-6.810464	comprise|
+-6.810464	concentrate|
+-6.810464	concern|
+-6.810464	confess|
+-3.437751	confirm|	0.02581225
+-6.810464	confuse|
+-6.810464	connect|
+-6.810464	connect|MONEY
+-6.810464	connect|lifestyle
+-3.437751	consider|	-0.06927752
+-6.810464	consist|
+-6.810464	construct|
+-3.437751	consume|	-0.07373185
+-6.810464	contain|
+-6.810464	contemplate|
+-6.810464	contemplate|horror
+-6.810464	contend|
+-3.136721	continue|	-0.06794891
+-6.810464	continue|haul
+-6.810464	contribute|
+-6.810464	control|
+-6.810464	convince|
+-3.136721	convince|PERSON	-0.08841683
+-6.810464	cook|
+-6.810464	cook|breakfast
+-6.810464	cook|dinner
+-3.437751	cook|meal	-0.08714555
+-6.810464	cook|sun
+-3.437751	cook|they	0.02581225
+-6.810464	cook|we
+-6.810464	cool|
+-6.810464	cooperate|
+-6.810464	cope|course
+-6.810464	cost|buck
+-3.437751	couldnt|	0.02581225
+-2.960629	couldn|MONEY	-0.06894575
+-6.810464	couldn|drive
+-6.810464	couldn|t
+-6.810464	couldn|use
+-6.810464	counter|
+-6.810464	count|
+-3.437751	cover|	-0.08666787
+-6.810464	cover|all
+-6.810464	cover|mile
+-6.810464	cover|myself
+-6.810464	cozy|
+-6.810464	co|
+-6.810464	crackle|
+-6.810464	cram|
+-3.437751	crash|	-0.08794053
+-6.810464	crash|wave
+-3.136721	crawl|	-0.07520656
+-6.810464	create|
+-6.810464	create|couple
+-6.810464	creep|
+-6.810464	cross|
+-6.810464	cross|LOCATION
+-6.810464	cross|border
+-6.810464	cross|bridge
+-6.810464	cross|creek
+-6.810464	cross|everything
+-6.810464	cross|face
+-6.810464	cross|river
+-6.810464	cross|water
+-6.810464	crowd|
+-3.437751	cruise|	0.01219817
+-6.810464	crush|
+-6.810464	cry|
+-6.810464	cry|little
+-6.810464	cuddle|
+-6.810464	curl|
+-3.437751	cut|	-0.08746371
+-6.810464	cut|meat
+-6.810464	cut|short.
+-6.810464	cut|veggy
+-3.437751	dance|	-0.08809935
+-6.810464	dart|
+-6.810464	date|
+-3.437751	deal|	0.01219817
+-2.039811	decide|	0.2011828
+-6.810464	decide|campsite
+-6.810464	declare|
+-6.810464	deflate|
+-6.810464	dehydrate|
+-6.810464	dehydrate|it
+-6.810464	delay|
+-6.810464	depart|
+-6.810464	depress|
+-6.810464	descend|
+-6.810464	describe|
+-6.810464	describe|it
+-6.810464	describe|part
+-3.437751	desert|	0.02581225
+-6.810464	deserve|break
+-6.810464	designate|
+-6.810464	design|
+-6.810464	desire|
+-6.810464	destroy|
+-3.437751	determine|	0.01219817
+-6.810464	develop|
+-6.810464	develop|bond
+-6.810464	develop|film
+-6.810464	didnt|
+-6.810464	didn|
+-3.437751	didn|MONEY	-0.06927752
+-6.810464	didn|anything
+-6.810464	didn|care
+-6.810464	didn|look
+-6.810464	didn|show
+-6.810464	didn|sleep
+-6.810464	didn|t
+-6.810464	didn|take
+-6.810464	didn|think
+-6.810464	didn|wake
+-6.810464	didn|whatever
+-6.810464	didn|work
+-3.437751	die|	0.02581225
+-6.810464	die|PERSON
+-6.810464	digress|
+-6.810464	dig|
+-6.810464	dig|latrine
+-6.810464	dig|pit
+-6.810464	dine|
+-6.810464	dip|
+-6.810464	direct|she
+-6.810464	disapoint|
+-3.437751	disappear|	-0.06927752
+-3.437751	disappoint|	0.01219817
+-3.136721	discover|	-0.08857547
+-6.810464	discover|badmitton
+-6.810464	discover|practiced
+-6.810464	disturb|something
+-2.73878	dive|	-0.08816046
+-6.810464	do.|
+-6.810464	document|
+-6.810464	dodge|
+-6.810464	doesn|Camping
+-6.810464	doesn|MONEY
+-6.810464	doesn|t
+-3.437751	doesn|work	0.02581225
+-6.810464	dominate|
+-2.960629	don|	-0.1626762
+-3.437751	don|MONEY	-0.07765328
+-6.810464	don|t
+-3.437751	don|think	-0.06927752
+-6.810464	dot|
+-6.810464	douse|ourselves
+-3.437751	down|	-0.08873405
+-6.810464	doze|
+-1.556937	do|	0.08159283
+-6.810464	do|!!
+-6.810464	do|?!
+-6.810464	do|DATE
+-6.810464	do|DURATION
+-6.810464	do|LOCATION
+-6.810464	do|MISC
+-3.136721	do|NUMBER	-0.07291044
+-6.810464	do|PERSON
+-6.810464	do|all
+-6.810464	do|anything
+-6.810464	do|before
+-6.810464	do|best
+-6.810464	do|blog
+-6.810464	do|bunch
+-6.810464	do|camping
+-6.810464	do|cooking
+-6.810464	do|course
+-6.810464	do|dish
+-6.810464	do|dive
+-6.810464	do|diving
+-6.810464	do|everything
+-6.810464	do|feeding
+-6.810464	do|half
+-3.437751	do|hike	-0.06927752
+-6.810464	do|hiking
+-6.810464	do|i
+-2.83569	do|it	0.1050693
+-2.960629	do|job	0.1638828
+-6.810464	do|jump
+-6.810464	do|kind
+-6.810464	do|laundry
+-6.810464	do|loop
+-6.810464	do|lot
+-6.810464	do|mile
+-6.810464	do|more
+-6.810464	do|research
+-6.810464	do|same
+-6.810464	do|section
+-6.810464	do|shopping
+-6.810464	do|sign
+-6.810464	do|snorkeling
+-6.810464	do|some
+-6.810464	do|something
+-6.810464	do|stop
+-6.810464	do|stuff
+-3.437751	do|that	-0.06927752
+-6.810464	do|they
+-3.437751	do|thing	-0.07373185
+-6.810464	do|this
+-6.810464	do|time
+-6.810464	do|ton
+-6.810464	do|tour
+-6.810464	do|trail
+-6.810464	do|travel
+-6.810464	do|treatment
+-6.810464	do|trip
+-3.136721	do|walk	0.02622526
+-6.810464	do|water
+-6.810464	do|we
+-2.960629	do|what	0.01702593
+-6.810464	do|which
+-6.810464	do|work
+-3.437751	drag|	0.02581225
+-6.810464	drain|
+-6.810464	drain|lot
+-6.810464	draw|
+-6.810464	dream|
+-6.810464	dream|DURATION
+-6.810464	drench|
+-6.810464	drench|grounds
+-2.960629	dress|	-0.08730467
+-3.437751	drift|	0.01219817
+-6.810464	drinkin|smithwick
+-3.437751	drink|	-0.08857546
+-6.810464	drink|Light
+-6.810464	drink|beer
+-6.810464	drink|wine
+-3.437751	drip|	-0.07765328
+-1.946389	drive|	-0.05483252
+-6.810464	drive|DURATION
+-6.810464	drive|Hwy
+-6.810464	drive|NUMBER
+-6.810464	drive|Shore
+-6.810464	drive|butte
+-3.437751	drive|car	-0.06927752
+-6.810464	drive|drive
+-6.810464	drive|excavator
+-6.810464	drive|grab
+-6.810464	drive|half
+-3.437751	drive|home	0.01219817
+-6.810464	drive|hundred
+-6.810464	drive|interest
+-3.437751	drive|mile	-0.08746371
+-6.810464	drive|mountain
+-6.810464	drive|north
+-6.810464	drive|road
+-6.810464	drive|route
+-6.810464	drive|solo
+-6.810464	drive|total
+-6.810464	drive|way
+-6.810464	drive|we
+-6.810464	drizzle|forecast
+-3.136721	drop|	-0.3152677
+-6.810464	drop|PERSON
+-6.810464	drop|parent
+-6.810464	drown|
+-3.437751	dry|	0.02581225
+-6.810464	dry|egg
+-6.810464	dry|food
+-6.810464	dry|meal
+-6.810464	dry|most
+-6.810464	duck|
+-6.810464	dump|
+-6.810464	dump|thing
+-6.810464	earn|moniker
+-6.810464	earn|pad
+-2.592653	eat|	0.1302483
+-3.437751	eat|breakfast	0.01219817
+-6.810464	eat|chicken
+-6.810464	eat|crust
+-6.810464	eat|dinner
+-6.810464	eat|food
+-6.810464	eat|grass
+-6.810464	eat|lunch
+-6.810464	eat|mores
+-6.810464	eat|non-stop
+-6.810464	eat|package
+-6.810464	eat|pizza
+-6.810464	eat|something
+-6.810464	eat|supper
+-3.437751	eat|they	-0.08395102
+-6.810464	eat|ton
+-6.810464	echo|
+-6.810464	edward|
+-6.810464	elbow|PERSON
+-6.810464	elect|driver
+-6.810464	email|I
+-6.810464	embark|
+-6.810464	emerge|
+-3.437751	empty|	-0.08857546
+-6.810464	encourage|
+-6.810464	endure|moment
+-6.810464	endure|trekking
+-2.83569	end|	0.03163063
+-6.810464	end|next
+-6.810464	end|sleep
+-6.810464	end|trip
+-6.810464	engage|
+-2.659599	enjoy|	0.04093429
+-6.810464	enjoy|LOCATION
+-6.810464	enjoy|beach
+-6.810464	enjoy|beer
+-6.810464	enjoy|boat
+-6.810464	enjoy|burrito
+-6.810464	enjoy|campsite
+-6.810464	enjoy|chance
+-6.810464	enjoy|diving
+-6.810464	enjoy|drive
+-6.810464	enjoy|eruption
+-6.810464	enjoy|feel
+-6.810464	enjoy|hike
+-3.437751	enjoy|it	0.01219817
+-6.810464	enjoy|life
+-6.810464	enjoy|lot
+-6.810464	enjoy|ourselves
+-6.810464	enjoy|pace
+-6.810464	enjoy|picture
+-6.810464	enjoy|quiet
+-6.810464	enjoy|rest
+-6.810464	enjoy|road
+-6.810464	enjoy|s'more
+-6.810464	enjoy|scenery
+-6.810464	enjoy|swimming
+-6.810464	enjoy|time
+-6.810464	enjoy|trip
+-6.810464	enjoy|view
+-6.810464	enjoy|visibility
+-6.810464	enjoy|walking
+-6.810464	enjoy|water
+-3.437751	enjoy|weather	-0.08587056
+-6.810464	enlarge|
+-6.810464	ensue|
+-6.810464	ensure|
+-6.810464	entertain|
+-6.810464	entertain|cop
+-3.136721	enter|	0.01259842
+-6.810464	enter|LOCATION
+-6.810464	enter|ORGANIZATION
+-6.810464	enter|area
+-6.810464	enter|water
+-6.810464	envelop|we
+-6.810464	equalize|
+-6.810464	equalize|pressure
+-6.810464	equate|
+-6.810464	equip|
+-6.810464	erode|
+-3.437751	escape|	-0.08634912
+-6.810464	estimate|
+-6.810464	etch|
+-6.810464	etc|MONEY
+-6.810464	examine|
+-6.810464	exceed|mile
+-2.960629	excite|	0.03731602
+-6.810464	exhaust|
+-6.810464	exit|
+-6.810464	exit|water
+-6.810464	expand|
+-3.437751	expect|	-0.07667623
+-6.810464	expect|animal
+-6.810464	expect|it
+-6.810464	expect|they
+-6.810464	experience|
+-6.810464	experience|bush
+-6.810464	experience|what
+-6.810464	experience|wreck
+-6.810464	explain|
+-6.810464	explode|
+-6.810464	explore|
+-6.810464	explore|LOCATION
+-6.810464	explore|area
+-6.810464	explore|island
+-6.810464	explore|trail
+-6.810464	face|
+-6.810464	face|TIME
+-6.810464	face|beach
+-6.810464	face|lake
+-6.810464	fade|
+-6.810464	fail|
+-2.592653	fall|	-0.1108482
+-6.810464	fall|time
+-6.810464	family|MONEY
+-6.810464	family|t
+-6.810464	fascinate|
+-6.810464	fashion|
+-3.437751	feast|	0.01219817
+-6.810464	feed|
+-6.810464	feed|duck
+-6.810464	feed|fish
+-6.810464	feed|she
+-6.810464	feed|wood
+-2.291623	feel|	-0.2371216
+-6.810464	feel|:--rrb-_NN
+-6.810464	feel|better
+-6.810464	feel|cold
+-6.810464	feel|it
+-6.810464	feel|kind
+-6.810464	feel|load
+-6.810464	feel|lot
+-6.810464	feel|need
+-6.810464	feel|tingling
+-6.810464	feel|way
+-6.810464	fight|
+-6.810464	fight|intruder
+-6.810464	fight|it
+-2.358569	figure|	-0.003509074
+-6.810464	fill|
+-6.810464	fill|tank
+-6.810464	film|
+-6.810464	filter|water
+-2.659599	find|	0.2064685
+-6.810464	find|MISC
+-6.810464	find|Motel
+-6.810464	find|NUMBER
+-2.960629	find|PERSON	-0.05293274
+-3.437751	find|campground	-0.06927752
+-3.437751	find|campsite	-0.06927752
+-6.810464	find|car
+-6.810464	find|flight
+-6.810464	find|gallon
+-6.810464	find|he
+-3.437751	find|hotel	0.02581225
+-6.810464	find|it
+-6.810464	find|myself
+-6.810464	find|nemo
+-3.437751	find|place	-0.07667623
+-6.810464	find|quarry
+-6.810464	find|restaurant
+-6.810464	find|she
+-3.437751	find|site	0.01219817
+-6.810464	find|solution
+-2.960629	find|spot	-0.1765097
+-6.810464	find|tent
+-6.810464	find|trail
+-6.810464	find|trailhead
+-6.810464	find|tree
+-3.437751	find|way	0.02581225
+-3.437751	find|we	-0.08873405
+-2.960629	finish|	0.1630326
+-6.810464	finish|DATE
+-6.810464	finish|breakfast
+-6.810464	finish|dinner
+-6.810464	finish|dive
+-6.810464	finish|float
+-6.810464	finish|job
+-6.810464	fire|
+-6.810464	fish.|
+-6.810464	fish|
+-6.810464	fit|
+-6.810464	fit|I
+-6.810464	fit|people
+-6.810464	fix|
+-6.810464	fix|it
+-6.810464	fix|situation
+-6.810464	flap|
+-6.810464	flip|
+-6.810464	flip|switch
+-6.810464	float|
+-6.810464	float|MONEY
+-6.810464	flood|
+-6.810464	flounder|
+-6.810464	flow|
+-6.810464	flush|
+-2.960629	fly|	0.03225867
+-6.810464	focus|
+-6.810464	fold|it
+-2.592653	follow|	0.01925673
+-6.810464	follow|LOCATION
+-6.810464	follow|it
+-6.810464	follow|sign
+-6.810464	follow|track
+-6.810464	follow|trail
+-6.810464	follow|we
+-6.810464	fool|
+-6.810464	forage|
+-3.437751	force|	-0.08571092
+-6.810464	force|myself
+-2.73878	forget|	-0.04853679
+-6.810464	forget|anything
+-6.810464	forget|it
+-6.810464	forget|name
+-6.810464	forget|tent
+-6.810464	form|
+-6.810464	freak|
+-6.810464	freak|I
+-6.810464	freak|time
+-3.136721	freeze|	0.1627496
+-6.810464	frequent|
+-6.810464	frustrate|
+-6.810464	fry|steak
+-6.810464	fuck|
+-6.810464	fuel|
+-3.136721	gain|	0.01259842
+-6.810464	gain|elevation
+-6.810464	gather|
+-6.810464	gaze|
+-6.810464	gear|
+-1.592653	get|	0.02182376
+-6.810464	get|:d
+-3.437751	get|CAUSE_OF_DEATH	-0.07373185
+-6.810464	get|DATE
+-6.810464	get|DURATION
+-6.810464	get|I
+-6.810464	get|Luke-Xavier
+-6.810464	get|MISC
+-6.810464	get|MONEY
+-6.810464	get|NUMBER
+-6.810464	get|PERSON
+-6.810464	get|TIME
+-6.810464	get|all
+-6.810464	get|anything
+-6.810464	get|battery
+-3.437751	get|better	-0.08539147
+-6.810464	get|bike
+-6.810464	get|bit
+-3.437751	get|break	-0.08873405
+-6.810464	get|breakfast
+-6.810464	get|bus
+-6.810464	get|cabin
+-6.810464	get|camera
+-6.810464	get|campchair
+-6.810464	get|campsite
+-3.437751	get|canoe	-0.08873405
+-6.810464	get|car
+-6.810464	get|chance
+-6.810464	get|coffee
+-6.810464	get|cold
+-6.810464	get|cooler
+-6.810464	get|couple
+-6.810464	get|cream
+-6.810464	get|darker
+-6.810464	get|direction
+-6.810464	get|discount
+-6.810464	get|donut
+-6.810464	get|enough
+-6.810464	get|equipment
+-6.810464	get|everything
+-6.810464	get|firewood
+-6.810464	get|food
+-6.810464	get|foot
+-6.810464	get|gas
+-6.810464	get|gear
+-6.810464	get|get
+-6.810464	get|glimpse
+-6.810464	get|grill
+-6.810464	get|grocery
+-6.810464	get|half
+-3.136721	get|he	0.1627496
+-6.810464	get|heck
+-6.810464	get|holiday
+-2.83569	get|home	-0.07608402
+-6.810464	get|home.
+-6.810464	get|idea
+-6.810464	get|invitation
+-3.437751	get|it	0.02581225
+-6.810464	get|kid
+-6.810464	get|kit
+-6.810464	get|light
+-6.810464	get|lot
+-6.810464	get|lunch
+-6.810464	get|lure
+-6.810464	get|mask
+-6.810464	get|mile
+-6.810464	get|mileage
+-6.810464	get|milkshake
+-6.810464	get|more
+-6.810464	get|opportunity
+-6.810464	get|pancake
+-6.810464	get|part
+-3.437751	get|photo	0.02581225
+-6.810464	get|picture
+-6.810464	get|pizza
+-6.810464	get|rain
+-6.810464	get|really.
+-6.810464	get|ride
+-6.810464	get|room
+-6.810464	get|seasick
+-6.810464	get|setup
+-6.810464	get|she
+-6.810464	get|shot
+-6.810464	get|shower
+-6.810464	get|signal
+-3.437751	get|site	0.02581225
+-6.810464	get|sleep
+-6.810464	get|snow
+-6.810464	get|something
+-3.437751	get|start	0.01219817
+-6.810464	get|suit
+-6.810464	get|sunburn
+-6.810464	get|supplies
+-6.810464	get|tan
+-6.810464	get|tent
+-6.810464	get|there
+-6.810464	get|they
+-3.136721	get|thing	-0.08730468
+-3.437751	get|time	0.01219817
+-6.810464	get|ton
+-6.810464	get|trail
+-6.810464	get|trip
+-6.810464	get|unwritten
+-6.810464	get|video
+-6.810464	get|view
+-6.810464	get|visa
+-6.810464	get|water
+-6.810464	get|way
+-6.810464	get|we
+-6.810464	get|what
+-6.810464	get|which
+-6.810464	get|work
+-6.810464	giggle|
+-6.810464	giggle|flashlight
+-6.810464	giggle|kid
+-3.136721	give|	0.1627496
+-6.810464	give|!!
+-6.810464	give|DURATION
+-3.136721	give|I	-0.3016536
+-3.437751	give|NUMBER	0.02581225
+-3.437751	give|PERSON	-0.08873405
+-3.437751	give|break	-0.08841681
+-6.810464	give|chance
+-6.810464	give|direction
+-3.437751	give|go	-0.08841681
+-6.810464	give|hand
+-6.810464	give|he
+-6.810464	give|hug
+-3.437751	give|it	-0.08873405
+-6.810464	give|result
+-3.437751	give|she	0.02581225
+-6.810464	give|shower
+-6.810464	give|some
+-6.810464	give|something
+-6.810464	give|they
+-6.810464	give|time
+-6.810464	give|tour
+-6.810464	give|trouble
+-6.810464	give|try
+-6.810464	give|view
+-6.810464	give|we
+-3.437751	give|you	0.02581225
+-6.810464	glance|
+-6.810464	glisten|
+-6.810464	go?|MONEY
+-6.810464	gobble|they
+-6.810464	gon|
+-1.464623	go|	0.00859648
+-6.810464	go|!!!
+-6.810464	go|DATE
+-6.810464	go|I
+-6.810464	go|LOCATION
+-3.437751	go|MONEY	0.01219817
+-6.810464	go|NUMBER
+-6.810464	go|Oooooohhhhhh
+-6.810464	go|bag
+-6.810464	go|bike
+-6.810464	go|bowling
+-2.83569	go|camping	0.03429925
+-6.810464	go|cool
+-6.810464	go|direction
+-6.810464	go|diving
+-6.810464	go|eating
+-6.810464	go|fishing
+-6.810464	go|from
+-6.810464	go|hand
+-6.810464	go|hiking
+-6.810464	go|hill
+-3.437751	go|home	-0.08825811
+-6.810464	go|mattress
+-6.810464	go|mile
+-6.810464	go|north
+-6.810464	go|overhead
+-6.810464	go|picking
+-6.810464	go|s
+-6.810464	go|shopping
+-3.437751	go|swimming	0.01219817
+-6.810464	go|that
+-6.810464	go|time
+-6.810464	go|trail
+-6.810464	go|venture
+-2.960629	go|way	-0.1581046
+-6.810464	go|what
+-3.437751	grab|	-0.08666787
+-6.810464	grab|I
+-6.810464	grab|geocache
+-6.810464	grab|guide
+-6.810464	grant|water
+-6.810464	grant|we
+-6.810464	grate|
+-6.810464	graze|
+-3.136721	greet|	0.0160157
+-6.810464	greet|DATE
+-6.810464	grow|
+-6.810464	grow|tomboy
+-6.810464	grumble|
+-6.810464	guard|campsite
+-3.437751	guess|	-0.06927752
+-6.810464	guess|cost
+-6.810464	guess|it
+-6.810464	guide|
+-6.810464	guide|we
+-6.810464	had.|
+-6.810464	hadn|MONEY
+-6.810464	hadn|t
+-6.810464	hail|
+-6.810464	hammer|
+-6.810464	handle|
+-6.810464	handle|LOCATION
+-6.810464	handle|it
+-6.810464	handle|trip
+-6.810464	hand|
+-2.960629	hang|	0.03037725
+-6.810464	hang|food
+-6.810464	hang|tarp
+-3.136721	happen|	0.01299906
+-6.810464	hasn|MONEY
+-3.437751	hate|	-0.07667623
+-6.810464	hate|cricket
+-6.810464	hate|thing
+-6.810464	haul|
+-6.810464	haul|everything
+-3.437751	haven|MONEY	-0.08873405
+-1.354965	have|	0.06672934
+-6.810464	have|2x
+-6.810464	have|CAUSE_OF_DEATH
+-3.437751	have|DATE	-0.08794053
+-6.810464	have|DURATION
+-6.810464	have|I
+-6.810464	have|IDEOLOGY
+-6.810464	have|MISC
+-6.810464	have|MONEY
+-6.810464	have|NEVER
+-3.437751	have|NUMBER	0.02581225
+-6.810464	have|ORGANIZATION
+-6.810464	have|PERSON
+-6.810464	have|TIME
+-6.810464	have|a
+-6.810464	have|ac
+-6.810464	have|air
+-6.810464	have|all
+-6.810464	have|anything
+-6.810464	have|around.
+-6.810464	have|bag
+-6.810464	have|bathroom
+-6.810464	have|bbq
+-6.810464	have|beach
+-6.810464	have|bed
+-3.437751	have|bedroom	0.01219817
+-3.437751	have|beer	-0.08825811
+-6.810464	have|bike
+-6.810464	have|bit
+-3.437751	have|blast	-0.08794053
+-6.810464	have|blister
+-6.810464	have|bread
+-6.810464	have|break
+-3.437751	have|breakfast	-0.08873405
+-3.437751	have|burger	0.02581225
+-6.810464	have|cake
+-6.810464	have|camera
+-6.810464	have|camp
+-3.437751	have|campfire	-0.07765328
+-6.810464	have|campground
+-3.136721	have|camping	-0.08762272
+-3.437751	have|campsite	0.01219817
+-6.810464	have|car
+-3.437751	have|chance	-0.08857546
+-6.810464	have|chicken
+-6.810464	have|child
+-6.810464	have|climb
+-6.810464	have|clothing
+-6.810464	have|clue
+-6.810464	have|coffee
+-6.810464	have|company
+-6.810464	have|control
+-6.810464	have|conversation
+-6.810464	have|corn
+-3.437751	have|couple	-0.08650852
+-6.810464	have|cucumber
+-6.810464	have|cup
+-6.810464	have|deck
+-6.810464	have|dinner
+-3.437751	have|dish	-0.08778165
+-6.810464	have|dive
+-6.810464	have|downpour
+-6.810464	have|dream
+-6.810464	have|drink
+-3.437751	have|drive	-0.08746371
+-6.810464	have|drunk
+-6.810464	have|effect
+-3.437751	have|electricity	-0.08873405
+-6.810464	have|energy
+-3.437751	have|enough	-0.08698639
+-6.810464	have|equipment.
+-6.810464	have|etc.
+-6.810464	have|event
+-6.810464	have|experience
+-6.810464	have|eye
+-3.437751	have|family	0.01219817
+-6.810464	have|favorite
+-6.810464	have|fear
+-3.437751	have|feeling	0.01219817
+-6.810464	have|firework
+-6.810464	have|fish
+-6.810464	have|food
+-6.810464	have|friend
+-3.437751	have|fun	-0.08873405
+-6.810464	have|fun.
+-6.810464	have|gear
+-6.810464	have|good
+-6.810464	have|goodness
+-6.810464	have|hat
+-3.437751	have|headache	0.02581225
+-6.810464	have|heat
+-6.810464	have|hell
+-6.810464	have|hike
+-6.810464	have|history
+-6.810464	have|hole
+-3.437751	have|idea	0.02581225
+-6.810464	have|intention
+-6.810464	have|issue
+-6.810464	have|it
+-6.810464	have|jacket
+-6.810464	have|job
+-6.810464	have|kid
+-6.810464	have|kind
+-3.437751	have|kitchen	-0.08873405
+-6.810464	have|laugh
+-6.810464	have|leak
+-6.810464	have|leg
+-6.810464	have|load
+-6.810464	have|location
+-6.810464	have|look
+-2.73878	have|lot	-0.07548837
+-6.810464	have|luck
+-3.136721	have|lunch	0.1627496
+-6.810464	have|map
+-6.810464	have|marsh-mellow
+-6.810464	have|mattress
+-6.810464	have|meal
+-6.810464	have|meaning
+-6.810464	have|mercy
+-6.810464	have|mile
+-6.810464	have|mileage
+-6.810464	have|mindset
+-6.810464	have|moment
+-6.810464	have|more
+-6.810464	have|most
+-6.810464	have|nap
+-3.437751	have|none	0.02581225
+-6.810464	have|noodle
+-6.810464	have|nothing
+-6.810464	have|oatmeal
+-6.810464	have|off
+-6.810464	have|opportunity
+-6.810464	have|option
+-6.810464	have|pain
+-6.810464	have|parade
+-6.810464	have|parent
+-6.810464	have|park
+-6.810464	have|party
+-6.810464	have|peer
+-3.437751	have|people	0.02581225
+-6.810464	have|picnic
+-6.810464	have|picture
+-6.810464	have|place
+-3.437751	have|plan	-0.08395102
+-6.810464	have|plenty
+-6.810464	have|point
+-6.810464	have|pool
+-6.810464	have|potential
+-6.810464	have|problem
+-6.810464	have|qualm
+-6.810464	have|reason
+-6.810464	have|regret
+-6.810464	have|requirement
+-6.810464	have|reservation
+-6.810464	have|rest
+-3.437751	have|rib	0.02581225
+-6.810464	have|river
+-6.810464	have|road
+-6.810464	have|roast
+-2.83569	have|room	0.1753803
+-6.810464	have|route
+-6.810464	have|s'more
+-6.810464	have|salad
+-6.810464	have|sense
+-6.810464	have|set
+-6.810464	have|sex
+-6.810464	have|show
+-6.810464	have|shower
+-6.810464	have|sign
+-6.810464	have|sister
+-6.810464	have|site
+-6.810464	have|size
+-6.810464	have|sky
+-3.437751	have|sleep	0.02581225
+-6.810464	have|smore
+-6.810464	have|snack
+-6.810464	have|some
+-6.810464	have|something
+-3.437751	have|spot	0.01219817
+-6.810464	have|stopped
+-6.810464	have|table
+-6.810464	have|talk
+-6.810464	have|tank
+-6.810464	have|temp
+-3.437751	have|tent	0.01219817
+-6.810464	have|terror
+-6.810464	have|there
+-6.810464	have|thing
+-6.810464	have|thought
+-2.659599	have|time	0.1910991
+-3.437751	have|toast	0.02581225
+-6.810464	have|toilet
+-6.810464	have|too.
+-6.810464	have|tour
+-6.810464	have|traffic
+-6.810464	have|trailer
+-6.810464	have|training
+-6.810464	have|tree
+-3.136721	have|trip	0.02767394
+-6.810464	have|trouble
+-6.810464	have|view
+-6.810464	have|vision
+-6.810464	have|visit
+-6.810464	have|watch
+-6.810464	have|water
+-6.810464	have|way
+-6.810464	have|weather
+-6.810464	have|what
+-6.810464	have|wind
+-6.810464	have|wood
+-2.158997	head|	0.178402
+-6.810464	head|MONEY
+-6.810464	head|NUMBER
+-6.810464	head|PERSON
+-6.810464	head|direction
+-2.83569	head|home	-0.02876075
+-6.810464	head|north
+-6.810464	head|way
+-3.437751	hear|	-0.08857546
+-6.810464	hear|I
+-6.810464	hear|camping
+-6.810464	hear|comment
+-6.810464	hear|end
+-6.810464	hear|loon
+-6.810464	hear|lot
+-6.810464	hear|noise
+-6.810464	hear|raccoon
+-6.810464	hear|rustling
+-6.810464	hear|siren
+-6.810464	hear|something
+-3.437751	hear|sound	-0.08762271
+-6.810464	hear|that
+-6.810464	heat|they
+-2.960629	help|	0.1670144
+-6.810464	help|I
+-6.810464	help|float
+-6.810464	help|lot
+-6.810464	help|too.
+-6.810464	help|we
+-6.810464	help|you
+-6.810464	herd|
+-6.810464	here|MONEY
+-6.810464	here|fact
+-6.810464	hesitate|
+-6.810464	he|MONEY
+-6.810464	hide|
+-3.437751	highlight|	0.01219817
+-2.396358	hike|	0.1668613
+-6.810464	hike|LOCATION
+-6.810464	hike|NUMBER
+-6.810464	hike|PERSON
+-3.437751	hike|it	-0.08873405
+-6.810464	hike|mile
+-6.810464	hike|trail
+-6.810464	hike|we
+-6.810464	hiss|
+-6.810464	hit|
+-6.810464	hit|LOCATION
+-6.810464	hit|Lucky
+-6.810464	hit|ORGANIZATION
+-6.810464	hit|PERSON
+-6.810464	hit|beach
+-6.810464	hit|border
+-6.810464	hit|it
+-6.810464	hit|pillow
+-2.83569	hit|road	-0.05563364
+-6.810464	hit|tent
+-6.810464	hit|town
+-6.810464	hit|traffic
+-6.810464	hit|trail
+-6.810464	hit|trunk
+-6.810464	hit|water
+-6.810464	hit|waterslide
+-6.810464	hit|you
+-6.810464	hold|
+-6.810464	hold|NUMBER
+-6.810464	hold|it
+-6.810464	hold|she
+-6.810464	hold|snake
+-6.810464	hold|tent
+-6.810464	hold|they
+-6.810464	hoof|it
+-6.810464	hook|
+-2.83569	hope|	0.0328702
+-6.810464	hop|
+-6.810464	hospital|MONEY
+-6.810464	host|
+-3.437751	hover|	-0.08698639
+-6.810464	howl|
+-6.810464	huddle|
+-6.810464	hug|side
+-6.810464	huh|
+-6.810464	hunt|
+-6.810464	hurl|cliff
+-6.810464	hurry|
+-6.810464	hurt|
+-6.810464	hurt|I
+-6.810464	hurt|back
+-6.810464	hydrate|
+-6.810464	hypermile|
+-3.437751	identify|	-0.08825811
+-6.810464	identify|they
+-3.437751	ignore|it	0.02581225
+-3.437751	imagine|	-0.08794053
+-6.810464	imagine|place
+-6.810464	imagine|search
+-6.810464	impress|
+-6.810464	improve|
+-6.810464	improvise|
+-2.960629	include|	0.0270525
+-6.810464	include|MISC
+-6.810464	include|PERSON
+-6.810464	include|driving
+-6.810464	include|ride
+-6.810464	increase|pace
+-6.810464	inform|
+-6.810464	inform|I
+-6.810464	ingrain|
+-6.810464	inhabit|
+-6.810464	injure|
+-6.810464	insist|
+-2.73878	intend|	-0.01115634
+-6.810464	interrupt|
+-6.810464	intersperse|
+-6.810464	introduce|camping
+-6.810464	inundate|
+-6.810464	invite|
+-6.810464	invite|family
+-6.810464	invite|we
+-6.810464	involve|
+-6.810464	involve|ride
+-6.810464	isn|MONEY
+-6.810464	isn|t
+-6.810464	isolate|
+-6.810464	itch|
+-6.810464	it|
+-3.136721	it|MONEY	0.03710411
+-3.437751	it|s	-0.08794053
+-6.810464	i|MONEY
+-6.810464	i|m
+-6.810464	jog|
+-6.810464	join|
+-3.437751	join|I	-0.08587056
+-6.810464	join|group
+-6.810464	join|they
+-6.810464	join|we
+-6.810464	joke|
+-6.810464	journey|
+-6.810464	judge|we
+-3.437751	jump|	0.01219817
+-6.810464	kayake|
+-6.810464	kayak|
+-2.592653	keep|	-0.139524
+-6.810464	keep|PERSON
+-6.810464	keep|cool
+-6.810464	keep|eye
+-6.810464	keep|fluid
+-6.810464	keep|he
+-6.810464	keep|head
+-6.810464	keep|journal
+-6.810464	keep|pace
+-6.810464	keep|safe
+-6.810464	keep|she
+-6.810464	keep|some
+-6.810464	keep|stuff
+-6.810464	keep|they
+-6.810464	keep|water
+-6.810464	keep|we
+-6.810464	keep|you
+-6.810464	kick|
+-6.810464	kick|I
+-6.810464	kick|it
+-3.437751	kid|	0.01219817
+-6.810464	kill|
+-6.810464	kill|myself
+-6.810464	kinda|
+-6.810464	kit|
+-6.810464	knit|
+-6.810464	knock|mile
+-2.182478	know|	-0.2791282
+-6.810464	know|I
+-6.810464	know|NUMBER
+-6.810464	know|anyone
+-6.810464	know|guy
+-6.810464	know|it
+-6.810464	know|merely
+-6.810464	know|name
+-6.810464	know|s
+-6.810464	know|this
+-6.810464	know|we
+-6.810464	know|what
+-6.810464	lack|
+-6.810464	lament|fact
+-6.810464	land|
+-6.810464	land|NUMBER
+-6.810464	lash|
+-3.437751	last|	-0.08809935
+-3.437751	laugh|	0.01219817
+-6.810464	launch|
+-3.437751	lay|	-0.08841681
+-6.810464	lay|TIME
+-6.810464	lead|
+-6.810464	lead|we
+-6.810464	leak|
+-2.73878	learn|	-0.008199066
+-6.810464	learn|NUMBER
+-6.810464	learn|all
+-6.810464	learn|lesson
+-6.810464	learn|something
+-6.810464	learn|technique
+-3.437751	learn|thing	-0.07667623
+-3.437751	learn|this	0.02581225
+-6.810464	learn|what
+-2.233631	leave|	0.05217415
+-6.810464	leave|DATE
+-6.810464	leave|I
+-6.810464	leave|LOCATION
+-6.810464	leave|MISC
+-6.810464	leave|MONEY
+-6.810464	leave|PERSON
+-6.810464	leave|Rock
+-6.810464	leave|TIME
+-6.810464	leave|baby
+-6.810464	leave|backpack
+-6.810464	leave|bag
+-6.810464	leave|bit
+-6.810464	leave|cabin
+-6.810464	leave|campground
+-6.810464	leave|firework
+-3.437751	leave|home	-0.08857546
+-3.437751	leave|house	-0.07373185
+-6.810464	leave|it
+-6.810464	leave|little
+-6.810464	leave|park
+-6.810464	leave|site
+-3.437751	leave|they	-0.08682715
+-6.810464	leave|town
+-6.810464	leave|watch
+-6.810464	leave|we
+-6.810464	leave|work
+-6.810464	leave|you
+-6.810464	lecture|
+-2.437751	let|	0.1323336
+-6.810464	let|I
+-6.810464	let|MONEY
+-6.810464	let|cabin
+-6.810464	let|it
+-6.810464	let|space
+-6.810464	level|
+-2.960629	lie|	0.04609428
+-6.810464	lie|recumbent
+-6.810464	lift|bike
+-6.810464	lighten|
+-3.437751	light|	0.01219817
+-6.810464	light|lantern
+-3.136721	like|	0.1627496
+-6.810464	like|I
+-6.810464	like|MONEY
+-6.810464	like|NUMBER
+-6.810464	like|Plus
+-6.810464	like|camping
+-3.437751	like|it	-0.07373185
+-6.810464	like|town
+-6.810464	like|weather
+-6.810464	like|what
+-3.437751	limit|	-0.06927752
+-6.810464	limit|number
+-6.810464	limit|yourself
+-6.810464	line|
+-6.810464	linger|
+-3.437751	listen|	0.01219817
+-6.810464	litter|trail
+-3.437751	live|	0.01219817
+-3.437751	load|	-0.08762271
+-6.810464	load|all
+-6.810464	load|canoe
+-6.810464	load|car
+-6.810464	load|it
+-6.810464	load|ton
+-6.810464	loan|we
+-3.437751	lodge|	-0.08825811
+-3.437751	log|	-0.08873405
+-6.810464	london|
+-6.810464	long|
+-2.261659	look|	0.07347682
+-6.810464	look|it
+-6.810464	look|little
+-6.810464	look|lot
+-6.810464	look|thing
+-6.810464	look|what
+-6.810464	loom|
+-6.810464	loop|
+-3.136721	lose|	0.0184442
+-6.810464	lose|MONEY
+-6.810464	lose|NUMBER
+-6.810464	lose|calorie
+-6.810464	lose|it
+-6.810464	lose|life
+-6.810464	lose|lunch
+-6.810464	lose|rest
+-3.437751	lose|trail	-0.08587056
+-6.810464	lose|weight
+-6.810464	love|
+-6.810464	love|Ganges
+-6.810464	love|I
+-6.810464	love|MONEY
+-6.810464	love|Park
+-6.810464	love|SET
+-6.810464	love|area
+-6.810464	love|camp
+-6.810464	love|camping
+-6.810464	love|campsite
+-6.810464	love|d
+-6.810464	love|diving
+-6.810464	love|game
+-3.437751	love|it	0.01219817
+-6.810464	love|landscape
+-6.810464	love|mushroom
+-6.810464	love|park.
+-6.810464	love|photography
+-6.810464	love|they
+-6.810464	lo|
+-6.810464	luck|
+-6.810464	lure|they
+-6.810464	magnify|
+-2.534661	make|	0.2113962
+-6.810464	make|CAUSE_OF_DEATH
+-6.810464	make|I
+-6.810464	make|NUMBER
+-6.810464	make|arrangement
+-6.810464	make|bacon
+-6.810464	make|batch
+-6.810464	make|bed
+-6.810464	make|best
+-6.810464	make|bread
+-6.810464	make|break
+-6.810464	make|breakfast
+-6.810464	make|burger
+-6.810464	make|call
+-3.136721	make|camp	-0.08379069
+-6.810464	make|campfire
+-6.810464	make|cheese
+-6.810464	make|coffee
+-6.810464	make|decision
+-2.960629	make|dinner	-0.08443171
+-6.810464	make|effort
+-6.810464	make|egg
+-6.810464	make|feel
+-6.810464	make|friend
+-6.810464	make|fun
+-6.810464	make|ground
+-6.810464	make|group
+-6.810464	make|herself
+-6.810464	make|hike
+-2.534661	make|it	-0.02710208
+-6.810464	make|loop
+-6.810464	make|lot
+-6.810464	make|marshmallow
+-6.810464	make|meal
+-6.810464	make|mile
+-6.810464	make|mistake
+-3.136721	make|noise	0.01460533
+-6.810464	make|note
+-6.810464	make|pancake
+-3.437751	make|post	0.01219817
+-6.810464	make|progress
+-6.810464	make|ride
+-6.810464	make|rule
+-6.810464	make|s'more
+-6.810464	make|sandwich
+-6.810464	make|sense
+-6.810464	make|shelter
+-6.810464	make|some
+-6.810464	make|stew
+-3.437751	make|stop	-0.08873405
+-6.810464	make|story
+-6.810464	make|suggestion
+-6.810464	make|taco
+-3.437751	make|talk	-0.08730467
+-6.810464	make|tea
+-6.810464	make|thingy
+-6.810464	make|time
+-6.810464	make|trek
+-6.810464	make|trip
+-6.810464	make|use
+-2.960629	make|way	-0.07208743
+-6.810464	make|we
+-6.810464	manage|
+-6.810464	manage|it
+-6.810464	mark|
+-6.810464	mark|DURATION
+-6.810464	mark|time
+-6.810464	marry|
+-6.810464	match|
+-6.810464	meander|
+-3.136721	mean|	-0.0666162
+-3.437751	mean|what	0.02581225
+-6.810464	measure|they
+-3.136721	meet|	-0.08539148
+-6.810464	meet|I
+-6.810464	meet|LOCATION
+-3.437751	meet|PERSON	-0.06927752
+-6.810464	meet|couple
+-6.810464	meet|family
+-3.437751	meet|he	-0.08714555
+-6.810464	meet|objective
+-6.810464	meet|people
+-6.810464	meet|person
+-6.810464	meet|she
+-6.810464	meet|they
+-6.810464	meet|we
+-6.810464	meet|yellow-jacket
+-3.136721	melt|	-0.08539148
+-6.810464	melt|chocolate
+-6.810464	mend|
+-2.960629	mention|	0.1984086
+-6.810464	me|MONEY
+-6.810464	mind|
+-6.810464	mis-spell|it
+-6.810464	misspoke|
+-3.437751	miss|	0.02581225
+-6.810464	miss|CAUSE_OF_DEATH
+-6.810464	miss|I
+-6.810464	miss|NUMBER
+-3.437751	miss|PERSON	-0.08682715
+-6.810464	miss|anyone
+-6.810464	miss|camping
+-6.810464	miss|it
+-6.810464	miss|relaxing
+-6.810464	miss|s'mores
+-6.810464	miss|you
+-3.136721	mix|	-0.0869864
+-6.810464	mob|
+-6.810464	motor|
+-6.810464	mount|
+-6.810464	mount|expedition
+-2.73878	move|	-0.07445014
+-6.810464	move|inch
+-6.810464	move|tent
+-6.810464	mow|
+-6.810464	mumble|
+-6.810464	murder|PERSON
+-6.810464	mystify|
+-6.810464	name|
+-6.810464	name|PERSON
+-6.810464	name|it
+-3.437751	nap|	-0.08873405
+-6.810464	narrow|selection
+-6.810464	navigate|
+-6.810464	near|degree
+-6.810464	near|time
+-6.810464	needless|
+-6.810464	needn|MONEY
+-2.73878	need|	0.18749
+-6.810464	need|MONEY
+-6.810464	need|blanket
+-6.810464	need|it
+-6.810464	need|lunch
+-6.810464	need|mattress
+-6.810464	need|space
+-6.810464	need|they
+-6.810464	need|towel
+-6.810464	need|vacation
+-6.810464	need|water
+-6.810464	need|what
+-6.810464	need|wood
+-6.810464	negotiate|tunnel
+-6.810464	nestle|
+-6.810464	never|
+-6.810464	nod|
+-6.810464	note|
+-6.810464	note|camping
+-3.136721	notice|	0.0127987
+-6.810464	notice|boy
+-6.810464	notice|flower
+-6.810464	notice|triangle
+-6.810464	notice|vegetation
+-6.810464	now.|scenery.
+-6.810464	observe|
+-3.437751	occur|	0.02581225
+-3.437751	offer|	-0.08825811
+-6.810464	offer|I
+-6.810464	offer|opportunity
+-3.136721	open|	0.04050702
+-6.810464	open|door
+-6.810464	open|tent
+-6.810464	operate|
+-6.810464	operate|bucket
+-6.810464	operate|swivel
+-6.810464	opt|
+-6.810464	order|
+-6.810464	organise|
+-3.136721	organize|	0.03142148
+-6.810464	overcome|
+-6.810464	overflow|
+-6.810464	overlook|
+-3.136721	overlook|lake	0.0260187
+-6.810464	own|
+-6.810464	pace|myself
+-2.358569	pack|	0.1197668
+-6.810464	pack|ORGANIZATION
+-6.810464	pack|all
+-3.437751	pack|bag	-0.07373185
+-6.810464	pack|camera
+-6.810464	pack|camp
+-6.810464	pack|canoe
+-3.437751	pack|car	-0.08587056
+-6.810464	pack|cheese
+-6.810464	pack|early
+-6.810464	pack|everything
+-6.810464	pack|food
+-6.810464	pack|gear
+-6.810464	pack|it
+-6.810464	pack|light
+-6.810464	pack|sleep
+-6.810464	pack|snack
+-6.810464	pack|spray
+-3.437751	pack|stuff	-0.08587056
+-6.810464	pack|sunscreen
+-6.810464	pack|tent
+-6.810464	pack|thing
+-6.810464	pack|truck
+-6.810464	pack|water
+-6.810464	paddle|
+-6.810464	paddle|half
+-6.810464	paddle|mile
+-3.437751	paint|	-0.08841681
+-6.810464	pair|
+-6.810464	panic|
+-6.810464	pant|
+-6.810464	parallel|it
+-2.960629	park|	-0.0753701
+-6.810464	park|car
+-6.810464	partake|
+-6.810464	participate|
+-6.810464	part|way
+-2.960629	pass|	0.03795234
+-6.810464	pass|I
+-3.437751	pass|NUMBER	-0.08873405
+-6.810464	pass|PERSON
+-6.810464	pass|coral
+-6.810464	pass|it
+-6.810464	pass|kiosk
+-6.810464	pass|office
+-6.810464	pass|we
+-6.810464	paste|
+-6.810464	patrol|
+-6.810464	pause|
+-3.136721	pave|	0.03710411
+-6.810464	pay|
+-6.810464	pay|MONEY
+-6.810464	pay|attention
+-6.810464	pay|fee
+-6.810464	pedal|weight
+-6.810464	peek|
+-6.810464	peel|
+-6.810464	peer|
+-6.810464	pee|
+-6.810464	peg|
+-6.810464	perch|
+-6.810464	perfect|
+-6.810464	persevere|
+-6.810464	persist|
+-6.810464	pick|
+-6.810464	pick|I
+-6.810464	pick|NUMBER
+-6.810464	pick|PERSON
+-6.810464	pick|apple
+-6.810464	pick|bacterium
+-6.810464	pick|car
+-6.810464	pick|combo
+-6.810464	pick|everything
+-6.810464	pick|it
+-6.810464	pick|mile
+-6.810464	pick|pace
+-6.810464	pick|pack
+-6.810464	pick|spot
+-6.810464	pick|we
+-3.437751	pile|	-0.08873405
+-6.810464	pile|work
+-6.810464	pine|tree
+-3.437751	piss|	-0.08857546
+-3.136721	pitch|tent	0.1627496
+-3.437751	place|	-0.07765328
+-6.810464	plague|
+-6.810464	plague|beach
+-2.659599	plan|	0.1162226
+-6.810464	plan|camping
+-6.810464	plan|route
+-6.810464	plan|trip
+-6.810464	plan|what
+-3.136721	play|	-0.08841683
+-6.810464	play|card
+-6.810464	play|chicken
+-6.810464	play|flute
+-3.136721	play|game	0.1627496
+-6.810464	play|golf
+-6.810464	play|guitar
+-6.810464	play|it
+-6.810464	play|music
+-6.810464	play|tag
+-6.810464	please|
+-6.810464	please|pray
+-6.810464	plod|
+-6.810464	plow|
+-6.810464	plug|ear
+-6.810464	plug|shout
+-6.810464	plummet|
+-6.810464	plunge|
+-6.810464	point|
+-6.810464	poke|
+-6.810464	poop|
+-6.810464	pop|
+-6.810464	pop|can
+-6.810464	pose|
+-6.810464	possess|camping
+-6.810464	possess|skill
+-3.437751	post|	-0.07765328
+-6.810464	post|picture
+-6.810464	post|they
+-6.810464	pound|
+-6.810464	pound|lot
+-6.810464	pour|
+-6.810464	pour|bucket
+-6.810464	pour|rain
+-6.810464	power|
+-6.810464	practice|
+-6.810464	practice|skill
+-6.810464	practise|
+-3.437751	pray|	-0.08778165
+-6.810464	predict|
+-6.810464	prefer|
+-6.810464	prefer|MISC
+-6.810464	prefer|solitude
+-2.960629	prepare|	0.01460534
+-6.810464	prepare|PERSON
+-3.136721	prepare|dinner	-0.08571094
+-6.810464	present|share
+-2.960629	press|	-0.08411132
+-6.810464	pretend|
+-6.810464	proceed|
+-6.810464	procure|combo
+-6.810464	procure|pad
+-6.810464	promise|
+-6.810464	propose|
+-6.810464	prop|plane
+-6.810464	protect|
+-6.810464	protect|we
+-6.810464	prove|
+-6.810464	provide|
+-6.810464	provide|limitation
+-6.810464	provide|s'more
+-6.810464	provide|song
+-6.810464	provide|we
+-6.810464	provoke|wonder
+-6.810464	publish|
+-2.659599	pull|	0.1094845
+-6.810464	pull|PERSON
+-6.810464	pull|TIME
+-6.810464	pull|arrow
+-6.810464	pull|bow
+-6.810464	pull|camera
+-6.810464	pull|chest
+-3.437751	pull|it	-0.06927752
+-6.810464	pull|pants
+-6.810464	pull|something
+-6.810464	pump|gas
+-6.810464	pump|mattress
+-6.810464	punch|
+-3.437751	purchase|	0.01219817
+-6.810464	purify|water
+-6.810464	push|
+-6.810464	push|I
+-6.810464	push|NUMBER
+-6.810464	push|calf
+-6.810464	push|it
+-3.437751	put|	-0.08841681
+-6.810464	put|I
+-3.437751	put|PERSON	-0.07667623
+-6.810464	put|bunch
+-6.810464	put|chop
+-6.810464	put|cook
+-6.810464	put|everything
+-6.810464	put|face
+-6.810464	put|food
+-6.810464	put|he
+-3.437751	put|it	0.01219817
+-6.810464	put|mattress
+-6.810464	put|pet
+-6.810464	put|root
+-6.810464	put|smile
+-6.810464	put|stuff
+-6.810464	put|team
+-6.810464	put|tent
+-6.810464	put|they
+-6.810464	put|top
+-6.810464	put|we
+-6.810464	put|you
+-6.810464	qualify|
+-6.810464	question|
+-6.810464	quick-cook|
+-6.810464	quiet|
+-3.437751	quit|	-0.08587056
+-6.810464	quiver|
+-6.810464	race|
+-6.810464	race|TDF
+-6.810464	raft|
+-6.810464	rage|
+-6.810464	rain.|walk
+-2.73878	rain|	-0.07569572
+-6.810464	rain|most
+-6.810464	raise|
+-6.810464	ramble|
+-6.810464	rave|horn
+-6.810464	re-do|operation
+-3.437751	reach|	-0.08539147
+-6.810464	reach|LOCATION
+-6.810464	reach|NUMBER
+-6.810464	reach|PERSON
+-6.810464	reach|end
+-6.810464	reach|goal
+-6.810464	reach|path
+-6.810464	reach|point
+-6.810464	reach|summit
+-6.810464	reach|top
+-6.810464	reach|town
+-6.810464	reach|vista
+-2.960629	read|	-0.02635849
+-6.810464	read|Bible
+-3.136721	read|PERSON	0.1627496
+-6.810464	read|blog
+-3.136721	read|book	-0.3016536
+-3.437751	read|it	0.02581225
+-6.810464	read|this
+-6.810464	realise|
+-3.437751	realize|	0.01219817
+-6.810464	receive|
+-6.810464	recharge|
+-6.810464	reckon|
+-6.810464	recommend|
+-6.810464	recommend|LOCATION
+-6.810464	recommend|it
+-6.810464	reconcile|difference
+-3.437751	recover|	-0.08873405
+-6.810464	reduce|
+-6.810464	reel|it
+-3.136721	reflect|	0.01581394
+-3.437751	refresh|	0.02581225
+-3.437751	refuse|	-0.08841681
+-6.810464	relaxin|MONEY
+-3.136721	relax|	-0.08714557
+-6.810464	relax|bit
+-6.810464	relax|scenery
+-6.810464	release|it
+-6.810464	release|they
+-6.810464	relieve|
+-3.437751	remain|	-0.08666787
+-3.437751	remember|	0.02581225
+-3.437751	remember|it	-0.08873405
+-6.810464	remember|what
+-6.810464	remind|
+-6.810464	remind|I
+-6.810464	remove|hook
+-6.810464	remove|stinger
+-6.810464	remove|they
+-6.810464	render|
+-6.810464	rent|
+-6.810464	rent|NUMBER
+-3.437751	rent|cabin	-0.08491185
+-6.810464	rent|car
+-6.810464	rent|equipment
+-6.810464	rent|kayak
+-6.810464	repair|
+-3.437751	replace|	-0.06927752
+-6.810464	reply|
+-6.810464	report|
+-6.810464	repusle|
+-3.437751	require|	0.01219817
+-6.810464	require|equipment
+-6.810464	research|
+-6.810464	reserve|
+-6.810464	reserve|it
+-6.810464	reserve|site
+-6.810464	resist|
+-6.810464	resist|opportunity
+-6.810464	respond|
+-2.960629	rest|	-0.07732785
+-6.810464	rest|Stop
+-6.810464	result|
+-6.810464	resume|
+-6.810464	retch|
+-6.810464	retire|
+-6.810464	retreat|
+-2.960629	return|	0.03393792
+-6.810464	return|car
+-6.810464	return|home
+-6.810464	return|verdict
+-6.810464	re|
+-3.437751	ride|	-0.08571092
+-6.810464	ride|NUMBER
+-6.810464	ride|another
+-6.810464	ride|asphalt
+-6.810464	ride|bike
+-6.810464	ride|mile
+-6.810464	ride|time
+-6.810464	ride|train
+-6.810464	ride|walk
+-6.810464	ride|wheeler
+-6.810464	rinse|
+-6.810464	rinse|gear
+-3.437751	rip|	0.02581225
+-6.810464	rip|tag
+-3.437751	rise|	0.02581225
+-6.810464	roadwalk|
+-6.810464	roar|
+-6.810464	roast|stick
+-6.810464	rob|I
+-6.810464	rock|
+-6.810464	roll|
+-6.810464	roll|hill
+-6.810464	roll|window
+-6.810464	rough|it
+-6.810464	round|
+-6.810464	ruin|experience
+-6.810464	rumble|
+-2.960629	run|	-0.1628828
+-6.810464	run|MONEY
+-6.810464	run|water
+-6.810464	rush|
+-6.810464	s'more|
+-6.810464	sail|
+-6.810464	salute|you
+-6.810464	satisfy|
+-6.810464	satisfy|hobby
+-6.810464	save|
+-6.810464	save|it
+-6.810464	save|money
+-6.810464	save|remainder
+-6.810464	save|time
+-2.291623	say|	0.07031071
+-6.810464	say|MONEY
+-6.810464	say|ORGANIZATION
+-6.810464	say|PERSON
+-6.810464	say|bike
+-6.810464	say|goodbye
+-6.810464	say|hello
+-6.810464	say|it
+-6.810464	say|lady
+-6.810464	say|least
+-6.810464	say|loud
+-6.810464	say|something
+-6.810464	say|that
+-6.810464	say|what
+-6.810464	say|yes
+-6.810464	scan|
+-3.136721	scare|	-0.08507179
+-6.810464	scare|it
+-6.810464	scarf|handful
+-6.810464	scatter|
+-3.437751	schedule|	0.02581225
+-6.810464	scop|site
+-6.810464	scop|view
+-6.810464	scout|
+-6.810464	scramble|
+-6.810464	scramble|egg
+-3.437751	scratch|	-0.08491185
+-3.136721	scream|	0.01722825
+-6.810464	scream|CRIMINAL_CHARGE
+-6.810464	scurry|
+-3.136721	search|	0.01239824
+-6.810464	search|area
+-6.810464	seat|
+-6.810464	seek|
+-2.960629	seem|	-0.02635849
+-6.810464	seep|
+-2.136721	see|	0.05280444
+-6.810464	see|2
+-6.810464	see|I
+-3.437751	see|LOCATION	-0.08730467
+-6.810464	see|NUMBER
+-6.810464	see|ORGANIZATION
+-3.437751	see|PERSON	0.02581225
+-6.810464	see|Whitsett
+-6.810464	see|all
+-6.810464	see|animal
+-6.810464	see|anything
+-6.810464	see|area
+-6.810464	see|band
+-6.810464	see|bear
+-6.810464	see|bird
+-6.810464	see|bottom
+-6.810464	see|car
+-6.810464	see|cloud
+-6.810464	see|coral
+-6.810464	see|deal
+-6.810464	see|deer
+-6.810464	see|dog
+-6.810464	see|dolphin
+-6.810464	see|eel
+-6.810464	see|end
+-6.810464	see|everything
+-6.810464	see|family
+-6.810464	see|fan
+-6.810464	see|feeding
+-3.437751	see|fish	-0.08603013
+-6.810464	see|fox
+-6.810464	see|friend
+-6.810464	see|group
+-6.810464	see|grouper
+-6.810464	see|he
+-3.136721	see|it	-0.06844762
+-6.810464	see|kid
+-3.437751	see|kind	-0.08857546
+-3.437751	see|lake	-0.06927752
+-6.810464	see|life
+-3.437751	see|load	-0.08809935
+-6.810464	see|lobster
+-6.810464	see|look
+-3.437751	see|lot	-0.08873405
+-6.810464	see|mammal
+-6.810464	see|map
+-6.810464	see|moose
+-6.810464	see|most
+-6.810464	see|mountain
+-6.810464	see|number
+-6.810464	see|patch
+-3.437751	see|people	-0.07373185
+-6.810464	see|person
+-6.810464	see|photo
+-6.810464	see|picture
+-6.810464	see|pile
+-6.810464	see|plenty
+-6.810464	see|reef
+-6.810464	see|rock
+-6.810464	see|seahorse
+-6.810464	see|set
+-6.810464	see|shaft
+-6.810464	see|share
+-6.810464	see|shark
+-6.810464	see|she
+-6.810464	see|ship
+-6.810464	see|show
+-3.437751	see|sign	0.02581225
+-6.810464	see|snow
+-6.810464	see|stand
+-6.810464	see|star
+-6.810464	see|tent
+-6.810464	see|they
+-6.810464	see|thing
+-6.810464	see|this
+-6.810464	see|thousand
+-6.810464	see|ton
+-6.810464	see|tree
+-6.810464	see|turtle
+-6.810464	see|type
+-6.810464	see|view
+-6.810464	see|water
+-3.437751	see|waterfall	0.01219817
+-6.810464	see|way
+-6.810464	see|we
+-6.810464	see|whale
+-3.437751	see|what	0.01219817
+-6.810464	see|which
+-6.810464	see|wildlife
+-6.810464	see|you
+-6.810464	sell|
+-6.810464	send|
+-2.960629	send|I	0.1848027
+-6.810464	separate|
+-3.437751	serve|	-0.08873405
+-3.136721	settle|	0.02684554
+-2.534661	set|	0.1115598
+-6.810464	set|CAUSE_OF_DEATH
+-6.810464	set|awning
+-6.810464	set|b
+-3.136721	set|camp	0.02684554
+-6.810464	set|everything
+-6.810464	set|gear
+-6.810464	set|it
+-6.810464	set|ours
+-6.810464	set|pop
+-6.810464	set|site
+-3.437751	set|tent	-0.08857546
+-6.810464	set|they
+-6.810464	set|trip
+-6.810464	set|we
+-6.810464	set|wood
+-6.810464	shake|
+-6.810464	share|
+-6.810464	share|beer
+-6.810464	share|it
+-6.810464	share|love
+-6.810464	share|path
+-6.810464	share|portion
+-3.437751	share|story	0.02581225
+-6.810464	share|thing
+-3.437751	shift|	-0.08809935
+-6.810464	shine|
+-6.810464	shiver|
+-6.810464	shock|
+-6.810464	shoot|
+-6.810464	shower|
+-2.960629	show|	0.0127987
+-6.810464	show|I
+-6.810464	show|field
+-6.810464	show|he
+-6.810464	show|line
+-6.810464	show|sign
+-6.810464	show|we
+-6.810464	shroud|
+-3.437751	shrug|	0.02581225
+-6.810464	shut|
+-6.810464	side|
+-3.437751	sift|	-0.08841681
+-6.810464	signal|
+-6.810464	sign|
+-6.810464	sign|I
+-6.810464	sing|
+-6.810464	sing|song
+-6.810464	sink|
+-6.810464	site|camp
+-2.358569	sit|	0.1679471
+-6.810464	sit|magazine
+-3.437751	size|	0.02581225
+-6.810464	skip|
+-6.810464	skip|PERSON
+-6.810464	skip|it
+-6.810464	skip|rock
+-6.810464	slant|
+-2.136721	sleep|	-0.09422481
+-6.810464	sleep|ALOT
+-3.437751	sleep|NUMBER	-0.08857546
+-6.810464	sleep|ORGANIZATION
+-6.810464	sleep|bag
+-6.810464	sleep|end
+-6.810464	sleep|here
+-6.810464	sleep|mom
+-6.810464	sleep|most
+-6.810464	sleep|pad
+-6.810464	sleep|people
+-6.810464	sleep|tent
+-6.810464	slide|
+-6.810464	slide|mountain
+-6.810464	slide|side
+-6.810464	slip|
+-6.810464	slither|
+-6.810464	slog|
+-6.810464	slow|
+-6.810464	slow|car
+-6.810464	slumber|
+-6.810464	smell|
+-6.810464	smile|
+-6.810464	smore|
+-6.810464	snap|
+-6.810464	snap|picture
+-6.810464	snap|times.
+-6.810464	snore|
+-6.810464	snorkele|
+-6.810464	snorkel|
+-6.810464	snorkle|
+-6.810464	snuff|
+-6.810464	snuggle|
+-3.136721	soak|	0.01239824
+-6.810464	soak|tho
+-6.810464	soar|
+-6.810464	sop|
+-6.810464	sort|
+-3.437751	sound|	-0.07373185
+-6.810464	sound|fun
+-6.810464	sound|lot
+-6.810464	space|
+-6.810464	spare|
+-3.437751	speak|	0.02581225
+-3.437751	speed|	-0.07765328
+-6.810464	spend|
+-6.810464	spend|DATE
+-3.437751	spend|DURATION	0.02581225
+-6.810464	spend|MONEY
+-6.810464	spend|NUMBER
+-6.810464	spend|TIME
+-6.810464	spend|all
+-6.810464	spend|alot
+-6.810464	spend|camping
+-3.437751	spend|half	-0.08873405
+-6.810464	spend|hiking
+-6.810464	spend|lot
+-6.810464	spend|most
+-3.437751	spend|part	0.02581225
+-6.810464	spend|refining
+-3.437751	spend|rest	0.02581225
+-3.437751	spend|time	-0.08873405
+-6.810464	spend|while
+-6.810464	spin|
+-6.810464	splash|
+-3.136721	split|	0.01722825
+-6.810464	spoil|
+-3.437751	spook|	-0.08634912
+-6.810464	spot|
+-6.810464	spot|hanging
+-6.810464	spot|they
+-3.437751	spread|	-0.08873405
+-6.810464	spread|tablecloth
+-3.136721	sprinkle|	-0.3967434
+-6.810464	squeeze|
+-6.810464	squirm|
+-6.810464	stack|
+-6.810464	staff|
+-6.810464	stall|
+-2.83569	stand|	-0.03166158
+-3.437751	stare|	0.02581225
+-6.810464	stargaze|
+-6.810464	startle|
+-2.659599	start|	-0.05354661
+-6.810464	start|CAUSE_OF_DEATH
+-6.810464	start|adventure
+-6.810464	start|cooking
+-6.810464	start|course
+-6.810464	start|descent
+-6.810464	start|dinner
+-6.810464	start|drive
+-6.810464	start|hike
+-6.810464	start|routine
+-6.810464	start|trek
+-6.810464	start|trip
+-6.810464	start|what
+-6.810464	star|
+-6.810464	state|
+-2.323807	stay|	0.2124545
+-6.810464	stay|NUMBER
+-6.810464	stay|everything
+-6.810464	stay|most
+-6.810464	stealth|
+-6.810464	stealth|camp
+-6.810464	steal|food
+-6.810464	step|
+-6.810464	stew|
+-3.136721	stick|	0.02871168
+-6.810464	stick|it
+-6.810464	sting|
+-6.810464	sting|PERSON
+-6.810464	sting|himself
+-6.810464	sting|mouth
+-3.437751	stink|	0.01219817
+-6.810464	stir|fry
+-3.437751	stock|	0.02581225
+-6.810464	stone|
+-2.437751	stop|	-0.1072689
+-6.810464	stop|myself
+-6.810464	stop|swimming
+-6.810464	stop|there
+-6.810464	stop|time
+-6.810464	stop|we
+-6.810464	store|
+-6.810464	strap|
+-3.437751	stress|	-0.07373185
+-6.810464	stretch|
+-6.810464	strew|
+-6.810464	strike|
+-6.810464	strike|camp
+-6.810464	string|
+-3.136721	stroll|	0.0127987
+-3.437751	struggle|	-0.08794053
+-6.810464	struggle|hill
+-6.810464	study|
+-6.810464	stuff|
+-6.810464	stumble|
+-6.810464	submerge|
+-6.810464	subside|
+-3.136721	suck|	0.02954367
+-6.810464	suffer|
+-6.810464	suffer|rest
+-6.810464	suffice|
+-3.437751	suggest|	0.02581225
+-6.810464	suggest|camping
+-6.810464	suit|
+-6.810464	support|
+-2.960629	suppose|	-0.07323919
+-6.810464	suppose|what
+-6.810464	suprise|
+-6.810464	sure?|MONEY
+-6.810464	surface|
+-6.810464	surface|DURATION
+-6.810464	surge|
+-6.810464	surprise|
+-6.810464	surrender|dib
+-3.437751	surround|	0.01219817
+-6.810464	survive|
+-6.810464	survive|adventure
+-6.810464	suspend|
+-6.810464	swallow|
+-6.810464	swap|empty
+-6.810464	swarm|
+-6.810464	sway|
+-6.810464	swear|
+-6.810464	swear|word
+-6.810464	sweep|
+-6.810464	swell|
+-3.437751	swim|	-0.07373185
+-6.810464	swim|suit
+-6.810464	swing|
+-6.810464	swirl|
+-6.810464	switch|
+-6.810464	switch|place
+-6.810464	tackle|
+-6.810464	tail|
+-2.323807	take|	0.1993483
+-2.960629	take|DURATION	-0.2654582
+-6.810464	take|Highway
+-3.437751	take|I	-0.08698639
+-6.810464	take|LOCATION
+-6.810464	take|MISC
+-6.810464	take|MONEY
+-6.810464	take|NUMBER
+-6.810464	take|PERSON
+-6.810464	take|SO
+-6.810464	take|TIME
+-6.810464	take|accross
+-6.810464	take|advantage
+-6.810464	take|any
+-6.810464	take|bath
+-6.810464	take|bike
+-6.810464	take|bit
+-3.437751	take|boat	0.02581225
+-6.810464	take|booth
+-6.810464	take|boy
+-6.810464	take|break
+-6.810464	take|breath
+-6.810464	take|bunch
+-6.810464	take|camera
+-6.810464	take|camping
+-6.810464	take|car
+-6.810464	take|care
+-3.437751	take|chance	0.01219817
+-6.810464	take|drink
+-3.437751	take|drive	-0.08730467
+-6.810464	take|exit
+-6.810464	take|ferry
+-6.810464	take|forever.
+-6.810464	take|gear
+-6.810464	take|hand
+-2.960629	take|he	-0.08746372
+-3.437751	take|hike	-0.08841681
+-6.810464	take|it
+-6.810464	take|kayak
+-2.960629	take|kid	-0.1767099
+-6.810464	take|limo
+-3.437751	take|look	0.01219817
+-3.437751	take|lot	0.02581225
+-6.810464	take|lunch
+-6.810464	take|mile
+-6.810464	take|moment
+-6.810464	take|name
+-6.810464	take|nap
+-6.810464	take|north
+-6.810464	take|opportunity
+-6.810464	take|part
+-3.437751	take|photo	-0.08809935
+-6.810464	take|photograph
+-6.810464	take|pic
+-2.83569	take|picture	-0.08762272
+-3.437751	take|place	0.01219817
+-6.810464	take|ride
+-6.810464	take|route
+-6.810464	take|rv
+-6.810464	take|sauna
+-6.810464	take|set-off
+-6.810464	take|she
+-6.810464	take|shelter
+-6.810464	take|shot
+-3.437751	take|shower	0.01219817
+-6.810464	take|sister
+-3.136721	take|some	0.02622526
+-6.810464	take|southeast
+-3.437751	take|tent	0.02581225
+-6.810464	take|they
+-3.437751	take|time	-0.08714555
+-6.810464	take|tour
+-6.810464	take|trail
+-6.810464	take|trek
+-6.810464	take|trip
+-6.810464	take|turn
+-6.810464	take|vacation
+-6.810464	take|video
+-6.810464	take|walk
+-6.810464	take|way
+-3.136721	take|we	0.01621756
+-6.810464	take|what
+-3.437751	take|while	0.02581225
+-6.810464	take|you
+-2.960629	talk|	0.05395106
+-6.810464	talk|some
+-6.810464	tangle|
+-6.810464	tan|
+-6.810464	tape|
+-2.83569	taste|	0.02871169
+-6.810464	teach|
+-3.437751	teach|they	-0.08698639
+-6.810464	tear|
+-6.810464	tear|zebra
+-6.810464	teem|
+-2.73878	tell|	-0.6861713
+-2.960629	tell|I	0.1848027
+-6.810464	tell|MONEY
+-3.437751	tell|PERSON	-0.06927752
+-6.810464	tell|boy
+-3.136721	tell|he	-0.08427155
+-3.437751	tell|she	-0.08873405
+-3.437751	tell|story	0.02581225
+-6.810464	tell|they
+-6.810464	tell|this
+-6.810464	tell|we
+-6.810464	tell|what
+-6.810464	tell|ya
+-3.136721	tell|you	0.01662155
+-6.810464	tempt|
+-6.810464	tend|
+-6.810464	tent|
+-6.810464	terrify|
+-6.810464	test|
+-6.810464	thank|
+-6.810464	thank|PERSON
+-6.810464	thank|you
+-3.136721	that|	-0.08809936
+-3.437751	that|MONEY	0.02581225
+-6.810464	that|s
+-6.810464	there|MONEY
+-6.810464	they|MONEY
+-2.323807	think|	-0.04165548
+-6.810464	think|DURATION
+-6.810464	think|MONEY
+-6.810464	think|about.
+-6.810464	think|d
+-6.810464	think|nothing
+-6.810464	think|thing
+-6.810464	think|what
+-3.437751	think|which	0.01219817
+-6.810464	threaten|
+-3.136721	thrill|	-0.08762272
+-3.136721	throw|	-0.08714557
+-6.810464	throw|asthma
+-6.810464	tick|
+-6.810464	tie|
+-6.810464	tinge|rest
+-3.136721	tire|	0.1627496
+-6.810464	toast|
+-6.810464	top|
+-6.810464	top|bottle
+-3.437751	top|it	0.01219817
+-6.810464	toss|
+-6.810464	toss|lure
+-6.810464	total|
+-6.810464	touch|
+-6.810464	touch|it
+-6.810464	touch|you
+-6.810464	tour|mile
+-6.810464	tow|boat
+-6.810464	tow|people
+-6.810464	tow|sawmill
+-6.810464	tow|trailer
+-6.810464	track|
+-3.136721	trail|	0.02871168
+-6.810464	trail|area
+-6.810464	trail|bridge
+-6.810464	trail|everywhere
+-6.810464	trail|part
+-6.810464	trail|trail
+-6.810464	train|
+-6.810464	trap|
+-3.437751	travel|	0.02581225
+-6.810464	travel|road
+-6.810464	tread|
+-6.810464	treat|
+-6.810464	trek|
+-6.810464	trickle|
+-6.810464	trip|
+-6.810464	trust|
+-2.437751	try|	-0.003602371
+-6.810464	try|Waters
+-3.136721	try|camping	0.02767394
+-6.810464	try|diving
+-6.810464	try|hiking
+-3.437751	try|it	0.01219817
+-6.810464	try|pool
+-6.810464	tube|
+-6.810464	tuck|they
+-6.810464	tumble|pretty
+-6.810464	tuned|MONEY
+-6.810464	tune|
+-2.136721	turn|	0.1159983
+-6.810464	turn|I
+-6.810464	turn|NUMBER
+-6.810464	turn|bee
+-6.810464	turn|it
+-6.810464	turn|road
+-6.810464	twist|ankle
+-6.810464	understand|
+-6.810464	understand|what
+-6.810464	undo|tent
+-6.810464	unload|
+-6.810464	unpack|
+-6.810464	unplug|
+-6.810464	unzip|tent
+-6.810464	update|
+-3.136721	upload|	0.02622526
+-6.810464	upload|video
+-6.810464	upset|
+-2.960629	use|	0.02622527
+-6.810464	use|NUMBER
+-6.810464	use|bag
+-6.810464	use|bathroom
+-6.810464	use|camera
+-6.810464	use|equipment
+-6.810464	use|facility
+-6.810464	use|it
+-6.810464	use|restroom
+-6.810464	use|rice
+-6.810464	use|saddlebag
+-6.810464	use|they
+-6.810464	use|time
+-6.810464	use|toilet
+-6.810464	utilize|ubiquitous
+-6.810464	vacation|
+-6.810464	vanish|
+-6.810464	vary|
+-3.437751	venture|	-0.08809935
+-6.810464	verb|
+-3.437751	view|	-0.08873405
+-6.810464	visit|
+-6.810464	visit|LOCATION
+-6.810464	visit|PERSON
+-6.810464	visit|he
+-6.810464	visit|light
+-6.810464	visit|lighthouse
+-6.810464	visit|site
+-6.810464	visit|they
+-6.810464	visit|waterfall
+-6.810464	volunteer|
+-6.810464	vomit|
+-6.810464	vow|
+-6.810464	wade|
+-6.810464	wade|lot
+-2.960629	wait|	0.05351084
+-6.810464	wait|DURATION
+-6.810464	wait|I
+-6.810464	wait|it
+-3.437751	waken|	0.01219817
+-2.534661	wake|	0.1189838
+-6.810464	wake|I
+-6.810464	wake|MONEY
+-6.810464	wake|NUMBER
+-6.810464	wake|TIME
+-6.810464	wake|cold
+-6.810464	wake|gear
+-6.810464	wake|he
+-6.810464	wake|we
+-2.358569	walk|	0.1356214
+-6.810464	walk|beach
+-6.810464	walk|hill
+-6.810464	walk|klick
+-6.810464	walk|loop
+-6.810464	walk|path
+-6.810464	walk|rain.
+-6.810464	walk|road
+-6.810464	walk|trail
+-6.810464	walk|way
+-3.437751	wander|	0.01219817
+-2.261659	want|	0.03349069
+-6.810464	want|I
+-6.810464	want|NUMBER
+-6.810464	want|PERSON
+-6.810464	want|cocoa
+-6.810464	want|it
+-6.810464	want|money
+-6.810464	want|nothing
+-6.810464	want|photo
+-6.810464	want|time
+-6.810464	want|we
+-6.810464	want|what
+-6.810464	warm|
+-6.810464	warn|
+-6.810464	warn|I
+-6.810464	warn|we
+-3.136721	wash|	0.01520921
+-6.810464	wash|clothes
+-6.810464	wash|dish
+-6.810464	wash|floor
+-6.810464	wash|hand
+-6.810464	wasn|
+-6.810464	wasn|MONEY
+-3.136721	wasn|t	0.01239824
+-6.810464	waste|banana
+-3.136721	watch|	0.0260187
+-6.810464	watch|MONEY
+-6.810464	watch|boy
+-6.810464	watch|episode
+-6.810464	watch|experience
+-3.437751	watch|it	-0.08809935
+-6.810464	watch|movie
+-6.810464	watch|playing
+-6.810464	watch|rise
+-6.810464	watch|roll
+-6.810464	watch|sun
+-6.810464	watch|sunrise
+-3.437751	watch|sunset	-0.08395102
+-6.810464	watch|they
+-3.437751	watch|tv	-0.07373185
+-6.810464	water|
+-6.810464	water|weed
+-6.810464	wave|
+-3.437751	wear|	-0.08857546
+-6.810464	wear|FiveFingers
+-6.810464	wear|boot
+-6.810464	wear|hat
+-6.810464	wear|it
+-6.810464	wear|wetsuit
+-6.810464	week|
+-6.810464	welcome|
+-6.810464	werent|
+-6.810464	weren|MONEY
+-6.810464	weren|camper
+-6.810464	weren|t
+-6.810464	we|
+-6.810464	we|MONEY
+-6.810464	we|d
+-6.810464	we|need
+-6.810464	we|re
+-6.810464	whine|
+-6.810464	whisper|
+-6.810464	whistle|
+-6.810464	whittle|
+-6.810464	who|MONEY
+-6.810464	win.|
+-6.810464	wind|
+-6.810464	wind|road
+-3.136721	win|	-0.3152677
+-6.810464	win|award
+-6.810464	win|game
+-3.437751	wipe|	-0.08841681
+-3.437751	wish|	-0.06927752
+-6.810464	wish|I
+-6.810464	witness|
+-3.437751	wonder|	0.01219817
+-6.810464	won|MONEY
+-2.73878	work|	0.03372766
+-6.810464	work|fine
+-6.810464	work|what
+-2.83569	worry|	0.1845051
+-6.810464	wouldn|MONEY
+-6.810464	would|MONEY
+-6.810464	wrap|
+-6.810464	wreck|
+-6.810464	wrestle|bear
+-6.810464	write|
+-6.810464	write|post
+-6.810464	write|this
+-6.810464	yeah|
+-6.810464	yell|
+-6.810464	yep|
+-6.810464	yet?|MONEY
+-6.810464	yet?|crap
+-6.810464	you|MONEY
+-3.437751	zip|	-0.07765328
+-3.437751	|	0.01219817
+-3.437751	|MONEY	-0.08873405
+-6.810464	|we
+
+\2-grams:
+-0.7403627	<s> <unk>
+-0.8378168	<s> be|
+-2.07503	<s> dive|
+-2.07503	<s> don|
+-2.07503	<s> do|
+-2.07503	<s> get|
+-2.07503	<s> get|home
+-2.07503	<s> go|
+-2.07503	<s> go|camping
+-1.251383	<s> have|
+-2.07503	<s> have|chance
+-2.07503	<s> have|trip
+-2.07503	<s> it|MONEY
+-2.07503	<s> upload|
+-2.298851	<unk> </s>
+-0.5339442	<unk> <unk>
+-3.536064	<unk> adjust|
+-3.536064	<unk> admit|
+-3.536064	<unk> arrive|
+-3.536064	<unk> assume|
+-2.712417	<unk> backtrack|
+-3.536064	<unk> begin|
+-3.536064	<unk> begin|descent
+-0.7389991	<unk> be|
+-3.536064	<unk> borrow|
+-3.536064	<unk> bring|
+-3.536064	<unk> bring|I
+-3.536064	<unk> call|
+-3.536064	<unk> call|we
+-3.536064	<unk> camp|
+-3.536064	<unk> catch|
+-3.536064	<unk> change|
+-3.536064	<unk> charge|
+-3.536064	<unk> check|
+-3.536064	<unk> close|
+-2.712417	<unk> come|
+-3.536064	<unk> come|it
+-3.536064	<unk> complain|
+-3.536064	<unk> continue|
+-3.536064	<unk> cook|they
+-3.536064	<unk> couldn|MONEY
+-3.536064	<unk> cut|
+-2.205687	<unk> decide|
+-3.536064	<unk> desert|
+-3.536064	<unk> determine|
+-3.536064	<unk> die|
+-3.536064	<unk> disappear|
+-3.536064	<unk> dive|
+-1.481238	<unk> do|
+-3.536064	<unk> do|NUMBER
+-3.536064	<unk> do|job
+-3.536064	<unk> dress|
+-3.536064	<unk> drink|
+-2.026731	<unk> drive|
+-3.536064	<unk> drive|mile
+-2.712417	<unk> eat|
+-3.536064	<unk> end|
+-3.536064	<unk> enjoy|weather
+-2.712417	<unk> fall|
+-3.536064	<unk> feel|
+-2.820875	<unk> figure|
+-3.536064	<unk> find|
+-2.820875	<unk> find|PERSON
+-3.536064	<unk> find|campground
+-3.536064	<unk> find|place
+-3.536064	<unk> finish|
+-2.712417	<unk> fly|
+-3.536064	<unk> forget|
+-3.536064	<unk> freeze|
+-1.724276	<unk> get|
+-3.536064	<unk> get|it
+-3.536064	<unk> get|photo
+-3.536064	<unk> get|thing
+-3.536064	<unk> give|she
+-3.536064	<unk> give|you
+-1.481238	<unk> go|
+-3.536064	<unk> go|home
+-3.536064	<unk> go|way
+-3.536064	<unk> greet|
+-3.536064	<unk> hang|
+-1.284943	<unk> have|
+-3.536064	<unk> have|beer
+-3.536064	<unk> have|burger
+-3.536064	<unk> have|dish
+-3.536064	<unk> have|headache
+-3.536064	<unk> have|lot
+-3.536064	<unk> have|lunch
+-3.536064	<unk> have|rib
+-2.712417	<unk> have|time
+-2.820875	<unk> head|
+-2.712417	<unk> help|
+-2.820875	<unk> hike|
+-3.536064	<unk> hope|
+-3.536064	<unk> ignore|it
+-3.536064	<unk> include|
+-2.712417	<unk> intend|
+-3.536064	<unk> it|MONEY
+-3.536064	<unk> it|s
+-3.536064	<unk> keep|
+-2.820875	<unk> know|
+-3.536064	<unk> lay|
+-3.536064	<unk> learn|
+-2.712417	<unk> leave|
+-3.536064	<unk> leave|they
+-2.712417	<unk> let|
+-3.536064	<unk> lie|
+-2.820875	<unk> look|
+-2.712417	<unk> make|
+-2.712417	<unk> make|dinner
+-2.820875	<unk> make|it
+-3.536064	<unk> make|way
+-3.536064	<unk> melt|
+-2.712417	<unk> mention|
+-3.536064	<unk> miss|PERSON
+-2.712417	<unk> move|
+-3.536064	<unk> occur|
+-2.712417	<unk> overlook|lake
+-3.536064	<unk> pack|
+-3.536064	<unk> park|
+-3.536064	<unk> pass|
+-3.536064	<unk> play|game
+-3.536064	<unk> post|
+-3.536064	<unk> pray|
+-3.536064	<unk> prepare|
+-2.712417	<unk> press|
+-2.712417	<unk> pull|
+-3.536064	<unk> read|
+-2.712417	<unk> read|PERSON
+-3.536064	<unk> reflect|
+-3.536064	<unk> refresh|
+-3.536064	<unk> relax|
+-3.536064	<unk> remain|
+-3.536064	<unk> remember|
+-3.536064	<unk> rest|
+-2.712417	<unk> return|
+-3.536064	<unk> rip|
+-3.536064	<unk> rise|
+-3.536064	<unk> run|
+-2.712417	<unk> say|
+-3.536064	<unk> schedule|
+-3.536064	<unk> scream|
+-2.298851	<unk> see|
+-3.536064	<unk> see|it
+-3.536064	<unk> see|sign
+-3.536064	<unk> send|I
+-3.536064	<unk> settle|
+-3.536064	<unk> set|
+-3.536064	<unk> set|camp
+-3.536064	<unk> shift|
+-3.536064	<unk> shrug|
+-3.536064	<unk> sift|
+-2.820875	<unk> sit|
+-3.536064	<unk> sleep|
+-3.536064	<unk> soak|
+-3.536064	<unk> spend|DURATION
+-3.536064	<unk> spend|rest
+-3.536064	<unk> spread|
+-3.536064	<unk> sprinkle|
+-2.712417	<unk> stand|
+-3.536064	<unk> stay|
+-2.820875	<unk> stop|
+-3.536064	<unk> suck|
+-2.820875	<unk> take|
+-3.536064	<unk> take|DURATION
+-3.536064	<unk> take|boat
+-3.536064	<unk> take|chance
+-2.712417	<unk> take|he
+-3.536064	<unk> take|hike
+-3.536064	<unk> take|kid
+-3.536064	<unk> take|look
+-3.536064	<unk> take|time
+-3.536064	<unk> take|we
+-2.712417	<unk> taste|
+-3.536064	<unk> tell|he
+-2.712417	<unk> think|
+-3.536064	<unk> think|which
+-3.536064	<unk> throw|
+-2.820875	<unk> try|
+-2.026731	<unk> turn|
+-2.820875	<unk> walk|
+-2.201397	<unk> want|
+-2.712417	<unk> wash|
+-3.536064	<unk> watch|
+-3.536064	<unk> watch|sunset
+-3.536064	<unk> wish|
+-3.536064	<unk> wonder|
+-2.820875	<unk> work|
+-3.536064	<unk> |MONEY
+-0.7326072	adjust| doesn|work
+-0.7326072	admit| <unk>
+-1.033637	advise| advise|
+-1.033637	advise| go|
+-0.7326072	amaze| enjoy|
+-0.9716601	arrive| be|
+-1.68685	arrive| campground|
+-1.68685	arrive| come|
+-1.68685	arrive| drive|
+-1.68685	arrive| hear|sound
+-1.68685	arrive| stare|
+-1.68685	arrive| tell|
+-0.7326072	assume| <unk>
+-0.7326072	awake| take|while
+-1.209728	backtrack| <unk>
+-1.209728	backtrack| do|
+-1.209728	backtrack| have|room
+-0.7326072	back| be|
+-0.7326072	base| be|
+-0.7326072	become| <unk>
+-1.431577	begin| <unk>
+-1.431577	begin| begin|
+-1.431577	begin| rain|
+-1.431577	begin| struggle|
+-1.431577	begin| worry|
+-0.7326072	begin|descent be|
+-0.7326072	believe| be|
+-0.7326072	bet| be|
+-1.978386	be| </s>
+-0.6445225	be| <unk>
+-3.48772	be| advise|
+-3.48772	be| amaze|
+-3.48772	be| begin|
+-0.637841	be| be|
+-3.48772	be| be|what
+-3.48772	be| blaze|
+-3.48772	be| bless|
+-3.48772	be| block|
+-3.48772	be| break|camp
+-3.48772	be| bring|
+-3.48772	be| buy|
+-3.48772	be| call|they
+-2.664072	be| camp|
+-3.48772	be| catch|fish
+-3.48772	be| clean|
+-3.48772	be| climb|
+-3.48772	be| climb|it
+-2.664072	be| close|
+-3.48772	be| come|
+-3.48772	be| confirm|
+-3.48772	be| convince|PERSON
+-3.48772	be| couldn|MONEY
+-3.48772	be| decide|
+-3.48772	be| disappoint|
+-3.48772	be| discover|
+-1.49984	be| do|
+-3.48772	be| do|it
+-3.48772	be| do|that
+-2.664072	be| do|what
+-3.48772	be| dress|
+-3.48772	be| drift|
+-2.77253	be| drive|
+-3.48772	be| drive|home
+-3.48772	be| dry|
+-3.48772	be| empty|
+-3.48772	be| end|
+-3.48772	be| escape|
+-2.77253	be| excite|
+-3.48772	be| expect|
+-3.48772	be| fall|
+-3.48772	be| feast|
+-2.153052	be| feel|
+-2.664072	be| figure|
+-3.48772	be| find|spot
+-3.48772	be| find|way
+-3.48772	be| follow|
+-3.48772	be| force|
+-3.48772	be| freeze|
+-1.755112	be| get|
+-3.48772	be| get|home
+-2.664072	be| give|
+-3.48772	be| give|I
+-3.48772	be| give|NUMBER
+-1.340139	be| go|
+-3.48772	be| go|MONEY
+-2.664072	be| go|camping
+-3.48772	be| go|way
+-3.48772	be| greet|
+-3.48772	be| hate|
+-1.41269	be| have|
+-3.48772	be| have|blast
+-3.48772	be| have|feeling
+-2.664072	be| have|lot
+-3.48772	be| have|time
+-2.77253	be| head|
+-3.48772	be| head|home
+-3.48772	be| hear|
+-3.48772	be| highlight|
+-3.48772	be| hike|
+-2.77253	be| hope|
+-3.48772	be| hover|
+-3.48772	be| include|
+-3.48772	be| intend|
+-3.48772	be| jump|
+-3.48772	be| keep|
+-3.48772	be| kid|
+-3.48772	be| know|
+-3.48772	be| laugh|
+-3.48772	be| learn|
+-3.48772	be| learn|thing
+-2.157342	be| leave|
+-2.77253	be| let|
+-3.48772	be| like|
+-3.48772	be| like|it
+-3.48772	be| limit|
+-2.77253	be| look|
+-2.77253	be| make|
+-2.664072	be| make|it
+-3.48772	be| meet|
+-3.48772	be| move|
+-3.48772	be| nap|
+-3.48772	be| open|
+-2.664072	be| organize|
+-2.153052	be| pack|
+-2.664072	be| pave|
+-3.48772	be| piss|
+-3.48772	be| pitch|tent
+-2.664072	be| plan|
+-3.48772	be| prepare|
+-2.664072	be| pull|
+-3.48772	be| put|
+-3.48772	be| put|PERSON
+-2.664072	be| rain|
+-3.48772	be| reach|
+-3.48772	be| read|book
+-3.48772	be| reflect|
+-3.48772	be| remember|it
+-3.48772	be| return|
+-3.48772	be| run|
+-3.48772	be| say|
+-3.48772	be| scare|
+-3.48772	be| scratch|
+-3.48772	be| seem|
+-2.250506	be| see|
+-3.48772	be| see|fish
+-3.48772	be| see|lake
+-3.48772	be| see|people
+-3.48772	be| send|I
+-3.48772	be| settle|
+-2.664072	be| set|
+-3.48772	be| show|
+-2.77253	be| sit|
+-2.157342	be| sleep|
+-3.48772	be| sleep|NUMBER
+-3.48772	be| spend|time
+-2.664072	be| start|
+-2.77253	be| stay|
+-3.48772	be| stick|
+-3.48772	be| stink|
+-3.48772	be| stop|
+-3.48772	be| stress|
+-2.77253	be| suppose|
+-3.48772	be| surround|
+-2.664072	be| take|
+-3.48772	be| take|photo
+-3.48772	be| take|some
+-2.664072	be| talk|
+-3.48772	be| teach|they
+-2.664072	be| tell|
+-3.48772	be| tell|I
+-3.48772	be| tell|PERSON
+-3.48772	be| tell|he
+-2.153052	be| think|
+-3.48772	be| thrill|
+-2.664072	be| tire|
+-3.48772	be| top|it
+-3.48772	be| travel|
+-2.153052	be| try|
+-3.48772	be| try|camping
+-3.48772	be| turn|
+-3.48772	be| wait|
+-3.48772	be| waken|
+-3.48772	be| wake|
+-2.77253	be| walk|
+-2.664072	be| want|
+-3.48772	be| wasn|t
+-3.48772	be| win|
+-3.48772	be| wipe|
+-2.664072	be| work|
+-2.664072	be| worry|
+-3.48772	be| zip|
+-0.7326072	be|what go|
+-0.7326072	blaze| be|
+-1.033637	blend| <unk>
+-1.033637	blend| be|
+-0.7326072	bless| get|
+-0.7326072	block| be|
+-0.7326072	borrow| have|camping
+-0.7326072	bother|I <unk>
+-1.033637	break|camp <unk>
+-1.033637	break|camp be|
+-0.7326072	breathe| be|
+-0.7163876	bring| <unk>
+-1.431577	bring| brush|tooth
+-1.431577	bring| think|
+-0.7326072	bring|I search|
+-0.7326072	brush|tooth head|
+-0.7326072	buy| <unk>
+-0.7326072	buy|food get|
+-0.7326072	buzz| be|
+-1.431577	call| <unk>
+-1.431577	call| end|
+-1.431577	call| fly|
+-1.431577	call| quit|
+-1.431577	call| scream|
+-0.7326072	call|he say|
+-0.7326072	call|it sleep|
+-0.7326072	call|they <unk>
+-0.7326072	call|we <unk>
+-0.7326072	calm| fall|
+-0.7326072	campground| notice|
+-1.431577	camp| <unk>
+-0.6079299	camp| be|
+-1.431577	camp| have|
+-1.431577	camp| rent|cabin
+-0.7326072	carry|everything <unk>
+-0.7326072	catch| be|
+-1.033637	catch|fish do|
+-1.033637	catch|fish say|
+-0.3860812	change| <unk>
+-1.209728	change| change|
+-0.7326072	charge| bring|
+-1.334667	check| cruise|
+-1.334667	check| look|
+-1.334667	check| pull|
+-1.334667	check| tell|
+-1.033637	clean| be|
+-1.033637	clean| have|
+-0.7326072	clear| see|
+-0.7326072	click| view|
+-1.334667	climb| <unk>
+-1.334667	climb| be|
+-1.334667	climb| climb|
+-1.334667	climb| get|
+-1.033637	climb|it be|
+-1.033637	climb|it climb|it
+-0.7163876	close| <unk>
+-1.431577	close| get|
+-1.431577	close| hit|road
+-0.9089599	come| <unk>
+-1.017418	come| be|
+-1.732607	come| come|
+-1.732607	come| find|
+-1.732607	come| get|canoe
+-1.732607	come| have|breakfast
+-1.732607	come| tell|I
+-0.7326072	come|it be|
+-1.033637	complain| <unk>
+-1.033637	complain| be|
+-0.7326072	confirm| <unk>
+-0.7326072	consider| have|
+-0.7326072	consume| go|
+-1.033637	continue| have|
+-1.033637	continue| set|
+-1.033637	convince|PERSON convince|PERSON
+-1.033637	convince|PERSON join|I
+-0.7326072	cook|meal hike|
+-0.7326072	cook|they <unk>
+-0.7326072	couldnt| <unk>
+-1.209728	couldn|MONEY deal|
+-1.209728	couldn|MONEY get|break
+-1.209728	couldn|MONEY have|
+-0.7326072	cover| say|
+-0.7326072	crash| have|time
+-1.033637	crawl| arrive|
+-1.033637	crawl| do|
+-0.7326072	cruise| be|
+-0.7326072	cut| arrive|
+-0.7326072	dance| call|
+-0.7326072	deal| be|
+-1.3069	decide| <unk>
+-2.130547	decide| be|
+-2.130547	decide| call|it
+-2.130547	decide| camp|
+-2.130547	decide| didn|MONEY
+-1.3069	decide| do|
+-2.130547	decide| follow|
+-2.130547	decide| get|start
+-2.130547	decide| give|PERSON
+-2.130547	decide| give|it
+-1.415358	decide| go|
+-2.130547	decide| have|trip
+-2.130547	decide| head|
+-2.130547	decide| need|
+-2.130547	decide| stay|
+-2.130547	decide| stop|
+-2.130547	decide| take|
+-2.130547	decide| take|he
+-2.130547	decide| try|camping
+-2.130547	decide| turn|
+-2.130547	decide| wait|
+-0.7326072	desert| <unk>
+-0.7326072	determine| be|
+-0.7326072	didn|MONEY have|
+-0.7326072	die| <unk>
+-0.7326072	disappear| have|
+-0.7326072	disappoint| be|
+-1.033637	discover| last|
+-1.033637	discover| take|shower
+-1.431577	dive| believe|
+-0.6079299	dive| be|
+-1.431577	dive| see|load
+-1.431577	dive| think|
+-0.7326072	doesn|work <unk>
+-1.209728	don| <unk>
+-0.3860812	don| don|
+-0.7326072	don|MONEY get|
+-0.7326072	don|think have|
+-0.7326072	down| wander|
+-2.613421	do| </s>
+-0.6255411	do| <unk>
+-1.104087	do| be|
+-2.613421	do| bother|I
+-2.613421	do| catch|fish
+-2.613421	do| do|it
+-2.613421	do| eat|they
+-2.613421	do| enjoy|
+-1.789773	do| feel|
+-1.789773	do| figure|
+-1.789773	do| forget|
+-1.789773	do| get|
+-2.613421	do| get|better
+-2.613421	do| get|site
+-2.613421	do| get|time
+-1.789773	do| go|
+-1.789773	do| have|
+-2.613421	do| have|campsite
+-2.613421	do| have|electricity
+-2.613421	do| have|idea
+-2.613421	do| have|lot
+-2.613421	do| have|spot
+-2.613421	do| help|
+-2.613421	do| hit|road
+-2.613421	do| keep|
+-1.789773	do| know|
+-2.613421	do| let|
+-2.613421	do| like|
+-2.613421	do| love|it
+-2.613421	do| make|noise
+-2.613421	do| mention|
+-2.613421	do| mix|
+-1.789773	do| pack|
+-2.613421	do| pile|
+-2.613421	do| put|it
+-2.613421	do| say|
+-2.613421	do| set|tent
+-2.613421	do| sleep|
+-1.789773	do| take|
+-2.613421	do| that|MONEY
+-2.613421	do| think|
+-1.898231	do| want|
+-1.033637	do|NUMBER dive|
+-1.033637	do|NUMBER go|
+-0.7326072	do|hike have|
+-0.6194776	do|it <unk>
+-1.334667	do|it be|
+-1.209728	do|job <unk>
+-1.209728	do|job be|
+-1.209728	do|job head|home
+-0.7326072	do|that have|
+-0.7326072	do|thing go|
+-1.033637	do|walk <unk>
+-1.033637	do|walk do|walk
+-1.209728	do|what </s>
+-1.209728	do|what be|
+-1.209728	do|what make|camp
+-0.7326072	drag| <unk>
+-1.209728	dress| call|
+-1.209728	dress| check|
+-1.209728	dress| tell|she
+-0.7326072	drift| be|
+-0.7326072	drink| blend|
+-0.7326072	drip| get|
+-0.5882717	drive| <unk>
+-0.893591	drive| be|
+-2.223969	drive| check|
+-1.508779	drive| drive|
+-2.223969	drive| find|spot
+-2.223969	drive| get|
+-2.223969	drive| get|CAUSE_OF_DEATH
+-1.400322	drive| make|
+-2.223969	drive| meet|PERSON
+-1.400322	drive| pass|
+-2.223969	drive| relax|
+-2.223969	drive| sit|
+-2.223969	drive| stop|
+-2.223969	drive| that|
+-2.223969	drive| wake|
+-0.7326072	drive|car have|
+-0.7326072	drive|home be|
+-0.7326072	drive|mile arrive|
+-0.2099899	drop| be|
+-0.7326072	dry| <unk>
+-1.577705	eat| <unk>
+-0.7540579	eat| be|
+-1.577705	eat| cook|meal
+-1.577705	eat| discover|
+-1.577705	eat| eat|
+-1.577705	eat| have|
+-0.7326072	eat|breakfast be|
+-0.7326072	eat|they drive|
+-0.7326072	empty| clean|
+-1.334667	end| <unk>
+-1.334667	end| decide|
+-1.334667	end| give|I
+-1.334667	end| take|I
+-1.510759	enjoy| be|
+-1.510759	enjoy| have|
+-1.510759	enjoy| meet|he
+-1.510759	enjoy| read|
+-1.510759	enjoy| soak|
+-1.510759	enjoy| walk|
+-0.7326072	enjoy|it be|
+-0.7326072	enjoy|weather head|
+-1.033637	enter| be|
+-1.033637	enter| enter|
+-0.7326072	escape| leave|
+-1.209728	excite| be|
+-1.209728	excite| have|
+-1.209728	excite| have|DATE
+-0.7326072	expect| do|
+-0.7540579	fall| be|
+-1.577705	fall| don|MONEY
+-1.577705	fall| drive|
+-0.7540579	fall| have|
+-1.577705	fall| wake|
+-0.7326072	feast| be|
+-1.163546	feel| <unk>
+-0.243038	feel| be|
+-1.878735	feel| do|hike
+-1.878735	feel| leave|
+-1.878735	feel| tell|I
+-0.9881412	figure| <unk>
+-0.5745754	figure| be|
+-1.811788	figure| do|
+-1.811788	figure| enjoy|
+-0.9881412	figure| have|
+-1.811788	figure| read|it
+-1.510759	find| <unk>
+-1.510759	find| be|
+-1.510759	find| close|
+-1.510759	find| have|
+-1.510759	find| miss|
+-1.510759	find| turn|
+-0.4945389	find|PERSON <unk>
+-0.7326072	find|campground have|
+-0.7326072	find|campsite have|
+-0.7326072	find|hotel <unk>
+-0.7326072	find|place do|
+-0.7326072	find|site be|
+-0.3860812	find|spot be|
+-1.209728	find|spot set|camp
+-0.7326072	find|way <unk>
+-0.7326072	find|we find|hotel
+-1.209728	finish| <unk>
+-1.209728	finish| be|
+-1.209728	finish| pack|stuff
+-1.209728	fly| </s>
+-1.209728	fly| <unk>
+-1.209728	fly| arrive|
+-1.577705	follow| be|
+-1.577705	follow| follow|
+-1.577705	follow| happen|
+-1.577705	follow| see|
+-1.577705	follow| split|
+-1.577705	follow| trail|
+-1.577705	follow| wasn|t
+-0.7326072	force| turn|
+-1.431577	forget| be|
+-1.431577	forget| get|
+-0.6079299	forget| have|
+-1.431577	forget| pack|
+-1.033637	freeze| <unk>
+-1.033637	freeze| be|
+-1.033637	gain| be|
+-1.033637	gain| gain|
+-2.577705	get| </s>
+-0.69897	get| <unk>
+-2.577705	get| begin|
+-0.6146491	get| be|
+-2.577705	get| break|camp
+-2.577705	get| do|
+-2.577705	get| do|it
+-2.577705	get| dress|
+-1.862516	get| drive|
+-2.577705	get| find|
+-1.340492	get| get|
+-1.862516	get| go|
+-2.577705	get| go|swimming
+-1.862516	get| have|
+-2.577705	get| have|fun
+-2.577705	get| head|
+-1.754058	get| know|
+-2.577705	get| load|
+-1.754058	get| lose|
+-2.577705	get| mean|what
+-2.577705	get| notice|
+-2.577705	get| pack|
+-2.577705	get| rain|
+-2.577705	get| rest|
+-2.577705	get| see|
+-2.577705	get| spook|
+-2.577705	get| stand|
+-2.577705	get| stop|
+-2.577705	get| walk|
+-0.7326072	get|CAUSE_OF_DEATH go|
+-0.7326072	get|better </s>
+-0.7326072	get|break watch|tv
+-0.7326072	get|canoe place|
+-1.033637	get|he <unk>
+-1.033637	get|he be|
+-0.5110199	get|home be|
+-1.334667	get|home go|
+-1.334667	get|home have|
+-0.7326072	get|it <unk>
+-0.7326072	get|photo <unk>
+-0.7326072	get|site <unk>
+-0.7326072	get|start be|
+-1.033637	get|thing forget|
+-1.033637	get|thing need|
+-0.7326072	get|time be|
+-1.033637	give| <unk>
+-1.033637	give| be|
+-0.2099899	give|I <unk>
+-0.7326072	give|NUMBER <unk>
+-0.7326072	give|PERSON give|break
+-0.7326072	give|break take|kid
+-0.7326072	give|go do|job
+-0.7326072	give|it give|go
+-0.7326072	give|she <unk>
+-0.7326072	give|you <unk>
+-0.6114	go| <unk>
+-0.6720979	go| be|
+-2.705735	go| bring|
+-2.705735	go| check|
+-1.882088	go| come|
+-2.705735	go| decide|
+-1.882088	go| do|
+-2.705735	go| drag|
+-2.705735	go| end|
+-2.705735	go| enjoy|
+-2.705735	go| feel|
+-2.705735	go| find|we
+-2.705735	go| get|
+-2.705735	go| get|he
+-2.705735	go| get|thing
+-1.371068	go| go|
+-1.468522	go| have|
+-2.705735	go| have|campfire
+-2.705735	go| have|tent
+-2.705735	go| leave|
+-2.705735	go| leave|house
+-2.705735	go| let|
+-2.705735	go| listen|
+-2.705735	go| make|camp
+-2.705735	go| pack|
+-2.705735	go| play|
+-2.705735	go| read|book
+-2.705735	go| run|
+-2.705735	go| say|
+-2.705735	go| seem|
+-2.705735	go| see|LOCATION
+-2.705735	go| see|it
+-1.882088	go| sleep|
+-1.882088	go| stay|
+-2.705735	go| stroll|
+-2.705735	go| swim|
+-2.705735	go| take|place
+-2.705735	go| think|
+-2.705735	go| try|
+-2.705735	go| turn|
+-2.705735	go| use|
+-2.705735	go| want|
+-0.7326072	go|MONEY be|
+-1.334667	go|camping <unk>
+-0.5110199	go|camping be|
+-1.334667	go|camping know|
+-0.7326072	go|home head|home
+-0.7326072	go|swimming be|
+-0.3860812	go|way <unk>
+-1.209728	go|way decide|
+-0.7326072	grab| feel|
+-1.033637	greet| be|
+-1.033637	greet| head|
+-0.7326072	guess| have|
+-1.209728	hang| <unk>
+-1.209728	hang| head|
+-1.209728	hang| show|
+-1.033637	happen| be|
+-1.033637	happen| stand|
+-0.7326072	hate| do|
+-0.7326072	haven|MONEY eat|breakfast
+-0.6514216	have| <unk>
+-2.815392	have| arrive|
+-2.815392	have| become|
+-0.7025741	have| be|
+-2.815392	have| carry|everything
+-2.815392	have| climb|
+-2.815392	have| close|
+-2.815392	have| come|
+-2.815392	have| complain|
+-2.815392	have| consume|
+-2.815392	have| couldn|MONEY
+-1.991745	have| crawl|
+-2.815392	have| decide|
+-2.815392	have| do|
+-2.815392	have| drive|
+-2.815392	have| drive|car
+-2.815392	have| drop|
+-2.100203	have| eat|
+-2.815392	have| feel|
+-2.815392	have| forget|
+-2.100203	have| get|
+-1.128543	have| go|
+-2.815392	have| go|way
+-2.815392	have| have|
+-2.815392	have| have|enough
+-2.815392	have| have|sleep
+-2.815392	have| have|time
+-2.815392	have| hike|
+-2.815392	have| intend|
+-2.815392	have| keep|
+-2.815392	have| leave|
+-2.815392	have| make|
+-2.815392	have| make|stop
+-2.815392	have| make|talk
+-2.815392	have| melt|
+-2.815392	have| pack|
+-2.815392	have| pass|NUMBER
+-2.815392	have| pitch|tent
+-1.991745	have| plan|
+-2.815392	have| purchase|
+-2.815392	have| recover|
+-1.991745	have| say|
+-1.480725	have| see|
+-2.815392	have| see|what
+-2.815392	have| send|I
+-2.815392	have| set|
+-2.815392	have| sleep|
+-2.815392	have| stay|
+-2.815392	have| suggest|
+-2.815392	have| take|
+-2.815392	have| take|picture
+-2.815392	have| tell|
+-2.815392	have| think|
+-2.815392	have| want|
+-0.7326072	have|DATE plan|
+-0.7326072	have|NUMBER <unk>
+-0.7326072	have|bedroom be|
+-0.7326072	have|beer head|home
+-0.7326072	have|blast start|
+-0.7326072	have|breakfast have|toast
+-0.7326072	have|burger <unk>
+-0.7326072	have|campfire get|
+-1.033637	have|camping have|camping
+-1.033637	have|camping plan|
+-0.7326072	have|campsite be|
+-0.7326072	have|chance do|NUMBER
+-0.7326072	have|couple look|
+-0.7326072	have|dish follow|
+-0.7326072	have|drive arrive|
+-0.7326072	have|electricity have|kitchen
+-0.7326072	have|enough sit|
+-0.7326072	have|family be|
+-0.7326072	have|feeling be|
+-0.7326072	have|fun buy|food
+-0.7326072	have|headache <unk>
+-0.7326072	have|idea <unk>
+-0.7326072	have|kitchen have|bedroom
+-0.6079299	have|lot be|
+-1.431577	have|lot get|
+-1.431577	have|lot have|lot
+-1.431577	have|lot tell|you
+-1.033637	have|lunch <unk>
+-1.033637	have|lunch be|
+-0.7326072	have|none <unk>
+-0.7326072	have|people <unk>
+-0.7326072	have|plan drive|
+-0.7326072	have|rib <unk>
+-1.334667	have|room <unk>
+-1.334667	have|room be|
+-1.334667	have|room drive|
+-1.334667	have|room stay|
+-0.7326072	have|sleep <unk>
+-0.7326072	have|spot be|
+-0.7326072	have|tent be|
+-1.510759	have|time <unk>
+-1.510759	have|time be|
+-1.510759	have|time do|thing
+-1.510759	have|time get|
+-1.510759	have|time have|time
+-1.510759	have|time sleep|
+-0.7326072	have|toast <unk>
+-1.033637	have|trip be|
+-1.033637	have|trip do|
+-1.187714	head| <unk>
+-0.7741477	head| be|
+-2.011361	head| camp|
+-2.011361	head| decide|
+-2.011361	head| drop|
+-2.011361	head| get|
+-2.011361	head| go|
+-2.011361	head| hang|
+-2.011361	head| have|
+-2.011361	head| head|
+-2.011361	head| lie|
+-2.011361	head| pull|
+-2.011361	head| show|
+-2.011361	head| take|kid
+-0.6194776	head|home <unk>
+-1.334667	head|home want|
+-0.7326072	hear| sprinkle|
+-0.7326072	hear|sound wake|
+-1.209728	help| <unk>
+-1.209728	help| be|
+-1.209728	help| look|
+-0.7326072	highlight| be|
+-1.05881	hike| <unk>
+-1.05881	hike| be|
+-1.774	hike| do|
+-1.774	hike| gain|
+-1.774	hike| get|
+-1.774	hike| talk|
+-1.774	hike| wear|
+-0.7326072	hike|it lose|trail
+-1.334667	hit|road get|
+-1.334667	hit|road have|
+-1.334667	hit|road have|drive
+-1.334667	hit|road stop|
+-1.334667	hope| <unk>
+-0.5110199	hope| be|
+-1.334667	hope| stay|
+-0.7326072	hover| sit|
+-0.7326072	identify| taste|
+-0.7326072	ignore|it <unk>
+-0.7326072	imagine| enjoy|
+-1.209728	include| <unk>
+-1.209728	include| bring|
+-1.209728	include| ride|
+-0.7163876	intend| <unk>
+-1.431577	intend| decide|
+-1.431577	intend| leave|
+-1.033637	it|MONEY be|
+-1.033637	it|MONEY have|
+-0.7326072	it|s find|
+-0.7326072	join|I head|
+-0.7326072	jump| be|
+-1.577705	keep| decide|
+-0.7540579	keep| follow|
+-1.577705	keep| get|
+-1.577705	keep| sleep|
+-1.577705	keep| stock|
+-1.577705	keep| worry|
+-0.7326072	kid| be|
+-1.98788	know| </s>
+-0.6532125	know| <unk>
+-0.3521825	know| be|
+-1.98788	know| do|
+-1.98788	know| have|
+-1.27269	know| know|
+-0.7326072	last| begin|
+-0.7326072	laugh| be|
+-0.7326072	lay| rest|
+-0.7163876	learn| be|
+-1.431577	learn| have|
+-1.431577	learn| have|couple
+-0.7326072	learn|thing do|
+-0.7326072	learn|this <unk>
+-0.60206	leave| <unk>
+-1.11308	leave| be|
+-1.936727	leave| decide|
+-1.936727	leave| do|
+-1.936727	leave| drive|
+-1.936727	leave| figure|
+-1.936727	leave| finish|
+-1.936727	leave| go|camping
+-1.936727	leave| haven|MONEY
+-1.936727	leave| leave|
+-1.936727	leave| pack|
+-1.936727	leave| require|
+-0.7326072	leave|home mean|
+-0.7326072	leave|house go|
+-0.7326072	leave|they think|
+-1.732607	let| <unk>
+-1.732607	let| be|
+-1.732607	let| down|
+-1.732607	let| drive|
+-1.732607	let| paint|
+-1.732607	let| say|
+-1.732607	let| speak|
+-0.9089599	let| take|
+-1.732607	let| tell|you
+-1.209728	lie| <unk>
+-1.209728	lie| do|
+-1.209728	lie| sleep|
+-0.7326072	light| be|
+-1.033637	like| <unk>
+-1.033637	like| be|
+-0.7326072	like|it go|
+-0.7326072	limit| have|
+-0.7326072	listen| be|
+-0.7326072	live| be|
+-0.7326072	load| set|
+-0.7326072	lodge| have|room
+-0.7326072	log| have|plan
+-0.6714854	look| <unk>
+-1.908698	look| be|
+-1.908698	look| climb|
+-1.908698	look| do|
+-1.908698	look| feel|
+-1.908698	look| have|room
+-1.908698	look| keep|
+-1.085051	look| look|
+-1.908698	look| sit|
+-1.908698	look| tell|story
+-1.033637	lose| be|
+-1.033637	lose| drive|
+-0.7326072	lose|trail head|
+-0.7326072	love|it be|
+-0.9205076	make| <unk>
+-1.635697	make| be|
+-1.635697	make| go|
+-1.635697	make| have|
+-1.635697	make| sleep|
+-1.635697	make| stay|
+-1.033637	make|camp drive|
+-1.033637	make|camp enjoy|it
+-1.209728	make|dinner blend|
+-1.209728	make|dinner enjoy|
+-1.209728	make|dinner turn|
+-1.635697	make|it </s>
+-1.635697	make|it <unk>
+-1.635697	make|it intend|
+-0.8120499	make|it make|it
+-1.635697	make|it make|way
+-1.635697	make|it take|DURATION
+-1.635697	make|it take|drive
+-1.033637	make|noise be|
+-1.033637	make|noise sit|
+-0.7326072	make|post be|
+-0.7326072	make|stop grab|
+-0.7326072	make|talk try|
+-1.209728	make|way follow|
+-1.209728	make|way go|
+-1.209728	make|way hang|
+-1.033637	mean| have|
+-1.033637	mean| leave|
+-0.7326072	mean|what <unk>
+-1.033637	meet| meet|
+-1.033637	meet| see|
+-0.7326072	meet|PERSON have|
+-0.7326072	meet|he hike|
+-1.033637	melt| sleep|
+-1.033637	melt| stick|
+-1.209728	mention| <unk>
+-1.209728	mention| be|
+-1.209728	mention| have|
+-0.7326072	miss| <unk>
+-0.7326072	miss|PERSON stay|
+-1.033637	mix| let|
+-1.033637	mix| mix|
+-0.6079299	move| be|
+-1.431577	move| do|
+-1.431577	move| light|
+-1.431577	move| move|
+-0.7326072	nap| call|he
+-1.431577	need| <unk>
+-1.431577	need| be|
+-1.431577	need| figure|
+-1.431577	need| get|
+-1.431577	need| press|
+-1.033637	notice| be|
+-1.033637	notice| park|
+-0.7326072	occur| <unk>
+-0.7326072	offer| take|picture
+-1.033637	open| <unk>
+-1.033637	open| get|
+-1.033637	organize| be|
+-1.033637	organize| go|
+-1.033637	overlook|lake <unk>
+-1.033637	overlook|lake have|none
+-0.9881412	pack| <unk>
+-0.9881412	pack| be|
+-1.811788	pack| do|
+-0.9881412	pack| get|
+-1.811788	pack| get|home
+-1.811788	pack| have|
+-1.811788	pack| hit|road
+-1.811788	pack| take|
+-1.811788	pack| |
+-0.7326072	pack|bag go|
+-0.7326072	pack|car head|
+-0.7326072	pack|stuff head|
+-0.7326072	paint| lie|
+-1.209728	park| get|
+-1.209728	park| hike|
+-1.209728	park| park|
+-1.209728	pass| be|
+-1.209728	pass| do|it
+-1.209728	pass| have|
+-0.7326072	pass|NUMBER refuse|
+-1.033637	pave| be|
+-1.033637	pave| have|
+-0.7326072	pile| speed|
+-0.7326072	piss| take|some
+-1.033637	pitch|tent <unk>
+-1.033637	pitch|tent be|
+-0.7326072	place| get|
+-1.510759	plan| <unk>
+-0.6871111	plan| be|
+-1.510759	plan| feel|
+-1.510759	plan| go|
+-1.510759	plan| turn|
+-1.033637	play| have|lunch
+-1.033637	play| see|waterfall
+-1.033637	play|game <unk>
+-1.033637	play|game be|
+-0.7326072	post| get|
+-0.7326072	pray| fall|
+-1.209728	prepare| be|
+-1.209728	prepare| come|
+-1.209728	prepare| prepare|dinner
+-1.033637	prepare|dinner know|
+-1.033637	prepare|dinner prepare|dinner
+-1.209728	press| arrive|
+-1.209728	press| realize|
+-1.209728	press| turn|
+-0.6871111	pull| <unk>
+-1.510759	pull| be|
+-1.510759	pull| decide|
+-1.510759	pull| do|
+-1.510759	pull| learn|
+-0.7326072	pull|it have|
+-0.7326072	purchase| be|
+-0.7326072	put| finish|
+-0.7326072	put|PERSON do|
+-0.7326072	put|it be|
+-0.7326072	quit| head|
+-0.6079299	rain| be|
+-1.431577	rain| get|
+-1.431577	rain| learn|
+-1.431577	rain| log|
+-0.7326072	reach| </s>
+-0.3860812	read| <unk>
+-1.209728	read| be|
+-1.033637	read|PERSON <unk>
+-1.033637	read|PERSON be|
+-0.2099899	read|book <unk>
+-0.7326072	read|it <unk>
+-0.7326072	realize| be|
+-0.7326072	recover| have|family
+-1.033637	reflect| be|
+-1.033637	reflect| know|
+-0.7326072	refresh| <unk>
+-0.7326072	refuse| backtrack|
+-1.033637	relax| read|
+-1.033637	relax| wake|
+-0.7326072	remain| feel|
+-0.7326072	remember| <unk>
+-0.7326072	remember|it don|think
+-0.7326072	rent|cabin decide|
+-0.7326072	replace| have|
+-0.7326072	require| be|
+-1.209728	rest| couldnt|
+-1.209728	rest| get|
+-1.209728	rest| venture|
+-1.209728	return| be|
+-1.209728	return| go|
+-1.209728	return| walk|
+-0.7326072	ride| see|
+-0.7326072	rip| <unk>
+-0.7326072	rise| <unk>
+-0.3860812	run| <unk>
+-1.209728	run| continue|
+-1.055088	say| <unk>
+-0.6415222	say| be|
+-1.163546	say| do|
+-1.878735	say| have|
+-1.878735	say| play|game
+-1.878735	say| sleep|
+-1.878735	say| start|
+-1.033637	scare| </s>
+-1.033637	scare| scare|
+-0.7326072	schedule| <unk>
+-0.7326072	scratch| decide|
+-1.033637	scream| be|
+-1.033637	scream| decide|
+-1.033637	search| be|
+-1.033637	search| find|campsite
+-0.3860812	seem| <unk>
+-1.209728	seem| be|
+-0.7964242	see| <unk>
+-0.7032593	see| be|
+-2.033637	see| do|what
+-2.033637	see| get|home
+-2.033637	see| happen|
+-2.033637	see| have|
+-2.033637	see| look|
+-2.033637	see| see|
+-2.033637	see| set|
+-2.033637	see| take|picture
+-2.033637	see| win|
+-0.7326072	see|LOCATION let|
+-0.7326072	see|PERSON <unk>
+-0.7326072	see|fish know|
+-1.033637	see|it have|
+-1.033637	see|it need|
+-0.7326072	see|kind enter|
+-0.7326072	see|lake have|
+-0.7326072	see|load dive|
+-0.7326072	see|lot see|kind
+-0.7326072	see|people go|
+-0.7326072	see|sign <unk>
+-0.7326072	see|waterfall be|
+-0.7326072	see|what be|
+-1.209728	send|I <unk>
+-1.209728	send|I be|
+-1.209728	send|I do|
+-0.7326072	serve| imagine|
+-1.033637	settle| <unk>
+-1.033637	settle| call|
+-0.9205076	set| <unk>
+-0.8120499	set| be|
+-1.635697	set| have|
+-1.635697	set| prepare|
+-1.635697	set| turn|
+-1.033637	set|camp <unk>
+-1.033637	set|camp learn|
+-0.7326072	set|tent split|
+-0.7326072	share|story <unk>
+-0.7326072	shift| need|
+-1.209728	show| be|
+-1.209728	show| crash|
+-1.209728	show| get|he
+-0.7326072	shrug| <unk>
+-0.7326072	sift| use|
+-0.9881412	sit| <unk>
+-1.096599	sit| be|
+-1.811788	sit| breathe|
+-1.811788	sit| do|
+-1.811788	sit| do|walk
+-1.811788	sit| drive|
+-1.811788	sit| go|
+-1.811788	sit| make|post
+-1.811788	sit| stop|
+-0.7326072	size| <unk>
+-0.69897	sleep| <unk>
+-2.033637	sleep| awake|
+-0.7964242	sleep| be|
+-1.20999	sleep| decide|
+-1.20999	sleep| get|
+-2.033637	sleep| guess|
+-2.033637	sleep| look|
+-2.033637	sleep| seem|
+-1.20999	sleep| sleep|
+-2.033637	sleep| wake|
+-0.7326072	sleep|NUMBER mean|
+-1.033637	soak| be|
+-1.033637	soak| drip|
+-0.7326072	sound| go|
+-0.7326072	speak| <unk>
+-0.7326072	speed| get|
+-0.7326072	spend|DURATION <unk>
+-0.7326072	spend|half pack|car
+-0.7326072	spend|part <unk>
+-0.7326072	spend|rest <unk>
+-0.7326072	spend|time share|story
+-1.033637	split| be|
+-1.033637	split| decide|
+-0.7326072	spook| leave|
+-0.7326072	spread| bet|
+-0.2099899	sprinkle| have|
+-0.6194776	stand| <unk>
+-1.334667	stand| click|
+-0.7326072	stare| <unk>
+-0.6871111	start| <unk>
+-1.510759	start| come|
+-1.510759	start| make|way
+-1.510759	start| rain|
+-1.510759	start| start|
+-1.846551	stay| <unk>
+-1.846551	stay| be|
+-1.846551	stay| cover|
+-1.846551	stay| figure|
+-1.846551	stay| go|
+-1.846551	stay| have|room
+-1.846551	stay| look|
+-1.846551	stay| open|
+-1.846551	stay| pack|bag
+-1.846551	stay| say|
+-1.846551	stay| stay|
+-1.846551	stay| wake|
+-1.846551	stay| watch|
+-1.033637	stick| <unk>
+-1.033637	stick| say|
+-0.7326072	stink| be|
+-0.7326072	stock| <unk>
+-0.4953941	stop| <unk>
+-1.732607	stop| do|job
+-1.732607	stop| fall|
+-1.732607	stop| know|
+-1.732607	stop| play|
+-1.732607	stop| walk|
+-0.7326072	stress| go|
+-1.033637	stroll| be|
+-1.033637	stroll| wait|
+-0.7326072	struggle| start|
+-1.033637	suck| <unk>
+-1.033637	suck| know|
+-0.7326072	suggest| <unk>
+-1.209728	suppose| do|
+-1.209728	suppose| serve|
+-1.209728	suppose| turn|
+-0.7326072	surround| be|
+-0.7326072	swim| go|
+-1.846551	take| <unk>
+-1.022903	take| be|
+-1.846551	take| do|
+-1.846551	take| drive|
+-1.846551	take| eat|
+-1.846551	take| figure|
+-1.846551	take| get|
+-1.846551	take| head|
+-1.846551	take| spend|half
+-1.846551	take| stroll|
+-1.846551	take| take|lot
+-1.846551	take| turn|
+-0.3860812	take|DURATION get|
+-1.209728	take|DURATION set|
+-0.7326072	take|I figure|
+-0.7326072	take|boat <unk>
+-0.7326072	take|chance be|
+-0.7326072	take|drive stop|
+-1.209728	take|he calm|
+-1.209728	take|he fall|
+-1.209728	take|he lodge|
+-0.7326072	take|hike use|
+-0.3860812	take|kid be|
+-1.209728	take|kid find|site
+-0.7326072	take|look be|
+-0.7326072	take|lot <unk>
+-0.7326072	take|photo need|
+-1.334667	take|picture have|people
+-1.334667	take|picture offer|
+-1.334667	take|picture take|picture
+-1.334667	take|picture throw|
+-0.7326072	take|place be|
+-0.7326072	take|shower be|
+-1.033637	take|some <unk>
+-1.033637	take|some search|
+-0.7326072	take|tent <unk>
+-0.7326072	take|time hike|
+-1.033637	take|we be|
+-1.033637	take|we turn|
+-0.7326072	take|while <unk>
+-1.209728	talk| <unk>
+-1.209728	talk| have|
+-1.209728	talk| hike|
+-1.334667	taste| be|
+-1.334667	taste| do|
+-1.334667	taste| have|NUMBER
+-1.334667	taste| taste|
+-0.7326072	teach|they walk|
+-0.09691001	tell| be|
+-1.431577	tell| change|
+-1.209728	tell|I <unk>
+-1.209728	tell|I be|
+-1.209728	tell|I do|
+-0.7326072	tell|PERSON have|
+-1.033637	tell|he feel|
+-1.033637	tell|he want|
+-0.7326072	tell|she base|
+-0.7326072	tell|story <unk>
+-1.033637	tell|you </s>
+-1.033637	tell|you be|
+-1.033637	that| include|
+-1.033637	that| that|
+-0.7326072	that|MONEY <unk>
+-1.022903	think| <unk>
+-0.5161727	think| be|
+-1.022903	think| have|
+-1.846551	think| hit|road
+-1.846551	think| think|
+-1.846551	think| try|it
+-0.7326072	think|which be|
+-1.033637	thrill| find|
+-1.033637	thrill| thrill|
+-1.033637	throw| let|
+-1.033637	throw| replace|
+-1.033637	tire| <unk>
+-1.033637	tire| be|
+-0.7326072	top|it be|
+-1.033637	trail| <unk>
+-1.033637	trail| say|
+-0.7326072	travel| <unk>
+-0.9089599	try| <unk>
+-1.732607	try| find|
+-1.732607	try| find|spot
+-1.732607	try| get|
+-1.732607	try| hike|it
+-1.732607	try| identify|
+-1.732607	try| keep|
+-1.732607	try| make|noise
+-1.732607	try| pull|it
+-1.033637	try|camping be|
+-1.033637	try|camping do|
+-0.7326072	try|it be|
+-1.318448	turn| <unk>
+-0.7032593	turn| be|
+-2.033637	turn| consider|
+-2.033637	turn| decide|
+-2.033637	turn| drive|
+-2.033637	turn| get|
+-2.033637	turn| keep|
+-2.033637	turn| make|it
+-2.033637	turn| see|PERSON
+-2.033637	turn| size|
+-2.033637	turn| sound|
+-2.033637	turn| take|we
+-2.033637	turn| turn|
+-1.033637	upload| <unk>
+-1.033637	upload| upload|
+-1.209728	use| <unk>
+-1.209728	use| live|
+-1.209728	use| spend|part
+-0.7326072	venture| dive|
+-0.7326072	view| buzz|
+-1.209728	wait| <unk>
+-1.209728	wait| arrive|
+-1.209728	wait| have|
+-0.7326072	waken| be|
+-0.8120499	wake| <unk>
+-1.635697	wake| be|
+-1.635697	wake| decide|
+-1.635697	wake| take|
+-1.635697	wake| take|tent
+-1.635697	wake| wake|
+-1.635697	wake| want|
+-1.096599	walk| <unk>
+-0.9881412	walk| be|
+-1.811788	walk| do|
+-1.811788	walk| hike|
+-1.811788	walk| learn|this
+-1.811788	walk| sit|
+-1.811788	walk| trail|
+-1.811788	walk| try|
+-1.811788	walk| watch|it
+-0.7326072	wander| be|
+-0.5740313	want| <unk>
+-1.085051	want| be|
+-1.908698	want| decide|
+-1.908698	want| do|
+-1.908698	want| get|
+-1.085051	want| go|
+-1.908698	want| know|
+-1.908698	want| leave|home
+-1.908698	want| walk|
+-1.908698	want| want|
+-1.033637	wash| be|
+-1.033637	wash| look|
+-1.033637	wasn|t be|
+-1.033637	wasn|t clear|
+-1.033637	watch| <unk>
+-1.033637	watch| dance|
+-0.7326072	watch|it move|
+-0.7326072	watch|sunset drive|
+-0.7326072	watch|tv go|
+-0.7326072	wear| suck|
+-0.2099899	win| be|
+-0.7326072	wipe| make|dinner
+-0.7326072	wish| have|
+-0.7326072	wonder| be|
+-1.431577	work| back|
+-1.431577	work| be|
+-1.431577	work| drive|
+-1.431577	work| get|
+-1.431577	work| take|DURATION
+-1.334667	worry| <unk>
+-1.334667	worry| be|
+-1.334667	worry| call|
+-1.334667	worry| get|
+-0.7326072	zip| get|
+-0.7326072	| be|
+-0.7326072	|MONEY see|lot
+
+\end\

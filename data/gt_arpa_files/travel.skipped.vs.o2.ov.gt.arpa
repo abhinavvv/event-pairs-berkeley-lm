@@ -1,0 +1,4939 @@
+
+\data\
+ngram 1=3047
+ngram 2=1882
+
+\1-grams:
+-6.826504	!!!|PERSON
+-2.10551	</s>
+-99	<s>	0.06758659
+-0.688265	<unk>	0.05398953
+-6.826504	abandon|
+-6.826504	abandon|he
+-6.826504	absolve|I
+-6.826504	accomodate|
+-6.826504	accomplish|
+-6.826504	accomplish|I
+-6.826504	accord|
+-6.826504	accumulate|bike
+-6.826504	achieve|
+-6.826504	acquire|we
+-2.970812	add|	0.0392893
+-6.826504	add|I
+-3.447933	add|it	-0.05987802
+-6.826504	add|view
+-3.447933	add|we	-0.05409463
+-6.826504	adjust|
+-6.826504	adjust|I
+-6.826504	admire|
+-3.447933	admit|	0.0187136
+-6.826504	admit|I
+-6.826504	admit|both
+-6.826504	afford|it
+-6.826504	agree|I
+-6.826504	agree|PERSON
+-6.826504	agree|she
+-6.826504	agree|we
+-3.447933	allow|	-0.05519471
+-6.826504	allow|alcohol
+-6.826504	allow|campground
+-6.826504	allow|car
+-6.826504	allow|you
+-6.826504	alternate|they
+-6.826504	alter|trip
+-3.447933	amaze|	0.0187136
+-6.826504	amaze|I
+-6.826504	amaze|be
+-6.826504	amuse|
+-6.826504	anchor|we
+-6.826504	answer|he
+-6.826504	anticipate|
+-6.826504	anticipate|I
+-6.826504	anticipate|we
+-6.826504	appear|DATE
+-6.826504	appear|it
+-6.826504	appear|what
+-6.826504	appear|which
+-6.826504	appoint|
+-6.826504	appreciate|
+-6.826504	appreciate|I
+-6.826504	approach|
+-6.826504	approach|CAUSE_OF_DEATH
+-6.826504	approach|I
+-6.826504	approach|we
+-6.826504	aren|they
+-6.826504	are|you
+-6.826504	arise|need
+-6.826504	arrange|
+-3.447933	arrange|PERSON	0.0187136
+-2.970812	arrive|	-0.04406649
+-6.826504	arrive|I
+-3.146903	arrive|PERSON	-0.05425196
+-6.826504	arrive|gain
+-6.826504	arrive|p
+-6.826504	arrive|people
+-6.826504	arrive|they
+-3.447933	arrive|we	0.03850958
+-3.447933	ascend|	0.0187136
+-3.447933	ask|	0.03850958
+-3.146903	ask|I	-0.04631507
+-6.826504	ask|PERSON
+-6.826504	ask|camper
+-3.447933	ask|he	-0.04727519
+-6.826504	ask|she
+-6.826504	ask|that
+-6.826504	ask|they
+-3.447933	ask|we	0.03850958
+-6.826504	ask|you
+-6.826504	assateague|
+-6.826504	assemble|
+-6.826504	assese|we
+-3.447933	assume|I	-0.06018845
+-6.826504	assume|we
+-6.826504	assure|I
+-6.826504	assure|PERSON
+-6.826504	assure|you
+-6.826504	attach|
+-6.826504	attack|
+-6.826504	attack|bear
+-3.146903	attempt|	-0.05956736
+-3.447933	attempt|I	-0.06096356
+-6.826504	attempt|we
+-6.826504	attend|we
+-6.826504	attract|
+-6.826504	average|I
+-3.447933	avoid|	-0.05987802
+-6.826504	await|
+-6.826504	awake|I
+-6.826504	awake|we
+-3.146903	backpack|	0.1415486
+-6.826504	backtrack|
+-6.826504	backtrack|we
+-3.447933	back|	-0.06049866
+-6.826504	back|I
+-6.826504	back|it
+-6.826504	back|traffic
+-6.826504	bail|PERSON
+-6.826504	balance|
+-6.826504	balk|we
+-6.826504	bang|
+-6.826504	barbeque|we
+-6.826504	bark|
+-3.146903	base|	-0.05878975
+-6.826504	batter|
+-6.826504	beach|some
+-6.826504	beam|
+-6.826504	bear|
+-6.826504	bear|he
+-6.826504	beat|
+-6.826504	beat|salad
+-6.826504	become|
+-6.826504	become|I
+-6.826504	become|it
+-6.826504	become|sky
+-6.826504	become|they
+-6.826504	become|we
+-6.826504	bed.|
+-3.447933	begin|	0.03850958
+-3.447933	begin|I	-0.06096356
+-6.826504	begin|cloud
+-3.146903	begin|it	-0.2875341
+-6.826504	begin|trip
+-3.146903	begin|we	0.1415486
+-6.826504	behold|
+-3.447933	believe|	-0.05283398
+-6.826504	believe|I
+-6.826504	believe|t
+-6.826504	believe|you
+-6.826504	bend|
+-6.826504	bet|I
+-0.7749119	be|	0.09390986
+-6.826504	be|!!
+-6.826504	be|BUT
+-6.826504	be|CAUSE_OF_DEATH
+-6.826504	be|DATE
+-6.826504	be|DURATION
+-6.826504	be|Everything
+-6.826504	be|Husband
+-2.40654	be|I	0.09213975
+-6.826504	be|LOCATION
+-6.826504	be|MISC
+-3.447933	be|MONEY	-0.06080865
+-6.826504	be|NUMBER
+-6.826504	be|ORGANIZATION
+-3.146903	be|PERSON	-0.06065368
+-6.826504	be|Park
+-6.826504	be|Plus
+-3.447933	be|TIME	-0.06080865
+-6.826504	be|That
+-6.826504	be|Trust
+-6.826504	be|access
+-6.826504	be|activity
+-6.826504	be|adult
+-3.447933	be|advantage	-0.05519471
+-6.826504	be|alcove
+-3.447933	be|all	0.03850958
+-6.826504	be|amaze
+-6.826504	be|anyone
+-6.826504	be|anything
+-3.447933	be|area	-0.06096356
+-6.826504	be|baby
+-6.826504	be|basin
+-3.447933	be|bathroom	0.0187136
+-6.826504	be|battle
+-6.826504	be|best
+-6.826504	be|bit
+-6.826504	be|booth
+-6.826504	be|boy
+-6.826504	be|breakfast
+-3.447933	be|bridge	-0.06080865
+-6.826504	be|brother
+-6.826504	be|calculation
+-6.826504	be|camp
+-6.826504	be|camper
+-6.826504	be|campground
+-6.826504	be|camping
+-3.447933	be|campsite	0.0187136
+-3.447933	be|car	0.0187136
+-6.826504	be|chair
+-6.826504	be|chance
+-3.447933	be|coral	0.03850958
+-6.826504	be|couple
+-6.826504	be|debate
+-6.826504	be|detour
+-6.826504	be|discussion
+-6.826504	be|dish
+-3.447933	be|dive	0.0187136
+-6.826504	be|diver
+-6.826504	be|doubt
+-6.826504	be|downside
+-6.826504	be|else
+-6.826504	be|entry
+-6.826504	be|everybody
+-6.826504	be|everyone
+-6.826504	be|everything
+-6.826504	be|experience
+-6.826504	be|fear
+-6.826504	be|fish
+-6.826504	be|fishing
+-6.826504	be|fly
+-6.826504	be|folk
+-6.826504	be|food
+-6.826504	be|friend
+-6.826504	be|fun
+-6.826504	be|girl
+-6.826504	be|glacier
+-6.826504	be|goal
+-6.826504	be|grizzly
+-6.826504	be|group
+-6.826504	be|guy
+-6.826504	be|he
+-3.447933	be|head	-0.05972272
+-6.826504	be|here
+-6.826504	be|hike
+-3.447933	be|home	-0.05597878
+-6.826504	be|hotel
+-3.447933	be|house	-0.05894539
+-6.826504	be|i
+-6.826504	be|idea
+-6.826504	be|issue
+-2.301805	be|it	0.06909102
+-3.146903	be|kid	0.05599498
+-6.826504	be|life
+-6.826504	be|line
+-6.826504	be|load
+-6.826504	be|look
+-6.826504	be|lot
+-6.826504	be|man
+-3.146903	be|mile	-0.04695538
+-6.826504	be|mine
+-3.447933	be|moment	0.0187136
+-6.826504	be|motorcycle
+-6.826504	be|mountain
+-6.826504	be|my
+-3.447933	be|need	-0.05801075
+-6.826504	be|neighber
+-3.447933	be|news	-0.06096356
+-6.826504	be|no
+-6.826504	be|nothing
+-6.826504	be|number
+-6.826504	be|on
+-6.826504	be|park
+-6.826504	be|part
+-3.447933	be|party	-0.04727519
+-6.826504	be|path
+-6.826504	be|people
+-6.826504	be|picture
+-6.826504	be|pizza
+-6.826504	be|place
+-3.447933	be|plan	-0.05519471
+-6.826504	be|plane
+-6.826504	be|planning
+-3.447933	be|plant	0.03850958
+-3.447933	be|plenty	-0.05972272
+-3.146903	be|point	-0.05141136
+-6.826504	be|policy
+-6.826504	be|pool
+-3.447933	be|problem	0.0187136
+-6.826504	be|rain
+-6.826504	be|rasta
+-6.826504	be|rattlesnake
+-6.826504	be|reason
+-6.826504	be|reply
+-6.826504	be|rest
+-6.826504	be|restaurant
+-6.826504	be|river
+-3.447933	be|road	0.0187136
+-6.826504	be|rock
+-6.826504	be|room
+-6.826504	be|rule
+-6.826504	be|scenery
+-6.826504	be|school
+-6.826504	be|section
+-3.146903	be|she	-0.05941195
+-6.826504	be|shower
+-6.826504	be|sign
+-6.826504	be|silence
+-3.447933	be|site	-0.04727519
+-6.826504	be|skepticism
+-6.826504	be|skiing
+-6.826504	be|soap
+-6.826504	be|some
+-6.826504	be|son
+-6.826504	be|space
+-6.826504	be|species
+-3.447933	be|spot	0.03850958
+-6.826504	be|star
+-6.826504	be|station
+-6.826504	be|stop
+-6.826504	be|stream
+-6.826504	be|structure
+-6.826504	be|stuff
+-6.826504	be|table
+-6.826504	be|talk
+-6.826504	be|temperature
+-3.447933	be|tent	0.0187136
+-2.669782	be|that	0.001039565
+-6.826504	be|theme
+-6.826504	be|then
+-2.845873	be|they	0.0649325
+-3.447933	be|thing	0.03850958
+-3.146903	be|this	0.03870438
+-6.826504	be|tide
+-3.447933	be|time	-0.06049866
+-6.826504	be|toilet
+-6.826504	be|ton
+-6.826504	be|tower
+-6.826504	be|town
+-6.826504	be|track
+-3.447933	be|traffic	-0.05597878
+-3.447933	be|trail	0.03850958
+-6.826504	be|tree
+-3.447933	be|trip	-0.06080865
+-6.826504	be|truth
+-6.826504	be|vendor
+-6.826504	be|view
+-6.826504	be|wait
+-6.826504	be|walking
+-6.826504	be|water
+-6.826504	be|waterfall
+-3.447933	be|way	0.0187136
+-2.40654	be|we	-0.01713169
+-6.826504	be|weather
+-3.146903	be|what	0.1415486
+-2.845873	be|which	0.02830854
+-3.447933	be|who	0.0187136
+-6.826504	be|wildflower
+-6.826504	be|word
+-3.447933	be|you	0.0187136
+-6.826504	bias|m
+-6.826504	bike|we
+-6.826504	bird|
+-6.826504	bite|
+-6.826504	bite|fly
+-6.826504	bite|mosquito
+-6.826504	blag|
+-6.826504	blame|
+-6.826504	blare|
+-6.826504	blaze|
+-6.826504	blend|
+-6.826504	bless|
+-6.826504	bless|God
+-6.826504	blogg|
+-6.826504	blow|
+-6.826504	blow|CAUSE_OF_DEATH
+-6.826504	blow|I
+-6.826504	blow|it
+-6.826504	blow|sand
+-6.826504	blow|they
+-3.447933	blow|wind	-0.06080865
+-3.146903	board|we	-0.06080865
+-6.826504	boil|
+-6.826504	bonk|I
+-6.826504	book|
+-6.826504	book|I
+-6.826504	book|it
+-6.826504	book|we
+-6.826504	bore|
+-6.826504	bore|I
+-6.826504	bore|they
+-6.826504	borrow|
+-3.447933	borrow|we	0.0187136
+-6.826504	bother|it
+-6.826504	bother|t
+-3.447933	bounce|	0.0187136
+-6.826504	brave|
+-6.826504	brave|PERSON
+-6.826504	brave|other
+-6.826504	brave|soul
+-6.826504	breakfast|
+-3.447933	break|	-0.05925649
+-6.826504	break|I
+-6.826504	break|PERSON
+-6.826504	break|camp
+-6.826504	break|it
+-6.826504	break|she
+-6.826504	break|we
+-3.447933	breathe|	-0.04727519
+-6.826504	breathe|I
+-6.826504	breathe|t
+-3.447933	breathe|you	-0.06065368
+-6.826504	brew|sun
+-3.447933	bring|	0.0187136
+-6.826504	bring|I
+-6.826504	bring|LOCATION
+-6.826504	bring|MONEY
+-3.447933	bring|PERSON	-0.06065368
+-6.826504	bring|Redneck
+-6.826504	bring|he
+-6.826504	bring|i
+-6.826504	bring|it
+-6.826504	bring|man
+-6.826504	bring|people
+-3.447933	bring|they	-0.06080865
+-2.970812	bring|we	-0.1965495
+-6.826504	bring|what
+-6.826504	bring|who
+-6.826504	bring|you
+-6.826504	brush|
+-6.826504	build|
+-6.826504	build|CAUSE_OF_DEATH
+-6.826504	build|PERSON
+-6.826504	build|they
+-6.826504	build|we
+-6.826504	build|which
+-3.447933	bundle|we	0.03850958
+-6.826504	burn|
+-6.826504	burn|eye
+-6.826504	burn|it
+-6.826504	bury|
+-6.826504	bus|capital
+-2.970812	buy|	0.04261874
+-2.970812	buy|I	0.05660367
+-6.826504	buy|PERSON
+-6.826504	buy|guy
+-6.826504	buy|he
+-6.826504	buy|sale
+-6.826504	buy|we
+-6.826504	buy|wife
+-6.826504	buy|you
+-3.447933	buzz|	-0.05597878
+-6.826504	bypass|
+-2.602835	call|	0.08209186
+-6.826504	call|Close
+-6.826504	call|DATE
+-3.146903	call|I	0.04007039
+-6.826504	call|PERSON
+-6.826504	call|forecast
+-3.447933	call|he	-0.06034358
+-6.826504	call|it
+-3.447933	call|she	0.03850958
+-6.826504	call|they
+-6.826504	call|we
+-3.447933	call|what	0.0187136
+-6.826504	call|you
+-6.826504	calm|
+-3.447933	calm|I	-0.06065368
+-6.826504	came|
+-2.970812	camp|	0.0307886
+-3.447933	camp|I	0.0187136
+-6.826504	camp|MONEY
+-6.826504	camp|backwoods
+-6.826504	camp|it
+-6.826504	camp|parent
+-6.826504	camp|they
+-6.826504	camp|thing
+-3.146903	camp|we	-0.05346476
+-6.826504	cancel|
+-6.826504	canoe|
+-6.826504	canoe|we
+-6.826504	cant|we
+-6.826504	can|
+-6.826504	can|I
+-6.826504	can|that
+-6.826504	can|we
+-6.826504	can|you
+-6.826504	capture|PERSON
+-6.826504	care|I
+-6.826504	care|we
+-6.826504	care|you
+-3.447933	carry|	-0.06049866
+-6.826504	carry|Husband
+-6.826504	carry|I
+-6.826504	carry|PERSON
+-6.826504	carry|d
+-6.826504	carry|it
+-3.447933	carry|we	0.03850958
+-6.826504	cast|she
+-6.826504	catch|
+-6.826504	catch|Gran
+-6.826504	catch|I
+-6.826504	catch|PERSON
+-6.826504	catch|guy
+-6.826504	catch|he
+-6.826504	catch|it
+-6.826504	catch|they
+-3.447933	catch|we	-0.05972272
+-6.826504	cause|
+-6.826504	cause|it
+-6.826504	cause|she
+-6.826504	cause|switch
+-6.826504	cause|that
+-6.826504	celebrate|
+-6.826504	certify|
+-3.447933	change|	0.0187136
+-6.826504	change|I
+-6.826504	change|etiquette
+-6.826504	change|that
+-6.826504	change|they
+-6.826504	change|thing
+-6.826504	change|this
+-6.826504	change|we
+-6.826504	charge|
+-6.826504	charge|they
+-6.826504	charter|we
+-6.826504	chase|we
+-3.447933	chat|	0.03850958
+-6.826504	chat|we
+-2.669782	check|	0.1472647
+-3.447933	check|I	-0.06080865
+-6.826504	check|camp
+-6.826504	check|he
+-6.826504	check|kid
+-3.146903	check|we	-0.05894539
+-6.826504	check|world
+-6.826504	check|you
+-3.447933	chew|	-0.06080865
+-6.826504	chill|
+-3.447933	chill|we	-0.05409463
+-6.826504	choose|
+-6.826504	choose|I
+-6.826504	choose|d
+-3.447933	choose|we	-0.06080865
+-6.826504	choose|you
+-6.826504	chop|
+-6.826504	chuckle|
+-6.826504	claim|
+-6.826504	claim|I
+-6.826504	clamber|we
+-6.826504	clap|that
+-6.826504	cleanse|
+-2.970812	clean|	-0.09163024
+-6.826504	clean|that
+-6.826504	clean|they
+-3.447933	clean|we	0.03850958
+-6.826504	clear|
+-6.826504	clear|cloud
+-6.826504	clear|island
+-6.826504	clear|it
+-3.447933	clear|rain	0.0187136
+-6.826504	clear|rest
+-6.826504	clear|we
+-6.826504	click|
+-2.845873	climb|	0.04363182
+-3.447933	climb|I	-0.06080865
+-3.447933	climb|PERSON	-0.06049866
+-6.826504	climb|people
+-6.826504	climb|sound
+-3.146903	climb|we	-0.208477
+-6.826504	cling|I
+-6.826504	close|
+-6.826504	close|NUMBER
+-6.826504	close|cause
+-3.146903	close|it	0.01945853
+-6.826504	close|office
+-6.826504	close|that
+-3.447933	close|they	0.0187136
+-6.826504	close|you
+-6.826504	cloud|
+-6.826504	cloud|it
+-6.826504	coax|
+-6.826504	collapse|
+-6.826504	collapse|3/4ths
+-6.826504	collapse|I
+-6.826504	collect|
+-6.826504	color|
+-3.146903	come|	-0.05723035
+-6.826504	come|CAUSE_OF_DEATH
+-3.447933	come|DATE	-0.06080865
+-3.447933	come|I	-0.06080865
+-3.447933	come|NUMBER	-0.06096356
+-6.826504	come|ORGANIZATION
+-6.826504	come|PERSON
+-6.826504	come|TIME
+-6.826504	come|bill
+-6.826504	come|boat
+-6.826504	come|car
+-6.826504	come|child
+-6.826504	come|everyone
+-6.826504	come|family
+-6.826504	come|friend
+-6.826504	come|group
+-6.826504	come|guy
+-6.826504	come|he
+-6.826504	come|it
+-6.826504	come|light
+-3.447933	come|mom	0.0187136
+-6.826504	come|parent
+-6.826504	come|part
+-6.826504	come|people
+-3.447933	come|rain	-0.06065368
+-6.826504	come|she
+-3.447933	come|someone	-0.06065368
+-6.826504	come|son
+-3.447933	come|sun	-0.05972272
+-6.826504	come|tent
+-6.826504	come|that
+-6.826504	come|they
+-6.826504	come|thing
+-6.826504	come|time
+-6.826504	come|traffic
+-6.826504	come|water
+-2.970812	come|we	-0.04615483
+-6.826504	come|which
+-3.447933	come|who	0.0187136
+-6.826504	come|you
+-6.826504	comment|we
+-6.826504	commune|
+-6.826504	communicate|NUMBER
+-6.826504	communicate|who
+-3.447933	compare|	0.03850958
+-3.447933	complain|	0.0187136
+-6.826504	complain|we
+-3.447933	complete|	-0.06096356
+-6.826504	complete|I
+-6.826504	complete|i
+-6.826504	complete|we
+-6.826504	comprise|share
+-6.826504	concentrate|
+-6.826504	concern|
+-6.826504	confess|I
+-6.826504	connect|
+-6.826504	consider|
+-6.826504	consider|I
+-6.826504	consider|people
+-6.826504	consider|thing
+-6.826504	consider|we
+-6.826504	consist|
+-6.826504	consist|PERSON
+-6.826504	consult|we
+-6.826504	consume|PERSON
+-6.826504	consume|which
+-6.826504	contain|photo
+-6.826504	contain|property
+-6.826504	contemplate|
+-6.826504	contend|
+-6.826504	continue|
+-6.826504	continue|I
+-6.826504	continue|White
+-6.826504	continue|he
+-3.146903	continue|we	-0.06034358
+-6.826504	control|
+-6.826504	convince|
+-6.826504	convince|I
+-2.748963	cook|	0.04261873
+-3.447933	cook|I	-0.06096356
+-6.826504	cook|PERSON
+-3.447933	cook|we	-0.06096356
+-6.826504	cool|
+-6.826504	cool|it
+-6.826504	cool|temperature
+-6.826504	cooperate|
+-6.826504	cope|the
+-6.826504	cost|DATE
+-6.826504	cost|campsite
+-6.826504	couldnt|we
+-6.826504	couldn|I
+-6.826504	couldn|MONEY
+-6.826504	couldn|she
+-6.826504	couldn|we
+-6.826504	counter|
+-6.826504	count|
+-6.826504	count|I
+-6.826504	cover|
+-6.826504	cover|she
+-6.826504	cover|that
+-6.826504	cover|wall
+-6.826504	cozy|breakfast
+-6.826504	cram|
+-6.826504	crash|
+-6.826504	crash|I
+-3.447933	crawl|	0.03850958
+-3.447933	crawl|PERSON	0.03850958
+-6.826504	crawl|we
+-3.447933	create|	0.0187136
+-6.826504	create|kid
+-6.826504	creep|
+-6.826504	cringe|I
+-3.447933	cross|	-0.06080865
+-6.826504	cross|I
+-6.826504	cross|boat
+-6.826504	cross|bridge
+-6.826504	cross|it
+-6.826504	cross|trail
+-6.826504	cross|we
+-6.826504	crowd|
+-6.826504	cruise|we
+-6.826504	crush|I
+-6.826504	cry|
+-6.826504	cry|I
+-6.826504	cry|PERSON
+-6.826504	cry|girl
+-6.826504	cry|you
+-6.826504	cuddle|
+-6.826504	curl|PERSON
+-6.826504	curse|we
+-6.826504	cut|
+-6.826504	cut|I
+-6.826504	cut|we
+-6.826504	dart|he
+-3.146903	deal|	0.03870438
+-6.826504	deal|I
+-3.146903	decide|	-0.05816666
+-6.826504	decide|DATE
+-3.146903	decide|I	-0.05956736
+-6.826504	decide|LOCATION
+-3.146903	decide|PERSON	0.02868917
+-6.826504	decide|guy
+-6.826504	decide|he
+-6.826504	decide|i
+-6.826504	decide|it
+-6.826504	decide|people
+-6.826504	decide|she
+-6.826504	decide|they
+-2.49369	decide|we	0.02452052
+-6.826504	decide|who
+-6.826504	declare|PERSON
+-6.826504	deepen|
+-6.826504	defuse|
+-6.826504	dehydrate|I
+-6.826504	dehydrate|grain
+-6.826504	delay|we
+-6.826504	deliver|
+-6.826504	depart|
+-6.826504	depart|we
+-6.826504	depend|that
+-6.826504	descend|
+-6.826504	descend|mosquito
+-3.447933	descend|we	-0.05456644
+-6.826504	describe|
+-6.826504	describe|I
+-6.826504	describe|book
+-6.826504	describe|hike
+-6.826504	describe|they
+-6.826504	describe|you
+-6.826504	desert|
+-6.826504	deserve|Habanero
+-3.447933	designate|	-0.05972272
+-6.826504	desire|
+-6.826504	determine|
+-3.447933	determine|he	-0.06018845
+-6.826504	determine|we
+-3.146903	develop|	-0.05894539
+-6.826504	didnt|we
+-6.826504	didn|
+-3.447933	didn|I	-0.06096356
+-3.146903	didn|PERSON	-0.05425196
+-6.826504	didn|he
+-3.447933	didn|it	0.03850958
+-6.826504	didn|that
+-6.826504	didn|they
+-2.669782	didn|we	-0.1957708
+-3.447933	didn|you	-0.06080865
+-6.826504	die|
+-6.826504	die|CAUSE_OF_DEATH
+-6.826504	die|I
+-6.826504	die|we
+-3.447933	digress|I	-0.06080865
+-6.826504	dig|
+-6.826504	dig|I
+-6.826504	dig|they
+-6.826504	dig|you
+-6.826504	dine|
+-6.826504	dip|
+-6.826504	dip|PERSON
+-6.826504	direct|
+-6.826504	direct|it
+-6.826504	disapoint|it
+-6.826504	disappear|
+-6.826504	disappoint|we
+-6.826504	discover|
+-6.826504	discover|I
+-3.146903	discover|PERSON	-0.06065368
+-6.826504	discover|we
+-6.826504	discuss|
+-6.826504	discuss|we
+-6.826504	disturb|
+-6.826504	disway|we
+-3.447933	dive|	0.03850958
+-6.826504	dive|NUMBER
+-6.826504	dive|he
+-6.826504	dive|i
+-3.447933	dive|we	-0.05597878
+-6.826504	do.|
+-6.826504	do.|I
+-6.826504	dodge|
+-6.826504	doesn|it
+-6.826504	doesn|which
+-6.826504	doesn|who
+-6.826504	dominate|group
+-6.826504	dominate|it
+-6.826504	don|
+-3.447933	don|I	0.03850958
+-6.826504	don|we
+-6.826504	don|who
+-6.826504	don|you
+-6.826504	download|I
+-6.826504	down|PERSON
+-6.826504	doze|
+-1.723657	do|	0.001155317
+-2.49369	do|I	0.1505292
+-6.826504	do|Little
+-6.826504	do|MONEY
+-6.826504	do|NUMBER
+-6.826504	do|ORGANIZATION
+-2.669782	do|PERSON	-0.03941967
+-6.826504	do|TIME
+-6.826504	do|camp
+-6.826504	do|crew
+-6.826504	do|d
+-3.146903	do|dive	-0.05769876
+-6.826504	do|everyone
+-6.826504	do|fishing
+-6.826504	do|forcast
+-3.447933	do|he	-0.06096356
+-6.826504	do|i
+-6.826504	do|it
+-6.826504	do|kind
+-6.826504	do|neither
+-6.826504	do|no
+-6.826504	do|picture
+-6.826504	do|plenty
+-3.447933	do|she	-0.06096356
+-6.826504	do|some
+-6.826504	do|something
+-6.826504	do|t
+-6.826504	do|that
+-6.826504	do|they
+-6.826504	do|thing
+-6.826504	do|ve
+-2.49369	do|we	-0.02764608
+-6.826504	do|what
+-3.447933	do|who	-0.06096356
+-3.447933	do|you	-0.06065368
+-6.826504	drag|
+-6.826504	drag|I
+-6.826504	drag|we
+-6.826504	drain|I
+-3.447933	dread|	0.0187136
+-6.826504	dream|
+-6.826504	dream|I
+-6.826504	drench|
+-6.826504	drench|sky
+-3.146903	dress|	0.0408529
+-6.826504	dress|I
+-6.826504	drinkin|Al
+-6.826504	drink|
+-6.826504	drink|I
+-6.826504	drink|we
+-6.826504	drip|
+-2.447933	drive|	0.07084411
+-2.970812	drive|I	-0.1181456
+-6.826504	drive|PERSON
+-3.447933	drive|he	-0.06003326
+-6.826504	drive|then
+-2.368752	drive|we	0.06253199
+-6.826504	drive|wheel
+-6.826504	drive|you
+-3.447933	drop|	0.03850958
+-3.146903	drop|I	0.03889926
+-6.826504	drop|NUMBER
+-6.826504	drop|group
+-6.826504	drop|temp
+-6.826504	drop|temperature
+-6.826504	drop|traffic
+-2.970812	drop|we	0.03967967
+-3.447933	drown|	0.0187136
+-3.146903	dry|	-0.05409463
+-6.826504	dry|I
+-6.826504	dry|freeze
+-6.826504	dry|tent
+-6.826504	dry|thing
+-3.447933	duck|	-0.06034358
+-3.447933	dump|we	-0.05878975
+-6.826504	earn|pad
+-2.845873	eat|	0.04338443
+-6.826504	eat|I
+-6.826504	eat|PERSON
+-3.447933	eat|fish	-0.05972272
+-6.826504	eat|guitar
+-6.826504	eat|he
+-6.826504	eat|hike
+-6.826504	eat|kid
+-6.826504	eat|mosquito
+-6.826504	eat|she
+-6.826504	eat|t
+-3.447933	eat|they	-0.06065368
+-6.826504	eat|we
+-6.826504	eat|which
+-6.826504	eat|you
+-6.826504	edge|
+-6.826504	edward|
+-6.826504	elbow|I
+-6.826504	elect|
+-6.826504	embark|
+-6.826504	embark|we
+-6.826504	emerge|we
+-6.826504	emphasize|I
+-6.826504	empty|
+-6.826504	encounter|
+-6.826504	encounter|we
+-6.826504	encourage|I
+-6.826504	endure|
+-6.826504	endure|NUMBER
+-6.826504	end|
+-6.826504	end|I
+-6.826504	end|Road
+-6.826504	end|dive
+-6.826504	end|he
+-6.826504	end|it
+-6.826504	end|that
+-6.826504	end|this
+-6.826504	end|trip
+-3.447933	end|we	-0.05987802
+-6.826504	end|which
+-6.826504	engage|we
+-6.826504	engeneer|that
+-2.970812	enjoy|	-0.09850991
+-6.826504	enjoy|Girly
+-3.447933	enjoy|I	-0.05894539
+-6.826504	enjoy|PERSON
+-6.826504	enjoy|citizen
+-3.447933	enjoy|he	0.0187136
+-6.826504	enjoy|it
+-6.826504	enjoy|kid
+-6.826504	enjoy|she
+-6.826504	enjoy|they
+-2.845873	enjoy|we	-0.04034695
+-6.826504	enjoy|you
+-6.826504	enlarge|
+-6.826504	ensure|
+-3.447933	entertain|	-0.06065368
+-6.826504	entertain|you
+-6.826504	enter|
+-6.826504	enter|I
+-3.447933	enter|we	-0.06049866
+-6.826504	equalize|
+-6.826504	equip|
+-6.826504	erode|
+-6.826504	escape|
+-6.826504	estimate|I
+-6.826504	etch|
+-6.826504	examine|
+-6.826504	excite|I
+-3.447933	excite|we	0.0187136
+-6.826504	exclude|
+-6.826504	exercise|
+-6.826504	exhaust|
+-6.826504	exhaust|I
+-6.826504	exhaust|it
+-6.826504	exhaust|time
+-6.826504	exhaust|we
+-6.826504	exict|we
+-6.826504	exit|
+-6.826504	exit|we
+-6.826504	expand|
+-6.826504	expect|
+-3.447933	expect|I	-0.05987802
+-3.146903	expect|we	-0.05236029
+-3.447933	expect|you	-0.05283398
+-6.826504	experience|
+-3.447933	experience|I	0.0187136
+-6.826504	experience|who
+-6.826504	explain|
+-6.826504	explain|I
+-6.826504	explain|chief
+-3.447933	explore|	0.0187136
+-3.447933	explore|I	-0.06096356
+-6.826504	explore|we
+-6.826504	face|
+-6.826504	face|I
+-6.826504	face|we
+-6.826504	fail|
+-6.826504	fail|I
+-6.826504	fail|idea
+-6.826504	fall|
+-6.826504	fall|I
+-3.447933	fall|NUMBER	-0.05972272
+-3.447933	fall|PERSON	0.0187136
+-6.826504	fall|Tristan
+-6.826504	fall|cooler
+-3.447933	fall|he	0.0187136
+-6.826504	fall|it
+-3.447933	fall|rain	0.0187136
+-6.826504	fall|that
+-6.826504	fall|the
+-6.826504	fall|they
+-6.826504	fall|we
+-6.826504	fall|you
+-6.826504	family|
+-6.826504	fashion|
+-6.826504	fear|I
+-3.447933	feast|	0.0187136
+-3.447933	feast|we	-0.06034358
+-6.826504	feature|
+-6.826504	feed|
+-6.826504	feed|I
+-6.826504	feed|they
+-6.826504	feed|we
+-6.826504	feel|
+-2.669782	feel|I	0.08064982
+-6.826504	feel|PERSON
+-6.826504	feel|drink
+-6.826504	feel|each
+-6.826504	feel|he
+-2.970812	feel|it	0.02773824
+-6.826504	feel|ride
+-6.826504	feel|she
+-6.826504	feel|tent
+-6.826504	feel|that
+-6.826504	feel|they
+-6.826504	feel|this
+-6.826504	feel|we
+-6.826504	feel|you
+-6.826504	fiddle|
+-2.970812	fight|	-0.05769875
+-6.826504	fight|I
+-3.146903	figure|	-0.06049866
+-2.970812	figure|I	0.03598519
+-6.826504	figure|PERSON
+-3.447933	figure|they	-0.06080865
+-3.146903	figure|we	0.01908591
+-2.970812	fill|	0.01927219
+-6.826504	fill|DURATION
+-6.826504	fill|I
+-3.447933	fill|it	-0.06096356
+-6.826504	fill|site
+-6.826504	fill|sky
+-6.826504	fill|we
+-6.826504	film|part
+-6.826504	filter|we
+-2.544843	find|	0.008946419
+-6.826504	find|DATE
+-6.826504	find|I
+-6.826504	find|PERSON
+-6.826504	find|diamond
+-6.826504	find|food
+-6.826504	find|she
+-6.826504	find|suggestion
+-3.447933	find|t	-0.06080865
+-6.826504	find|tent
+-6.826504	find|they
+-3.146903	find|we	0.01908591
+-6.826504	find|which
+-6.826504	find|you
+-2.970812	finish|	0.02716867
+-3.447933	finish|I	-0.06049866
+-6.826504	finish|we
+-6.826504	fire|
+-6.826504	fire|I
+-6.826504	fish|they
+-6.826504	fit|
+-6.826504	fit|that
+-6.826504	fit|they
+-3.146903	fix|	-0.06049866
+-6.826504	fix|guy
+-6.826504	fix|it
+-6.826504	fix|we
+-6.826504	flap|
+-6.826504	flip|someone
+-6.826504	float|
+-6.826504	float|I
+-6.826504	float|we
+-6.826504	flood|that
+-6.826504	floor|My
+-6.826504	flow|
+-6.826504	flow|it
+-6.826504	flow|river
+-6.826504	flow|that
+-6.826504	flush|
+-6.826504	fly|
+-6.826504	fly|DATE
+-6.826504	fly|be
+-6.826504	fly|it
+-6.826504	fly|we
+-6.826504	focus|
+-6.826504	focus|he
+-6.826504	fold|she
+-2.970812	follow|	0.03889927
+-3.447933	follow|I	-0.06049866
+-6.826504	follow|PERSON
+-6.826504	follow|that
+-6.826504	follow|this
+-6.826504	follow|trail
+-6.826504	follow|we
+-6.826504	forage|
+-6.826504	forage|we
+-6.826504	force|
+-6.826504	force|I
+-3.447933	forget|	-0.05283398
+-6.826504	forget|!!
+-3.447933	forget|I	-0.04727519
+-6.826504	forget|we
+-6.826504	forget|you
+-6.826504	form|
+-2.845873	freak|	0.02151371
+-6.826504	freak|I
+-6.826504	freak|PERSON
+-6.826504	freeze|
+-6.826504	freeze|I
+-6.826504	frequent|none
+-6.826504	fry|
+-6.826504	fry|country
+-6.826504	fuck|
+-6.826504	fuel|
+-6.826504	fuel|we
+-6.826504	fussed|you
+-6.826504	gain|
+-6.826504	gain|we
+-3.447933	gather|	-0.06080865
+-6.826504	gather|one
+-6.826504	gather|we
+-6.826504	gaze|
+-6.826504	gaze|we
+-6.826504	gear|girl
+-3.447933	gear|we	0.0187136
+-1.868149	get|	0.0652889
+-3.447933	get|DATE	0.0187136
+-6.826504	get|DURATION
+-6.826504	get|Finaly
+-6.826504	get|Girly
+-2.301805	get|I	0.1406694
+-6.826504	get|LOCATION
+-6.826504	get|MISC
+-3.146903	get|NUMBER	0.1415486
+-6.826504	get|ORGANIZATION
+-3.146903	get|PERSON	0.03967966
+-6.826504	get|SO
+-6.826504	get|boy
+-6.826504	get|camp
+-6.826504	get|car
+-6.826504	get|cloud
+-6.826504	get|everyone
+-3.447933	get|girl	-0.05941195
+-3.146903	get|he	0.0408529
+-6.826504	get|hike
+-6.826504	get|housekeeper
+-2.970812	get|i	-0.05188608
+-3.146903	get|it	0.01889972
+-3.447933	get|kid	0.0187136
+-6.826504	get|part
+-6.826504	get|place
+-3.146903	get|she	-0.06049866
+-6.826504	get|squeeter
+-3.447933	get|t	-0.06049866
+-3.447933	get|that	-0.06080865
+-6.826504	get|they
+-6.826504	get|thing
+-6.826504	get|ve
+-6.826504	get|water
+-1.929419	get|we	-0.02323693
+-6.826504	get|which
+-6.826504	get|who
+-6.826504	get|you
+-3.146903	giggle|	-0.06049866
+-2.845873	give|	-0.08564198
+-6.826504	give|CAUSE_OF_DEATH
+-3.146903	give|I	0.03889926
+-6.826504	give|MONEY
+-6.826504	give|PERSON
+-6.826504	give|askedffriend
+-6.826504	give|doctor
+-3.146903	give|he	-0.06065368
+-2.845873	give|it	-0.05903053
+-6.826504	give|k
+-6.826504	give|lady
+-6.826504	give|s
+-6.826504	give|she
+-6.826504	give|store
+-6.826504	give|that
+-3.146903	give|they	-0.05894539
+-6.826504	give|trip
+-6.826504	give|we
+-3.447933	give|which	-0.06096356
+-6.826504	give|while
+-6.826504	glance|
+-6.826504	glare|we
+-6.826504	glaze|
+-6.826504	gloat|
+-6.826504	go?|
+-6.826504	gon|
+-6.826504	gon|I
+-6.826504	gon|that
+-1.79472	go|	0.0652066
+-6.826504	go|A
+-6.826504	go|CAUSE_OF_DEATH
+-6.826504	go|DATE
+-6.826504	go|DURATION
+-6.826504	go|Finaly
+-2.49369	go|I	-0.09797113
+-6.826504	go|LOCATION
+-6.826504	go|NUMBER
+-6.826504	go|ORDINAL
+-2.970812	go|PERSON	0.04656869
+-3.447933	go|TIME	-0.05972272
+-3.447933	go|all	0.0187136
+-6.826504	go|boat
+-6.826504	go|boy
+-6.826504	go|couple
+-6.826504	go|d
+-6.826504	go|dad
+-6.826504	go|daughter
+-6.826504	go|do
+-6.826504	go|everyone
+-3.447933	go|everything	-0.05456644
+-6.826504	go|fam
+-6.826504	go|family
+-6.826504	go|girl
+-3.447933	go|group	0.0187136
+-6.826504	go|guy
+-3.447933	go|he	0.0187136
+-6.826504	go|helo
+-6.826504	go|i
+-2.970812	go|it	0.02076525
+-6.826504	go|kid
+-6.826504	go|lady
+-6.826504	go|light
+-6.826504	go|moring
+-6.826504	go|most
+-6.826504	go|niece
+-6.826504	go|parent
+-6.826504	go|people
+-3.447933	go|rain	-0.05956736
+-6.826504	go|rest
+-3.146903	go|she	0.04124469
+-6.826504	go|some
+-6.826504	go|son
+-6.826504	go|sun
+-6.826504	go|tank
+-6.826504	go|tent
+-3.146903	go|that	0.01964496
+-3.447933	go|then	-0.05894539
+-3.146903	go|they	-0.05188609
+-6.826504	go|thing
+-3.447933	go|this	0.03850958
+-3.447933	go|time	-0.06049866
+-3.447933	go|trail	-0.05409463
+-6.826504	go|train
+-6.826504	go|trip
+-2.271842	go|we	0.03776765
+-6.826504	go|weather
+-6.826504	go|what
+-6.826504	go|which
+-6.826504	go|who
+-3.447933	go|you	-0.06080865
+-3.146903	grab|	0.04498439
+-3.447933	grab|I	-0.06018845
+-6.826504	grab|PERSON
+-6.826504	grab|blog
+-6.826504	grab|i
+-3.447933	grab|we	-0.06080865
+-6.826504	grab|you
+-6.826504	grant|God
+-6.826504	grate|site
+-6.826504	greet|
+-6.826504	greet|we
+-6.826504	grow|
+-6.826504	grow|I
+-6.826504	grow|he
+-3.146903	grow|it	0.03889926
+-6.826504	grow|we
+-6.826504	grumble|kid
+-6.826504	guess|
+-3.447933	guess|I	0.03850958
+-6.826504	guess|i
+-6.826504	guess|you
+-6.826504	guide|
+-6.826504	had.|I
+-6.826504	hadn|I
+-3.447933	hadn|we	0.03850958
+-6.826504	haha|
+-6.826504	hammer|
+-3.447933	handle|	0.03850958
+-6.826504	handle|I
+-6.826504	handle|car
+-6.826504	handle|kid
+-6.826504	handle|we
+-6.826504	hand|
+-6.826504	hand|I
+-6.826504	hand|leader
+-3.447933	hand|they	-0.06080865
+-6.826504	hand|we
+-3.447933	hang|	-0.05283398
+-6.826504	hang|I
+-6.826504	hang|PERSON
+-6.826504	hang|kid
+-6.826504	hang|that
+-6.826504	hang|the
+-6.826504	hang|they
+-3.146903	hang|we	0.01889972
+-6.826504	happen|
+-6.826504	happen|DATE
+-6.826504	happen|I
+-6.826504	happen|anything
+-6.826504	happen|he
+-3.146903	happen|it	-0.06003326
+-6.826504	happen|nothing
+-6.826504	happen|that
+-3.447933	happen|thing	0.03850958
+-6.826504	happen|this
+-3.447933	happen|we	0.0187136
+-3.447933	happen|what	-0.06096356
+-6.826504	happen|which
+-6.826504	happen|who
+-6.826504	hardly|I
+-6.826504	hate|
+-6.826504	hate|I
+-6.826504	hate|PERSON
+-6.826504	hate|girl
+-6.826504	hate|we
+-6.826504	haul|
+-6.826504	haven|I
+-1.50345	have|	-0.1070702
+-6.826504	have|'d
+-6.826504	have|AND
+-6.826504	have|DATE
+-6.826504	have|DURATION
+-2.146903	have|I	0.07014973
+-3.447933	have|LOCATION	-0.04727519
+-6.826504	have|MISC
+-6.826504	have|MONEY
+-6.826504	have|NATIONALITY
+-6.826504	have|NUMBER
+-6.826504	have|ORGANIZATION
+-2.669782	have|PERSON	0.04340585
+-6.826504	have|TIME
+-6.826504	have|TITLE
+-6.826504	have|all
+-6.826504	have|anyone
+-6.826504	have|area
+-6.826504	have|beach
+-6.826504	have|bedroom
+-6.826504	have|boat
+-6.826504	have|boy
+-6.826504	have|car
+-6.826504	have|caye
+-6.826504	have|child
+-6.826504	have|cold
+-6.826504	have|dog
+-6.826504	have|driver
+-6.826504	have|everyone
+-6.826504	have|friend
+-6.826504	have|girl
+-6.826504	have|grandparent
+-6.826504	have|grill
+-6.826504	have|guy
+-2.669782	have|he	-0.01221883
+-6.826504	have|home
+-6.826504	have|hotel
+-6.826504	have|husband
+-3.146903	have|i	0.04736301
+-6.826504	have|it
+-6.826504	have|jump
+-6.826504	have|k
+-6.826504	have|kid
+-6.826504	have|ll
+-6.826504	have|luck
+-6.826504	have|male
+-3.146903	have|man	0.0354047
+-6.826504	have|mattress
+-6.826504	have|mosquito
+-6.826504	have|most
+-6.826504	have|neither
+-6.826504	have|no-one
+-6.826504	have|other
+-6.826504	have|pannier
+-6.826504	have|panther
+-6.826504	have|part
+-6.826504	have|people
+-6.826504	have|person
+-6.826504	have|picture
+-6.826504	have|place
+-6.826504	have|river
+-6.826504	have|room
+-6.826504	have|route
+-6.826504	have|scout
+-3.447933	have|she	-0.06096356
+-6.826504	have|side
+-6.826504	have|site
+-6.826504	have|sky
+-6.826504	have|spot
+-6.826504	have|story
+-6.826504	have|t
+-6.826504	have|team
+-3.447933	have|tent	0.0187136
+-3.447933	have|that	-0.06096356
+-6.826504	have|the
+-6.826504	have|then
+-2.845873	have|they	0.02076525
+-6.826504	have|time
+-6.826504	have|timing
+-6.826504	have|trail
+-6.826504	have|tree
+-6.826504	have|trip
+-6.826504	have|truck
+-6.826504	have|ve
+-6.826504	have|water
+-1.824684	have|we	0.07197005
+-6.826504	have|which
+-6.826504	have|who
+-2.970812	have|you	-0.05847831
+-2.845873	head|	0.03117141
+-6.826504	head|&
+-6.826504	head|DATE
+-2.845873	head|I	-0.0555085
+-3.447933	head|PERSON	-0.06049866
+-6.826504	head|boat
+-3.447933	head|he	-0.04727519
+-6.826504	head|kid
+-6.826504	head|m
+-2.368752	head|we	-0.07457244
+-6.826504	hear|
+-3.447933	hear|I	-0.06065368
+-6.826504	hear|PERSON
+-6.826504	hear|WI
+-6.826504	hear|all
+-6.826504	hear|d
+-6.826504	hear|she
+-6.826504	hear|t
+-3.447933	hear|they	-0.06096356
+-3.146903	hear|we	-0.05723035
+-6.826504	hear|you
+-6.826504	heat|
+-6.826504	heed|
+-3.447933	help|	0.0187136
+-3.447933	help|I	-0.05597878
+-6.826504	help|LOCATION
+-6.826504	help|PERSON
+-6.826504	help|he
+-6.826504	help|it
+-6.826504	help|jacket
+-6.826504	help|low
+-6.826504	help|that
+-6.826504	help|they
+-6.826504	help|we
+-6.826504	here|
+-6.826504	here|Well
+-6.826504	here|ear
+-6.826504	hesitate|I
+-6.826504	he|
+-6.826504	he|I
+-6.826504	he|poem
+-3.447933	hide|PERSON	-0.05925649
+-6.826504	hide|he
+-6.826504	highlight|
+-3.146903	hike|	0.03889926
+-6.826504	hike|DATE
+-6.826504	hike|DURATION
+-3.447933	hike|I	0.0187136
+-6.826504	hike|t
+-2.845873	hike|we	-0.05251824
+-3.146903	hike|you	0.03909423
+-2.748963	hit|	-0.03658312
+-6.826504	hit|DURATION
+-6.826504	hit|I
+-3.447933	hit|PERSON	0.03850958
+-6.826504	hit|all
+-6.826504	hit|head
+-6.826504	hit|it
+-6.826504	hit|that
+-6.826504	hit|they
+-3.146903	hit|we	0.0408529
+-2.970812	hold|	-0.05801074
+-6.826504	hold|I
+-6.826504	hold|camp
+-6.826504	hold|it
+-6.826504	hold|luck
+-6.826504	hold|they
+-6.826504	hold|we
+-6.826504	holler|you
+-3.447933	hoof|we	-0.05894539
+-6.826504	hook|he
+-3.146903	hope|	0.0459739
+-3.146903	hope|I	-0.05236029
+-6.826504	hope|tent
+-3.447933	hope|we	0.0187136
+-6.826504	hop|
+-6.826504	hop|I
+-6.826504	hop|we
+-6.826504	hospital|
+-6.826504	hug|
+-6.826504	hurl|old
+-3.146903	hurry|	0.02584257
+-3.447933	hurt|	0.0187136
+-6.826504	hurt|ground
+-3.447933	hurt|it	-0.06018845
+-6.826504	hurt|leg
+-6.826504	hurt|they
+-3.447933	identify|	-0.06096356
+-6.826504	identify|I
+-6.826504	ignore|
+-6.826504	ignore|I
+-6.826504	illustrate|
+-3.146903	imagine|	0.1415486
+-6.826504	imagine|I
+-3.447933	imagine|you	-0.05769876
+-6.826504	imply|
+-6.826504	impose|
+-6.826504	impress|I
+-6.826504	improve|
+-6.826504	improve|weather
+-2.49369	include|	0.06201518
+-6.826504	include|MONEY
+-6.826504	include|myself
+-6.826504	include|other
+-6.826504	include|price
+-6.826504	include|stats
+-6.826504	include|that
+-6.826504	increase|heart
+-6.826504	inflate|
+-6.826504	ingrain|it
+-6.826504	inhabit|camp
+-6.826504	inhabit|sex
+-6.826504	injure|
+-6.826504	insist|girl
+-6.826504	insist|t
+-6.826504	intend|
+-6.826504	intend|I
+-3.447933	intend|we	-0.06065368
+-6.826504	internett|PERSON
+-6.826504	intersperse|
+-6.826504	introduce|I
+-6.826504	investigate|
+-6.826504	invite|I
+-6.826504	invite|PERSON
+-6.826504	invite|people
+-6.826504	invite|we
+-6.826504	involve|
+-6.826504	involve|it
+-3.447933	isn|it	-0.05409463
+-6.826504	isolate|
+-6.826504	itch|
+-6.826504	it|
+-6.826504	it|it
+-6.826504	it|s
+-6.826504	i|
+-6.826504	jet|we
+-3.447933	join|	-0.06096356
+-6.826504	join|I
+-6.826504	join|PERSON
+-6.826504	join|rest
+-6.826504	join|some
+-6.826504	join|ve
+-6.826504	join|we
+-6.826504	joke|we
+-6.826504	judge|
+-3.447933	jump|	-0.06096356
+-6.826504	jump|PERSON
+-3.447933	jump|kid	0.03850958
+-6.826504	jump|we
+-2.544843	keep|	-0.09877367
+-6.826504	keep|DURATION
+-3.146903	keep|I	-0.05956736
+-6.826504	keep|NUMBER
+-6.826504	keep|PERSON
+-6.826504	keep|girl
+-6.826504	keep|he
+-6.826504	keep|it
+-6.826504	keep|that
+-3.447933	keep|we	-0.05409463
+-6.826504	keep|what
+-3.447933	kick|	-0.05925649
+-6.826504	kick|that
+-6.826504	kick|we
+-6.826504	kid|
+-6.826504	kid|we
+-6.826504	kill|
+-6.826504	kill|I
+-6.826504	knit|I
+-6.826504	knit|it
+-6.826504	knock|I
+-2.748963	know|	-0.0500716
+-3.447933	know|I	-0.05894539
+-6.826504	know|PERSON
+-6.826504	know|any
+-6.826504	know|cyclist
+-6.826504	know|he
+-6.826504	know|it
+-6.826504	know|she
+-3.146903	know|t	0.01945853
+-6.826504	know|that
+-3.447933	know|they	0.03850958
+-6.826504	know|this
+-3.447933	know|we	-0.05456644
+-6.826504	know|who
+-2.845873	know|you	0.01964496
+-6.826504	land|
+-6.826504	land|DURATION
+-6.826504	lash|nothing
+-6.826504	last|it
+-6.826504	last|peace
+-6.826504	last|which
+-6.826504	laugh|
+-6.826504	laugh|I
+-6.826504	laugh|they
+-6.826504	laugh|we
+-6.826504	launch|
+-6.826504	launch|we
+-3.447933	lay|	0.03850958
+-6.826504	lay|I
+-3.447933	lay|we	-0.06096356
+-6.826504	lead|
+-6.826504	lead|I
+-6.826504	lead|that
+-3.447933	leak|	-0.06096356
+-6.826504	leak|mask
+-6.826504	leak|tent
+-6.826504	lean|you
+-3.447933	learn|	-0.06049866
+-6.826504	learn|'d
+-3.447933	learn|I	0.03850958
+-6.826504	learn|LOCATION
+-6.826504	learn|PERSON
+-6.826504	learn|Sander
+-6.826504	learn|TITLE
+-6.826504	learn|son
+-6.826504	learn|we
+-6.826504	learn|you
+-2.602835	leave|	0.03155456
+-2.970812	leave|I	0.05884283
+-6.826504	leave|ORDINAL
+-3.447933	leave|PERSON	-0.06065368
+-6.826504	leave|group
+-3.447933	leave|he	-0.06096356
+-6.826504	leave|i
+-3.447933	leave|it	-0.05987802
+-6.826504	leave|that
+-6.826504	leave|they
+-2.40654	leave|we	0.1312009
+-6.826504	leave|what
+-6.826504	leave|who
+-6.826504	leave|you
+-6.826504	lecture|camp
+-6.826504	lend|
+-6.826504	lend|k
+-2.447933	let|	-0.07026751
+-3.447933	let|I	0.0187136
+-6.826504	let|MONEY
+-6.826504	let|PERSON
+-6.826504	let|TIME
+-6.826504	let|friend
+-6.826504	let|it
+-6.826504	let|kid
+-3.447933	let|rain	-0.05987802
+-6.826504	let|she
+-3.447933	let|that	-0.06096356
+-6.826504	let|they
+-6.826504	let|we
+-6.826504	let|you
+-6.826504	lie|
+-6.826504	lie|picture
+-6.826504	lie|what
+-6.826504	lift|
+-6.826504	lighten|
+-6.826504	light|
+-6.826504	light|CAUSE_OF_DEATH
+-6.826504	like|
+-2.845873	like|I	0.1427849
+-3.447933	like|PERSON	-0.06096356
+-6.826504	like|he
+-6.826504	like|it
+-6.826504	like|other
+-3.447933	like|she	-0.05283398
+-6.826504	like|they
+-6.826504	like|thing
+-6.826504	like|we
+-6.826504	like|who
+-6.826504	like|you
+-6.826504	limit|
+-3.447933	limit|I	0.03850958
+-6.826504	line|
+-6.826504	linger|we
+-6.826504	listen|
+-6.826504	listen|we
+-6.826504	live|
+-6.826504	live|I
+-6.826504	live|child
+-6.826504	live|family
+-6.826504	live|he
+-6.826504	live|that
+-6.826504	live|they
+-6.826504	live|we
+-6.826504	live|who
+-6.826504	live|you
+-3.447933	load|	-0.05956736
+-6.826504	load|I
+-6.826504	load|all
+-6.826504	load|mile
+-3.447933	load|we	-0.05878975
+-6.826504	loan|grandparent
+-6.826504	loan|they
+-6.826504	locate|
+-3.447933	lodge|	0.03850958
+-6.826504	log|
+-6.826504	london|
+-6.826504	long|I
+-2.49369	look|	-0.0005622208
+-6.826504	look|Husband
+-3.146903	look|I	-0.06080865
+-6.826504	look|LOCATION
+-3.447933	look|PERSON	-0.05972272
+-6.826504	look|all
+-6.826504	look|he
+-2.669782	look|it	0.08239147
+-6.826504	look|lake
+-6.826504	look|myself
+-6.826504	look|she
+-6.826504	look|that
+-3.447933	look|they	-0.06080865
+-2.845873	look|we	0.1643581
+-6.826504	look|what
+-6.826504	look|which
+-3.447933	look|you	-0.06080865
+-6.826504	loooooove|
+-3.447933	lose|	0.0187136
+-3.146903	lose|I	-0.06065368
+-6.826504	lose|food
+-6.826504	lose|we
+-6.826504	lose|who
+-6.826504	lose|you
+-6.826504	love|
+-6.826504	love|All
+-2.544843	love|I	-0.02530296
+-2.748963	love|PERSON	-0.05535185
+-6.826504	love|camper
+-6.826504	love|he
+-6.826504	love|i
+-6.826504	love|kid
+-6.826504	love|she
+-6.826504	love|they
+-3.447933	love|we	0.03850958
+-6.826504	lo|I
+-6.826504	luck|we
+-6.826504	lure|
+-2.49369	make|	0.07970873
+-6.826504	make|DATE
+-6.826504	make|DURATION
+-2.845873	make|I	0.04163684
+-6.826504	make|LOCATION
+-6.826504	make|MONEY
+-2.970812	make|PERSON	0.1425373
+-6.826504	make|beach
+-6.826504	make|breakfast
+-6.826504	make|camp
+-3.447933	make|car	-0.06034358
+-6.826504	make|difference
+-6.826504	make|food
+-6.826504	make|foot
+-3.146903	make|he	0.03870438
+-6.826504	make|i
+-3.447933	make|it	-0.06065368
+-6.826504	make|jd
+-6.826504	make|josh
+-6.826504	make|kid
+-6.826504	make|rain
+-6.826504	make|t
+-6.826504	make|that
+-6.826504	make|they
+-3.447933	make|this	-0.05456644
+-6.826504	make|tree
+-2.544843	make|we	-0.08363891
+-6.826504	make|weather
+-6.826504	make|which
+-6.826504	make|who
+-6.826504	make|wind
+-6.826504	make|you
+-3.447933	manage|	-0.05972272
+-3.447933	manage|I	0.03850958
+-6.826504	manage|PERSON
+-6.826504	manage|he
+-6.826504	manage|we
+-6.826504	mark|DATE
+-6.826504	marry|
+-6.826504	marry|I
+-6.826504	marry|hubby
+-6.826504	mash|
+-6.826504	meander|we
+-6.826504	mean|
+-3.146903	mean|I	0.01908591
+-6.826504	mean|MONEY
+-6.826504	mean|My
+-6.826504	mean|that
+-6.826504	mean|this
+-3.447933	mean|which	0.0187136
+-6.826504	mean|word
+-6.826504	measure|you
+-3.447933	meet|	0.0187136
+-3.447933	meet|I	0.0187136
+-6.826504	meet|PERSON
+-6.826504	meet|it
+-6.826504	meet|they
+-2.748963	meet|we	0.1535645
+-6.826504	meet|who
+-6.826504	meet|you
+-6.826504	mellow|
+-6.826504	melt|
+-6.826504	melt|I
+-6.826504	melt|ice
+-6.826504	mention|
+-2.970812	mention|I	-0.05456643
+-6.826504	mind|
+-6.826504	mind|I
+-6.826504	misspoke|I
+-3.447933	miss|	0.0187136
+-2.970812	miss|I	-0.09635945
+-6.826504	miss|Mommy
+-6.826504	miss|little
+-6.826504	miss|we
+-6.826504	miss|which
+-6.826504	mix|camping
+-6.826504	mix|old
+-6.826504	mob|
+-6.826504	motor|we
+-3.146903	move|	0.03870438
+-6.826504	move|I
+-6.826504	move|that
+-6.826504	move|they
+-3.146903	move|we	-0.04647524
+-6.826504	mumble|
+-3.447933	name|	0.03850958
+-6.826504	name|he
+-6.826504	name|you
+-6.826504	nap|
+-6.826504	navigate|
+-6.826504	near|it
+-6.826504	near|we
+-6.826504	needless|
+-3.447933	need|	0.03850958
+-2.669782	need|I	-0.04887069
+-6.826504	need|NUMBER
+-3.447933	need|PERSON	0.0187136
+-6.826504	need|he
+-6.826504	need|i
+-6.826504	need|it
+-6.826504	need|t
+-6.826504	need|that
+-6.826504	need|they
+-2.602835	need|we	0.03174625
+-3.447933	need|you	-0.06034358
+-6.826504	negotiate|we
+-6.826504	nestle|
+-6.826504	nestle|tent
+-6.826504	never|I
+-6.826504	note|
+-6.826504	note|I
+-6.826504	note|sister
+-6.826504	notice|
+-3.146903	notice|I	0.03889926
+-6.826504	notice|he
+-2.845873	notice|we	0.05680675
+-6.826504	nurse|
+-6.826504	obey|everyone
+-6.826504	observe|
+-6.826504	observe|they
+-6.826504	occur|it
+-6.826504	offer|
+-6.826504	offer|DATE
+-3.447933	offer|I	0.03850958
+-6.826504	offer|she
+-3.447933	offer|they	-0.05941195
+-6.826504	offer|we
+-3.146903	open|	-0.06018845
+-6.826504	open|I
+-6.826504	open|it
+-6.826504	open|she
+-6.826504	open|sky
+-6.826504	open|station
+-6.826504	open|we
+-6.826504	operate|PERSON
+-6.826504	opt|
+-6.826504	opt|we
+-6.826504	oranges|
+-3.447933	order|	0.03850958
+-6.826504	order|I
+-3.447933	order|we	-0.05925649
+-6.826504	organise|
+-6.826504	organize|
+-6.826504	overchlorinate|
+-6.826504	overflow|
+-3.146903	overlook|	-0.05910096
+-6.826504	own|
+-6.826504	own|who
+-6.826504	pace|
+-2.669782	pack|	0.08264086
+-6.826504	pack|Everything
+-3.447933	pack|I	-0.06096356
+-6.826504	pack|all
+-6.826504	pack|do
+-6.826504	pack|horse
+-6.826504	pack|i
+-6.826504	pack|they
+-2.748963	pack|we	-0.05109458
+-6.826504	pack|you
+-6.826504	paddle|
+-6.826504	paddle|we
+-6.826504	paint|
+-6.826504	paint|I
+-6.826504	panic|
+-6.826504	pant|
+-6.826504	pant|I
+-6.826504	pant|kid
+-6.826504	parallel|I
+-3.447933	park|	0.03850958
+-6.826504	park|we
+-6.826504	park|you
+-6.826504	partake|kid
+-6.826504	participate|
+-6.826504	part|everyone
+-6.826504	part|we
+-3.447933	pass|	-0.06096356
+-6.826504	pass|DATE
+-3.447933	pass|I	-0.06096356
+-6.826504	pass|PERSON
+-6.826504	pass|all
+-6.826504	pass|it
+-6.826504	pass|man
+-6.826504	pass|mile
+-6.826504	pass|that
+-6.826504	pass|vehicle
+-3.146903	pass|we	0.03870438
+-6.826504	pave|
+-3.447933	pay|	-0.06049866
+-3.447933	pay|I	-0.06080865
+-6.826504	pay|they
+-3.447933	pay|we	-0.06096356
+-6.826504	pedal|I
+-6.826504	peddle|
+-6.826504	peel|
+-6.826504	peer|
+-6.826504	peer|we
+-6.826504	pee|
+-6.826504	pee|child
+-6.826504	peg|
+-3.146903	pick|	0.02170102
+-6.826504	pick|I
+-6.826504	pick|PERSON
+-6.826504	pick|she
+-6.826504	pick|skewer
+-6.826504	pick|they
+-6.826504	pick|we
+-6.826504	pick|wind
+-6.826504	picture|
+-6.826504	pile|site
+-6.826504	pile|we
+-6.826504	pill|
+-6.826504	pine|
+-6.826504	pine|half
+-6.826504	piss|
+-6.826504	piss|I
+-3.447933	pitch|	-0.06096356
+-6.826504	pitch|rule
+-6.826504	pitch|we
+-6.826504	place|
+-6.826504	place|I
+-6.826504	plague|Plus
+-6.826504	planned|we
+-6.826504	plant|
+-6.826504	plan|
+-3.146903	plan|I	0.04124469
+-6.826504	plan|PERSON
+-6.826504	plan|home
+-6.826504	plan|trip
+-2.845873	plan|we	0.1635782
+-2.845873	play|	0.1432804
+-6.826504	play|I
+-2.845873	play|PERSON	0.0400704
+-3.447933	play|kid	-0.05456644
+-6.826504	play|they
+-6.826504	play|we
+-6.826504	play|who
+-6.826504	play|you
+-2.748963	please|	-0.2493157
+-6.826504	please|I
+-6.826504	plug|I
+-6.826504	plummet|
+-6.826504	plunge|I
+-3.447933	point|	0.0187136
+-6.826504	point|PERSON
+-6.826504	point|she
+-6.826504	poke|I
+-6.826504	poke|we
+-6.826504	pool|
+-6.826504	poop|you
+-6.826504	pop|
+-6.826504	possess|I
+-3.146903	post|	-0.0493482
+-3.146903	post|I	0.01927218
+-6.826504	post|it
+-6.826504	post|we
+-3.447933	pound|	0.03850958
+-6.826504	pour|
+-3.447933	pour|it	-0.06034358
+-6.826504	pour|we
+-6.826504	practice|
+-6.826504	practise|I
+-6.826504	pray|
+-6.826504	pray|I
+-6.826504	pray|we
+-6.826504	prefer|I
+-6.826504	prepare|
+-6.826504	prepare|I
+-6.826504	prepare|PERSON
+-6.826504	prepare|she
+-3.447933	prepare|we	0.03850958
+-6.826504	present|
+-6.826504	pretend|
+-6.826504	pretend|I
+-6.826504	pretend|PERSON
+-6.826504	prevent|
+-6.826504	proceed|
+-3.447933	proceed|we	-0.05910097
+-6.826504	procure|I
+-6.826504	promise|
+-6.826504	promise|I
+-3.447933	prompt|	-0.06096356
+-6.826504	propose|Husband
+-6.826504	protect|
+-3.447933	prove|	0.0187136
+-3.447933	prove|it	0.0187136
+-6.826504	prove|which
+-3.447933	provide|	0.0187136
+-6.826504	provide|direction
+-6.826504	provide|they
+-6.826504	provoke|
+-6.826504	publish|
+-6.826504	pull|
+-3.447933	pull|I	-0.06018845
+-6.826504	pull|boat
+-6.826504	pull|d
+-3.447933	pull|friend	-0.06096356
+-6.826504	pull|he
+-6.826504	pull|she
+-6.826504	pull|that
+-6.826504	pull|truck
+-3.146903	pull|we	0.03870438
+-3.447933	pump|	0.03850958
+-6.826504	punch|I
+-6.826504	purchase|
+-6.826504	purchase|we
+-6.826504	purify|
+-6.826504	push|
+-3.447933	push|I	-0.06096356
+-6.826504	push|he
+-3.447933	push|we	-0.05456644
+-6.826504	push|wind
+-2.970812	put|	-0.09889976
+-6.826504	put|Daddy
+-3.146903	put|I	-0.06034358
+-6.826504	put|NUMBER
+-6.826504	put|PERSON
+-6.826504	put|he
+-6.826504	put|i
+-6.826504	put|ranger
+-6.826504	put|she
+-6.826504	put|spot
+-6.826504	put|that
+-3.447933	put|we	-0.05925649
+-6.826504	put|you
+-3.447933	question|	-0.05894539
+-6.826504	quick-cook|it
+-6.826504	quiet|
+-6.826504	quiet|baby
+-6.826504	quit|
+-6.826504	quit|it
+-6.826504	quiver|he
+-6.826504	race|
+-6.826504	race|he
+-6.826504	race|we
+-6.826504	rack|I
+-6.826504	raft|
+-6.826504	rain.|it
+-2.748963	rain|	-0.2603891
+-2.602835	rain|it	0.06314992
+-6.826504	rain|we
+-6.826504	raise|AND
+-6.826504	raise|I
+-6.826504	ramble|I
+-6.826504	rave|friend
+-6.826504	re-arrange|we
+-6.826504	re-do|
+-6.826504	re-organize|
+-3.447933	reach|	0.03850958
+-6.826504	reach|I
+-6.826504	reach|ground
+-6.826504	reach|he
+-2.845873	reach|we	-0.05903053
+-6.826504	reach|you
+-6.826504	read|
+-3.447933	read|I	0.0187136
+-6.826504	read|PERSON
+-6.826504	read|he
+-6.826504	read|trip
+-6.826504	read|we
+-6.826504	read|who
+-6.826504	read|you
+-3.146903	realize|	0.01908591
+-2.970812	realize|I	-0.05972271
+-6.826504	realize|he
+-6.826504	realize|t
+-3.146903	realize|we	-0.208477
+-6.826504	receive|I
+-6.826504	recieve|DATE
+-6.826504	reckon|I
+-6.826504	recognize|
+-6.826504	recognize|I
+-3.447933	recommend|	-0.05863407
+-6.826504	recommend|I
+-6.826504	recommend|we
+-6.826504	reconcile|Daddy
+-6.826504	reconcile|I
+-6.826504	record|I
+-6.826504	recover|
+-6.826504	recover|I
+-6.826504	recover|PERSON
+-6.826504	reel|
+-3.447933	reflect|	0.03850958
+-6.826504	refresh|
+-6.826504	refuse|
+-6.826504	refuse|I
+-6.826504	regard|
+-3.447933	relax|	0.03850958
+-6.826504	relax|I
+-6.826504	relax|PERSON
+-3.447933	relax|we	-0.06065368
+-6.826504	release|
+-6.826504	release|he
+-6.826504	relieve|Daddy
+-3.447933	remain|	0.03850958
+-2.970812	remember|	-0.1869523
+-2.970812	remember|I	-0.1172126
+-6.826504	remember|t
+-6.826504	remember|then
+-3.447933	remember|we	-0.05894539
+-6.826504	remember|you
+-6.826504	remind|
+-3.447933	remind|that	-0.05894539
+-6.826504	removee|I
+-6.826504	remove|
+-6.826504	remove|I
+-6.826504	rename|
+-6.826504	render|which
+-6.826504	rent|
+-6.826504	rent|I
+-6.826504	rent|she
+-6.826504	rent|we
+-6.826504	repair|co-pilot
+-6.826504	replace|
+-6.826504	replicate|
+-3.447933	reply|she	-0.05769876
+-6.826504	report|
+-6.826504	repusle|cross
+-6.826504	require|
+-6.826504	require|LOCATION
+-6.826504	require|this
+-6.826504	rescue|myself
+-6.826504	research|
+-6.826504	research|I
+-6.826504	research|this
+-6.826504	reserve|
+-6.826504	reserve|I
+-6.826504	reserve|she
+-6.826504	reserve|you
+-3.447933	resist|	-0.06018845
+-3.447933	rest|	0.0187136
+-6.826504	rest|I
+-6.826504	rest|we
+-3.447933	result|	0.0187136
+-6.826504	result|that
+-6.826504	retire|
+-6.826504	retrieve|I
+-2.845873	return|	0.03174625
+-3.146903	return|I	-0.05878975
+-3.447933	return|PERSON	-0.06080865
+-6.826504	return|drink
+-6.826504	return|he
+-6.826504	return|jury
+-6.826504	return|myself
+-6.826504	return|none
+-6.826504	return|rain
+-6.826504	return|she
+-6.826504	return|they
+-3.447933	return|we	0.0187136
+-6.826504	re|we
+-6.826504	ride|
+-6.826504	ride|I
+-6.826504	ride|PERSON
+-6.826504	ride|different
+-6.826504	ride|they
+-6.826504	ride|we
+-6.826504	ride|you
+-6.826504	ring|phone
+-6.826504	rinse|we
+-6.826504	rip|
+-3.447933	rise|	0.0187136
+-6.826504	rise|mountain
+-6.826504	rise|sun
+-6.826504	risk|
+-6.826504	roadwalk|
+-6.826504	roar|
+-6.826504	roast|
+-6.826504	rob|it
+-6.826504	rob|nice-nurse
+-6.826504	rock|
+-6.826504	rock|we
+-3.447933	roll|	0.0187136
+-6.826504	roll|I
+-6.826504	roll|fog
+-6.826504	roll|it
+-6.826504	roll|she
+-6.826504	roll|we
+-6.826504	roll|you
+-6.826504	rough|
+-3.447933	round|	0.03850958
+-6.826504	round|we
+-6.826504	rub|I
+-6.826504	ruff|
+-6.826504	ruin|I
+-6.826504	ruin|that
+-2.845873	run|	-0.07776619
+-3.146903	run|I	0.0459739
+-6.826504	run|bike
+-6.826504	run|chipmunk
+-6.826504	run|dog
+-6.826504	run|he
+-6.826504	run|herd
+-6.826504	run|it
+-3.447933	run|kid	0.0187136
+-6.826504	run|rain
+-6.826504	run|tank
+-3.447933	run|that	0.0187136
+-6.826504	run|they
+-3.146903	run|we	-0.05894539
+-6.826504	rush|
+-6.826504	s'more|
+-3.447933	sail|we	-0.06018845
+-6.826504	satisfy|I
+-6.826504	save|
+-6.826504	save|I
+-6.826504	save|he
+-6.826504	save|we
+-2.845873	say|	0.1440247
+-6.826504	say|&
+-6.826504	say|'s
+-6.826504	say|Husband
+-2.845873	say|I	0.145268
+-6.826504	say|LOCATION
+-6.826504	say|MONEY
+-3.146903	say|PERSON	-0.208477
+-6.826504	say|book
+-6.826504	say|everyone
+-6.826504	say|father
+-6.826504	say|girl
+-6.826504	say|he
+-6.826504	say|husband
+-6.826504	say|it
+-6.826504	say|lady
+-6.826504	say|s
+-3.447933	say|she	-0.06096356
+-6.826504	say|someone
+-6.826504	say|t
+-6.826504	say|that
+-3.447933	say|they	-0.04727519
+-3.447933	say|we	-0.06049866
+-6.826504	say|who
+-6.826504	scan|I
+-3.447933	scare|	0.0187136
+-3.447933	scare|I	-0.06080865
+-6.826504	scare|it
+-6.826504	scare|we
+-6.826504	scare|who
+-6.826504	scarf|I
+-6.826504	schedule|
+-6.826504	scop|brother
+-6.826504	scop|sister
+-6.826504	scout|
+-3.447933	scramble|	0.0187136
+-6.826504	scramble|we
+-6.826504	scratch|
+-3.447933	scream|	0.03850958
+-3.146903	scream|I	0.03870438
+-6.826504	scream|he
+-6.826504	scream|some
+-6.826504	search|
+-6.826504	search|I
+-6.826504	search|we
+-6.826504	seat|
+-6.826504	seek|we
+-6.826504	seem|
+-6.826504	seem|PERSON
+-6.826504	seem|camp
+-6.826504	seem|cloud
+-6.826504	seem|drive
+-6.826504	seem|fish
+-3.447933	seem|he	-0.05878975
+-3.146903	seem|it	0.02659984
+-3.447933	seem|she	0.0187136
+-6.826504	seem|site
+-6.826504	seem|swimming
+-6.826504	seem|t
+-6.826504	seem|that
+-6.826504	seem|they
+-6.826504	seem|this
+-6.826504	seem|we
+-6.826504	seem|what
+-6.826504	seem|which
+-2.33399	see|	0.0456853
+-6.826504	see|DATE
+-2.970812	see|I	0.01964497
+-3.146903	see|PERSON	-0.06049866
+-6.826504	see|actually
+-6.826504	see|d
+-3.447933	see|dinner	0.0187136
+-6.826504	see|every
+-6.826504	see|gear
+-6.826504	see|he
+-2.970812	see|i	0.0377313
+-6.826504	see|most
+-6.826504	see|people
+-6.826504	see|she
+-6.826504	see|t
+-6.826504	see|that
+-6.826504	see|they
+-2.243813	see|we	-0.06250317
+-6.826504	see|which
+-6.826504	see|who
+-2.970812	see|you	0.1417956
+-6.826504	sell|
+-6.826504	sell|that
+-6.826504	sell|who
+-6.826504	send|
+-6.826504	send|PERSON
+-6.826504	send|he
+-6.826504	send|mis-step
+-6.826504	send|she
+-6.826504	send|that
+-6.826504	send|they
+-6.826504	send|work
+-6.826504	separate|
+-6.826504	serve|
+-6.826504	settle|
+-6.826504	settle|I
+-6.826504	settle|PERSON
+-6.826504	settle|they
+-3.447933	settle|we	-0.06049866
+-6.826504	settle|you
+-2.544843	set|	0.0441944
+-3.447933	set|I	-0.06080865
+-6.826504	set|PERSON
+-6.826504	set|all
+-6.826504	set|few
+-6.826504	set|group
+-6.826504	set|it
+-6.826504	set|panic
+-6.826504	set|room
+-6.826504	set|spot
+-6.826504	set|sun
+-6.826504	set|tent
+-6.826504	set|they
+-2.845873	set|we	-0.05785478
+-6.826504	set|work
+-6.826504	set|you
+-6.826504	shake|I
+-6.826504	shake|PERSON
+-6.826504	share|
+-3.447933	share|I	-0.04727519
+-6.826504	share|PERSON
+-6.826504	share|we
+-6.826504	shave|
+-3.447933	shift|	-0.06096356
+-6.826504	shimmer|
+-3.447933	shine|	-0.06080865
+-6.826504	shine|sun
+-6.826504	shiver|
+-6.826504	shock|I
+-3.447933	shoot|	-0.05519471
+-6.826504	shoot|we
+-6.826504	shower|
+-6.826504	shower|I
+-6.826504	shower|everyone
+-6.826504	shower|t
+-3.447933	shower|we	-0.05597878
+-6.826504	shower|you
+-3.447933	show|	0.0187136
+-3.447933	show|I	-0.06065368
+-6.826504	show|PERSON
+-3.146903	show|he	-0.06065368
+-6.826504	show|it
+-6.826504	show|mom
+-6.826504	show|picture
+-6.826504	show|she
+-6.826504	show|they
+-6.826504	show|we
+-6.826504	shrug|we
+-6.826504	shut|
+-6.826504	shut|people
+-6.826504	side|
+-6.826504	sift|
+-6.826504	signal|instructor
+-3.447933	sign|	-0.05956736
+-6.826504	sign|I
+-6.826504	sing|
+-6.826504	sing|PERSON
+-6.826504	sing|man
+-6.826504	sink|
+-6.826504	site|I
+-3.146903	sit|	-0.05503773
+-3.447933	sit|I	-0.05972272
+-6.826504	sit|PERSON
+-6.826504	sit|it
+-6.826504	sit|she
+-6.826504	sit|some
+-6.826504	sit|they
+-6.826504	sit|we
+-2.845873	skip|	0.05389813
+-6.826504	slam|I
+-6.826504	slant|it
+-2.301805	sleep|	0.07685111
+-3.447933	sleep|I	0.0187136
+-2.970812	sleep|PERSON	0.01945854
+-6.826504	sleep|behold
+-6.826504	sleep|compact
+-6.826504	sleep|great
+-6.826504	sleep|he
+-6.826504	sleep|i
+-6.826504	sleep|kid
+-6.826504	sleep|lo
+-6.826504	sleep|place
+-6.826504	sleep|she
+-6.826504	sleep|they
+-3.447933	sleep|we	-0.06034358
+-6.826504	sleep|which
+-6.826504	sleep|who
+-6.826504	sleep|you
+-6.826504	slice|I
+-6.826504	slide|
+-6.826504	slide|caravan
+-3.447933	slip|	-0.06080865
+-6.826504	slither|
+-6.826504	slog|
+-3.447933	slow|I	-0.05878975
+-6.826504	slumber|
+-6.826504	smell|
+-6.826504	smell|I
+-6.826504	smell|that
+-6.826504	smell|we
+-6.826504	smile|
+-6.826504	smile|we
+-6.826504	smoke|
+-6.826504	snap|
+-6.826504	snap|I
+-6.826504	snatch|I
+-3.447933	snorkele|	-0.06065368
+-6.826504	snorkele|PERSON
+-6.826504	snorkele|we
+-6.826504	snorkel|
+-6.826504	snorkle|we
+-6.826504	snow|it
+-6.826504	snuck|we
+-6.826504	snuff|
+-6.826504	snuggle|
+-3.447933	soak|	-0.06080865
+-6.826504	soak|I
+-6.826504	soak|PERSON
+-6.826504	soak|we
+-6.826504	soar|they
+-6.826504	sort|we
+-3.447933	sound|	-0.05769876
+-3.447933	sound|it	0.0187136
+-6.826504	sound|that
+-6.826504	sound|they
+-6.826504	source|PERSON
+-6.826504	space|
+-3.447933	spare|	0.03850958
+-6.826504	speak|
+-6.826504	speed|
+-2.970812	spend|	-0.05941195
+-6.826504	spend|DATE
+-6.826504	spend|DURATION
+-2.845873	spend|I	-0.1584729
+-6.826504	spend|PERSON
+-6.826504	spend|TIME
+-6.826504	spend|camping
+-6.826504	spend|he
+-6.826504	spend|i
+-6.826504	spend|pull
+-6.826504	spend|remainder
+-6.826504	spend|she
+-2.544843	spend|we	0.1216357
+-6.826504	spend|you
+-6.826504	splash|
+-6.826504	split|
+-6.826504	split|i
+-6.826504	split|josh
+-6.826504	split|kid
+-6.826504	split|who
+-6.826504	spook|eerieness
+-6.826504	spot|
+-3.447933	spot|I	-0.05894539
+-3.146903	spot|we	-0.05723035
+-6.826504	spray|
+-3.146903	spread|	0.02584257
+-6.826504	sprinkle|
+-6.826504	sprinkle|the
+-6.826504	squeeze|
+-6.826504	squirt|
+-3.447933	stake|we	-0.06080865
+-6.826504	stall|
+-2.970812	stand|	0.04301212
+-6.826504	stand|I
+-6.826504	stand|we
+-3.447933	stand|you	0.03850958
+-6.826504	stare|
+-6.826504	stare|NUMBER
+-6.826504	stare|we
+-6.826504	stargaze|
+-2.845873	start|	-0.05283398
+-6.826504	start|CAUSE_OF_DEATH
+-3.146903	start|DATE	0.02132647
+-6.826504	start|DURATION
+-3.447933	start|I	0.03850958
+-6.826504	start|JS
+-6.826504	start|MONEY
+-6.826504	start|PERSON
+-6.826504	start|bit
+-6.826504	start|cloud
+-6.826504	start|guy
+-6.826504	start|he
+-6.826504	start|hike
+-6.826504	start|i
+-2.970812	start|it	-0.4491446
+-6.826504	start|joy
+-6.826504	start|kid
+-6.826504	start|knee
+-6.826504	start|moi
+-6.826504	start|noise
+-6.826504	start|people
+-6.826504	start|rain
+-6.826504	start|she
+-6.826504	start|something
+-6.826504	start|sun
+-6.826504	start|that
+-6.826504	start|then
+-6.826504	start|they
+-3.447933	start|thing	-0.05409463
+-6.826504	start|trip
+-2.845873	start|we	-0.04647523
+-6.826504	start|work
+-6.826504	start|you
+-6.826504	star|TIME
+-6.826504	state|
+-2.49369	stay|	0.07107139
+-6.826504	stay|DATE
+-6.826504	stay|Easy
+-3.146903	stay|I	-0.05503773
+-6.826504	stay|NUMBER
+-6.826504	stay|PERSON
+-6.826504	stay|TIME
+-6.826504	stay|he
+-6.826504	stay|it
+-6.826504	stay|kid
+-6.826504	stay|leg
+-6.826504	stay|m
+-6.826504	stay|quiet
+-6.826504	stay|they
+-6.826504	stay|we
+-6.826504	stay|who
+-3.447933	stay|you	-0.06065368
+-6.826504	stealth|
+-6.826504	stealth|I
+-6.826504	steal|
+-6.826504	steal|raiding
+-6.826504	steer|
+-6.826504	step|
+-6.826504	step|I
+-6.826504	stew|stew
+-6.826504	stick|
+-3.447933	stick|I	-0.05894539
+-6.826504	stick|gill
+-6.826504	stick|they
+-3.447933	stick|we	-0.06096356
+-6.826504	stick|who
+-6.826504	sting|
+-6.826504	sting|PERSON
+-6.826504	stink|it
+-6.826504	stink|they
+-6.826504	stir|
+-6.826504	stock|
+-6.826504	stoke|
+-6.826504	stopped|we
+-2.49369	stop|	-0.02814902
+-6.826504	stop|DURATION
+-3.447933	stop|I	-0.05519471
+-6.826504	stop|ORGANIZATION
+-6.826504	stop|he
+-6.826504	stop|it
+-6.826504	stop|police
+-6.826504	stop|rain
+-6.826504	stop|she
+-2.544843	stop|we	0.03810024
+-6.826504	stop|wind
+-6.826504	strap|
+-6.826504	strap|we
+-6.826504	stress|I
+-6.826504	stress|it
+-6.826504	stretch|
+-6.826504	strike|I
+-6.826504	strike|bolt
+-6.826504	strike|muscle
+-6.826504	strike|we
+-6.826504	string|that
+-6.826504	strip|
+-6.826504	stroll|
+-6.826504	stroll|another
+-6.826504	stroll|leisurely
+-6.826504	struggle|
+-3.447933	struggle|I	-0.06096356
+-3.447933	struggle|we	-0.05519471
+-6.826504	study|
+-6.826504	study|she
+-3.146903	stuff|	-0.04711531
+-6.826504	stuff|I
+-6.826504	stumble|I
+-6.826504	stumble|PERSON
+-3.447933	stumble|we	-0.05456644
+-6.826504	suffer|we
+-6.826504	suffice|i
+-3.447933	suggest|I	-0.06065368
+-6.826504	suggest|he
+-6.826504	suit|Got
+-6.826504	sunbathe|
+-6.826504	supply|
+-6.826504	suppose|
+-6.826504	suppose|I
+-6.826504	suppose|it
+-6.826504	suppose|that
+-3.447933	suppose|we	0.0187136
+-6.826504	suppose|you
+-6.826504	sure?|you
+-6.826504	surface|we
+-6.826504	surprise|I
+-6.826504	surprise|t
+-6.826504	surprise|we
+-6.826504	surrender|I
+-6.826504	surround|
+-6.826504	surround|area
+-6.826504	surround|oak
+-6.826504	surround|small
+-6.826504	surround|we
+-6.826504	survive|I
+-6.826504	survive|he
+-6.826504	survive|we
+-6.826504	swallow|I
+-6.826504	swallow|MONEY
+-6.826504	swamp|
+-6.826504	swap|
+-6.826504	swarm|
+-6.826504	swear|
+-6.826504	swear|I
+-6.826504	sweep|CAUSE_OF_DEATH
+-6.826504	sweep|that
+-6.826504	swerve|bicyclist
+-2.845873	swim|	-0.07926055
+-3.447933	swim|I	-0.06065368
+-6.826504	swim|a
+-6.826504	swim|he
+-6.826504	swim|shark
+-6.826504	swim|she
+-6.826504	swim|they
+-6.826504	swim|we
+-3.447933	tackle|	-0.06080865
+-6.826504	tail|
+-2.271842	take|	0.03412683
+-6.826504	take|DATE
+-6.826504	take|Dad
+-2.970812	take|I	-0.05093611
+-6.826504	take|NUMBER
+-6.826504	take|ORGANIZATION
+-3.146903	take|PERSON	0.03889926
+-6.826504	take|TITLE
+-6.826504	take|da
+-6.826504	take|dad
+-6.826504	take|drive
+-6.826504	take|girl
+-3.146903	take|he	-0.06080865
+-3.447933	take|hike	-0.05863407
+-3.447933	take|i	0.0187136
+-2.748963	take|it	0.02076525
+-6.826504	take|kid
+-6.826504	take|nav
+-6.826504	take|picture
+-6.826504	take|she
+-3.447933	take|t	0.03850958
+-3.146903	take|that	0.03928929
+-6.826504	take|then
+-6.826504	take|they
+-6.826504	take|this
+-6.826504	take|trip
+-6.826504	take|walk
+-2.368752	take|we	-0.06135799
+-6.826504	take|who
+-6.826504	take|winery
+-3.447933	take|you	-0.05283398
+-2.970812	talk|	0.03579161
+-3.447933	talk|I	-0.04727519
+-6.826504	talk|PERSON
+-6.826504	talk|forcast
+-6.826504	talk|they
+-6.826504	talk|we
+-6.826504	tape|
+-3.447933	taste|	-0.06034358
+-6.826504	taste|I
+-6.826504	taste|egg
+-6.826504	taste|it
+-6.826504	taste|pancake
+-6.826504	taste|we
+-6.826504	teach|
+-6.826504	teach|PERSON
+-6.826504	teach|ll
+-6.826504	tear|
+-6.826504	tease|
+-2.544843	tell|	0.06337588
+-3.146903	tell|I	-0.06034358
+-6.826504	tell|MONEY
+-6.826504	tell|NUMBER
+-6.826504	tell|PERSON
+-6.826504	tell|center
+-6.826504	tell|clerk
+-6.826504	tell|guy
+-2.970812	tell|he	0.04915556
+-6.826504	tell|ll
+-6.826504	tell|people
+-6.826504	tell|ranger
+-6.826504	tell|she
+-6.826504	tell|t
+-6.826504	tell|they
+-3.447933	tell|we	-0.06049866
+-3.447933	tell|who	0.03850958
+-6.826504	tempt|I
+-6.826504	tend|I
+-6.826504	tense|
+-6.826504	terrify|I
+-6.826504	test-drive|
+-6.826504	test|
+-6.826504	thank|
+-6.826504	thank|I
+-3.146903	that|	0.0408529
+-6.826504	there|
+-6.826504	there|seaweed
+-6.826504	they|
+-3.447933	think|	-0.05519471
+-2.49369	think|I	-0.07351172
+-6.826504	think|NUMBER
+-6.826504	think|Odd
+-6.826504	think|PERSON
+-6.826504	think|Redneck
+-6.826504	think|he
+-6.826504	think|i
+-6.826504	think|it
+-6.826504	think|kid
+-3.447933	think|they	0.0187136
+-3.447933	think|we	0.0187136
+-6.826504	think|you
+-6.826504	thought|he
+-3.447933	threaten|	-0.06096356
+-6.826504	threaten|it
+-6.826504	thrill|PERSON
+-6.826504	thrill|kid
+-6.826504	throw|
+-3.447933	throw|I	-0.06096356
+-6.826504	throw|PERSON
+-3.447933	throw|he	-0.06080865
+-6.826504	throw|we
+-6.826504	tie|
+-6.826504	tie|I
+-6.826504	tie|side
+-3.447933	tie|we	-0.04727519
+-6.826504	tip|we
+-6.826504	tire|
+-3.447933	tire|I	-0.06096356
+-6.826504	tire|foot
+-6.826504	tire|leg
+-6.826504	tire|we
+-6.826504	tolerate|PERSON
+-6.826504	tolerate|you
+-6.826504	top|
+-6.826504	torment|
+-6.826504	toss|
+-3.447933	toss|I	0.03850958
+-3.447933	touch|	0.03850958
+-6.826504	touch|you
+-6.826504	tour|
+-6.826504	tour|we
+-6.826504	tow|
+-6.826504	tow|we
+-6.826504	trade|I
+-3.447933	trail|	0.03850958
+-2.669782	trail|&	-0.1304471
+-6.826504	trail|hike
+-2.669782	trail|sidewalk	-0.1315369
+-6.826504	trail|some
+-6.826504	trail|the
+-6.826504	trail|time
+-6.826504	trail|trail
+-6.826504	train|
+-6.826504	train|I
+-6.826504	travel|
+-6.826504	travel|we
+-6.826504	treat|
+-6.826504	treat|I
+-6.826504	treat|we
+-6.826504	trek|
+-6.826504	trickle|
+-6.826504	trip|
+-3.146903	trust|	0.02584257
+-3.447933	trust|I	-0.05283398
+-3.146903	try|	-0.05330715
+-6.826504	try|Dad
+-2.970812	try|I	0.04202934
+-6.826504	try|PERSON
+-3.447933	try|he	-0.05987802
+-6.826504	try|i
+-3.146903	try|they	-0.06003326
+-3.146903	try|we	-0.06065368
+-6.826504	try|you
+-6.826504	tube|people
+-6.826504	tumble|you
+-6.826504	tuned|Stay
+-3.146903	turn|	-0.208477
+-6.826504	turn|DATE
+-2.845873	turn|I	-0.06018845
+-6.826504	turn|PERSON
+-6.826504	turn|he
+-2.748963	turn|it	0.1558549
+-6.826504	turn|that
+-6.826504	turn|they
+-6.826504	turn|trailer
+-6.826504	turn|trip
+-3.146903	turn|we	-0.06049866
+-3.447933	turn|weather	-0.06096356
+-6.826504	turn|which
+-6.826504	turn|you
+-6.826504	twist|I
+-6.826504	understand|
+-3.447933	understand|I	-0.06034358
+-6.826504	understand|we
+-6.826504	undertake|
+-3.146903	undo|	-0.06065368
+-6.826504	unleash|I
+-6.826504	unload|
+-6.826504	unpack|
+-6.826504	unplug|I
+-6.826504	unzip|
+-6.826504	update|
+-6.826504	update|I
+-6.826504	upload|
+-3.447933	upload|I	-0.05769876
+-2.970812	use|	0.02057834
+-2.970812	use|I	0.1528036
+-6.826504	use|PERSON
+-6.826504	use|he
+-6.826504	use|she
+-6.826504	use|that
+-3.146903	use|we	0.1415486
+-6.826504	use|who
+-6.826504	use|you
+-6.826504	utilize|
+-6.826504	vacuum|husband
+-6.826504	venture|
+-6.826504	venture|we
+-6.826504	verb|
+-6.826504	view|
+-2.845873	visit|	0.02263882
+-3.447933	visit|I	-0.06096356
+-6.826504	visit|creature
+-6.826504	visit|that
+-3.146903	visit|we	0.04676713
+-6.826504	volunteer|
+-6.826504	vow|
+-6.826504	wade|
+-6.826504	wade|I
+-6.826504	wail|DURATION
+-2.970812	wait|	0.01945854
+-2.970812	wait|I	-0.1981028
+-6.826504	wait|NUMBER
+-6.826504	wait|PERSON
+-6.826504	wait|dinner
+-6.826504	wait|he
+-6.826504	wait|she
+-6.826504	wait|they
+-6.826504	wait|we
+-6.826504	wait|you
+-6.826504	waken|
+-3.146903	wake|	0.01889972
+-6.826504	wake|DATE
+-3.447933	wake|I	-0.05456644
+-3.146903	wake|PERSON	-0.05267614
+-6.826504	wake|child
+-6.826504	wake|he
+-6.826504	wake|i
+-6.826504	wake|moring
+-3.447933	wake|she	-0.06065368
+-6.826504	wake|sun
+-6.826504	wake|they
+-2.970812	wake|we	0.0275483
+-6.826504	wake|you
+-3.447933	walk|	-0.04727519
+-3.447933	walk|I	-0.06080865
+-6.826504	walk|PERSON
+-6.826504	walk|he
+-3.447933	walk|i	0.0187136
+-6.826504	walk|she
+-3.146903	walk|they	-0.06065368
+-3.146903	walk|we	-0.06034358
+-6.826504	walk|you
+-6.826504	wander|
+-3.146903	wander|I	0.0354047
+-6.826504	wander|cousin
+-6.826504	wander|we
+-2.970812	want|	0.02659985
+-2.748963	want|I	-0.1213068
+-6.826504	want|K
+-2.970812	want|PERSON	0.1427849
+-6.826504	want|everyone
+-6.826504	want|he
+-6.826504	want|i
+-3.447933	want|kid	-0.05925649
+-6.826504	want|people
+-3.447933	want|she	-0.05409463
+-3.146903	want|t	-0.04631507
+-6.826504	want|that
+-6.826504	want|they
+-6.826504	want|we
+-6.826504	want|who
+-6.826504	want|wife
+-6.826504	want|you
+-6.826504	warm|
+-6.826504	warn|
+-6.826504	warn|they
+-6.826504	wash|
+-6.826504	wash|I
+-6.826504	wash|t
+-6.826504	wasn|
+-3.447933	wasn|I	-0.06065368
+-6.826504	wasn|he
+-6.826504	wasn|it
+-3.447933	wasn|that	-0.05987802
+-6.826504	wasn|we
+-6.826504	wasn|weather
+-6.826504	waste|
+-3.146903	watch|	-0.04711531
+-6.826504	watch|I
+-6.826504	watch|PERSON
+-6.826504	watch|josh
+-6.826504	watch|tent
+-6.826504	watch|they
+-2.845873	watch|we	-0.05785478
+-3.146903	water|	0.03948443
+-6.826504	wave|
+-2.845873	wear|	-0.07776619
+-6.826504	wear|I
+-6.826504	wear|PERSON
+-6.826504	wear|trip
+-6.826504	wedge|
+-6.826504	week|some
+-6.826504	welcome|
+-6.826504	welcome|breathtaking
+-6.826504	welcome|great
+-6.826504	welcome|who
+-6.826504	weren|PERSON
+-6.826504	weren|we
+-6.826504	weren|which
+-3.447933	we|	0.03850958
+-6.826504	we|PERSON
+-6.826504	we|freeze
+-6.826504	we|t
+-6.826504	we|that
+-6.826504	whine|
+-6.826504	whine|I
+-6.826504	whine|we
+-6.826504	whisper|
+-6.826504	whistle|the
+-6.826504	whittle|I
+-6.826504	win.|
+-3.146903	wind|	-0.06034358
+-6.826504	wind|we
+-6.826504	win|I
+-6.826504	win|ORGANIZATION
+-6.826504	win|female
+-3.146903	wipe|	0.03870438
+-6.826504	wipe|kid
+-6.826504	wish|
+-6.826504	wish|I
+-6.826504	wish|you
+-6.826504	witness|I
+-6.826504	witness|we
+-6.826504	wonder|
+-2.845873	wonder|I	-0.07002591
+-6.826504	wonder|PERSON
+-6.826504	wonder|you
+-6.826504	won|PERSON
+-6.826504	won|nature
+-2.748963	work|	0.03656644
+-3.146903	work|I	0.1415486
+-3.146903	work|PERSON	-0.06065368
+-6.826504	work|ac
+-3.447933	work|he	-0.06096356
+-3.146903	work|it	-0.05456644
+-6.826504	work|that
+-6.826504	work|they
+-6.826504	work|we
+-3.447933	work|which	-0.05597878
+-6.826504	work|who
+-6.826504	worry|
+-3.447933	worry|I	-0.05987802
+-6.826504	worry|PERSON
+-6.826504	worry|we
+-3.447933	wouldn|I	0.0187136
+-6.826504	wouldn|they
+-6.826504	wouldn|we
+-6.826504	wouldn|you
+-6.826504	would|it
+-6.826504	would|we
+-3.447933	wrap|	0.0187136
+-6.826504	wreck|
+-6.826504	wreck|I
+-6.826504	wrestle|I
+-3.447933	write|	-0.06003326
+-6.826504	write|I
+-6.826504	write|she
+-6.826504	yell|
+-6.826504	yell|I
+-6.826504	yell|some
+-6.826504	yell|we
+-6.826504	yep|
+-6.826504	yet?|we
+-6.826504	you|it
+-6.826504	you|that
+-6.826504	zip|
+-6.826504	zip|we
+-6.826504	zoom|
+-6.826504	|
+-6.826504	|meaning
+-6.826504	|photo
+-6.826504	|who
+
+\2-grams:
+-2.224236	<s> <unk>
+-1.05566	<s> be|
+-2.224236	<s> be|trip
+-2.224236	<s> be|we
+-2.224236	<s> follow|
+-2.224236	<s> get|I
+-1.355528	<s> go|
+-2.224236	<s> go|group
+-2.224236	<s> go|we
+-0.8444988	<s> have|
+-2.224236	<s> have|tent
+-2.224236	<s> imagine|
+-2.224236	<s> love|I
+-2.224236	<s> say|I
+-2.224236	<s> spend|we
+-2.224236	<s> start|
+-2.261744	<unk> </s>
+-0.6013054	<unk> <unk>
+-3.641481	<unk> add|
+-3.641481	<unk> amaze|
+-3.641481	<unk> arrive|we
+-3.641481	<unk> ask|he
+-3.641481	<unk> ask|we
+-3.641481	<unk> backpack|
+-3.641481	<unk> base|
+-3.641481	<unk> begin|I
+-3.641481	<unk> begin|it
+-0.7182751	<unk> be|
+-2.472906	<unk> be|I
+-3.641481	<unk> be|MONEY
+-3.641481	<unk> be|TIME
+-3.641481	<unk> be|advantage
+-3.641481	<unk> be|bathroom
+-3.641481	<unk> be|coral
+-3.641481	<unk> be|it
+-3.641481	<unk> be|moment
+-3.641481	<unk> be|need
+-3.641481	<unk> be|news
+-3.641481	<unk> be|party
+-3.641481	<unk> be|road
+-3.641481	<unk> be|she
+-3.641481	<unk> be|that
+-2.472906	<unk> be|they
+-3.641481	<unk> be|this
+-3.641481	<unk> be|way
+-2.472906	<unk> be|we
+-3.641481	<unk> be|you
+-3.641481	<unk> breathe|you
+-3.641481	<unk> bring|PERSON
+-3.641481	<unk> bring|we
+-3.641481	<unk> buy|I
+-3.641481	<unk> camp|
+-3.641481	<unk> change|
+-3.641481	<unk> check|
+-3.641481	<unk> check|we
+-3.641481	<unk> clean|
+-2.772773	<unk> climb|
+-3.641481	<unk> close|they
+-3.641481	<unk> come|mom
+-3.641481	<unk> come|someone
+-3.641481	<unk> cook|we
+-3.641481	<unk> crawl|
+-3.641481	<unk> crawl|PERSON
+-3.641481	<unk> create|
+-3.641481	<unk> decide|I
+-2.772773	<unk> decide|we
+-3.641481	<unk> develop|
+-3.641481	<unk> didn|PERSON
+-1.529219	<unk> do|
+-2.772773	<unk> do|I
+-2.261744	<unk> do|we
+-2.772773	<unk> drive|
+-3.641481	<unk> drive|we
+-3.641481	<unk> drop|
+-3.641481	<unk> entertain|
+-3.641481	<unk> expect|you
+-3.641481	<unk> fall|PERSON
+-3.641481	<unk> fall|rain
+-3.641481	<unk> feast|
+-2.772773	<unk> feel|I
+-3.641481	<unk> figure|
+-2.772773	<unk> find|
+-3.641481	<unk> find|t
+-3.641481	<unk> finish|
+-3.641481	<unk> fix|
+-3.641481	<unk> forget|
+-2.772773	<unk> freak|
+-2.596645	<unk> get|
+-2.472906	<unk> get|I
+-3.641481	<unk> get|girl
+-3.641481	<unk> get|t
+-2.596645	<unk> get|we
+-3.641481	<unk> giggle|
+-3.641481	<unk> give|he
+-1.91457	<unk> go|
+-2.472906	<unk> go|I
+-3.641481	<unk> go|PERSON
+-3.641481	<unk> go|he
+-3.641481	<unk> go|she
+-3.641481	<unk> go|that
+-3.641481	<unk> go|time
+-2.472906	<unk> go|we
+-3.641481	<unk> grab|
+-3.641481	<unk> grow|it
+-1.39794	<unk> have|
+-1.759668	<unk> have|I
+-3.641481	<unk> have|he
+-3.641481	<unk> have|i
+-3.641481	<unk> have|man
+-3.641481	<unk> have|they
+-1.91457	<unk> have|we
+-3.641481	<unk> head|I
+-2.772773	<unk> head|we
+-3.641481	<unk> help|
+-3.641481	<unk> help|I
+-3.641481	<unk> hide|PERSON
+-3.641481	<unk> hike|I
+-2.772773	<unk> hike|we
+-3.641481	<unk> hit|we
+-3.641481	<unk> hoof|we
+-3.641481	<unk> hope|
+-3.641481	<unk> hurt|
+-3.641481	<unk> hurt|it
+-2.772773	<unk> include|
+-3.641481	<unk> join|
+-3.641481	<unk> jump|
+-3.641481	<unk> keep|I
+-3.641481	<unk> lay|we
+-2.472906	<unk> leave|
+-3.641481	<unk> leave|we
+-2.772773	<unk> let|
+-3.641481	<unk> let|that
+-3.641481	<unk> look|
+-2.772773	<unk> look|we
+-3.641481	<unk> look|you
+-3.641481	<unk> love|I
+-3.641481	<unk> love|PERSON
+-3.641481	<unk> love|we
+-3.641481	<unk> make|
+-3.641481	<unk> make|I
+-3.641481	<unk> make|this
+-2.772773	<unk> make|we
+-2.772773	<unk> mean|I
+-3.641481	<unk> mean|which
+-3.641481	<unk> meet|we
+-3.641481	<unk> mention|I
+-3.641481	<unk> miss|
+-3.641481	<unk> move|
+-3.641481	<unk> need|I
+-2.772773	<unk> need|we
+-2.772773	<unk> notice|we
+-2.772773	<unk> open|
+-3.641481	<unk> order|
+-3.641481	<unk> pack|
+-3.641481	<unk> pack|we
+-3.641481	<unk> pay|we
+-3.641481	<unk> pound|
+-3.641481	<unk> proceed|we
+-3.641481	<unk> prompt|
+-3.641481	<unk> prove|
+-3.641481	<unk> reach|
+-3.641481	<unk> realize|
+-2.772773	<unk> realize|I
+-3.641481	<unk> reflect|
+-3.641481	<unk> result|
+-2.772773	<unk> return|
+-3.641481	<unk> return|I
+-3.641481	<unk> return|we
+-2.772773	<unk> run|
+-3.641481	<unk> run|that
+-3.641481	<unk> sail|we
+-3.641481	<unk> scream|I
+-3.641481	<unk> seem|he
+-2.772773	<unk> see|
+-3.641481	<unk> see|PERSON
+-3.641481	<unk> see|i
+-2.261744	<unk> see|we
+-2.472906	<unk> set|
+-3.641481	<unk> set|we
+-3.641481	<unk> show|he
+-2.772773	<unk> skip|
+-3.641481	<unk> sleep|
+-3.641481	<unk> sleep|we
+-3.641481	<unk> spot|we
+-3.641481	<unk> spread|
+-2.772773	<unk> stand|
+-3.641481	<unk> stand|you
+-3.641481	<unk> start|we
+-2.261744	<unk> stay|
+-2.772773	<unk> swim|
+-2.261744	<unk> take|
+-2.772773	<unk> take|he
+-3.641481	<unk> take|we
+-3.641481	<unk> taste|
+-3.641481	<unk> tell|
+-3.641481	<unk> tell|he
+-3.641481	<unk> think|I
+-3.641481	<unk> toss|I
+-3.641481	<unk> touch|
+-3.641481	<unk> trail|sidewalk
+-3.641481	<unk> turn|it
+-3.641481	<unk> turn|we
+-3.641481	<unk> undo|
+-3.641481	<unk> use|I
+-3.641481	<unk> visit|
+-3.641481	<unk> visit|we
+-2.772773	<unk> wake|we
+-3.641481	<unk> walk|I
+-3.641481	<unk> want|
+-3.641481	<unk> want|I
+-3.641481	<unk> want|kid
+-3.641481	<unk> wasn|I
+-2.772773	<unk> wear|
+-3.641481	<unk> work|I
+-1.358934	add| <unk>
+-1.358934	add| add|we
+-1.358934	add| put|
+-0.8818131	add|it stop|we
+-0.8818131	add|we go|
+-0.8818131	admit| be|
+-0.8818131	allow| get|
+-0.8818131	amaze| be|
+-0.8818131	arrange|PERSON be|
+-1.358934	arrive| be|we
+-1.358934	arrive| do|I
+-1.358934	arrive| have|
+-1.182843	arrive|PERSON arrive|PERSON
+-1.182843	arrive|PERSON have|we
+-0.8818131	arrive|we <unk>
+-0.8818131	ascend| be|
+-0.8818131	ask| <unk>
+-1.182843	ask|I be|that
+-1.182843	ask|I have|
+-0.8818131	ask|he have|
+-0.8818131	ask|we <unk>
+-0.8818131	assume|I do|PERSON
+-1.182843	attempt| stake|we
+-1.182843	attempt| stop|
+-0.8818131	attempt|I chew|
+-0.8818131	avoid| set|
+-1.182843	backpack| <unk>
+-1.182843	backpack| be|
+-0.8818131	back| be|which
+-1.182843	base| be|we
+-1.182843	base| have|they
+-0.8818131	begin| <unk>
+-0.8818131	begin|I identify|
+-0.3141349	begin|it rain|
+-1.182843	begin|we <unk>
+-1.182843	begin|we be|
+-0.8818131	believe| do|
+-2.509998	be| </s>
+-0.5300061	be| <unk>
+-3.554834	be| allow|
+-3.554834	be| arrive|
+-3.554834	be| ask|
+-3.554834	be| backpack|
+-0.853477	be| be|
+-2.686126	be| be|I
+-3.554834	be| be|area
+-3.554834	be| be|bridge
+-3.554834	be| be|house
+-2.175097	be| be|it
+-3.554834	be| be|plan
+-3.554834	be| be|that
+-3.554834	be| be|time
+-3.554834	be| be|trail
+-3.554834	be| blow|wind
+-3.554834	be| borrow|we
+-3.554834	be| breathe|
+-3.554834	be| bundle|we
+-3.554834	be| call|
+-3.554834	be| call|what
+-3.554834	be| camp|I
+-3.554834	be| camp|we
+-3.554834	be| carry|
+-3.554834	be| carry|we
+-3.554834	be| check|
+-3.554834	be| chill|we
+-3.554834	be| clean|we
+-2.686126	be| close|it
+-3.554834	be| come|rain
+-3.554834	be| come|who
+-3.554834	be| compare|
+-3.554834	be| complete|
+-3.554834	be| continue|we
+-2.686126	be| decide|we
+-3.554834	be| descend|we
+-3.554834	be| designate|
+-3.554834	be| determine|he
+-2.386259	be| do|
+-2.686126	be| do|I
+-2.386259	be| do|PERSON
+-3.554834	be| do|she
+-3.554834	be| do|you
+-3.554834	be| drive|
+-2.686126	be| drop|we
+-3.554834	be| duck|
+-3.554834	be| eat|fish
+-3.554834	be| end|we
+-3.554834	be| enjoy|we
+-3.554834	be| excite|we
+-3.554834	be| expect|we
+-3.554834	be| explore|
+-2.686126	be| feel|I
+-3.554834	be| feel|it
+-3.554834	be| figure|I
+-3.554834	be| figure|they
+-3.554834	be| figure|we
+-3.554834	be| fill|it
+-3.554834	be| find|we
+-3.554834	be| forget|I
+-3.554834	be| freak|
+-2.509998	be| get|
+-3.554834	be| get|I
+-3.554834	be| get|NUMBER
+-3.554834	be| get|that
+-2.175097	be| get|we
+-3.554834	be| give|which
+-1.89487	be| go|
+-2.686126	be| go|I
+-3.554834	be| go|TIME
+-3.554834	be| go|everything
+-2.386259	be| go|it
+-3.554834	be| go|rain
+-3.554834	be| go|they
+-2.386259	be| go|we
+-3.554834	be| grab|I
+-3.554834	be| handle|
+-3.554834	be| hang|we
+-3.554834	be| happen|it
+-1.559078	be| have|
+-2.386259	be| have|I
+-3.554834	be| have|man
+-3.554834	be| have|they
+-2.509998	be| have|we
+-3.554834	be| head|
+-3.554834	be| hike|
+-2.686126	be| hike|we
+-3.554834	be| hit|we
+-3.554834	be| hope|I
+-3.554834	be| hope|we
+-3.554834	be| include|
+-2.175097	be| keep|
+-3.554834	be| know|
+-2.386259	be| know|you
+-3.554834	be| leave|
+-3.554834	be| leave|I
+-3.554834	be| leave|it
+-3.554834	be| limit|I
+-3.554834	be| load|we
+-3.554834	be| lodge|
+-3.554834	be| look|I
+-3.554834	be| look|PERSON
+-2.686126	be| look|it
+-3.554834	be| lose|I
+-3.554834	be| love|I
+-3.554834	be| make|
+-3.554834	be| make|I
+-2.686126	be| make|PERSON
+-3.554834	be| make|it
+-3.554834	be| meet|we
+-3.554834	be| miss|I
+-3.554834	be| name|
+-3.554834	be| offer|they
+-3.554834	be| pack|we
+-3.554834	be| pass|
+-3.554834	be| pass|we
+-3.554834	be| plan|we
+-3.554834	be| play|
+-3.554834	be| play|PERSON
+-3.554834	be| play|kid
+-3.554834	be| post|
+-3.554834	be| post|I
+-3.554834	be| prepare|we
+-3.554834	be| prove|it
+-3.554834	be| pump|
+-3.554834	be| push|we
+-3.554834	be| question|
+-2.509998	be| rain|it
+-3.554834	be| read|I
+-2.686126	be| realize|we
+-3.554834	be| relax|
+-3.554834	be| remain|
+-3.554834	be| remember|
+-3.554834	be| remember|I
+-3.554834	be| rest|
+-3.554834	be| return|
+-3.554834	be| run|kid
+-3.554834	be| say|I
+-3.554834	be| say|PERSON
+-3.554834	be| scare|I
+-3.554834	be| seem|it
+-2.509998	be| see|
+-3.554834	be| see|I
+-3.554834	be| see|you
+-2.686126	be| set|
+-2.686126	be| sleep|
+-2.686126	be| sleep|PERSON
+-3.554834	be| slip|
+-3.554834	be| sound|it
+-3.554834	be| spend|
+-3.554834	be| spend|we
+-3.554834	be| stand|
+-3.554834	be| start|DATE
+-3.554834	be| start|it
+-3.554834	be| start|we
+-3.554834	be| stay|
+-3.554834	be| stay|I
+-3.554834	be| stick|we
+-3.554834	be| stop|
+-3.554834	be| stop|we
+-3.554834	be| suppose|we
+-3.554834	be| swim|
+-3.554834	be| take|it
+-3.554834	be| talk|
+-3.554834	be| tell|I
+-3.554834	be| that|
+-3.554834	be| think|I
+-3.554834	be| throw|I
+-3.554834	be| tie|we
+-3.554834	be| tire|I
+-3.554834	be| trust|
+-2.686126	be| try|
+-3.554834	be| try|I
+-3.554834	be| try|he
+-2.686126	be| try|they
+-3.554834	be| try|we
+-3.554834	be| turn|we
+-3.554834	be| upload|I
+-2.686126	be| use|we
+-3.554834	be| wake|PERSON
+-3.554834	be| wake|she
+-2.686126	be| walk|they
+-3.554834	be| wander|I
+-3.554834	be| watch|we
+-3.554834	be| wear|
+-3.554834	be| wonder|I
+-3.554834	be| work|
+-3.554834	be| work|he
+-3.554834	be| work|which
+-3.554834	be| worry|I
+-3.554834	be| wrap|
+-0.7546304	be|I <unk>
+-1.923206	be|I be|
+-1.923206	be|I cook|I
+-1.923206	be|I do|
+-1.923206	be|I feel|I
+-1.923206	be|I get|
+-1.923206	be|I hold|
+-1.923206	be|I look|I
+-1.923206	be|I see|I
+-0.8818131	be|MONEY work|PERSON
+-1.182843	be|PERSON be|PERSON
+-1.182843	be|PERSON be|tent
+-0.8818131	be|TIME ask|I
+-0.8818131	be|advantage get|
+-0.8818131	be|all <unk>
+-0.8818131	be|area have|that
+-0.8818131	be|bathroom be|
+-0.8818131	be|bridge go|that
+-0.8818131	be|campsite be|
+-0.8818131	be|car be|
+-0.8818131	be|coral <unk>
+-0.8818131	be|dive be|
+-0.8818131	be|head look|
+-0.8818131	be|home get|we
+-0.8818131	be|house be|it
+-2.027941	be|it </s>
+-1.159233	be|it <unk>
+-0.8593658	be|it be|
+-2.027941	be|it be|I
+-2.027941	be|it decide|PERSON
+-2.027941	be|it dive|we
+-2.027941	be|it lay|
+-2.027941	be|it make|
+-2.027941	be|it make|we
+-2.027941	be|it start|DATE
+-2.027941	be|it stop|
+-1.182843	be|kid <unk>
+-1.182843	be|kid have|
+-1.182843	be|mile be|mile
+-1.182843	be|mile have|
+-0.8818131	be|moment be|
+-0.8818131	be|need have|I
+-0.8818131	be|news add|it
+-0.8818131	be|party have|
+-0.8818131	be|plan get|
+-0.8818131	be|plant <unk>
+-0.8818131	be|plenty stop|
+-1.182843	be|point do|
+-1.182843	be|point stay|
+-0.8818131	be|problem be|
+-0.8818131	be|road be|
+-1.182843	be|she drop|I
+-1.182843	be|she think|I
+-0.8818131	be|site have|
+-0.8818131	be|spot <unk>
+-0.8818131	be|tent be|
+-1.659964	be|that <unk>
+-0.491389	be|that be|
+-1.659964	be|that have|we
+-1.659964	be|that please|
+-0.6151649	be|they <unk>
+-1.483873	be|they be|
+-1.483873	be|they have|
+-0.8818131	be|thing <unk>
+-1.182843	be|this <unk>
+-1.182843	be|this didn|you
+-0.8818131	be|time skip|
+-0.8818131	be|traffic get|we
+-0.8818131	be|trail <unk>
+-0.8818131	be|trip plan|I
+-0.8818131	be|way be|
+-0.7546304	be|we <unk>
+-0.7546304	be|we be|
+-1.923206	be|we be|we
+-1.923206	be|we leave|we
+-1.923206	be|we need|we
+-1.923206	be|we start|
+-1.923206	be|we think|I
+-1.182843	be|what <unk>
+-1.182843	be|what be|
+-1.483873	be|which be|
+-1.483873	be|which come|
+-1.483873	be|which go|
+-1.483873	be|which say|
+-0.8818131	be|who be|
+-0.8818131	be|you be|
+-0.8818131	blow|wind spread|
+-1.182843	board|we buzz|
+-1.182843	board|we spare|
+-0.8818131	borrow|we be|
+-0.8818131	bounce| be|
+-0.8818131	break| take|we
+-0.8818131	breathe| have|
+-0.8818131	breathe|you have|you
+-0.8818131	bring| be|
+-0.8818131	bring|PERSON fill|
+-0.8818131	bring|they work|PERSON
+-0.4902261	bring|we bring|we
+-1.358934	bring|we leave|we
+-0.8818131	bundle|we <unk>
+-1.358934	buy| <unk>
+-1.358934	buy| pack|
+-1.358934	buy| take|
+-1.358934	buy|I <unk>
+-1.358934	buy|I buy|I
+-1.358934	buy|I have|
+-0.8818131	buzz| get|we
+-1.726911	call| <unk>
+-1.726911	call| be|
+-0.6820753	call| call|
+-1.182843	call|I <unk>
+-1.182843	call|I tell|
+-0.8818131	call|he turn|it
+-0.8818131	call|she <unk>
+-0.8818131	call|what be|
+-0.8818131	calm|I figure|I
+-1.358934	camp| </s>
+-1.358934	camp| be|
+-1.358934	camp| have|we
+-0.8818131	camp|I be|
+-1.182843	camp|we be|we
+-1.182843	camp|we get|
+-0.8818131	carry| like|I
+-0.8818131	carry|we <unk>
+-0.8818131	catch|we stop|
+-0.8818131	change| be|
+-0.8818131	chat| <unk>
+-1.659964	check| <unk>
+-1.659964	check| be|
+-1.659964	check| check|
+-1.659964	check| head|we
+-1.659964	check| load|
+-1.659964	check| return|
+-0.8818131	check|I be|mile
+-1.182843	check|we drive|we
+-1.182843	check|we pull|we
+-0.8818131	chew| make|he
+-0.8818131	chill|we go|
+-0.8818131	choose|we base|
+-0.4902261	clean| <unk>
+-1.358934	clean| get|
+-0.8818131	clean|we <unk>
+-0.8818131	clear|rain be|
+-0.6151649	climb| <unk>
+-1.483873	climb| be|
+-1.483873	climb| reach|we
+-0.8818131	climb|I go|they
+-0.8818131	climb|PERSON play|
+-0.3141349	climb|we be|
+-1.182843	close|it be|
+-1.182843	close|it be|which
+-0.8818131	close|they be|
+-1.182843	come| </s>
+-1.182843	come| have|you
+-0.8818131	come|DATE get|PERSON
+-0.8818131	come|I deal|
+-0.8818131	come|NUMBER hear|they
+-0.8818131	come|mom be|
+-0.8818131	come|rain hold|
+-0.8818131	come|someone wait|I
+-0.8818131	come|sun do|we
+-1.358934	come|we be|that
+-1.358934	come|we have|
+-1.358934	come|we order|we
+-0.8818131	come|who be|
+-0.8818131	compare| <unk>
+-0.8818131	complain| be|
+-0.8818131	complete| learn|I
+-1.182843	continue|we head|
+-1.182843	continue|we rise|
+-1.580783	cook| <unk>
+-1.580783	cook| cook|
+-1.580783	cook| finish|
+-1.580783	cook| see|dinner
+-1.580783	cook| take|we
+-0.8818131	cook|I scramble|
+-0.8818131	cook|we relax|we
+-0.8818131	crawl| <unk>
+-0.8818131	crawl|PERSON <unk>
+-0.8818131	create| be|
+-0.8818131	cross| camp|we
+-1.182843	deal| <unk>
+-1.182843	deal| dread|
+-1.182843	decide| skip|
+-1.182843	decide| take|
+-1.182843	decide|I stay|
+-1.182843	decide|I write|
+-1.182843	decide|PERSON be|
+-1.182843	decide|PERSON do|
+-1.836056	decide|we be|
+-1.836056	decide|we be|campsite
+-1.836056	decide|we didn|we
+-1.836056	decide|we drive|
+-1.836056	decide|we follow|
+-1.836056	decide|we give|
+-1.836056	decide|we head|
+-1.836056	decide|we isn|it
+-1.836056	decide|we undo|
+-0.8818131	descend|we have|we
+-0.8818131	designate| look|
+-0.8818131	determine|he have|he
+-1.182843	develop| be|I
+-1.182843	develop| get|i
+-0.8818131	didn|I take|t
+-1.182843	didn|PERSON didn|PERSON
+-1.182843	didn|PERSON have|we
+-0.8818131	didn|it <unk>
+-0.7912561	didn|we didn|we
+-1.659964	didn|we include|
+-1.659964	didn|we know|t
+-0.7912561	didn|we want|t
+-0.8818131	didn|you know|t
+-0.8818131	digress|I be|point
+-1.182843	discover|PERSON bring|
+-1.182843	discover|PERSON discover|PERSON
+-0.8818131	dive| <unk>
+-0.8818131	dive|we get|we
+-0.8818131	don|I <unk>
+-0.6103325	do| <unk>
+-2.606089	do| assume|I
+-1.437514	do| be|
+-2.606089	do| be|I
+-2.606089	do| decide|we
+-2.606089	do| drive|I
+-2.606089	do| feel|it
+-1.737381	do| get|I
+-1.737381	do| get|we
+-2.606089	do| go|
+-1.437514	do| have|
+-2.606089	do| have|I
+-1.437514	do| have|he
+-2.606089	do| have|i
+-2.606089	do| have|we
+-2.606089	do| know|I
+-2.606089	do| know|they
+-2.606089	do| like|PERSON
+-2.606089	do| mention|I
+-2.606089	do| slow|I
+-1.437514	do| spend|we
+-2.606089	do| stop|
+-2.606089	do| take|I
+-2.606089	do| take|it
+-2.606089	do| take|you
+-2.606089	do| think|I
+-2.606089	do| trust|I
+-2.606089	do| turn|
+-2.606089	do| understand|I
+-2.606089	do| wake|I
+-2.606089	do| want|she
+-1.836056	do|I <unk>
+-1.836056	do|I be|
+-1.836056	do|I do|dive
+-1.836056	do|I drive|
+-1.836056	do|I eat|
+-1.836056	do|I find|
+-1.836056	do|I like|I
+-1.836056	do|I need|I
+-1.836056	do|I run|I
+-1.659964	do|PERSON be|
+-0.7912561	do|PERSON do|PERSON
+-1.659964	do|PERSON go|we
+-1.659964	do|PERSON make|he
+-1.659964	do|PERSON meet|we
+-1.182843	do|dive do|dive
+-1.182843	do|dive have|I
+-0.8818131	do|he believe|
+-0.8818131	do|she trail|
+-0.4563186	do|we <unk>
+-1.836056	do|we be|
+-1.836056	do|we be|we
+-1.836056	do|we see|we
+-1.836056	do|we spend|I
+-1.836056	do|we that|
+-0.8818131	do|who say|they
+-0.8818131	do|you see|you
+-0.8818131	dread| be|
+-1.182843	dress| <unk>
+-1.182843	dress| take|we
+-1.881813	drive| <unk>
+-1.881813	drive| arrive|
+-1.881813	drive| gear|we
+-1.881813	drive| get|
+-1.881813	drive| get|I
+-1.881813	drive| get|it
+-1.881813	drive| have|
+-1.881813	drive| spend|we
+-1.881813	drive| visit|
+-1.881813	drive| wipe|
+-0.4902261	drive|I be|
+-1.358934	drive|I wonder|I
+-0.8818131	drive|he leave|
+-1.960994	drive|we <unk>
+-1.960994	drive|we be|dive
+-1.960994	drive|we check|
+-1.960994	drive|we drive|we
+-1.960994	drive|we get|we
+-1.960994	drive|we go|
+-1.960994	drive|we leave|we
+-1.960994	drive|we reach|we
+-1.960994	drive|we recommend|
+-1.960994	drive|we remind|that
+-1.960994	drive|we wind|
+-1.960994	drive|we wonder|I
+-0.8818131	drop| <unk>
+-1.182843	drop|I <unk>
+-1.182843	drop|I drop|I
+-1.358934	drop|we <unk>
+-1.358934	drop|we come|we
+-1.358934	drop|we drop|we
+-0.8818131	drown| be|
+-1.182843	dry| clean|
+-1.182843	dry| have|we
+-0.8818131	duck| love|PERSON
+-0.8818131	dump|we go|we
+-1.483873	eat| <unk>
+-0.6151649	eat| be|
+-1.483873	eat| clean|
+-0.8818131	eat|fish do|we
+-0.8818131	eat|they see|you
+-0.8818131	end|we set|
+-0.4902261	enjoy| <unk>
+-1.358934	enjoy| enjoy|
+-0.8818131	enjoy|I sleep|
+-0.8818131	enjoy|he be|
+-1.483873	enjoy|we dry|
+-1.483873	enjoy|we get|we
+-1.483873	enjoy|we have|
+-1.483873	enjoy|we set|
+-0.8818131	entertain| want|PERSON
+-0.8818131	enter|we enjoy|we
+-0.8818131	excite|we be|
+-0.8818131	expect|I find|
+-1.182843	expect|we have|we
+-1.182843	expect|we sleep|
+-0.8818131	expect|you do|
+-0.8818131	experience|I be|
+-0.8818131	explore| be|
+-0.8818131	explore|I visit|I
+-0.8818131	fall|NUMBER do|we
+-0.8818131	fall|PERSON be|
+-0.8818131	fall|he be|
+-0.8818131	fall|rain be|
+-0.8818131	feast| be|
+-0.8818131	feast|we cook|
+-1.659964	feel|I <unk>
+-0.7912561	feel|I be|
+-1.659964	feel|I feel|it
+-1.659964	feel|I turn|I
+-1.659964	feel|I want|PERSON
+-1.358934	feel|it be|
+-1.358934	feel|it have|we
+-1.358934	feel|it look|it
+-1.358934	fight| drive|we
+-1.358934	fight| go|I
+-1.358934	fight| tell|who
+-1.182843	figure| happen|what
+-1.182843	figure| realize|I
+-1.358934	figure|I be|
+-1.358934	figure|I have|
+-1.358934	figure|I tell|he
+-0.8818131	figure|they expect|we
+-1.182843	figure|we be|
+-1.182843	figure|we move|we
+-1.358934	fill| be|
+-1.358934	fill| say|we
+-1.358934	fill| wind|
+-0.8818131	fill|it didn|it
+-0.9161949	find| <unk>
+-1.784903	find| be|site
+-1.784903	find| buy|
+-1.784903	find| do|
+-1.784903	find| find|
+-1.784903	find| have|I
+-1.784903	find| wasn|that
+-0.8818131	find|t work|it
+-1.182843	find|we be|
+-1.182843	find|we sit|
+-1.358934	finish| be|
+-1.358934	finish| have|we
+-1.358934	finish| start|it
+-0.8818131	finish|I head|I
+-1.182843	fix| finish|
+-1.182843	fix| look|they
+-1.358934	follow| <unk>
+-1.358934	follow| provide|
+-1.358934	follow| shine|
+-0.8818131	follow|I give|it
+-0.8818131	forget| do|
+-0.8818131	forget|I have|
+-1.483873	freak| be|
+-1.483873	freak| do|I
+-1.483873	freak| tell|he
+-1.483873	freak| use|
+-0.8818131	gather| get|NUMBER
+-0.8818131	gear|we be|
+-0.5797836	get| <unk>
+-1.592888	get| be|
+-2.461597	get| bring|they
+-2.461597	get| call|she
+-2.461597	get| do|
+-2.461597	get| do|I
+-2.461597	get| eat|
+-2.461597	get| freak|
+-2.461597	get| get|
+-2.461597	get| get|I
+-2.461597	get| get|we
+-2.461597	get| go|this
+-2.461597	get| go|you
+-1.592888	get| have|
+-2.461597	get| head|
+-2.461597	get| head|PERSON
+-2.461597	get| make|
+-2.461597	get| need|we
+-2.461597	get| pack|
+-2.461597	get| pack|we
+-2.461597	get| please|
+-2.461597	get| pull|friend
+-2.461597	get| show|I
+-2.461597	get| spend|I
+-2.461597	get| start|
+-2.461597	get| tell|
+-2.461597	get| water|
+-0.8818131	get|DATE be|
+-2.027941	get|I <unk>
+-1.159233	get|I be|
+-2.027941	get|I be|spot
+-2.027941	get|I call|I
+-2.027941	get|I calm|I
+-2.027941	get|I feel|I
+-2.027941	get|I fill|
+-2.027941	get|I go|
+-2.027941	get|I look|
+-2.027941	get|I put|I
+-2.027941	get|I sit|I
+-2.027941	get|I sleep|
+-2.027941	get|I take|
+-1.182843	get|NUMBER <unk>
+-1.182843	get|NUMBER be|
+-1.182843	get|PERSON <unk>
+-1.182843	get|PERSON have|PERSON
+-0.8818131	get|girl be|we
+-1.182843	get|he <unk>
+-1.182843	get|he take|we
+-1.358934	get|i go|
+-1.358934	get|i see|
+-1.358934	get|i think|we
+-1.182843	get|it be|
+-1.182843	get|it lose|
+-0.8818131	get|kid be|
+-1.182843	get|she decide|PERSON
+-1.182843	get|she get|she
+-0.8818131	get|t watch|we
+-0.8818131	get|that get|he
+-0.6734159	get|we <unk>
+-0.7403627	get|we be|
+-2.400327	get|we do|
+-2.400327	get|we dress|
+-2.400327	get|we figure|I
+-2.400327	get|we fix|
+-2.400327	get|we get|kid
+-2.400327	get|we get|we
+-2.400327	get|we keep|
+-2.400327	get|we know|
+-2.400327	get|we leave|we
+-2.400327	get|we make|we
+-2.400327	get|we move|we
+-2.400327	get|we notice|we
+-2.400327	get|we pack|
+-2.400327	get|we see|we
+-2.400327	get|we spend|we
+-2.400327	get|we start|we
+-2.400327	get|we swim|
+-2.400327	get|we take|
+-2.400327	get|we take|we
+-2.400327	get|we turn|I
+-1.182843	giggle| giggle|
+-1.182843	giggle| walk|we
+-0.6151649	give| <unk>
+-0.6151649	give| be|
+-1.182843	give|I <unk>
+-1.182843	give|I give|I
+-1.182843	give|he give|he
+-1.182843	give|he let|I
+-1.483873	give|it <unk>
+-1.483873	give|it drive|I
+-0.6151649	give|it give|it
+-1.182843	give|they drive|we
+-1.182843	give|they give|they
+-0.8818131	give|which make|car
+-1.49019	go| <unk>
+-2.535026	go| begin|it
+-2.535026	go| begin|we
+-0.5740313	go| be|
+-2.535026	go| board|we
+-2.535026	go| break|
+-2.535026	go| buy|
+-2.535026	go| drive|I
+-2.535026	go| fight|
+-2.535026	go| get|
+-2.535026	go| go|
+-2.535026	go| go|she
+-2.535026	go| have|
+-2.535026	go| have|LOCATION
+-1.666317	go| have|we
+-2.535026	go| head|he
+-2.535026	go| let|
+-2.535026	go| need|I
+-2.535026	go| need|PERSON
+-2.535026	go| plan|I
+-2.535026	go| play|
+-2.535026	go| seem|she
+-2.535026	go| see|
+-2.535026	go| sleep|PERSON
+-2.535026	go| snorkele|
+-2.535026	go| stay|
+-2.535026	go| take|we
+-2.535026	go| turn|it
+-2.535026	go| water|
+-0.4563186	go|I <unk>
+-0.9673474	go|I be|
+-1.836056	go|I call|I
+-1.836056	go|I explore|I
+-1.836056	go|I start|it
+-1.358934	go|PERSON <unk>
+-1.358934	go|PERSON get|
+-1.358934	go|PERSON go|PERSON
+-0.8818131	go|TIME go|I
+-0.8818131	go|all be|
+-0.8818131	go|everything have|we
+-0.8818131	go|group be|
+-0.8818131	go|he be|
+-1.358934	go|it be|
+-1.358934	go|it let|
+-1.358934	go|it struggle|we
+-0.8818131	go|rain let|
+-1.182843	go|she <unk>
+-1.182843	go|she sleep|
+-1.182843	go|that be|
+-1.182843	go|that love|PERSON
+-0.8818131	go|then sleep|
+-1.182843	go|they check|
+-1.182843	go|they do|
+-0.8818131	go|this <unk>
+-0.8818131	go|time visit|
+-0.8818131	go|trail go|
+-0.6781674	go|we <unk>
+-1.189196	go|we be|
+-2.057904	go|we be|kid
+-2.057904	go|we come|we
+-2.057904	go|we cook|
+-2.057904	go|we do|
+-2.057904	go|we eat|
+-2.057904	go|we head|we
+-2.057904	go|we keep|we
+-2.057904	go|we run|we
+-2.057904	go|we sleep|
+-0.8818131	go|you pick|
+-1.182843	grab| <unk>
+-1.182843	grab| get|we
+-0.8818131	grab|I need|I
+-0.8818131	grab|we run|we
+-1.182843	grow|it <unk>
+-1.182843	grow|it grow|it
+-0.8818131	guess|I <unk>
+-0.8818131	hadn|we <unk>
+-0.8818131	handle| <unk>
+-0.8818131	hand|they turn|
+-0.8818131	hang| do|
+-1.182843	hang|we be|
+-1.182843	hang|we catch|we
+-1.182843	happen|it be|which
+-1.182843	happen|it camp|
+-0.8818131	happen|thing <unk>
+-0.8818131	happen|we be|
+-0.8818131	happen|what go|then
+-0.5295093	have| <unk>
+-0.7140337	have| be|
+-2.826296	have| be|it
+-2.826296	have| be|this
+-2.826296	have| choose|we
+-2.826296	have| climb|I
+-2.826296	have| decide|I
+-2.826296	have| do|I
+-2.826296	have| do|he
+-2.826296	have| do|we
+-2.826296	have| drive|
+-2.826296	have| experience|I
+-2.826296	have| get|
+-2.826296	have| get|DATE
+-2.826296	have| get|I
+-2.826296	have| get|PERSON
+-2.826296	have| get|she
+-1.957588	have| go|
+-2.826296	have| have|PERSON
+-2.826296	have| have|we
+-2.826296	have| hope|I
+-1.957588	have| leave|we
+-2.826296	have| like|she
+-2.826296	have| look|we
+-2.826296	have| make|
+-2.826296	have| pack|we
+-2.826296	have| pass|we
+-2.826296	have| pay|I
+-1.957588	have| plan|we
+-2.826296	have| reach|we
+-2.826296	have| return|PERSON
+-2.826296	have| say|I
+-1.957588	have| see|i
+-2.826296	have| set|we
+-2.826296	have| spot|I
+-2.826296	have| stay|you
+-2.826296	have| suggest|I
+-2.826296	have| take|it
+-2.826296	have| talk|I
+-2.826296	have| trust|
+-2.826296	have| turn|I
+-2.826296	have| turn|it
+-2.826296	have| want|I
+-1.014268	have|I <unk>
+-2.182843	have|I add|
+-2.182843	have|I admit|
+-2.182843	have|I ask|I
+-1.314135	have|I be|
+-2.182843	have|I be|I
+-2.182843	have|I buy|I
+-2.182843	have|I do|
+-2.182843	have|I have|I
+-2.182843	have|I have|he
+-2.182843	have|I hurry|
+-2.182843	have|I need|I
+-2.182843	have|I put|
+-1.314135	have|I say|
+-1.314135	have|I stop|
+-0.8818131	have|LOCATION have|
+-1.659964	have|PERSON <unk>
+-1.659964	have|PERSON have|PERSON
+-1.659964	have|PERSON leak|
+-1.659964	have|PERSON stop|we
+-1.659964	have|PERSON want|I
+-1.659964	have|PERSON work|
+-0.7912561	have|he <unk>
+-1.659964	have|he get|
+-1.659964	have|he have|I
+-1.659964	have|he have|she
+-1.659964	have|he take|it
+-1.182843	have|i <unk>
+-1.182843	have|i go|
+-1.182843	have|man be|
+-1.182843	have|man have|
+-0.8818131	have|she pay|
+-0.8818131	have|tent be|
+-0.8818131	have|that begin|
+-1.483873	have|they be|
+-1.483873	have|they hand|they
+-1.483873	have|they kick|
+-1.483873	have|they look|
+-1.636354	have|we </s>
+-1.460227	have|we <unk>
+-0.845098	have|we be|
+-2.505062	have|we climb|
+-2.505062	have|we do|
+-2.505062	have|we drive|
+-2.505062	have|we enjoy|I
+-2.505062	have|we enjoy|we
+-2.505062	have|we get|we
+-2.505062	have|we go|all
+-2.505062	have|we go|we
+-1.125325	have|we have|we
+-2.505062	have|we have|you
+-1.636354	have|we include|
+-2.505062	have|we intend|we
+-2.505062	have|we look|
+-2.505062	have|we meet|
+-2.505062	have|we play|PERSON
+-2.505062	have|we reply|she
+-2.505062	have|we see|we
+-2.505062	have|we shower|we
+-2.505062	have|we spot|we
+-2.505062	have|we start|thing
+-2.505062	have|we stop|
+-2.505062	have|we tackle|
+-2.505062	have|we take|
+-2.505062	have|we walk|
+-2.505062	have|we wear|
+-1.358934	have|you keep|
+-1.358934	have|you please|
+-1.358934	have|you set|we
+-1.483873	head| be|
+-1.483873	head| drive|we
+-1.483873	head| go|
+-1.483873	head| make|
+-1.483873	head|I </s>
+-1.483873	head|I be|I
+-1.483873	head|I be|PERSON
+-1.483873	head|I hear|I
+-0.8818131	head|PERSON head|I
+-0.8818131	head|he have|
+-1.960994	head|we attempt|
+-0.792419	head|we be|
+-1.092286	head|we get|we
+-1.960994	head|we go|we
+-1.960994	head|we leave|
+-1.960994	head|we offer|I
+-1.960994	head|we say|I
+-1.960994	head|we stumble|we
+-1.960994	head|we work|it
+-0.8818131	hear|I miss|I
+-0.8818131	hear|they think|they
+-1.182843	hear|we see|we
+-1.182843	hear|we think|I
+-0.8818131	help| be|
+-0.8818131	help|I get|we
+-0.8818131	hide|PERSON take|we
+-1.182843	hike| <unk>
+-1.182843	hike| hike|you
+-0.8818131	hike|I be|
+-1.483873	hike|we be|that
+-1.483873	hike|we go|
+-1.483873	hike|we hike|you
+-1.483873	hike|we overlook|
+-1.182843	hike|you <unk>
+-1.182843	hike|you remember|I
+-0.7120749	hit| <unk>
+-1.580783	hit| ascend|
+-1.580783	hit| attempt|
+-1.580783	hit| keep|
+-0.8818131	hit|PERSON <unk>
+-1.182843	hit|we <unk>
+-1.182843	hit|we head|we
+-1.358934	hold| decide|we
+-1.358934	hold| grab|we
+-1.358934	hold| let|
+-0.8818131	hoof|we sleep|
+-1.182843	hope| <unk>
+-1.182843	hope| get|
+-1.182843	hope|I do|
+-1.182843	hope|I spend|
+-0.8818131	hope|we be|
+-1.182843	hurry| be|
+-1.182843	hurry| get|
+-0.8818131	hurt| be|
+-0.8818131	hurt|it have|PERSON
+-0.8818131	identify| be|plenty
+-1.182843	imagine| <unk>
+-1.182843	imagine| be|
+-0.8818131	imagine|you </s>
+-1.836056	include| <unk>
+-0.6674802	include| be|
+-1.836056	include| be|home
+-1.836056	include| be|plant
+-1.836056	include| do|
+-1.836056	include| take|it
+-1.836056	include| use|I
+-0.8818131	intend|we buy|
+-0.8818131	isn|it go|
+-0.8818131	join| come|sun
+-0.8818131	jump| gather|
+-0.8818131	jump|kid <unk>
+-0.6163277	keep| <unk>
+-0.6163277	keep| be|
+-1.784903	keep| do|
+-1.784903	keep| make|I
+-1.182843	keep|I look|
+-1.182843	keep|I share|I
+-0.8818131	keep|we go|
+-0.8818131	kick| drive|we
+-0.7120749	know| be|
+-1.580783	know| drown|
+-1.580783	know| have|we
+-1.580783	know| visit|we
+-0.8818131	know|I be|it
+-1.182843	know|t be|
+-1.182843	know|t plan|we
+-0.8818131	know|they <unk>
+-0.8818131	know|we have|we
+-1.483873	know|you be|
+-1.483873	know|you be|car
+-1.483873	know|you say|PERSON
+-1.483873	know|you take|that
+-0.8818131	lay| <unk>
+-0.8818131	lay|we soak|
+-0.8818131	leak| dive|
+-0.8818131	learn| have|they
+-0.8818131	learn|I <unk>
+-1.726911	leave| be|
+-1.726911	leave| didn|we
+-1.726911	leave| drive|we
+-1.726911	leave| get|we
+-1.726911	leave| hit|
+-1.726911	leave| notice|we
+-1.726911	leave| stop|we
+-1.358934	leave|I <unk>
+-1.358934	leave|I get|I
+-1.358934	leave|I have|
+-0.8818131	leave|PERSON leave|I
+-0.8818131	leave|he guess|I
+-0.8818131	leave|it stop|we
+-1.923206	leave|we </s>
+-1.054498	leave|we <unk>
+-1.923206	leave|we be|
+-1.923206	leave|we be|it
+-1.923206	leave|we climb|we
+-1.923206	leave|we didn|we
+-1.923206	leave|we get|we
+-1.923206	leave|we hear|we
+-1.923206	leave|we leave|we
+-1.923206	leave|we throw|he
+-0.7132377	let| <unk>
+-1.881813	let| didn|we
+-1.881813	let| do|we
+-1.013105	let| get|
+-1.881813	let| go|
+-1.881813	let| need|we
+-1.881813	let| stay|I
+-0.8818131	let|I be|
+-0.8818131	let|rain stop|we
+-0.8818131	let|that know|we
+-1.483873	like|I <unk>
+-1.483873	like|I be|
+-1.483873	like|I like|I
+-1.483873	like|I struggle|I
+-0.8818131	like|PERSON stick|I
+-0.8818131	like|she do|
+-0.8818131	limit|I <unk>
+-0.8818131	load| drive|
+-0.8818131	load|we go|we
+-0.8818131	lodge| <unk>
+-0.6674802	look| <unk>
+-0.9673474	look| be|
+-1.836056	look| find|
+-1.836056	look| hope|
+-1.836056	look| let|
+-1.836056	look| roll|
+-1.182843	look|I pack|I
+-1.182843	look|I scare|
+-0.8818131	look|PERSON decide|we
+-0.7912561	look|it <unk>
+-1.659964	look|it be|
+-1.659964	look|it find|
+-1.659964	look|it post|I
+-1.659964	look|it rain|it
+-0.8818131	look|they post|
+-1.483873	look|we <unk>
+-1.483873	look|we be|
+-1.483873	look|we give|they
+-1.483873	look|we have|
+-0.8818131	look|you watch|
+-0.8818131	lose| be|
+-1.182843	lose|I be|thing
+-1.182843	lose|I lose|I
+-0.9161949	love|I <unk>
+-1.784903	love|I be|
+-0.6163277	love|I love|I
+-1.784903	love|I miss|I
+-1.784903	love|I sign|
+-1.580783	love|PERSON be|
+-1.580783	love|PERSON love|I
+-0.7120749	love|PERSON love|PERSON
+-1.580783	love|PERSON run|
+-0.8818131	love|we <unk>
+-1.836056	make| <unk>
+-0.9673474	make| be|
+-1.836056	make| be|that
+-1.836056	make| happen|it
+-1.836056	make| happen|thing
+-0.9673474	make| have|
+-1.836056	make| start|I
+-1.483873	make|I <unk>
+-1.483873	make|I figure|we
+-1.483873	make|I think|I
+-1.483873	make|I want|I
+-1.358934	make|PERSON <unk>
+-1.358934	make|PERSON be|
+-1.358934	make|PERSON make|I
+-0.8818131	make|car work|
+-1.182843	make|he <unk>
+-1.182843	make|he enjoy|he
+-0.8818131	make|it see|I
+-0.8818131	make|this have|we
+-1.784903	make|we be|
+-1.784903	make|we go|PERSON
+-0.6163277	make|we make|we
+-1.784903	make|we stop|we
+-1.784903	make|we take|we
+-1.784903	make|we wonder|I
+-0.8818131	manage| go|I
+-0.8818131	manage|I <unk>
+-1.182843	mean|I be|
+-1.182843	mean|I climb|we
+-0.8818131	mean|which be|
+-0.8818131	meet| be|
+-0.8818131	meet|I be|
+-1.580783	meet|we <unk>
+-1.580783	meet|we be|
+-1.580783	meet|we do|who
+-1.580783	meet|we have|we
+-1.580783	meet|we meet|we
+-1.358934	mention|I get|we
+-1.358934	mention|I have|PERSON
+-1.358934	mention|I want|
+-0.8818131	miss| be|
+-0.4902261	miss|I <unk>
+-1.358934	miss|I sleep|
+-1.182843	move| <unk>
+-1.182843	move| turn|weather
+-1.182843	move|we have|
+-1.182843	move|we turn|it
+-0.8818131	name| <unk>
+-0.8818131	need| <unk>
+-1.659964	need|I deal|
+-1.659964	need|I do|
+-1.659964	need|I give|
+-1.659964	need|I head|I
+-1.659964	need|I hit|
+-1.659964	need|I let|
+-0.8818131	need|PERSON be|
+-1.726911	need|we be|
+-1.726911	need|we drive|we
+-1.726911	need|we get|
+-1.726911	need|we leave|
+-1.726911	need|we make|
+-1.726911	need|we put|I
+-1.726911	need|we round|
+-0.8818131	need|you know|
+-1.182843	notice|I <unk>
+-1.182843	notice|I notice|I
+-1.483873	notice|we <unk>
+-1.483873	notice|we have|
+-1.483873	notice|we park|
+-1.483873	notice|we talk|
+-0.8818131	offer|I <unk>
+-0.8818131	offer|they be|we
+-1.182843	open| hit|
+-1.182843	open| take|i
+-0.8818131	order| <unk>
+-0.8818131	order|we take|we
+-1.182843	overlook| be|I
+-1.182843	overlook| overlook|
+-0.7912561	pack| <unk>
+-1.659964	pack| be|
+-1.659964	pack| come|
+-1.659964	pack| drive|we
+-1.659964	pack| enjoy|we
+-0.8818131	pack|I finish|I
+-1.580783	pack|we be|it
+-1.580783	pack|we drive|we
+-1.580783	pack|we go|we
+-1.580783	pack|we head|we
+-1.580783	pack|we leave|we
+-0.8818131	park| <unk>
+-0.8818131	pass| cross|
+-0.8818131	pass|I be|who
+-1.182843	pass|we <unk>
+-1.182843	pass|we let|rain
+-0.8818131	pay| say|
+-0.8818131	pay|I tell|I
+-0.8818131	pay|we drive|he
+-1.182843	pick| be|
+-1.182843	pick| see|we
+-0.8818131	pitch| settle|we
+-1.182843	plan|I <unk>
+-1.182843	plan|I get|I
+-1.483873	plan|we <unk>
+-1.483873	plan|we be|
+-1.483873	plan|we go|
+-1.483873	plan|we have|we
+-1.483873	play| <unk>
+-1.483873	play| be|
+-1.483873	play| discover|PERSON
+-1.483873	play| please|
+-1.483873	play|PERSON <unk>
+-1.483873	play|PERSON arrange|PERSON
+-1.483873	play|PERSON play|PERSON
+-1.483873	play|PERSON try|I
+-0.8818131	play|kid have|we
+-1.580783	please| please|
+-1.580783	please| show|
+-0.4122077	please| tell|
+-0.8818131	point| be|
+-1.182843	post| </s>
+-1.182843	post| do|
+-1.182843	post|I be|
+-1.182843	post|I take|I
+-0.8818131	pound| <unk>
+-0.8818131	pour|it pack|we
+-0.8818131	prepare|we <unk>
+-0.8818131	proceed|we see|
+-0.8818131	prompt| hadn|we
+-0.8818131	prove| be|
+-0.8818131	prove|it be|
+-0.8818131	provide| be|
+-0.8818131	pull|I look|it
+-0.8818131	pull|friend dump|we
+-1.182843	pull|we <unk>
+-1.182843	pull|we learn|
+-0.8818131	pump| <unk>
+-0.8818131	push|I check|I
+-0.8818131	push|we have|we
+-0.4902261	put| <unk>
+-1.358934	put| sleep|I
+-1.182843	put|I leave|I
+-1.182843	put|I wander|I
+-0.8818131	put|we head|we
+-0.8818131	question| get|I
+-1.580783	rain| <unk>
+-0.2010462	rain| be|
+-1.726911	rain|it <unk>
+-1.726911	rain|it decide|we
+-1.726911	rain|it have|
+-1.726911	rain|it look|it
+-1.726911	rain|it rain|it
+-1.726911	rain|it set|I
+-1.726911	rain|it take|we
+-0.8818131	reach| <unk>
+-0.6151649	reach|we <unk>
+-1.483873	reach|we set|we
+-1.483873	reach|we wait|
+-0.8818131	read|I be|
+-1.182843	realize| be|
+-1.182843	realize| be|point
+-1.358934	realize|I be|problem
+-1.358934	realize|I need|I
+-1.358934	realize|I pull|we
+-0.3141349	realize|we be|
+-0.8818131	recommend| see|we
+-0.8818131	reflect| <unk>
+-0.8818131	relax| <unk>
+-0.8818131	relax|we enjoy|
+-0.8818131	remain| <unk>
+-1.358934	remember| </s>
+-0.4902261	remember| do|
+-0.4902261	remember|I be|
+-1.358934	remember|I go|I
+-0.8818131	remember|we be|it
+-0.8818131	remind|that be|it
+-0.8818131	reply|she </s>
+-0.8818131	resist| pack|
+-0.8818131	rest| be|
+-0.8818131	result| be|
+-1.483873	return| be|
+-1.483873	return| do|
+-1.483873	return| go|we
+-1.483873	return| walk|i
+-1.182843	return|I have|PERSON
+-1.182843	return|I look|
+-0.8818131	return|PERSON return|I
+-0.8818131	return|we be|
+-0.8818131	rise| be|
+-0.8818131	roll| be|
+-0.8818131	round| <unk>
+-0.6151649	run| be|
+-1.483873	run| look|
+-1.483873	run| start|
+-1.182843	run|I <unk>
+-1.182843	run|I get|
+-0.8818131	run|kid be|
+-0.8818131	run|that be|
+-1.182843	run|we dress|
+-1.182843	run|we take|we
+-0.8818131	sail|we look|it
+-1.483873	say| <unk>
+-1.483873	say| be|
+-1.483873	say| include|
+-1.483873	say| resist|
+-1.483873	say|I <unk>
+-1.483873	say|I be|
+-1.483873	say|I love|I
+-1.483873	say|I need|we
+-0.3141349	say|PERSON be|
+-0.8818131	say|she hit|PERSON
+-0.8818131	say|they have|
+-0.8818131	say|we climb|
+-0.8818131	scare| be|
+-0.8818131	scare|I move|
+-0.8818131	scramble| be|
+-0.8818131	scream| <unk>
+-1.182843	scream|I <unk>
+-1.182843	scream|I be|head
+-0.8818131	seem|he take|
+-1.182843	seem|it be|
+-1.182843	seem|it have|we
+-0.8818131	seem|she be|
+-1.995757	see| <unk>
+-1.995757	see| be|what
+-1.127048	see| do|
+-1.995757	see| eat|they
+-1.995757	see| hang|we
+-1.995757	see| have|
+-1.995757	see| like|I
+-1.995757	see| make|PERSON
+-1.995757	see| meet|we
+-1.995757	see| point|
+-1.995757	see| see|
+-1.995757	see| sit|
+-1.358934	see|I be|
+-1.358934	see|I pull|I
+-1.358934	see|I turn|I
+-1.182843	see|PERSON get|he
+-1.182843	see|PERSON see|PERSON
+-0.8818131	see|dinner be|
+-1.358934	see|i be|
+-1.358934	see|i have|
+-1.358934	see|i head|we
+-1.217225	see|we <unk>
+-0.7061961	see|we be|
+-2.085933	see|we follow|
+-2.085933	see|we get|we
+-2.085933	see|we go|trail
+-2.085933	see|we have|
+-2.085933	see|we hear|we
+-2.085933	see|we need|we
+-0.7061961	see|we see|we
+-1.358934	see|you <unk>
+-1.358934	see|you be|
+-1.358934	see|you fall|NUMBER
+-0.8818131	settle|we play|PERSON
+-1.784903	set| <unk>
+-1.784903	set| be|traffic
+-1.784903	set| dry|
+-1.784903	set| follow|I
+-1.784903	set| need|you
+-1.784903	set| start|we
+-1.784903	set| take|
+-1.784903	set| work|
+-0.8818131	set|I work|I
+-1.483873	set|we be|what
+-1.483873	set|we check|
+-1.483873	set|we imagine|
+-1.483873	set|we leave|we
+-0.8818131	share|I have|
+-0.8818131	shift| need|
+-0.8818131	shine| board|we
+-0.8818131	shoot| get|
+-0.8818131	shower|we get|we
+-0.8818131	show| be|
+-0.8818131	show|I add|
+-1.182843	show|he feast|we
+-1.182843	show|he show|he
+-0.8818131	sign| let|
+-1.182843	sit| chat|
+-1.182843	sit| get|
+-0.8818131	sit|I think|I
+-1.483873	skip| <unk>
+-0.6151649	skip| be|
+-1.483873	skip| go|
+-2.027941	sleep| <unk>
+-0.8593658	sleep| be|
+-2.027941	sleep| come|DATE
+-2.027941	sleep| do|
+-2.027941	sleep| get|I
+-2.027941	sleep| keep|
+-2.027941	sleep| pitch|
+-2.027941	sleep| say|she
+-1.159233	sleep| sleep|
+-2.027941	sleep| sound|
+-2.027941	sleep| wake|
+-0.8818131	sleep|I be|
+-1.358934	sleep|PERSON arrive|PERSON
+-1.358934	sleep|PERSON be|
+-1.358934	sleep|PERSON wake|PERSON
+-0.8818131	sleep|we know|
+-0.8818131	slip| grab|
+-0.8818131	slow|I take|
+-0.8818131	snorkele| get|i
+-0.8818131	soak| watch|
+-0.8818131	sound| </s>
+-0.8818131	sound|it be|
+-0.8818131	spare| <unk>
+-1.358934	spend| keep|I
+-1.358934	spend| make|we
+-1.358934	spend| manage|I
+-0.6151649	spend|I spend|I
+-1.483873	spend|I threaten|
+-1.483873	spend|I work|
+-1.784903	spend|we <unk>
+-1.784903	spend|we arrive|
+-1.784903	spend|we be|
+-1.784903	spend|we camp|
+-0.9161949	spend|we drive|
+-1.784903	spend|we hang|
+-1.784903	spend|we have|
+-0.8818131	spot|I be|it
+-1.182843	spot|we include|
+-1.182843	spot|we see|we
+-1.182843	spread| be|
+-1.182843	spread| get|
+-0.8818131	stake|we find|we
+-1.358934	stand| <unk>
+-1.358934	stand| let|
+-1.358934	stand| see|
+-0.8818131	stand|you <unk>
+-1.483873	start| go|
+-1.483873	start| leave|PERSON
+-1.483873	start| run|
+-1.483873	start| use|
+-1.182843	start|DATE be|
+-1.182843	start|DATE be|it
+-0.8818131	start|I <unk>
+-0.190359	start|it rain|
+-0.8818131	start|thing go|
+-1.483873	start|we cook|
+-1.483873	start|we go|
+-1.483873	start|we have|we
+-1.483873	start|we take|hike
+-1.836056	stay| <unk>
+-0.6674802	stay| be|
+-1.836056	stay| have|
+-1.836056	stay| notice|I
+-1.836056	stay| realize|
+-1.836056	stay| spend|
+-1.836056	stay| talk|
+-1.182843	stay|I get|
+-1.182843	stay|I swim|I
+-0.8818131	stay|you remember|I
+-0.8818131	stick|I sleep|
+-0.8818131	stick|we clear|rain
+-0.4563186	stop| <unk>
+-1.836056	stop| be|
+-1.836056	stop| enjoy|
+-1.836056	stop| head|we
+-1.836056	stop| stop|I
+-1.836056	stop| take|
+-0.8818131	stop|I get|
+-0.6163277	stop|we <unk>
+-1.784903	stop|we be|
+-1.784903	stop|we hold|
+-1.784903	stop|we pick|
+-1.784903	stop|we take|
+-1.784903	stop|we wake|
+-0.8818131	struggle|I manage|
+-0.8818131	struggle|we get|
+-1.182843	stuff| digress|I
+-1.182843	stuff| have|
+-0.8818131	stumble|we have|we
+-0.8818131	suggest|I want|
+-0.8818131	suppose|we be|
+-0.6151649	swim| be|
+-1.483873	swim| be|which
+-1.483873	swim| jump|kid
+-0.8818131	swim|I try|I
+-0.8818131	tackle| hike|
+-0.6781674	take| <unk>
+-1.189196	take| be|
+-2.057904	take| expect|I
+-2.057904	take| fill|
+-2.057904	take| go|
+-2.057904	take| have|I
+-2.057904	take| look|we
+-2.057904	take| push|I
+-2.057904	take| remember|
+-2.057904	take| try|we
+-2.057904	take| wait|
+-1.358934	take|I do|
+-1.358934	take|I make|
+-1.358934	take|I take|I
+-1.182843	take|PERSON <unk>
+-1.182843	take|PERSON take|PERSON
+-1.182843	take|he leave|he
+-1.182843	take|he put|we
+-0.8818131	take|hike see|we
+-0.8818131	take|i be|
+-1.580783	take|it be|
+-1.580783	take|it figure|
+-1.580783	take|it get|it
+-1.580783	take|it give|it
+-1.580783	take|it remember|
+-0.8818131	take|t <unk>
+-1.182843	take|that <unk>
+-1.182843	take|that know|you
+-0.792419	take|we <unk>
+-1.960994	take|we bounce|
+-1.960994	take|we don|I
+-1.960994	take|we eat|
+-1.092286	take|we head|we
+-1.960994	take|we put|
+-1.960994	take|we stuff|
+-1.960994	take|we watch|we
+-1.960994	take|we wipe|
+-0.8818131	take|you do|
+-1.358934	talk| be|
+-1.358934	talk| have|
+-1.358934	talk| stuff|
+-0.8818131	talk|I have|
+-0.8818131	taste| cook|
+-1.784903	tell| <unk>
+-0.9161949	tell| be|
+-1.784903	tell| get|
+-0.9161949	tell| get|we
+-1.784903	tell| tell|
+-1.784903	tell| wait|
+-1.182843	tell|I give|I
+-1.182843	tell|I want|PERSON
+-1.358934	tell|he <unk>
+-1.358934	tell|he call|he
+-1.358934	tell|he do|
+-0.8818131	tell|we give|
+-0.8818131	tell|who <unk>
+-1.182843	that| <unk>
+-1.182843	that| drive|we
+-0.8818131	think| get|
+-0.9673474	think|I <unk>
+-0.4563186	think|I be|
+-1.836056	think|I have|
+-1.836056	think|I leave|we
+-1.836056	think|I mention|I
+-0.8818131	think|they be|
+-0.8818131	think|we be|
+-0.8818131	threaten| didn|I
+-0.8818131	throw|I pass|I
+-0.8818131	throw|he continue|we
+-0.8818131	tie|we have|
+-0.8818131	tire|I imagine|you
+-0.8818131	toss|I <unk>
+-0.8818131	touch| <unk>
+-0.8818131	trail| <unk>
+-1.659964	trail|& see|
+-0.6151285	trail|& trail|&
+-1.659964	trail|sidewalk trail|&
+-0.6151285	trail|sidewalk trail|sidewalk
+-1.182843	trust| be|
+-1.182843	trust| get|
+-0.8818131	trust|I do|
+-1.182843	try| go|
+-1.182843	try| hit|
+-1.358934	try|I <unk>
+-1.358934	try|I fight|
+-1.358934	try|I take|
+-0.8818131	try|he tell|
+-1.182843	try|they fight|
+-1.182843	try|they give|
+-1.182843	try|we happen|we
+-1.182843	try|we hurry|
+-0.3141349	turn| be|
+-1.483873	turn|I attempt|I
+-1.483873	turn|I avoid|
+-1.483873	turn|I run|I
+-1.483873	turn|I scream|I
+-1.580783	turn|it <unk>
+-1.580783	turn|it be|
+-1.580783	turn|it be|all
+-1.580783	turn|it do|
+-1.580783	turn|it get|i
+-1.182843	turn|we begin|we
+-1.182843	turn|we take|that
+-0.8818131	turn|weather enter|we
+-0.8818131	understand|I hit|
+-1.182843	undo| check|we
+-1.182843	undo| pour|it
+-0.8818131	upload|I </s>
+-1.358934	use| be|
+-1.358934	use| make|
+-1.358934	use| wouldn|I
+-1.358934	use|I <unk>
+-1.358934	use|I be|
+-1.358934	use|I go|
+-1.182843	use|we <unk>
+-1.182843	use|we be|
+-1.483873	visit| be|
+-1.483873	visit| stop|we
+-1.483873	visit| think|I
+-1.483873	visit| visit|
+-0.8818131	visit|I meet|I
+-1.182843	visit|we <unk>
+-1.182843	visit|we have|we
+-1.358934	wait| be|
+-1.358934	wait| decide|
+-1.358934	wait| develop|
+-1.358934	wait|I come|NUMBER
+-0.4902261	wait|I wait|I
+-1.182843	wake| be|
+-1.182843	wake| think|
+-0.8818131	wake|I have|we
+-1.182843	wake|PERSON decide|we
+-1.182843	wake|PERSON go|
+-0.8818131	wake|she wake|we
+-1.358934	wake|we be|
+-1.358934	wake|we decide|
+-1.358934	wake|we go|
+-0.8818131	walk| have|
+-0.8818131	walk|I seem|it
+-0.8818131	walk|i be|
+-1.182843	walk|they be|kid
+-1.182843	walk|they complain|
+-1.182843	walk|we come|we
+-1.182843	walk|we walk|we
+-1.182843	wander|I be|
+-1.182843	wander|I have|
+-1.358934	want| be|
+-1.358934	want| get|
+-1.358934	want| play|
+-1.580783	want|I do|
+-0.7120749	want|I go|
+-1.580783	want|I scream|
+-1.580783	want|I stay|
+-1.358934	want|PERSON <unk>
+-1.358934	want|PERSON be|
+-1.358934	want|PERSON know|
+-0.8818131	want|kid head|we
+-0.8818131	want|she go|
+-1.182843	want|t have|
+-1.182843	want|t pack|
+-0.8818131	wasn|I use|
+-0.8818131	wasn|that spend|we
+-1.182843	watch| have|
+-1.182843	watch| shoot|
+-1.483873	watch|we go|we
+-1.483873	watch|we remember|we
+-1.483873	watch|we tell|we
+-1.483873	watch|we watch|we
+-1.182843	water| <unk>
+-1.182843	water| want|I
+-0.6151649	wear| be|
+-1.483873	wear| be|they
+-1.483873	wear| include|
+-0.8818131	we| <unk>
+-1.182843	wind| reach|we
+-1.182843	wind| we|
+-1.182843	wipe| <unk>
+-1.182843	wipe| shift|
+-0.6151649	wonder|I be|
+-1.483873	wonder|I do|
+-1.483873	wonder|I fall|he
+-1.580783	work| back|
+-1.580783	work| be|
+-1.580783	work| have|
+-1.580783	work| take|PERSON
+-1.580783	work| use|I
+-1.182843	work|I <unk>
+-1.182843	work|I be|
+-1.182843	work|PERSON be|she
+-1.182843	work|PERSON come|I
+-0.8818131	work|he climb|PERSON
+-1.182843	work|it do|I
+-1.182843	work|it get|we
+-0.8818131	work|which get|we
+-0.8818131	worry|I find|
+-0.8818131	wouldn|I be|
+-0.8818131	wrap| be|
+-0.8818131	write| call|
+
+\end\

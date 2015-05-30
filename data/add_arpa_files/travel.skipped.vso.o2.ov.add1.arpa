@@ -1,0 +1,5156 @@
+
+\data\
+ngram 1=3841
+ngram 2=1305
+
+\1-grams:
+-3.804753	!!!|PERSON|
+-2.443025	</s>
+-99	<s>	0.1173015
+-0.8117575	<unk>	0.07962403
+-3.804753	abandon|he|I
+-3.804753	abandon||
+-3.804753	absolve|I|myself
+-3.804753	accomplish|I|
+-3.503723	accord||	0.02942591
+-3.804753	add|it|mile
+-3.804753	add|we|tarp
+-3.804753	add||
+-3.804753	add||MONEY
+-3.804753	add||half
+-3.804753	add||tarp
+-3.804753	add||water
+-3.804753	adjust||
+-3.804753	admit|both|
+-3.804753	admit||
+-3.327631	agree|I|	0.07537857
+-3.503723	agree|PERSON|	-2.19012e-05
+-3.804753	agree|we|
+-3.804753	agree|what|
+-3.804753	allow|alcohol|
+-3.804753	allow|car|
+-3.804753	allow|you|eye
+-3.804753	allow||
+-3.804753	allow||I
+-3.804753	allow||sleep
+-3.804753	allow||we
+-3.804753	alternate||
+-3.503723	amaze|I|	-2.19012e-05
+-3.804753	amount|rain|
+-3.804753	answer|he|phone
+-3.804753	anticipate|we|
+-3.804753	anticipate||
+-3.804753	appear|what|
+-3.804753	appear|which|
+-3.804753	appoint||
+-3.804753	approach|CAUSE_OF_DEATH|
+-3.804753	approach|I|
+-3.804753	arise|need|
+-3.804753	arrange|PERSON|trip
+-3.804753	arrange|we|
+-3.804753	arrive|I|
+-3.804753	arrive|PERSON|
+-3.804753	arrive|boat|
+-3.804753	arrive|gain|NUMBER
+-3.804753	arrive|p|
+-3.503723	arrive|they|	-9.000987e-05
+-3.327631	arrive|we|	-0.0001799771
+-3.804753	arrive||
+-3.804753	ascend||
+-3.503723	ask|I|	0.02942591
+-3.804753	ask|I|PERSON
+-3.804753	ask|I|she
+-3.804753	ask|PERSON|
+-3.804753	ask|he|
+-3.804753	ask|he|I
+-3.804753	ask|she|I
+-3.804753	ask|that|
+-3.804753	ask|they|
+-3.804753	ask|we|
+-3.804753	ask|you|
+-3.804753	ask|you|daddy
+-3.804753	ask||
+-3.804753	ask||I
+-3.804753	ask||favor
+-3.804753	ask||she
+-3.804753	ask||we
+-3.804753	assateague||
+-3.804753	assese|we|space
+-3.503723	assume|we|	-9.000987e-05
+-3.804753	assure|you|
+-3.804753	attach||
+-3.804753	attack|bear|we
+-3.804753	attack||
+-3.804753	attempt|I|
+-3.804753	attempt|we|
+-3.804753	attempt||
+-3.804753	attempt||camping
+-3.804753	avoid||
+-3.804753	avoid||crowd
+-3.804753	avoid||people
+-3.804753	await||arrival
+-3.804753	awake|I|
+-3.804753	awake|we|
+-3.804753	awake||
+-3.804753	backpack||
+-3.804753	backtrack|we|
+-3.503723	backtrack||	-9.000987e-05
+-3.804753	back|it|MONEY
+-3.804753	back|it|all
+-3.804753	back|traffic|
+-3.804753	back||
+-3.804753	bail|PERSON|
+-3.804753	balance||it
+-3.503723	bang||	0.07253496
+-3.804753	barbeque|we|
+-3.804753	bark||
+-3.804753	base||
+-3.503723	beam||	0.00025064
+-3.804753	bear|he|
+-3.804753	bear||
+-3.804753	beat|salad|stuff
+-3.503723	beat||	-2.19012e-05
+-3.503723	become|I|	-9.000987e-05
+-3.804753	become|he|
+-3.804753	become|they|
+-3.804753	become|we|
+-3.202693	become||	0.07377636
+-3.804753	bed.||TIME
+-3.327631	begin|I|	0.0001375866
+-3.804753	begin|cloud|
+-3.804753	begin|it|
+-3.804753	begin|sun|
+-3.804753	begin|trip|
+-3.804753	begin|we|
+-3.804753	begin|we|descent
+-3.804753	begin|we|down.
+-3.804753	begin||
+-3.804753	begin||ascent
+-3.804753	begin||incline
+-3.804753	behave|child|
+-3.804753	behold||
+-3.804753	behold||wonder
+-3.804753	believe|I|
+-3.804753	believe||
+-3.804753	bend||rule
+-3.804753	bet|I|
+-3.804753	be|!!|
+-3.804753	be|BUT|
+-3.202693	be|CAUSE_OF_DEATH|	0.07248525
+-3.804753	be|DATE|
+-3.804753	be|DURATION|
+-2.658625	be|I|	0.1128927
+-3.327631	be|LOCATION|	9.260711e-05
+-3.503723	be|MISC|	0.07253496
+-3.804753	be|MONEY|
+-3.804753	be|Might|
+-3.503723	be|NUMBER|	0.02942591
+-3.503723	be|ORGANIZATION|	4.621809e-05
+-3.202693	be|PERSON|	0.0733242
+-3.804753	be|PERSON|what
+-3.804753	be|Plus|
+-3.804753	be|TIME|
+-3.804753	be|That|
+-3.804753	be|Trust|
+-3.804753	be|access|
+-3.804753	be|adult|
+-3.804753	be|advantage|
+-3.804753	be|alcove|
+-3.327631	be|all|	0.07246979
+-3.804753	be|anyone|
+-3.804753	be|anything|
+-3.804753	be|any|
+-3.804753	be|area|
+-3.804753	be|basin|
+-3.804753	be|bathroom|
+-3.804753	be|battle|
+-3.804753	be|bear|
+-3.804753	be|best|
+-3.804753	be|bit|
+-3.804753	be|breakfast|
+-3.804753	be|bridge|
+-3.804753	be|brother|
+-3.804753	be|bunch|
+-3.804753	be|calculation|
+-3.503723	be|camper|	-2.19012e-05
+-3.804753	be|campfire|
+-3.804753	be|campground|
+-3.804753	be|camping|
+-3.804753	be|campsite|
+-3.804753	be|camp|
+-3.327631	be|car|	0.002279461
+-3.804753	be|chair|
+-3.804753	be|coral|
+-3.804753	be|couple|
+-3.804753	be|debate|
+-3.804753	be|deer|
+-3.804753	be|detour|
+-3.804753	be|discussion|
+-3.804753	be|diver|
+-3.804753	be|dive|
+-3.804753	be|diving|
+-3.804753	be|doubt|
+-3.804753	be|downside|
+-3.804753	be|else|
+-3.804753	be|entry|
+-3.804753	be|everybody|
+-3.804753	be|everyone|
+-3.804753	be|everything|
+-3.503723	be|experience|	-9.000987e-05
+-3.804753	be|fear|
+-3.804753	be|fishing|
+-3.804753	be|fish|
+-3.804753	be|fly|
+-3.804753	be|folk|
+-3.503723	be|food|	-9.000987e-05
+-3.804753	be|girl|
+-3.804753	be|glacier|
+-3.804753	be|glass/metal|
+-3.804753	be|goal|
+-3.804753	be|grizzly|
+-3.804753	be|ground|
+-3.503723	be|guy|	-2.19012e-05
+-3.804753	be|head|
+-3.503723	be|he|	0.07253496
+-3.804753	be|hike|
+-3.804753	be|home|
+-3.503723	be|hotel|	-9.000987e-05
+-3.503723	be|house|	0.00025064
+-3.804753	be|idea|
+-2.525999	be|it|	0.1181585
+-3.503723	be|it|what	0.0001143481
+-3.804753	be|i|
+-3.804753	be|kid|
+-3.804753	be|leg|
+-3.327631	be|life|	0.1075944
+-3.804753	be|line|
+-3.804753	be|load|
+-3.804753	be|look|
+-3.202693	be|lot|	0.1075429
+-3.804753	be|love|
+-3.804753	be|man|
+-3.804753	be|mile|
+-3.804753	be|mine|
+-3.804753	be|moment|
+-3.804753	be|motorcycle|
+-3.804753	be|mountain|
+-3.804753	be|need|
+-3.804753	be|neighber|
+-3.804753	be|news|
+-3.503723	be|nothing|	0.07253496
+-3.327631	be|no|	0.07295323
+-3.804753	be|on|
+-3.804753	be|other|
+-3.804753	be|party|
+-3.327631	be|part|	0.07242191
+-3.804753	be|path|
+-3.503723	be|people|	0.07253496
+-3.804753	be|picture|
+-3.804753	be|pizza|
+-3.804753	be|place|
+-3.804753	be|plane|
+-3.804753	be|planning|
+-3.804753	be|plant|
+-3.804753	be|plan|
+-3.503723	be|plenty|	0.07253496
+-3.804753	be|point|
+-3.804753	be|policy|
+-3.804753	be|pool|
+-3.804753	be|problem|
+-3.804753	be|question|
+-3.804753	be|rattlesnake|
+-3.804753	be|reason|
+-3.804753	be|reef|
+-3.804753	be|reply|
+-3.804753	be|restaurant|
+-3.804753	be|river|
+-3.804753	be|road|
+-3.804753	be|rock|
+-3.503723	be|room|	0.07253496
+-3.804753	be|rule|
+-3.804753	be|scenery|
+-3.804753	be|school|
+-3.804753	be|section|
+-3.804753	be|shade|
+-3.804753	be|shark|
+-3.503723	be|she|	0.07253496
+-3.804753	be|shower|
+-3.804753	be|side|
+-3.327631	be|sign|	0.07246979
+-3.804753	be|silence|
+-3.503723	be|site|	0.02942591
+-3.804753	be|skepticism|
+-3.804753	be|skiing|
+-3.804753	be|soap|
+-3.804753	be|some|
+-3.804753	be|son|
+-3.503723	be|space|	0.07253496
+-3.804753	be|species|
+-3.804753	be|spot|
+-3.804753	be|star|
+-3.202693	be|stop|	0.03414564
+-3.804753	be|structure|
+-3.804753	be|stuff|
+-3.804753	be|table|
+-3.804753	be|talk|
+-3.804753	be|temperature|
+-3.804753	be|tent|
+-3.105783	be|that|	0.07229169
+-3.804753	be|then|
+-3.503723	be|they|	-9.000987e-05
+-3.804753	be|they|what
+-3.503723	be|thing|	-2.19012e-05
+-3.804753	be|thing|that
+-3.804753	be|this|
+-3.804753	be|this|what
+-3.804753	be|tide|
+-3.105783	be|time|	0.07314628
+-3.503723	be|toilet|	0.02942591
+-3.804753	be|ton|
+-3.804753	be|town|
+-3.804753	be|track|
+-3.804753	be|traffic|
+-3.503723	be|trail|	0.0005233522
+-3.804753	be|tree|
+-3.804753	be|trip|
+-3.804753	be|truth|
+-3.804753	be|view|
+-3.804753	be|walking|
+-3.804753	be|water|
+-3.503723	be|way|	0.07253496
+-3.804753	be|weather|
+-2.658625	be|we|	0.109356
+-3.804753	be|what|
+-3.503723	be|which|	0.07253496
+-3.327631	be|who|	0.0004335777
+-3.804753	be|wildflower|
+-3.804753	be|you|
+-1.18047	be||	0.110881
+-3.804753	bias|m|
+-3.804753	bike|we|
+-3.804753	bird||
+-3.804753	bite|fly|
+-3.804753	bite|mosquito|
+-3.804753	bite|they|
+-3.804753	bite|we|
+-3.804753	bite||
+-3.804753	blame||parenting
+-3.804753	blaze||
+-3.804753	blend||
+-3.804753	bless|God|
+-3.503723	blogg||	-2.19012e-05
+-3.804753	blow|I|
+-3.804753	blow|it|
+-3.804753	blow|sand|
+-3.804753	blow|they|
+-3.804753	blow|wind|
+-3.804753	blow||
+-3.804753	board|we|boat
+-3.804753	boil||
+-3.804753	bonk|I|
+-3.804753	book|it|
+-3.804753	book|we|
+-3.804753	book|we|it
+-3.804753	book||
+-3.804753	bore|I|
+-3.804753	bore|they|
+-3.804753	bore||
+-3.804753	borrow|we|
+-3.503723	borrow||	0.02942591
+-3.503723	bother|t|I	-9.000987e-05
+-3.804753	bounce||
+-3.804753	brave|other|
+-3.804753	brave|soul|
+-3.804753	brave||
+-3.804753	brave||NUMBER
+-3.804753	breakfast||MONEY
+-3.804753	break|PERSON|
+-3.804753	break|Tanner|free.
+-3.804753	break|camp|
+-3.804753	break|it|
+-3.804753	break|people|
+-3.804753	break|tent|
+-3.804753	break||
+-3.804753	break||bone
+-3.804753	break||camp
+-3.804753	breathe|DURATION|
+-3.804753	breathe|I|
+-3.804753	breathe|you|
+-3.804753	breathe||
+-3.804753	brew|sun|tea
+-3.804753	bring|I|
+-3.804753	bring|I|camera
+-3.804753	bring|I|veggy
+-3.804753	bring|LOCATION|we
+-3.804753	bring|PERSON|player
+-3.804753	bring|PERSON|rear
+-3.804753	bring|it|
+-3.804753	bring|it|memory
+-3.804753	bring|people|blast
+-3.804753	bring|people|stereo
+-3.804753	bring|that|
+-3.804753	bring|we|
+-3.804753	bring|we|car
+-3.804753	bring|we|some
+-3.804753	bring|we|water
+-3.804753	bring|we|wheeler
+-3.804753	bring|who|all
+-3.503723	bring||	0.02942591
+-3.804753	bring||friend
+-3.804753	bring||in.
+-3.804753	bring||set
+-3.804753	bring||stuff
+-3.804753	bring||we
+-3.804753	build|CAUSE_OF_DEATH|
+-3.804753	build|I|it
+-3.804753	build|that|
+-3.503723	build|we|	4.621809e-05
+-3.804753	build|we|CAUSE_OF_DEATH
+-3.804753	build|we|campfire
+-3.804753	build|which|
+-3.804753	build||
+-3.503723	build||CAUSE_OF_DEATH	0.02942591
+-3.804753	build||DATE
+-3.804753	bundle|we|
+-3.804753	burly||town
+-3.804753	burn|eye|
+-3.804753	burn||
+-3.804753	buy|I|
+-3.804753	buy|I|bottle
+-3.804753	buy|I|donut
+-3.804753	buy|I|trucker
+-3.804753	buy|i|pair
+-3.503723	buy|we|	4.621809e-05
+-3.804753	buy|we|tent
+-3.804753	buy|we|ticket
+-3.804753	buy|wife|tent
+-3.804753	buy|you|
+-3.804753	buy||NUMBER
+-3.804753	buy||food
+-3.804753	buzz||
+-3.804753	call|DATE|
+-3.804753	call|I|
+-3.804753	call|I|PERSON
+-3.804753	call|I|dib
+-3.804753	call|I|hotel
+-3.804753	call|PERSON|
+-3.804753	call|PERSON|I
+-3.804753	call|forecast|
+-3.804753	call|he|I
+-3.804753	call|it|Mushrooms
+-3.804753	call|she|
+-3.804753	call|we|
+-3.804753	call|we|PERSON
+-3.804753	call|we|it
+-3.804753	call|what|
+-3.503723	call||	0.07253496
+-3.804753	call||LOCATION
+-3.804753	call||MISC
+-3.804753	call||hat
+-3.804753	call||hotel
+-3.503723	call||it	0.07253496
+-3.804753	call||they
+-3.804753	call||trip
+-3.804753	call||we
+-3.804753	call||word
+-3.804753	calm|I|
+-3.804753	calm|I|fear
+-3.804753	came||
+-3.804753	camp|I|
+-3.804753	camp|MONEY|
+-3.804753	camp|it|
+-3.804753	camp|they|
+-3.804753	camp|thing|
+-3.503723	camp|we|	0.07253496
+-3.804753	camp|we|ORGANIZATION
+-3.804753	camp|we|camper
+-3.804753	camp|you|
+-2.901663	camp||	0.1074765
+-3.804753	camp||DATE
+-3.804753	camp||better
+-3.503723	camp||time	0.00025064
+-3.804753	camp||trip
+-3.804753	cancel||reservation
+-3.804753	can|I|MONEY
+-3.804753	can|I|wait
+-3.804753	can|that|MONEY
+-3.804753	can|we|MONEY
+-3.804753	can|we|wait
+-3.804753	can|you|MONEY
+-3.804753	can||
+-3.804753	capture|PERSON|heart
+-3.804753	care|I|
+-3.503723	care|we|	0.02942591
+-3.804753	care|you|
+-3.804753	carry|I|
+-3.804753	carry|I|grudge
+-3.804753	carry|I|you
+-3.804753	carry|d|PERSON
+-3.804753	carry|we|
+-3.804753	carry||
+-3.503723	carry||everything	0.0001143481
+-3.503723	carry||it	0.02942591
+-3.804753	catch|Gran|
+-3.804753	catch|I|
+-3.804753	catch|I|NUMBER
+-3.804753	catch|guy|fishing
+-3.804753	catch|he|many
+-3.804753	catch|we|
+-3.503723	catch||	0.07253496
+-3.804753	catch||fish
+-3.804753	catch||frog
+-3.804753	catch||it
+-3.804753	catch||ya
+-3.804753	cause|PERSON|
+-3.804753	cause|she|trouble
+-3.804753	cause||
+-3.503723	celebrate||	-2.19012e-05
+-3.804753	certify||
+-3.804753	change|etiquette|
+-3.804753	change|that|
+-3.804753	change|thing|
+-3.503723	change|we|	0.001069291
+-3.804753	change|we|spot
+-3.804753	change||
+-3.804753	change||plan
+-3.804753	charge||
+-3.804753	charter|we|PERSON
+-3.804753	chase|we|PERSON
+-3.804753	chat|we|
+-3.503723	chat||	0.07253496
+-3.804753	check|I|
+-3.804753	check|I|time
+-3.804753	check|camp|
+-3.804753	check|we|
+-3.804753	check|we|PERSON
+-3.804753	check|you|it
+-3.804753	check||
+-3.804753	check||facility
+-3.804753	check||gage
+-3.804753	check||geyser
+-3.804753	check||it
+-3.804753	check||kid
+-3.804753	check||lht
+-3.804753	check||resort
+-3.804753	check||river
+-3.804753	chew|we|
+-3.804753	chillin|you|MONEY
+-3.804753	chill|we|
+-3.804753	chill||
+-3.804753	choose|I|
+-3.804753	choose|d|
+-3.804753	choose|we|
+-3.804753	choose|you|
+-3.804753	choose||
+-3.804753	chop||firewood
+-3.804753	chop||put
+-3.804753	claim|I|dib
+-3.804753	clap|that|
+-3.804753	clean|we|
+-3.804753	clean||
+-3.804753	clean||house/do
+-3.327631	clean||it	0.07242191
+-3.804753	clear|cloud|
+-3.804753	clear|island|
+-3.804753	clear|it|
+-3.804753	clear|rain|
+-3.804753	clear|rest|
+-3.804753	click||
+-3.804753	click||picture
+-3.503723	climb|I|	0.07253496
+-3.804753	climb|PERSON|rock
+-3.804753	climb|sound|tree
+-3.327631	climb|we|	0.07295323
+-3.202693	climb||	0.07418061
+-3.804753	climb||it
+-3.804753	climb||mountain
+-3.804753	cling|I|
+-3.804753	close|NUMBER|
+-3.804753	close|it|
+-3.804753	close|office|
+-3.804753	close|they|
+-3.804753	close|you|eye
+-3.804753	close||
+-3.804753	cloud|it|
+-3.804753	collapse|I|
+-3.804753	collapse||tent
+-3.804753	color||
+-3.503723	come|DATE|	0.0003188021
+-3.503723	come|I|	4.621809e-05
+-3.804753	come|I|home
+-3.804753	come|NUMBER|
+-3.503723	come|PERSON|	0.07253496
+-3.503723	come|TIME|	0.000727999
+-3.804753	come|boat|
+-3.804753	come|child|
+-3.804753	come|everyone|home
+-3.804753	come|family|
+-3.804753	come|friend|
+-3.804753	come|group|
+-3.804753	come|guy|
+-3.804753	come|he|
+-3.804753	come|it|
+-3.804753	come|light|
+-3.804753	come|mom|
+-3.804753	come|parent|
+-3.804753	come|rain|
+-3.503723	come|she|	-9.000987e-05
+-3.804753	come|someone|
+-3.804753	come|sun|
+-3.804753	come|tent|
+-3.804753	come|that|
+-3.804753	come|then|
+-3.804753	come|they|
+-3.804753	come|they|it
+-3.804753	come|thing|
+-3.804753	come|traffic|
+-3.804753	come|trip|
+-3.804753	come|water|
+-3.327631	come|we|	0.0001607797
+-3.804753	come|we|home
+-3.804753	come|what|
+-3.804753	come|which|
+-3.804753	come|who|
+-3.503723	come|you|	-9.000987e-05
+-3.202693	come||	0.001368689
+-3.804753	come||home
+-3.804753	come||way
+-3.804753	comment|we|
+-3.804753	commune||
+-3.804753	compare||
+-3.804753	compensate||
+-3.804753	complain|I|
+-3.804753	complain|we|
+-3.804753	complain||
+-3.804753	complain||ton
+-3.804753	comprise|DATE|
+-3.804753	comprise|share|
+-3.503723	concern||	0.07253496
+-3.804753	confess|I|
+-3.804753	connect|that|
+-3.804753	connect||MONEY
+-3.804753	connect||lifestyle
+-3.804753	consider|I|
+-3.804753	consider|people|
+-3.804753	consider|we|ourselves
+-3.503723	consider||	4.621809e-05
+-3.804753	consist|PERSON|
+-3.804753	consist|which|
+-3.804753	contemplate||
+-3.327631	continue|I|	0.07789905
+-3.804753	continue|PERSON|
+-3.804753	continue|White|
+-3.804753	continue|he|
+-3.804753	continue|trail|
+-3.804753	continue|we|
+-3.804753	continue|wind|
+-3.804753	continue||
+-3.804753	control||
+-3.804753	convince|I|PERSON
+-3.804753	convince||PERSON
+-3.804753	cook|I|
+-3.804753	cook|I|sun
+-3.804753	cook|PERSON|breakfast
+-3.503723	cook|we|	0.02942591
+-3.804753	cook|we|breakfast
+-3.804753	cook|we|dinner
+-3.804753	cook|we|dog
+-3.804753	cook|we|they
+-3.804753	cook||
+-3.804753	cook||breakfast
+-3.804753	cook||dinner
+-3.804753	cook||meal
+-3.804753	cool|it|
+-3.804753	cool|temperature|
+-3.804753	cool||
+-3.804753	cooperate|weather|
+-3.804753	cooperate||
+-3.804753	cope|the|course
+-3.804753	cost|DATE|MONEY
+-3.804753	cost|DATE|we
+-3.804753	cost|campsite|buck
+-3.804753	couldnt|we|
+-3.327631	couldn|I|MONEY	0.07242191
+-3.804753	couldn|MONEY|MONEY
+-3.804753	couldn|he|MONEY
+-3.804753	couldn|she|use
+-3.804753	couldn|we|MONEY
+-3.804753	couldn|we|t
+-3.804753	counter||
+-3.804753	count|monkey|they
+-3.804753	count|we|
+-3.202693	cover||	0.1079799
+-3.804753	cover||all
+-3.804753	cover||myself
+-3.804753	cozy|breakfast|
+-3.804753	cram||
+-3.804753	crash|I|
+-3.804753	crash||
+-3.804753	crash||wave
+-3.804753	crawl|I|
+-3.804753	crawl|PERSON|
+-3.804753	crawl|meal|
+-3.804753	crawl|we|
+-3.503723	crawl||	0.0005233522
+-3.804753	creak||
+-3.804753	create|kid|couple
+-3.804753	creep||
+-3.804753	cross|I|
+-3.804753	cross|it|creek
+-3.804753	cross|it|river
+-3.503723	cross|we|	0.07253496
+-3.503723	cross||	0.02942591
+-3.503723	cross||LOCATION	-2.19012e-05
+-3.804753	cross||face
+-3.804753	cross||river
+-3.804753	cross||water
+-3.804753	cruise|we|
+-3.804753	crush|I|
+-3.804753	cry|PERSON|
+-3.804753	cry|girl|
+-3.804753	cry|you|little
+-3.503723	cry||	0.02942591
+-3.804753	cuddle||
+-3.804753	curl|PERSON|
+-3.804753	curse|we|
+-3.804753	cut|I|
+-3.804753	cut||
+-3.804753	cut||meat
+-3.804753	cut||short.
+-3.804753	cut||veggy
+-3.804753	dawn|it|
+-3.804753	deal|I|
+-3.804753	deal|we|
+-3.804753	deal||
+-3.804753	deal||m
+-3.804753	decide|DATE|
+-2.804753	decide|I|	0.1139656
+-3.804753	decide|LOCATION|
+-3.327631	decide|PERSON|	0.002827899
+-3.804753	decide|PERSON|campsite
+-3.804753	decide|guy|
+-3.804753	decide|he|
+-3.804753	decide|i|
+-3.804753	decide|people|
+-3.804753	decide|se|
+-3.804753	decide|she|
+-3.503723	decide|they|	0.07253496
+-2.76336	decide|we|	0.1086644
+-3.804753	decide|who|
+-3.327631	decide||	0.07255033
+-3.804753	declare|PERSON|
+-3.804753	dehydrate|I|
+-3.804753	dehydrate|grain|it
+-3.804753	dehydrate||
+-3.804753	delay|we|
+-3.804753	deliver||litter
+-3.804753	depart||
+-3.804753	depend|that|
+-3.804753	descend|mosquito|
+-3.804753	descend|we|
+-3.804753	descend||
+-3.804753	describe|I|it
+-3.804753	describe|hike|
+-3.804753	describe|they|part
+-3.804753	describe|you|
+-3.503723	desert||	0.0004551582
+-3.804753	deserve||
+-3.804753	designate||
+-3.804753	desire||
+-3.804753	determine|I|
+-3.804753	determine|he|
+-3.804753	determine|we|
+-3.804753	determine||
+-3.804753	develop||bond
+-3.804753	did.|we|
+-3.804753	didnt|we|
+-3.327631	didn|I|MONEY	-0.0001349545
+-3.804753	didn|I|sleep
+-3.804753	didn|PERSON|show
+-3.804753	didn|he|MONEY
+-3.503723	didn|it|MONEY	-9.000987e-05
+-3.804753	didn|it|look
+-3.804753	didn|it|take
+-3.804753	didn|she|MONEY
+-3.804753	didn|they|MONEY
+-3.804753	didn|they|anything
+-3.804753	didn|we|MONEY
+-3.804753	didn|we|grab
+-3.804753	didn|we|t
+-3.804753	didn|we|whatever
+-3.804753	didn|who|MONEY
+-3.804753	didn|you|MONEY
+-3.804753	didn||MONEY
+-3.804753	die|CAUSE_OF_DEATH|
+-3.503723	die|I|	0.07253496
+-3.503723	die|we|	-9.000987e-05
+-3.804753	die||
+-3.804753	die||PERSON
+-3.804753	digress|I|
+-3.804753	dig|they|latrine
+-3.804753	dig||
+-3.804753	dig||pit
+-3.804753	dine||
+-3.804753	dip||
+-3.804753	direct|it|I
+-3.804753	disapoint|it|
+-3.804753	disappoint|we|
+-3.503723	discover|I|	0.02942591
+-3.804753	discover|PERSON|
+-3.804753	discover|PERSON|badmitton
+-3.804753	discover|PERSON|practiced
+-3.804753	discover|we|
+-3.804753	discover||
+-3.804753	discuss||plan
+-3.804753	disturb||something
+-3.804753	disway|we|
+-3.804753	dive|NUMBER|
+-3.804753	dive|TIME|
+-3.804753	dive|he|
+-3.327631	dive|we|	0.02934553
+-3.804753	dive||
+-3.804753	do.||
+-3.804753	dodge||
+-3.503723	doesn|it|MONEY	0.07253496
+-3.804753	doesn|it|work
+-3.804753	dominate|group|
+-3.804753	dominate|it|
+-3.503723	don|I|MONEY	0.07253496
+-3.804753	don|I|definition
+-3.503723	don|I|t	0.07253496
+-3.804753	don|I|think
+-3.804753	don|we|MONEY
+-3.804753	don|who|MONEY
+-3.503723	don|you|MONEY	0.07253496
+-3.804753	don||
+-3.804753	douse|we|ourselves
+-3.804753	douse||ourselves
+-3.503723	down|PERSON|	-9.000987e-05
+-3.503723	do|I|	0.02942591
+-3.804753	do|I|?!
+-3.804753	do|I|NUMBER
+-3.804753	do|I|anything
+-3.804753	do|I|course
+-3.804753	do|I|dive
+-3.804753	do|I|hike
+-3.804753	do|I|it
+-3.804753	do|I|lot
+-3.804753	do|I|research
+-3.804753	do|I|this
+-3.804753	do|I|ton
+-3.804753	do|I|trip
+-3.804753	do|I|what
+-3.804753	do|I|which
+-3.804753	do|Little|
+-3.804753	do|MONEY|
+-3.503723	do|NUMBER|	-9.000987e-05
+-3.804753	do|ORGANIZATION|time
+-3.202693	do|PERSON|	0.07251785
+-3.804753	do|PERSON|lot
+-3.804753	do|PERSON|same
+-3.804753	do|PERSON|what
+-3.503723	do|all|	-9.000987e-05
+-3.804753	do|camper|what
+-3.804753	do|dive|
+-3.804753	do|everyone|
+-3.804753	do|fishing|
+-3.804753	do|forcast|
+-3.503723	do|he|	0.02942591
+-3.804753	do|it|
+-3.804753	do|it|job
+-3.804753	do|i|blog
+-3.804753	do|plenty|
+-3.503723	do|she|	-2.19012e-05
+-3.804753	do|something|
+-3.804753	do|some|
+-3.503723	do|that|	-2.19012e-05
+-3.804753	do|they|
+-3.804753	do|thing|
+-3.804753	do|this|
+-3.804753	do|t|camping
+-3.804753	do|t|that
+-3.327631	do|we|	0.1075944
+-3.804753	do|we|MISC
+-3.804753	do|we|care
+-3.804753	do|we|course
+-3.804753	do|we|dive
+-3.804753	do|we|hike
+-3.804753	do|we|hiking
+-3.804753	do|we|it
+-3.804753	do|we|snorkeling
+-3.804753	do|we|stop
+-3.804753	do|we|that
+-3.804753	do|we|thing
+-3.804753	do|we|trip
+-3.503723	do|we|what	-9.000987e-05
+-3.503723	do|what|	0.07253496
+-3.804753	do|you|
+-3.804753	do|you|it
+-3.804753	do|you|loop
+-3.804753	do|you|what
+-2.224969	do||	0.0729447
+-3.804753	do||DURATION
+-3.804753	do||NUMBER
+-3.804753	do||anything
+-3.804753	do||dive
+-3.804753	do||diving
+-3.804753	do||drive
+-3.804753	do||everything
+-3.804753	do||half
+-3.804753	do||hike
+-3.804753	do||it
+-3.804753	do||kind
+-3.804753	do||lot
+-3.804753	do||mile
+-3.804753	do||monkey
+-3.804753	do||more
+-3.804753	do||shopping
+-3.503723	do||something	0.02942591
+-3.804753	do||that
+-3.804753	do||thing
+-3.804753	do||this
+-3.804753	do||trail
+-3.804753	do||travel
+-3.804753	do||trip
+-3.804753	do||water
+-3.804753	do||work
+-3.804753	drag||
+-3.804753	drag||tent
+-3.804753	draw||
+-3.804753	dread||work
+-3.804753	dream||
+-3.804753	drench|sky|grounds
+-3.804753	drench||
+-3.804753	dress|I|
+-3.804753	dress||
+-3.804753	drinkin|Al|smithwick
+-3.804753	drink|I|
+-3.804753	drink|we|beer
+-3.503723	drink|we|wine	0.07253496
+-3.804753	drink||
+-3.804753	drink||Light
+-3.804753	drink||beer
+-3.804753	drip||
+-3.503723	drive|I|	0.07253496
+-3.804753	drive|I|home
+-3.804753	drive|I|solo
+-3.804753	drive|PERSON|
+-3.503723	drive|he|	-9.000987e-05
+-3.804753	drive|then|
+-3.026601	drive|we|	0.1078156
+-3.503723	drive|we|DURATION	0.07253496
+-3.804753	drive|we|drive
+-3.503723	drive|we|home	0.001342518
+-3.804753	drive|we|hundred
+-3.804753	drive|we|mile
+-3.804753	drive|wheel|grab
+-3.804753	drive|you|
+-2.804753	drive||	0.07761662
+-3.804753	drive||NUMBER
+-3.804753	drive||Shore
+-3.804753	drive||excavator
+-3.804753	drive||interest
+-3.327631	drive||mile	0.07255033
+-3.804753	drive||road
+-3.804753	drive||way
+-3.804753	drizzle||forecast
+-3.804753	drop|I|
+-3.804753	drop|I|ORGANIZATION
+-3.804753	drop|I|PERSON
+-3.804753	drop|PERSON|
+-3.804753	drop|temperature|
+-3.804753	drop|temp|
+-3.804753	drop|traffic|
+-3.327631	drop|we|	-0.0001118471
+-3.804753	drop|we|PERSON
+-3.804753	drop||
+-3.804753	drop||pack
+-3.804753	drown||
+-3.804753	dry|tent|
+-3.804753	dry||
+-3.804753	dry||everything
+-3.804753	duck||
+-3.804753	dump|we|thing
+-3.804753	earn|pad|moniker
+-3.804753	earn|pad|pad
+-3.503723	eat|I|	0.07253496
+-3.804753	eat|I|dinner
+-3.804753	eat|I|ton
+-3.804753	eat|PERSON|
+-3.804753	eat|fish|
+-3.804753	eat|he|
+-3.804753	eat|hike|
+-3.804753	eat|mosquito|
+-3.804753	eat|she|
+-3.202693	eat|we|	0.1074814
+-3.804753	eat|we|breakfast
+-3.804753	eat|we|chicken
+-3.804753	eat|we|dinner
+-3.804753	eat|we|it
+-3.804753	eat|we|j
+-3.503723	eat|we|lunch	0.0001143481
+-3.804753	eat|we|pb
+-3.804753	eat|you|crust
+-3.503723	eat||	-9.000987e-05
+-3.804753	eat||breakfast
+-3.804753	eat||dinner
+-3.804753	eat||food
+-3.503723	eat||lunch	-9.000987e-05
+-3.804753	eat||mores
+-3.804753	eat||non-stop
+-3.804753	eat||package
+-3.804753	eat||pizza
+-3.804753	eat||s'more
+-3.804753	eat||something
+-3.804753	edward||
+-3.804753	elbow|I|PERSON
+-3.804753	elect||driver
+-3.503723	embark|we|	0.07253496
+-3.804753	embark||
+-3.804753	emphasize|I|MONEY
+-3.804753	emphasize|I|normality
+-3.804753	empty||
+-3.804753	endure|NUMBER|moment
+-3.804753	end|I|
+-3.804753	end|Road|
+-3.804753	end|he|
+-3.503723	end|it|	-9.000987e-05
+-3.804753	end|it|next
+-3.804753	end|that|
+-3.804753	end|trip|
+-3.804753	end|we|
+-3.804753	end|which|
+-3.804753	end||
+-3.804753	end||trip
+-3.804753	engeneer|that|
+-3.804753	enjoy|Girly|swimming
+-3.202693	enjoy|I|	0.0724373
+-3.804753	enjoy|I|diving
+-3.804753	enjoy|I|it
+-3.804753	enjoy|I|ride
+-3.804753	enjoy|I|trip
+-3.804753	enjoy|PERSON|
+-3.804753	enjoy|PERSON|ourselves
+-3.804753	enjoy|PERSON|trip
+-3.804753	enjoy|citizen|hike
+-3.804753	enjoy|he|
+-3.804753	enjoy|they|
+-3.804753	enjoy|they|it
+-3.503723	enjoy|we|	0.004497048
+-3.804753	enjoy|we|beach
+-3.804753	enjoy|we|campsite
+-3.804753	enjoy|we|dinner
+-3.804753	enjoy|we|eruption
+-3.804753	enjoy|we|feel
+-3.804753	enjoy|we|it
+-3.804753	enjoy|we|lot
+-3.804753	enjoy|we|quiet
+-3.503723	enjoy|we|scenery	0.07253496
+-3.804753	enjoy|you|
+-3.503723	enjoy||	0.001342518
+-3.804753	enjoy||beach
+-3.503723	enjoy||it	0.07253496
+-3.804753	enjoy||pace
+-3.804753	enjoy||trip
+-3.503723	enjoy||view	0.001410852
+-3.804753	enjoy||walking
+-3.804753	enjoy||water
+-3.804753	enlarge||
+-3.804753	ensure||
+-3.804753	entertain|you|
+-3.503723	enter|we|	-2.19012e-05
+-3.804753	enter|we|LOCATION
+-3.503723	enter|we|water	0.07253496
+-3.804753	equalize||
+-3.804753	equip||
+-3.804753	erode||
+-3.804753	escape||
+-3.804753	estimate|I|
+-3.804753	etch||
+-3.804753	everyht||
+-3.804753	everyone|MONEY|laundry
+-3.804753	examine||
+-3.804753	exceed||mile
+-3.804753	excite|I|
+-3.503723	excite|we|	0.02942591
+-3.804753	exhaust|I|
+-3.804753	exhaust|it|
+-3.804753	exhaust|time|
+-3.804753	exhaust|we|
+-3.327631	exhaust||	0.1075944
+-3.804753	exict|we|
+-3.804753	exit|we|
+-3.804753	exit||water
+-3.804753	expand||
+-3.503723	expect|I|	0.002368655
+-3.804753	expect|we|
+-3.804753	expect|you|
+-3.804753	expect||
+-3.804753	expect||experience
+-3.804753	experience||bush
+-3.804753	experience||wreck
+-3.804753	explain||
+-3.804753	explore|we|area
+-3.503723	explore||	0.07253496
+-3.804753	explore||LOCATION
+-3.804753	face|I|TIME
+-3.804753	face||
+-3.804753	face||beach
+-3.804753	face||lake
+-3.503723	fail|I|	0.001547551
+-3.804753	fail|idea|
+-3.804753	fail||
+-3.804753	fall|I|
+-3.804753	fall|NUMBER|
+-3.804753	fall|PERSON|
+-3.804753	fall|cooler|
+-3.804753	fall|he|
+-3.804753	fall|he|time
+-3.804753	fall|it|
+-3.804753	fall|rain|
+-3.503723	fall|that|	0.07253496
+-3.804753	fall|they|
+-3.804753	fall|the|
+-3.804753	fall|water|
+-3.503723	fall|we|	-9.000987e-05
+-3.804753	fall|you|
+-3.202693	fall||	0.03521402
+-3.804753	fashion||
+-3.804753	feast|we|
+-3.804753	feast||
+-3.804753	feed||
+-3.804753	feed||wood
+-3.327631	feel|I|	0.02956433
+-3.503723	feel|I|way	0.00025064
+-3.804753	feel|PERSON|
+-3.804753	feel|PERSON|tingling
+-3.804753	feel|he|
+-3.503723	feel|it|	0.02942591
+-3.804753	feel|i|
+-3.804753	feel|ride|
+-3.804753	feel|she|
+-3.804753	feel|tent|
+-3.804753	feel|that|
+-3.804753	feel|they|
+-3.804753	feel|this|
+-3.105783	feel|we|	0.07788615
+-3.804753	feel|we|load
+-3.804753	feel|you|
+-3.804753	feel||
+-3.804753	feel||it
+-3.804753	fight|I|way
+-3.804753	fight||
+-3.804753	fight||intruder
+-3.804753	fight||it
+-3.503723	figure|I|	0.07253496
+-3.804753	figure|PERSON|
+-3.804753	figure|i|
+-3.804753	figure|we|
+-3.804753	figure|we|situations
+-3.804753	figure||
+-3.804753	fill|DURATION|
+-3.804753	fill|I|tank
+-3.503723	fill|it|	-9.000987e-05
+-3.804753	fill|site|
+-3.804753	fill|sky|
+-3.804753	fill|we|tank
+-3.327631	fill||	0.07287262
+-3.804753	fill||thing
+-3.503723	find|I|	-9.000987e-05
+-3.804753	find|I|NUMBER
+-3.804753	find|I|gallon
+-3.804753	find|I|myself
+-3.804753	find|I|spot
+-3.804753	find|I|way
+-3.804753	find|PERSON|
+-3.804753	find|PERSON|PERSON
+-3.804753	find|PERSON|quartz
+-3.804753	find|diamond|tell
+-3.804753	find|food|
+-3.804753	find|rain|it
+-3.804753	find|she|
+-3.804753	find|they|
+-3.804753	find|they|it
+-3.804753	find|they|site
+-3.804753	find|thunderstorm|it
+-3.105783	find|we|	0.03403264
+-3.804753	find|we|NUMBER
+-3.804753	find|we|all
+-3.804753	find|we|bunch
+-3.804753	find|we|campground
+-3.804753	find|we|campsite
+-3.804753	find|we|hotel
+-3.804753	find|we|it
+-3.804753	find|we|place
+-3.804753	find|we|site
+-3.503723	find|we|spot	0.07253496
+-3.804753	find|we|way
+-3.804753	find|you|
+-3.804753	find||
+-3.804753	find||DATE
+-3.804753	find||PERSON
+-3.804753	find||campsite
+-3.804753	find||constellation
+-3.804753	find||flight
+-3.804753	find||it
+-3.804753	find||nemo
+-3.503723	find||place	0.002368655
+-3.804753	find||restaurant
+-3.804753	find||site
+-3.804753	find||spot
+-3.503723	find||tent	4.621809e-05
+-3.503723	find||we	0.07253496
+-3.503723	finish|I|	0.02942591
+-3.804753	finish|I|dish
+-3.804753	finish|they|
+-3.804753	finish|we|
+-3.804753	finish|we|dinner
+-3.804753	finish|we|float
+-3.804753	finish||
+-3.804753	finish||dive
+-3.804753	finish||food
+-3.804753	finish||job
+-3.804753	fire||
+-3.804753	fish.|PERSON|
+-3.804753	fish|they|
+-3.804753	fit|they|
+-3.804753	fit||
+-3.804753	fix|we|situation
+-3.804753	fix||
+-3.804753	flap||
+-3.804753	flare||CAUSE_OF_DEATH
+-3.804753	flip|someone|switch
+-3.804753	float|I|
+-3.804753	float||
+-3.804753	float||MONEY
+-3.804753	flounder||
+-3.503723	flow|that|	0.02942591
+-3.804753	flow||
+-3.804753	fly|DATE|
+-3.804753	fly|be|
+-3.804753	fly|birdie|
+-3.804753	fly|he|
+-3.804753	fly|it|
+-3.804753	fly|time|
+-3.804753	fly|we|
+-3.804753	fly||
+-3.804753	focus||
+-3.804753	follow|I|
+-3.804753	follow|PERSON|track
+-3.327631	follow||	0.07263087
+-3.804753	forage||
+-3.804753	force|I|
+-3.804753	force||myself
+-3.804753	forget|!!|tent
+-3.804753	forget|I|
+-3.804753	forget|I|name
+-3.804753	forget|we|
+-3.804753	forget||
+-3.804753	forget||it
+-3.804753	freak|I|
+-3.804753	freak||
+-3.804753	freeze|I|
+-3.804753	frequent|none|
+-3.804753	fry|country|steak
+-3.804753	fuel|we|
+-3.804753	fuel||
+-3.804753	fussed|you|
+-3.804753	gain||elevation
+-3.804753	gather|one|
+-3.804753	gather||
+-3.804753	gather||gear
+-3.804753	gaze|we|
+-3.804753	gaze||
+-3.804753	gear|girl|
+-3.503723	gear|we|	-9.000987e-05
+-3.804753	get|DATE|
+-3.804753	get|Finaly|
+-3.804753	get|Girly|
+-3.026601	get|I|	0.07811835
+-3.804753	get|I|bike
+-3.503723	get|I|chance	0.0008644837
+-3.804753	get|I|heck
+-3.503723	get|I|home	0.07253496
+-3.804753	get|I|it
+-3.804753	get|I|lot
+-3.804753	get|I|picture
+-3.804753	get|I|sleep
+-3.804753	get|I|sunburn
+-3.804753	get|I|tan
+-3.804753	get|I|what
+-3.804753	get|MISC|
+-3.804753	get|NUMBER|
+-3.804753	get|ORGANIZATION|work
+-3.327631	get|PERSON|	-0.0001118471
+-3.503723	get|PERSON|CAUSE_OF_DEATH	0.0008644837
+-3.804753	get|PERSON|cut
+-3.804753	get|camp|
+-3.804753	get|camp|firewood
+-3.804753	get|cloud|darker
+-3.804753	get|everyone|
+-3.804753	get|girl|
+-3.804753	get|he|
+-3.804753	get|he|MONEY
+-3.202693	get|it|	0.07300147
+-3.804753	get|it|AND
+-3.804753	get|it|cold
+-3.804753	get|i|
+-3.503723	get|kid|	0.07253496
+-3.804753	get|place|snow
+-3.804753	get|she|
+-3.804753	get|squeeter|
+-3.804753	get|that|MONEY
+-3.503723	get|they|	0.07253496
+-3.804753	get|thing|
+-3.804753	get|t|
+-3.804753	get|t|it
+-3.804753	get|water|
+-2.54948	get|we|	0.1183378
+-3.804753	get|we|:d
+-3.804753	get|we|DATE
+-3.804753	get|we|NUMBER
+-3.804753	get|we|all
+-3.804753	get|we|bus
+-3.804753	get|we|donut
+-3.804753	get|we|everything
+-3.804753	get|we|gas
+-3.804753	get|we|half
+-3.804753	get|we|holiday
+-3.804753	get|we|home
+-3.804753	get|we|interstate
+-3.804753	get|we|it
+-3.804753	get|we|lunch
+-3.804753	get|we|outta
+-3.804753	get|we|pancake
+-3.804753	get|we|picture
+-3.804753	get|we|sleep
+-3.804753	get|we|start
+-3.503723	get|we|tent	0.07253496
+-3.804753	get|we|there
+-3.804753	get|we|thing
+-3.804753	get|we|time
+-3.804753	get|we|what
+-3.804753	get|we|which
+-3.327631	get|you|	0.07242191
+-3.804753	get|you|chance
+-3.804753	get|you|it
+-3.804753	get|you|trip
+-2.389779	get||	0.1094551
+-3.804753	get||CAUSE_OF_DEATH
+-3.804753	get||I
+-3.804753	get||Luke-Xavier
+-3.804753	get||NUMBER
+-3.804753	get||PERSON
+-3.804753	get||all
+-3.804753	get||breakfast
+-3.804753	get||cabin
+-3.804753	get||campchair
+-3.804753	get||campsite
+-3.804753	get||car
+-3.804753	get||cream
+-3.804753	get||direction
+-3.804753	get||food
+-3.804753	get||foot
+-3.804753	get||gas
+-3.503723	get||gear	0.0001824887
+-3.804753	get||get
+-3.804753	get||grill
+-3.804753	get||he
+-3.804753	get||home
+-3.804753	get||home.
+-3.804753	get||it
+-3.804753	get||lot
+-3.804753	get||lure
+-3.804753	get||milkshake
+-3.804753	get||pan
+-3.804753	get||part
+-3.804753	get||picture
+-3.804753	get||pizza
+-3.804753	get||rain
+-3.804753	get||ride
+-3.804753	get||setup
+-3.804753	get||shot
+-3.804753	get||site
+-3.804753	get||sleep
+-3.804753	get||some
+-3.804753	get||spot
+-3.804753	get||start
+-3.804753	get||tent
+-3.503723	get||there	0.07253496
+-3.804753	get||they
+-3.804753	get||thing
+-3.804753	get||visa
+-3.503723	get||water	-9.000987e-05
+-3.503723	giggle||	-2.19012e-05
+-3.804753	giggle||flashlight
+-3.804753	giggle||kid
+-3.804753	give|I|
+-3.804753	give|I|he
+-3.804753	give|MONEY|chance
+-3.804753	give|bbq|
+-3.804753	give|he|I
+-3.804753	give|it|I
+-3.804753	give|mascot|
+-3.804753	give|master|NUMBER
+-3.804753	give|they|direction
+-3.804753	give|they|we
+-3.804753	give|we|
+-3.804753	give|we|they
+-3.804753	give|which|view
+-3.804753	give|which|we
+-3.503723	give||	0.001547551
+-3.804753	give||I
+-3.804753	give||break
+-3.804753	give||he
+-3.503723	give||it	0.07253496
+-3.804753	give||result
+-3.804753	give||she
+-3.804753	give||something
+-3.804753	give||we
+-3.804753	give||you
+-3.804753	glance||
+-3.804753	glare|we|
+-3.804753	glisten||
+-3.804753	gloat||husband
+-3.804753	gon|I|
+-3.804753	gon|that|
+-3.804753	gon||
+-3.804753	go|A|
+-3.804753	go|DATE|
+-3.804753	go|DURATION|
+-3.804753	go|Finaly|
+-2.85051	go|I|	0.07241992
+-3.503723	go|I|camping	0.0003869748
+-3.804753	go|I|diving
+-3.804753	go|I|fishing
+-3.804753	go|I|hand
+-3.804753	go|I|home
+-3.804753	go|I|mile
+-3.804753	go|I|s
+-3.804753	go|I|way
+-3.804753	go|LOCATION|
+-3.804753	go|NUMBER|
+-3.105783	go|PERSON|	0.07285597
+-3.804753	go|PERSON|diving
+-3.804753	go|PERSON|fishing
+-3.804753	go|TIME|
+-3.804753	go|TIME|time
+-3.804753	go|adventure|
+-3.804753	go|all|
+-3.804753	go|boat|
+-3.804753	go|dad|
+-3.804753	go|daughter|
+-3.804753	go|do|
+-3.804753	go|d|
+-3.503723	go|everyone|	-9.000987e-05
+-3.804753	go|everything|
+-3.804753	go|family|
+-3.804753	go|fam|camping
+-3.804753	go|girl|
+-3.804753	go|group|
+-3.503723	go|guy|	0.07253496
+-3.804753	go|helo|overhead
+-3.804753	go|he|
+-3.804753	go|he|home
+-3.804753	go|house|MONEY
+-3.804753	go|it|
+-3.804753	go|i|
+-3.503723	go|kid|	0.02942591
+-3.804753	go|kid|fishing
+-3.804753	go|light|
+-3.804753	go|ll|
+-3.804753	go|moring|
+-3.804753	go|niece|
+-3.804753	go|parent|
+-3.503723	go|people|	0.02942591
+-3.804753	go|rest|
+-3.327631	go|she|	0.07242191
+-3.804753	go|she|swimming
+-3.804753	go|sign|
+-3.026601	go|sun|	0.07295258
+-3.804753	go|tank|
+-3.804753	go|tent|
+-3.804753	go|that|
+-3.804753	go|then|
+-3.503723	go|they|	0.0003188021
+-3.804753	go|thing|
+-3.804753	go|this|
+-3.804753	go|time|
+-3.804753	go|trail|
+-3.804753	go|train|
+-3.804753	go|trip|
+-3.804753	go|weather|
+-2.424541	go|we|	0.1112887
+-3.804753	go|we|DATE
+-3.804753	go|we|MONEY
+-3.804753	go|we|NUMBER
+-3.804753	go|we|bowling
+-3.503723	go|we|camping	0.07253496
+-3.503723	go|we|fishing	-2.19012e-05
+-3.804753	go|we|home
+-3.804753	go|we|mile
+-3.804753	go|we|swimming
+-3.804753	go|we|way
+-3.804753	go|we|what
+-3.503723	go|what|	-9.000987e-05
+-3.503723	go|which|	0.07253496
+-3.503723	go|who|	0.07253496
+-3.804753	go|you|
+-3.804753	go|you|Oooooohhhhhh
+-3.804753	go|you|camping
+-2.600633	go||	0.1067236
+-3.804753	go||!!!
+-3.503723	go||I	0.07253496
+-3.503723	go||MONEY	-9.000987e-05
+-3.327631	go||camping	9.260705e-05
+-3.804753	go||diving
+-3.804753	go||figure
+-3.804753	go||fishing
+-3.804753	go||hike
+-3.804753	go||hill
+-3.503723	go||home	-2.19012e-05
+-3.804753	go||north
+-3.804753	go||swimming
+-3.804753	go||venture
+-3.804753	go||way
+-3.804753	grab|I|
+-3.804753	grab|PERSON|guide
+-3.804753	grab|we|
+-3.804753	grab||PERSON
+-3.804753	grab||thing
+-3.804753	grant|God|water
+-3.804753	grant|God|we
+-3.503723	greet|we|	0.07253496
+-3.804753	greet||
+-3.804753	greet||DATE
+-3.804753	grow|I|
+-3.804753	grow|he|
+-3.804753	grow|it|
+-3.804753	grow|space|
+-3.804753	grow|we|
+-3.804753	grow||
+-3.804753	grumble|kid|
+-3.202693	guess|I|	0.1074814
+-3.804753	guess||
+-3.804753	had.|I|
+-3.503723	hadn|I|MONEY	0.07253496
+-3.804753	hadn|we|MONEY
+-3.804753	hadn|we|t
+-3.503723	hammer||	0.0001143481
+-3.804753	handle|I|
+-3.804753	handle|car|
+-3.804753	handle|kid|it
+-3.804753	handle||LOCATION
+-3.804753	hand|they|we
+-3.503723	hang|I|	0.07253496
+-3.804753	hang|that|
+-3.503723	hang|the|	0.02942591
+-3.327631	hang|we|	0.001321356
+-3.804753	hang||
+-3.804753	happen|DATE|
+-3.804753	happen|I|
+-3.804753	happen|he|
+-3.327631	happen|it|	0.0009113867
+-3.804753	happen|nothing|
+-3.503723	happen|that|	0.000727999
+-3.804753	happen|this|
+-3.503723	happen|we|	0.07253496
+-3.327631	happen|what|	0.02931286
+-3.503723	happen|which|	0.02942591
+-3.804753	happen|who|
+-3.503723	happen||	0.07253496
+-3.804753	hate|I|
+-3.804753	hate|I|it
+-3.804753	hate|girl|it
+-3.804753	haul||
+-3.804753	haven|I|MONEY
+-3.804753	have|AND|child
+-3.804753	have|But|fun.
+-3.804753	have|DATE|
+-3.804753	have|DATE|temp
+-3.804753	have|DATE|wind
+-3.804753	have|God|mercy
+-2.85051	have|I|	0.07846522
+-3.804753	have|I|2x
+-3.804753	have|I|DATE
+-3.804753	have|I|MONEY
+-3.804753	have|I|NEVER
+-3.804753	have|I|NUMBER
+-3.804753	have|I|TIME
+-3.804753	have|I|bag
+-3.804753	have|I|breakfast
+-3.804753	have|I|dive
+-3.804753	have|I|dream
+-3.804753	have|I|drunk
+-3.804753	have|I|energy
+-3.804753	have|I|experience
+-3.804753	have|I|feeling
+-3.804753	have|I|friend
+-3.804753	have|I|headache
+-3.804753	have|I|idea
+-3.804753	have|I|intention
+-3.804753	have|I|it
+-3.804753	have|I|lot
+-3.804753	have|I|luck
+-3.804753	have|I|map
+-3.503723	have|I|moment	-9.000987e-05
+-3.804753	have|I|most
+-3.804753	have|I|opportunity
+-3.804753	have|I|picture
+-3.804753	have|I|problem
+-3.804753	have|I|route
+-3.804753	have|I|salad
+-3.804753	have|I|show
+-3.804753	have|I|some
+-3.804753	have|I|talk
+-3.804753	have|I|time
+-3.804753	have|I|trouble
+-3.804753	have|I|vision
+-3.804753	have|MONEY|rip
+-3.804753	have|MONEY|tent
+-3.804753	have|NATIONALITY|a
+-3.804753	have|NUMBER|
+-3.804753	have|NUMBER|leak
+-3.804753	have|PERSON|
+-3.804753	have|PERSON|NUMBER
+-3.804753	have|PERSON|PERSON
+-3.804753	have|PERSON|escargot
+-3.503723	have|PERSON|fun	0.07253496
+-3.804753	have|PERSON|it
+-3.804753	have|PERSON|lot
+-3.503723	have|PERSON|s'more	0.07253496
+-3.804753	have|PERSON|sparerib
+-3.804753	have|PERSON|tent
+-3.804753	have|PERSON|time
+-3.804753	have|PERSON|trouble
+-3.804753	have|TIME|reservation
+-3.804753	have|TITLE|too.
+-3.804753	have|all|time
+-3.804753	have|boat|
+-3.804753	have|campground|air
+-3.804753	have|child|
+-3.804753	have|everyone|PERSON
+-3.804753	have|friend|terror
+-3.804753	have|grill|leak
+-3.804753	have|he|
+-3.804753	have|he|2x
+-3.804753	have|he|grown.
+-3.804753	have|he|lot
+-3.804753	have|home|meal
+-3.804753	have|husband|NEVER
+-3.327631	have|it|	0.02934553
+-3.503723	have|it|electricity	0.07253496
+-3.804753	have|it|lot
+-3.804753	have|it|nothing
+-3.804753	have|it|traffic
+-3.503723	have|i|	0.0008644837
+-3.804753	have|jump|
+-3.804753	have|kid|
+-3.804753	have|kid|fun
+-3.804753	have|kid|time
+-3.804753	have|lightning|stopped
+-3.804753	have|ll|fun
+-3.804753	have|luck|it
+-3.804753	have|man|insurance
+-3.804753	have|man|license
+-3.804753	have|mosquito|chance
+-3.804753	have|pannier|lot
+-3.804753	have|part|size
+-3.804753	have|person|
+-3.804753	have|river|lot
+-3.804753	have|room|table
+-3.804753	have|route|wood
+-3.804753	have|she|
+-3.804753	have|she|jacket
+-3.804753	have|she|qualm
+-3.804753	have|she|tent
+-3.804753	have|that|
+-3.804753	have|that|camping
+-3.804753	have|that|food
+-3.804753	have|that|pool
+-3.804753	have|then|
+-3.202693	have|they|	0.07230888
+-3.804753	have|they|bit
+-3.804753	have|they|couple
+-3.804753	have|they|mindset
+-3.804753	have|they|requirement
+-3.804753	have|they|river
+-3.804753	have|they|room
+-3.804753	have|they|site
+-3.804753	have|tree|sign
+-3.804753	have|trip|feeling
+-3.804753	have|t|
+-3.804753	have|t|equipment.
+-3.804753	have|t|time
+-3.804753	have|ve|
+-3.804753	have|ve|around.
+-3.503723	have|water|	0.07253496
+-3.804753	have|water|MONEY
+-2.804753	have|we|	0.1077503
+-3.804753	have|we|CAUSE_OF_DEATH
+-3.503723	have|we|DURATION	0.07253496
+-3.503723	have|we|NUMBER	0.07253496
+-3.804753	have|we|PERSON
+-3.804753	have|we|TIME
+-3.804753	have|we|age
+-3.804753	have|we|apartment
+-3.804753	have|we|bag
+-3.804753	have|we|bed
+-3.503723	have|we|bit	0.02942591
+-3.804753	have|we|blast
+-3.804753	have|we|bread
+-3.804753	have|we|breakfast
+-3.804753	have|we|burger
+-3.804753	have|we|cake
+-3.804753	have|we|camp
+-3.503723	have|we|campfire	-9.000987e-05
+-3.804753	have|we|campsite
+-3.804753	have|we|car
+-3.804753	have|we|chicken
+-3.503723	have|we|child	4.621809e-05
+-3.804753	have|we|choice
+-3.804753	have|we|climb
+-3.804753	have|we|coffee
+-3.804753	have|we|conversation
+-3.804753	have|we|corn
+-3.804753	have|we|cream
+-3.804753	have|we|cucumber
+-3.804753	have|we|dinner
+-3.804753	have|we|dog
+-3.804753	have|we|downpour
+-3.804753	have|we|drink
+-3.804753	have|we|enough
+-3.804753	have|we|event
+-3.804753	have|we|festival
+-3.804753	have|we|firework
+-3.804753	have|we|food
+-3.804753	have|we|fun
+-3.804753	have|we|gear
+-3.804753	have|we|group
+-3.804753	have|we|hell
+-3.503723	have|we|hike	-9.000987e-05
+-3.804753	have|we|idea
+-3.804753	have|we|kid
+-3.503723	have|we|lot	0.07253496
+-3.804753	have|we|luck
+-3.503723	have|we|lunch	0.02942591
+-3.804753	have|we|mattress
+-3.804753	have|we|meal
+-3.804753	have|we|mile
+-3.804753	have|we|milk
+-3.804753	have|we|noddle
+-3.804753	have|we|noodle
+-3.804753	have|we|opportunity
+-3.804753	have|we|park
+-3.804753	have|we|people
+-3.804753	have|we|picnic
+-3.804753	have|we|place
+-3.804753	have|we|plan
+-3.804753	have|we|plenty
+-3.804753	have|we|problem
+-3.804753	have|we|reservation
+-3.804753	have|we|rib
+-3.804753	have|we|roast
+-3.327631	have|we|room	0.1075944
+-3.804753	have|we|seclusion
+-3.327631	have|we|shower	0.0002289632
+-3.503723	have|we|smore	0.001342518
+-3.804753	have|we|task
+-3.804753	have|we|temp
+-3.804753	have|we|tent
+-3.327631	have|we|time	0.1075944
+-3.804753	have|we|toast
+-3.804753	have|we|trip
+-3.804753	have|we|view
+-3.804753	have|we|water
+-3.804753	have|we|weather
+-3.804753	have|you|
+-3.804753	have|you|blast
+-3.804753	have|you|kid
+-3.804753	have|you|time
+-3.804753	have|you|view
+-1.965904	have||	0.1109991
+-3.804753	have||CAUSE_OF_DEATH
+-3.804753	have||PERSON
+-3.804753	have||beer
+-3.503723	have||bit	0.02942591
+-3.804753	have||breakfast
+-3.804753	have||cake
+-3.804753	have||chance
+-3.804753	have||coffee
+-3.804753	have||couple
+-3.804753	have||dinner
+-3.804753	have||drink
+-3.804753	have||etc.
+-3.804753	have||experience
+-3.503723	have||family	0.02942591
+-3.804753	have||fun
+-3.804753	have||good
+-3.804753	have||issue
+-3.804753	have||look
+-3.804753	have||lunch
+-3.804753	have||marsh-mellow
+-3.804753	have||moment
+-3.804753	have||opportunity
+-3.804753	have||parade
+-3.804753	have||place
+-3.503723	have||room	0.02942591
+-3.804753	have||sex
+-3.804753	have||spot
+-3.804753	have||time
+-3.804753	have||trip
+-3.804753	have||trouble
+-3.804753	have||water
+-3.804753	head|&|
+-3.804753	head|DATE|
+-3.327631	head|I|	0.07279202
+-3.503723	head|PERSON|	-2.19012e-05
+-3.804753	head|boat|
+-3.804753	head|cabin|
+-3.804753	head|he|
+-3.804753	head|m|
+-3.804753	head|they|
+-2.600633	head|we|	0.1167229
+-3.804753	head|we|PERSON
+-3.804753	head|we|direction
+-3.804753	head|we|home
+-3.804753	head|we|north
+-2.85051	head||	0.116891
+-3.503723	head||home	0.001069291
+-3.503723	hear|I|	0.07253496
+-3.804753	hear|I|camping
+-3.804753	hear|I|noise
+-3.804753	hear|PERSON|noise
+-3.804753	hear|WI|rustling
+-3.804753	hear|all|raccoon
+-3.804753	hear|t|peep
+-3.503723	hear|we|	0.02942591
+-3.804753	hear|we|noise
+-3.804753	hear|we|siren
+-3.804753	hear|we|sound
+-3.804753	hear|we|thunder
+-3.804753	hear||
+-3.804753	hear||end
+-3.804753	hear||that
+-3.804753	heat||they
+-3.804753	heed||instruction
+-3.804753	help|I|
+-3.804753	help|LOCATION|too.
+-3.804753	help|PERSON|
+-3.804753	help|PERSON|too.
+-3.804753	help|everyone|
+-3.503723	help|he|	-9.000987e-05
+-3.804753	help|it|
+-3.804753	help|jacket|float
+-3.804753	help|low|
+-3.804753	help|that|
+-3.804753	help|they|
+-3.804753	help|we|
+-3.804753	help|which|
+-3.327631	help||	0.07242191
+-3.804753	help||I
+-3.804753	help||you
+-3.804753	here|Well|MONEY
+-3.804753	hesitate|I|
+-3.804753	he|I|MONEY
+-3.804753	he||MONEY
+-3.804753	hide|PERSON|
+-3.804753	hide||
+-3.804753	highlight|the|
+-3.804753	highlight||
+-3.804753	hike|DATE|
+-3.503723	hike|I|	0.0001824887
+-3.804753	hike|I|trail
+-3.804753	hike|PERSON|
+-3.804753	hike|mile|
+-3.804753	hike|that|
+-2.959655	hike|we|	0.1087281
+-3.804753	hike|we|mile
+-3.804753	hike|you|
+-2.959655	hike||	0.1084394
+-3.804753	hike||LOCATION
+-3.804753	hike||it
+-3.804753	hike||mile
+-3.804753	hike||trail
+-3.804753	hike||we
+-3.804753	hit|I|road
+-3.804753	hit|I|stopwatch
+-3.804753	hit|I|town
+-3.804753	hit|PERSON|she
+-3.804753	hit|all|
+-3.804753	hit|they|
+-3.327631	hit|we|	0.07246979
+-3.503723	hit|we|LOCATION	0.02942591
+-3.804753	hit|we|Lucky
+-3.804753	hit|we|border
+-3.804753	hit|we|road
+-3.804753	hit|we|sand
+-3.804753	hit||ORGANIZATION
+-3.804753	hit||road
+-3.804753	hit||tent
+-3.804753	hit||trail
+-3.804753	hit||trunk
+-3.804753	hit||waterslide
+-3.804753	hold|I|
+-3.804753	hold|he|
+-3.804753	hold|luck|
+-3.804753	hold|tent|it
+-3.804753	hold||
+-3.804753	hold||it
+-3.804753	hold||tent
+-3.804753	hold||they
+-3.804753	holler|you|$
+-3.202693	hope|I|	0.02970306
+-3.804753	hope|tent|
+-3.804753	hope|we|
+-3.804753	hope||
+-3.804753	hop|I|
+-3.804753	hop|we|
+-3.804753	hop||
+-3.804753	hover||
+-3.804753	howl||
+-3.804753	hurl|old|cliff
+-3.804753	hurry||
+-3.804753	hurt|ground|back
+-3.804753	hurt|it|
+-3.804753	hurt||
+-3.804753	identify||
+-3.804753	identify||they
+-3.804753	ignore|I|rule
+-3.804753	imagine|I|
+-3.503723	imagine|you|	0.07253496
+-3.503723	imagine||	0.000727999
+-3.804753	imagine||place
+-3.503723	impress|I|	0.07253496
+-3.804753	improvise||
+-3.804753	include|myself|
+-3.804753	include|other|MISC
+-3.804753	include|other|PERSON
+-3.804753	include|price|ride
+-3.804753	include|stats|driving
+-3.327631	include||	-4.370639e-05
+-3.804753	increase|heart|pace
+-3.804753	inform|he|I
+-3.804753	ingrain|it|
+-3.804753	inhabit|camp|
+-3.804753	inhabit|sex|
+-3.804753	insist|girl|
+-3.804753	intend|I|
+-3.804753	intend|we|
+-3.804753	intend||
+-3.804753	internett|PERSON|
+-3.804753	intersperse||
+-3.804753	invite|people|
+-3.804753	invite|we|
+-3.804753	involve||
+-3.804753	isn|it|t
+-3.804753	isolate||
+-3.804753	itch||
+-3.804753	it|I|MONEY
+-3.804753	it|s|MONEY
+-3.804753	it||
+-3.503723	it||MONEY	0.07253496
+-3.327631	it||s	0.001594885
+-3.804753	it||star
+-3.804753	i||m
+-3.804753	join|I|they
+-3.804753	join|kid|
+-3.804753	join|rest|
+-3.804753	join|some|
+-3.804753	join|ve|you
+-3.804753	join|we|
+-3.804753	join||
+-3.804753	join||I
+-3.804753	join||group
+-3.804753	join||they
+-3.804753	join||we
+-3.804753	joke|we|
+-3.804753	jump|I|
+-3.804753	jump|kid|
+-3.804753	jump|we|
+-3.804753	jump||
+-3.804753	kayake||
+-3.804753	kayak||
+-3.804753	keep|DURATION|
+-3.503723	keep|I|	0.00025064
+-3.804753	keep|I|eye
+-3.804753	keep|I|fluid
+-3.804753	keep|I|head
+-3.804753	keep|I|journal
+-3.804753	keep|NUMBER|
+-3.804753	keep|PERSON|
+-3.804753	keep|PERSON|stuff
+-3.804753	keep|he|
+-3.804753	keep|he|they
+-3.804753	keep|it|
+-3.804753	keep|it|some
+-3.804753	keep|i|
+-3.804753	keep|thanks|
+-3.804753	keep|that|
+-3.804753	keep|they|
+-3.804753	keep|we|
+-3.105783	keep||	0.000913812
+-3.804753	keep||cool
+-3.804753	keep||eye
+-3.804753	keep||pace
+-3.804753	keep||thing
+-3.804753	keep||water
+-3.804753	keep||we
+-3.804753	kick|we|
+-3.804753	kick||I
+-3.804753	kid|we|
+-3.804753	kid||
+-3.804753	kill||
+-3.804753	kill||myself
+-3.804753	knit|it|
+-3.804753	knock|I|mile
+-3.202693	know|I|	0.03138567
+-3.804753	know|I|guy
+-3.804753	know|I|it
+-3.804753	know|I|merely
+-3.804753	know|PERSON|
+-3.804753	know|any|
+-3.804753	know|cyclist|
+-3.804753	know|he|
+-3.804753	know|it|
+-3.503723	know|she|	0.004497048
+-3.804753	know|that|
+-3.804753	know|that|I
+-3.804753	know|they|
+-3.804753	know|this|
+-3.804753	know|t|
+-3.804753	know|t|it
+-3.327631	know|we|	0.02992926
+-3.804753	know|we|what
+-3.327631	know|who|	0.1075944
+-3.804753	know|who|I
+-3.503723	know|you|	0.02942591
+-3.804753	know|you|NUMBER
+-3.804753	know|you|it
+-3.804753	know|you|s
+-3.804753	know|you|we
+-3.503723	know||	0.07253496
+-3.804753	lack||
+-3.804753	land|DURATION|
+-3.804753	land|I|
+-3.804753	land|we|
+-3.804753	land||NUMBER
+-3.804753	lash|nothing|
+-3.804753	last|it|
+-3.804753	last|peace|
+-3.503723	laugh|I|	0.0001143481
+-3.804753	laugh|we|
+-3.804753	launch|we|
+-3.804753	launch||
+-3.804753	lay|I|
+-3.804753	lay|we|
+-3.804753	lay||
+-3.804753	lay||TIME
+-3.804753	lead|that|
+-3.804753	lead||
+-3.804753	leak|mask|
+-3.804753	leak|tent|
+-3.804753	leak||
+-3.804753	lean|you|MONEY
+-3.804753	lean|you|which
+-3.804753	learn|'d|lesson
+-3.804753	learn|I|
+-3.804753	learn|I|this
+-3.804753	learn|Sander|lesson
+-3.804753	learn|TITLE|
+-3.804753	learn|she|
+-3.804753	learn|son|
+-3.804753	learn|we|
+-3.804753	learn|we|all
+-3.804753	learn||
+-3.804753	learn||technique
+-3.503723	leave|I|	0.02942591
+-3.503723	leave|I|LOCATION	0.07253496
+-3.804753	leave|I|chocolate
+-3.804753	leave|I|house
+-3.804753	leave|I|marshmallow
+-3.804753	leave|I|watch
+-3.804753	leave|I|you
+-3.804753	leave|PERSON|
+-3.804753	leave|he|we
+-3.804753	leave|it|
+-3.804753	leave|kid|dinner
+-3.804753	leave|that|DATE
+-3.503723	leave|they|	0.0001824887
+-3.327631	leave|we|	0.07343722
+-3.327631	leave|we|LOCATION	0.07303386
+-3.804753	leave|we|MISC
+-3.804753	leave|we|Rock
+-3.804753	leave|we|cabin
+-3.804753	leave|we|campground
+-3.804753	leave|we|home
+-3.804753	leave|we|it
+-3.804753	leave|we|little
+-3.804753	leave|we|site
+-3.804753	leave|we|you
+-3.804753	leave|what|
+-3.105783	leave||	0.1076662
+-3.804753	leave||DATE
+-3.804753	leave||I
+-3.804753	leave||LOCATION
+-3.804753	leave||PERSON
+-3.804753	leave||comment
+-3.804753	leave||everything
+-3.804753	leave||firework
+-3.804753	leave||it
+-3.804753	leave||parent
+-3.804753	leave||park
+-3.804753	leave||we
+-3.804753	leave||work
+-3.804753	lecture|camp|
+-3.804753	let|I|
+-3.804753	let|PERSON|
+-3.804753	let|TIME|
+-3.804753	let|friend|
+-3.804753	let|it|
+-3.804753	let|kid|
+-3.804753	let|rain|
+-3.804753	let|she|cabin
+-3.804753	let|she|space
+-3.804753	let|that|
+-3.503723	let|they|	0.07253496
+-3.503723	let|we|	-9.000987e-05
+-3.202693	let||	0.07272704
+-3.804753	let||MONEY
+-3.804753	let||it
+-3.804753	lie|picture|
+-3.804753	lie|what|
+-3.804753	lie|which|
+-3.804753	lie||
+-3.804753	lie||recumbent
+-3.804753	lift||bike
+-3.202693	lighten||	0.1077176
+-3.804753	light|CAUSE_OF_DEATH|
+-3.804753	light||
+-3.503723	like|I|	0.07253496
+-3.804753	like|I|camping
+-3.503723	like|I|it	0.07253496
+-3.804753	like|I|park
+-3.804753	like|I|weather
+-3.503723	like|PERSON|	0.07253496
+-3.804753	like|PERSON|Plus
+-3.804753	like|he|
+-3.804753	like|he|Plus
+-3.804753	like|other|town
+-3.804753	like|thing|
+-3.804753	like|we|
+-3.804753	like|who|I
+-3.327631	like|you|	0.07242191
+-3.804753	like|you|camping
+-3.804753	limit|I|number
+-3.804753	limit||yourself
+-3.804753	linger|we|
+-3.804753	listen|I|
+-3.503723	listen|we|	0.07253496
+-3.327631	listen||	0.07242191
+-3.804753	live|I|
+-3.804753	live|PERSON|
+-3.804753	live|child|
+-3.804753	live|family|
+-3.804753	live|he|
+-3.804753	live|that|
+-3.804753	live|they|
+-3.804753	live|we|
+-3.503723	live|who|	0.07253496
+-3.804753	live|you|
+-3.327631	live||	0.07263087
+-3.804753	load|mile|
+-3.804753	load|we|
+-3.804753	load|we|car
+-3.804753	load|we|stuff
+-3.804753	load||
+-3.804753	load||all
+-3.804753	load||car
+-3.804753	load||gear
+-3.804753	lodge|park|
+-3.804753	lodge||
+-3.804753	log||
+-3.804753	london||
+-3.804753	long|I|
+-3.804753	look|Husband|
+-3.105783	look|I|	0.004689414
+-3.804753	look|LOCATION|
+-3.327631	look|PERSON|	0.02934553
+-3.804753	look|all|
+-2.901663	look|it|	0.1072658
+-3.804753	look|it|little
+-3.804753	look|it|lot
+-3.804753	look|myself|
+-3.804753	look|pool|
+-3.503723	look|she|	0.07253496
+-3.804753	look|that|
+-3.503723	look|they|	0.07253496
+-3.503723	look|we|	0.00025064
+-3.503723	look|what|	0.02942591
+-3.804753	look|which|
+-3.327631	look|you|	0.02941845
+-2.901663	look||	0.07301731
+-3.804753	look||it
+-3.804753	loop|we|
+-3.804753	lose|I|
+-3.804753	lose|I|weight
+-3.804753	lose|we|coverage
+-3.804753	lose|who|life
+-3.804753	lose|you|it
+-3.503723	lose||	-9.000987e-05
+-3.804753	lose||NUMBER
+-3.804753	lose||communication
+-3.804753	lose||rest
+-3.804753	love|All|area
+-3.327631	love|I|	0.02934553
+-3.804753	love|I|MONEY
+-3.804753	love|I|Park
+-3.503723	love|I|SET	0.02942591
+-3.804753	love|I|camp
+-3.804753	love|I|camping
+-3.804753	love|I|diving
+-3.804753	love|I|game
+-3.804753	love|I|it
+-3.804753	love|I|landscape
+-3.804753	love|I|mushroom
+-3.804753	love|I|park.
+-3.804753	love|PERSON|
+-3.804753	love|camper|d
+-3.804753	love|i|it
+-3.804753	love|kid|
+-3.804753	love|kid|it
+-3.804753	love|kid|they
+-3.804753	love|we|
+-3.804753	love|we|campsite
+-3.804753	love||
+-3.804753	love||it
+-3.804753	lo|I|
+-3.804753	luck|we|
+-3.804753	lure||they
+-3.804753	make|DATE|
+-3.503723	make|I|	-2.19012e-05
+-3.804753	make|I|batch
+-3.804753	make|I|dinner
+-3.804753	make|I|it
+-3.804753	make|I|mistake
+-3.804753	make|I|note
+-3.503723	make|I|pancake	-9.000987e-05
+-3.804753	make|I|rule
+-3.804753	make|I|way
+-3.804753	make|PERSON|
+-3.804753	make|PERSON|bed
+-3.804753	make|PERSON|campfire
+-3.804753	make|PERSON|friend
+-3.804753	make|PERSON|herself
+-3.804753	make|PERSON|suggestion
+-3.804753	make|PERSON|thingy
+-3.804753	make|PERSON|use
+-3.804753	make|camp|it
+-3.804753	make|food|
+-3.804753	make|he|
+-3.503723	make|it|	0.001069291
+-3.804753	make|jd|it
+-3.804753	make|josh|way
+-3.804753	make|kid|it
+-3.804753	make|rain|feel
+-3.804753	make|that|
+-3.503723	make|they|	0.0001824887
+-3.804753	make|this|it
+-3.804753	make|tree|lot
+-3.804753	make|t|
+-3.804753	make|t|it
+-3.202693	make|we|	0.07296897
+-3.804753	make|we|CAUSE_OF_DEATH
+-3.804753	make|we|bacon
+-3.804753	make|we|bbq
+-3.804753	make|we|breakfast
+-3.503723	make|we|coffee	0.07253496
+-3.804753	make|we|corn
+-3.804753	make|we|decision
+-3.503723	make|we|dinner	-2.19012e-05
+-3.503723	make|we|egg	-2.19012e-05
+-3.804753	make|we|friend
+-3.202693	make|we|it	0.113435
+-3.804753	make|we|kabob
+-3.804753	make|we|list
+-3.804753	make|we|marshmallow
+-3.804753	make|we|potato
+-3.804753	make|we|s'more
+-3.804753	make|we|stop
+-3.804753	make|we|talk
+-3.804753	make|we|trek
+-3.503723	make|we|trip	0.02942591
+-3.503723	make|we|way	0.0003188021
+-3.503723	make|which|	4.621809e-05
+-3.804753	make|wind|
+-3.804753	make|you|it
+-3.202693	make||	0.1074814
+-3.804753	make||CAUSE_OF_DEATH
+-3.804753	make||arrangement
+-3.804753	make||breakfast
+-3.804753	make||camp
+-3.804753	make||dinner
+-3.804753	make||ground
+-3.503723	make||it	-2.19012e-05
+-3.804753	make||noise
+-3.804753	make||post
+-3.804753	make||ride
+-3.804753	make||s'more
+-3.804753	make||sandwich
+-3.804753	make||shelter
+-3.804753	make||stew
+-3.804753	make||stop
+-3.804753	make||story
+-3.804753	make||tea
+-3.804753	make||that
+-3.503723	make||trip	0.000727999
+-3.804753	make||use
+-3.503723	make||way	-2.19012e-05
+-3.804753	manage|I|
+-3.804753	manage|PERSON|success
+-3.804753	manage|he|
+-3.804753	manage|we|
+-3.804753	manage|we|experience
+-3.804753	manage|we|it
+-3.804753	manage||
+-3.804753	mark|DATE|DURATION
+-3.804753	marry|I|
+-3.804753	marry|hubby|
+-3.804753	marry||
+-3.804753	mash||
+-3.804753	meander|we|
+-3.503723	mean|I|	-9.000987e-05
+-3.804753	mean|I|what
+-3.503723	mean|that|	0.02942591
+-3.804753	mean|this|
+-3.804753	mean|which|
+-3.503723	mean||	0.07253496
+-3.804753	measure|you|they
+-3.804753	meet|I|
+-3.804753	meet|I|PERSON
+-3.804753	meet|I|he
+-3.804753	meet|I|person
+-3.804753	meet|PERSON|
+-3.804753	meet|it|
+-3.804753	meet|we|
+-3.804753	meet|we|people
+-3.804753	meet|we|she
+-3.804753	meet|who|they
+-3.804753	meet||
+-3.804753	meet||PERSON
+-3.804753	meet||people
+-3.804753	melt|I|
+-3.804753	melt|ember|chocolate
+-3.804753	melt||
+-3.503723	mention|I|	0.07253496
+-3.503723	mention||	0.02942591
+-3.804753	mind||
+-3.804753	misspoke|I|
+-3.804753	miss|I|
+-3.804753	miss|I|PERSON
+-3.804753	miss|I|anyone
+-3.804753	miss|I|camping
+-3.804753	miss|I|time
+-3.804753	miss|Mommy|relaxing
+-3.804753	miss|little|relaxing
+-3.804753	miss|we|
+-3.804753	miss|which|fly
+-3.804753	miss||
+-3.804753	miss||CAUSE_OF_DEATH
+-3.804753	mob||
+-3.327631	move|I|	0.02971026
+-3.804753	move|it|
+-3.804753	move|she|
+-3.202693	move|we|	0.004708789
+-3.804753	move|we|bag
+-3.804753	move|we|thing
+-3.503723	move||	-9.000987e-05
+-3.804753	move||tent
+-3.804753	mumble||
+-3.804753	name|you|it
+-3.804753	name||
+-3.804753	name||PERSON
+-3.804753	nap|we|
+-3.804753	nap||
+-3.804753	navigate||
+-3.804753	navigate||road
+-3.804753	near|it|time
+-3.804753	needless||
+-3.804753	needn|we|MONEY
+-3.804753	need|I|
+-3.804753	need|I|lunch
+-3.804753	need|I|towel
+-3.804753	need|I|water
+-3.804753	need|I|what
+-3.804753	need|NUMBER|
+-3.804753	need|PERSON|
+-3.804753	need|fish|
+-3.804753	need|he|
+-3.804753	need|i|
+-3.804753	need|they|
+-3.804753	need|they|mattress
+-3.503723	need|we|	0.07253496
+-3.804753	need|you|
+-3.804753	need||
+-3.804753	need||vacation
+-3.804753	need||wood
+-3.804753	nestle||
+-3.804753	never|I|
+-3.804753	nod|I|
+-3.804753	note|I|camping
+-3.804753	note|I|marker
+-3.804753	note|sister|
+-3.804753	note||
+-3.804753	note||snuggle
+-3.503723	notice|I|	0.07253496
+-3.804753	notice|I|boy
+-3.804753	notice|he|
+-3.804753	notice|we|
+-3.804753	now.||scenery.
+-3.804753	observe||
+-3.503723	occur|it|	0.02942591
+-3.804753	offer|DATE|I
+-3.804753	offer|DATE|opportunity
+-3.327631	offer||	0.001253001
+-3.804753	open|it|
+-3.804753	open|road|
+-3.804753	open|sky|
+-3.804753	open|station|
+-3.804753	open|we|bag
+-3.804753	open|we|chair
+-3.804753	open|we|pack
+-3.804753	open|we|tarp
+-3.804753	open|we|tent
+-3.804753	open||
+-3.804753	operate|PERSON|bucket
+-3.804753	operate|PERSON|swivel
+-3.804753	opt|we|
+-3.804753	opt||
+-3.804753	order|I|
+-3.804753	order|we|
+-3.804753	organize||
+-3.804753	organize||box
+-3.804753	outta|stuff|car
+-3.804753	overflow||
+-3.804753	overlook||
+-3.804753	overlook||lake
+-3.804753	pace||myself
+-3.804753	pack|Everything|
+-3.804753	pack|I|
+-3.804753	pack|I|all
+-3.804753	pack|I|cheese
+-3.804753	pack|I|stuff
+-3.804753	pack|I|thing
+-3.804753	pack|do|
+-3.804753	pack|horse|
+-3.804753	pack|they|NUMBER
+-3.327631	pack|we|	0.07246979
+-3.804753	pack|we|ORGANIZATION
+-3.804753	pack|we|all
+-3.804753	pack|we|bag
+-3.503723	pack|we|camp	0.0008644837
+-3.503723	pack|we|car	0.0003869748
+-3.804753	pack|we|food
+-3.804753	pack|we|gear
+-3.804753	pack|we|stuff
+-3.804753	pack|we|tent
+-3.804753	pack|we|thing
+-3.804753	pack|you|it
+-3.327631	pack||	0.07246979
+-3.804753	pack||canoe
+-3.804753	pack||car
+-3.804753	pack||everything
+-3.804753	pack||it
+-3.804753	pack||light
+-3.804753	pack||water
+-3.804753	paddle|I|
+-3.804753	paddle|we|
+-3.804753	paddle||
+-3.804753	paddle||half
+-3.804753	paddle||mile
+-3.804753	paint|I|
+-3.804753	panic||
+-3.804753	pant|I|
+-3.804753	pant|kid|
+-3.804753	parallel|I|it
+-3.804753	park|we|
+-3.804753	park|we|car
+-3.804753	park||
+-3.804753	partake|kid|
+-3.804753	participate||
+-3.804753	part|everyone|way
+-3.804753	pass|I|
+-3.804753	pass|I|kiosk
+-3.804753	pass|I|office
+-3.804753	pass|PERSON|
+-3.804753	pass|it|
+-3.804753	pass|man|
+-3.804753	pass|that|
+-3.804753	pass|vehicle|I
+-3.804753	pass|we|
+-3.804753	pass|we|it
+-3.804753	pass||
+-3.804753	pass||LOCATION
+-3.804753	pay|I|
+-3.804753	pay|we|
+-3.804753	pay|we|park
+-3.804753	pay||
+-3.804753	pedal|I|weight
+-3.804753	peel||
+-3.804753	peer||
+-3.804753	pee|child|all
+-3.503723	pee||	0.02942591
+-3.804753	pick|I|combo
+-3.804753	pick|I|mile
+-3.804753	pick|I|pack
+-3.804753	pick|PERSON|I
+-3.804753	pick|PERSON|PERSON
+-3.503723	pick|we|	-2.19012e-05
+-3.804753	pick|we|it
+-3.804753	pick|we|spot
+-3.804753	pick|wind|
+-3.804753	pick||
+-3.503723	pick||PERSON	-2.19012e-05
+-3.503723	pick||apple	0.02942591
+-3.804753	pick||car
+-3.804753	pick||spot
+-3.804753	pick||stick
+-3.804753	pick||thing
+-3.804753	pile|site|
+-3.804753	pile|we|
+-3.804753	pile|we|work
+-3.804753	pine||tree
+-3.804753	piss|I|
+-3.804753	pitch|rule|tent
+-3.804753	pitch|we|tent
+-3.804753	pitch||tent
+-3.804753	place|I|
+-3.503723	place||	0.0001824887
+-3.804753	plague|Plus|beach
+-3.804753	planned|we|MONEY
+-3.503723	plan|I|	0.07253496
+-3.804753	plan|I|trip
+-3.804753	plan|I|what
+-3.804753	plan|PERSON|trip
+-3.804753	plan|trip|camping
+-3.503723	plan|we|	0.002368655
+-3.804753	plan|we|trip
+-3.503723	plan||	0.07253496
+-3.804753	play|I|
+-3.503723	play|PERSON|	-2.19012e-05
+-3.804753	play|PERSON|flute
+-3.503723	play|kid|	0.004497048
+-3.327631	play|we|	-0.0001118471
+-3.804753	play|we|card
+-3.804753	play|we|game
+-3.804753	play|we|guitar
+-3.804753	play|you|
+-3.327631	play||	0.02949139
+-3.804753	play||NUMBER
+-3.804753	play||card
+-3.804753	play||game
+-3.804753	play||guitar
+-3.804753	play||music
+-3.804753	play||tag
+-3.804753	please|I|
+-3.503723	please||	0.07253496
+-3.804753	please||pray
+-3.804753	plug|I|ear
+-3.804753	plug|I|shout
+-3.804753	plummet||
+-3.804753	point|PERSON|
+-3.503723	poke|I|	0.02942591
+-3.804753	poke|we|
+-3.804753	pool||water
+-3.804753	poop|you|
+-3.804753	pop||
+-3.804753	pose|PERSON|
+-3.804753	possess|I|camping
+-3.804753	possess|I|skill
+-3.804753	post|I|picture
+-3.804753	post|I|they
+-3.503723	post|we|	0.07253496
+-3.503723	post||	0.004497048
+-3.503723	pound||	0.0005233522
+-3.804753	pour|it|
+-3.804753	pour||
+-3.804753	pour||bucket
+-3.503723	pour||rain	-2.19012e-05
+-3.804753	practice||
+-3.804753	practice||skill
+-3.804753	pray|I|
+-3.804753	pray|we|
+-3.804753	pray||
+-3.804753	prefer|I|
+-3.804753	prefer|I|solitude
+-3.804753	prepare|I|
+-3.804753	prepare|PERSON|dinner
+-3.804753	prepare|PERSON|supper
+-3.804753	prepare|she|
+-3.804753	prepare|we|
+-3.503723	prepare||	-2.19012e-05
+-3.804753	prepare||PERSON
+-3.804753	prepare||dinner
+-3.804753	prep||
+-3.804753	press|we|
+-3.804753	press||
+-3.804753	proceed|we|
+-3.804753	procure|I|combo
+-3.804753	procure|I|pad
+-3.503723	promise||	0.001410852
+-3.804753	prop||plane
+-3.804753	prove|it|
+-3.804753	prove|which|
+-3.804753	prove||
+-3.804753	provide|direction|
+-3.804753	provide||
+-3.804753	provoke||wonder
+-3.804753	publish||
+-3.804753	pull|I|
+-3.804753	pull|I|TIME
+-3.804753	pull|I|camera
+-3.804753	pull|I|chest
+-3.804753	pull|I|something
+-3.804753	pull|boat|
+-3.804753	pull|friend|
+-3.804753	pull|truck|
+-3.503723	pull|we|	0.00025064
+-3.804753	pull|we|rainfly
+-3.503723	pull||	0.07253496
+-3.804753	pull||it
+-3.804753	pump||mattress
+-3.804753	punch|I|
+-3.804753	purchase||
+-3.804753	purify||water
+-3.804753	push|we|bike
+-3.804753	push|we|it
+-3.804753	push|wind|I
+-3.503723	push||	0.02942591
+-3.804753	push||calf
+-3.804753	put|Daddy|you
+-3.503723	put|I|	-9.000987e-05
+-3.804753	put|I|he
+-3.804753	put|I|tent
+-3.804753	put|NUMBER|
+-3.804753	put|he|they
+-3.804753	put|most|
+-3.804753	put|ranger|pet
+-3.804753	put|spot|
+-3.503723	put|that|we	0.0008644837
+-3.804753	put|we|
+-3.804753	put|we|food
+-3.804753	put|we|headlight
+-3.804753	put|we|mattress
+-3.804753	put|we|pack-n-play
+-3.804753	put|we|tent
+-3.804753	put|you|bunch
+-3.503723	put||	0.07253496
+-3.804753	put||I
+-3.804753	put||chop
+-3.804753	put||cook
+-3.804753	put||it
+-3.804753	put||stuff
+-3.503723	put||tent	0.0001824887
+-3.804753	put||the
+-3.804753	quick-cook|it|
+-3.804753	quit|it|
+-3.804753	quiver|he|
+-3.804753	race|he|TDF
+-3.804753	race|we|sun
+-3.804753	rain.|it|walk
+-3.327631	rain|it|	0.0731145
+-3.804753	rain|it|most
+-3.804753	rain|we|
+-3.804753	rain|we|time
+-3.327631	rain||	0.1075944
+-3.804753	raise|AND|
+-3.804753	raise|I|
+-3.804753	rave|friend|horn
+-3.804753	re-do||operation
+-3.804753	re-organize||stuff
+-3.804753	reach|I|town
+-3.804753	reach|ground|
+-3.804753	reach|we|
+-3.804753	reach|we|PERSON
+-3.804753	reach|we|top
+-3.804753	reach|we|vista
+-3.804753	reach||
+-3.804753	reach||LOCATION
+-3.804753	reach||PERSON
+-3.804753	reach||path
+-3.804753	reach||summit
+-3.202693	read|I|	0.07337248
+-3.804753	read|I|book
+-3.804753	read|we|
+-3.327631	read||	0.02934553
+-3.503723	read||book	0.07253496
+-3.804753	realize|I|
+-3.804753	realize|PERSON|
+-3.804753	realize|he|
+-3.804753	realize|t|
+-3.503723	realize|we|	0.07253496
+-3.804753	realize||
+-3.804753	receive|I|
+-3.804753	reckon|I|
+-3.804753	recommend|I|it
+-3.804753	recommend|they|
+-3.804753	recommend||
+-3.804753	reconcile|Daddy|difference
+-3.804753	reconcile|I|difference
+-3.804753	recover|I|
+-3.804753	recover|PERSON|
+-3.503723	recover||	-9.000987e-05
+-3.804753	reel||it
+-3.804753	reflect||
+-3.804753	refresh||
+-3.804753	refuse|I|
+-3.804753	relaxin|PERSON|MONEY
+-3.804753	relax|PERSON|
+-3.327631	relax|we|	0.03095267
+-3.804753	relax||
+-3.804753	relax||scenery
+-3.804753	release|he|they
+-3.804753	relieve|Daddy|
+-3.804753	relieve|we|
+-3.804753	remain||
+-3.327631	remember|I|	0.07384095
+-3.804753	remember|I|it
+-3.804753	remember|I|said.
+-3.804753	remember|I|trip
+-3.804753	remember|I|what
+-3.804753	remember|then|
+-3.804753	remember|we|
+-3.503723	remember||	0.001069291
+-3.804753	remind|I|
+-3.804753	remind|that|I
+-3.503723	remind||I	0.001547551
+-3.804753	remove|I|stinger
+-3.804753	remove||hook
+-3.804753	remove||they
+-3.804753	rent|she|NUMBER
+-3.804753	rent|she|cabin
+-3.804753	rent|they|
+-3.804753	rent|we|boat
+-3.804753	rent|we|equipment
+-3.804753	rent||
+-3.804753	repair|co-pilot|
+-3.804753	replicate||they
+-3.804753	reply|she|
+-3.804753	report||
+-3.804753	repusle|cross|
+-3.804753	require||equipment
+-3.804753	rescue|myself|equipment
+-3.804753	reserve|she|it
+-3.804753	reserve||site
+-3.804753	resist||urge
+-3.804753	rest|we|
+-3.804753	rest||
+-3.804753	rest||Stop
+-3.804753	result|that|
+-3.804753	result||
+-3.804753	retire||
+-3.804753	retreat|we|
+-3.503723	return|I|	0.0003869748
+-3.804753	return|PERSON|
+-3.804753	return|he|home
+-3.804753	return|jury|verdict
+-3.804753	return|myself|
+-3.804753	return|none|
+-3.804753	return|she|home
+-3.804753	return|they|
+-3.804753	return|we|
+-3.804753	return||
+-3.804753	return||home
+-3.804753	reward|we|
+-3.804753	re|we|
+-3.804753	ride|I|
+-3.804753	ride|I|another
+-3.804753	ride|different|
+-3.804753	ride|we|
+-3.804753	ride|we|bike
+-3.804753	ride|we|mile
+-3.804753	ride|you|
+-3.327631	ride||	0.07263087
+-3.503723	ride||NUMBER	0.07253496
+-3.804753	ride||asphalt
+-3.804753	ride||time
+-3.804753	ride||train
+-3.804753	rinse|we|gear
+-3.804753	rip||
+-3.804753	rise|sun|
+-3.804753	rise||
+-3.804753	roadwalk||
+-3.804753	roar||
+-3.804753	roast||dog
+-3.804753	roll|fog|
+-3.804753	roll|she|
+-3.804753	roll|we|
+-3.503723	roll||	0.07253496
+-3.804753	roll||hill
+-3.804753	roll||tent
+-3.804753	rough||it
+-3.804753	ruin|I|experience
+-3.804753	ruin|that|experience
+-3.804753	run|I|
+-3.804753	run|PERSON|
+-3.804753	run|couple|
+-3.804753	run|everyone|
+-3.804753	run|he|
+-3.804753	run|it|
+-3.804753	run|kid|
+-3.804753	run|man|
+-3.804753	run|rain|
+-3.503723	run|that|	0.07253496
+-3.804753	run|they|
+-3.202693	run|we|	0.07288831
+-2.959655	run||	0.107204
+-3.804753	run||electricity
+-3.804753	run||water
+-3.804753	rush|I|
+-3.804753	rush|we|
+-3.804753	rush||
+-3.503723	s'more||	-9.000987e-05
+-3.804753	sail|we|
+-3.804753	satisfy|I|hobby
+-3.804753	save|I|money
+-3.804753	save||
+-3.804753	save||remainder
+-3.804753	say|&|
+-3.804753	say|Husband|
+-3.804753	say|Husband|nothing
+-3.202693	say|I|	0.1076303
+-3.804753	say|I|try
+-3.804753	say|I|what
+-3.804753	say|LOCATION|
+-3.804753	say|MONEY|
+-3.503723	say|PERSON|	-2.19012e-05
+-3.804753	say|book|
+-3.804753	say|father|
+-3.804753	say|girl|
+-3.327631	say|he|	0.02934553
+-3.804753	say|he|bike
+-3.804753	say|husband|
+-3.503723	say|it|	0.0003188021
+-3.804753	say|i|
+-3.503723	say|she|	4.621809e-05
+-3.503723	say|that|	0.0003188021
+-3.804753	say|they|
+-3.804753	say|t|
+-3.804753	say|we|
+-3.804753	say|we|goodbye
+-3.804753	say|we|what
+-3.503723	say|who|	0.02942591
+-2.959655	say||	0.1071425
+-3.804753	say||date
+-3.804753	say||goodbye
+-3.804753	say||least
+-3.804753	say||loud
+-3.804753	say||something
+-3.804753	say||yes
+-3.804753	say||you
+-3.804753	scan|I|
+-3.804753	scare|I|
+-3.804753	scare|we|
+-3.804753	scare|who|
+-3.804753	scare||
+-3.804753	scatter||
+-3.804753	schedule||
+-3.804753	scout||
+-3.804753	scramble|we|
+-3.327631	scramble||	0.07242191
+-3.804753	scream|I|
+-3.804753	scream|some|
+-3.327631	scream||	0.02931286
+-3.804753	search|I|area
+-3.804753	search|we|
+-3.804753	search||
+-3.804753	seat||
+-3.804753	seem|I|
+-3.804753	seem|PERSON|
+-3.804753	seem|diver|
+-3.804753	seem|drive|
+-3.804753	seem|fish|
+-3.804753	seem|he|
+-3.327631	seem|it|	0.1075944
+-3.804753	seem|she|
+-3.804753	seem|site|
+-3.804753	seem|some|
+-3.804753	seem|that|
+-3.804753	seem|they|
+-3.804753	seem|this|
+-3.804753	seem|t|
+-3.804753	seem|we|
+-3.804753	seem|what|
+-3.503723	seem|which|	0.07253496
+-3.503723	seem||	0.07253496
+-3.503723	see|I|	0.07253496
+-3.804753	see|I|LOCATION
+-3.804753	see|I|PERSON
+-3.804753	see|I|anything
+-3.804753	see|I|boy
+-3.804753	see|I|fish
+-3.804753	see|I|he
+-3.804753	see|I|it
+-3.804753	see|I|lot
+-3.804753	see|I|shaft
+-3.804753	see|I|shark
+-3.503723	see|I|sign	0.001410852
+-3.804753	see|I|turtle
+-3.804753	see|I|what
+-3.804753	see|I|which
+-3.804753	see|PERSON|
+-3.804753	see|actually|person
+-3.804753	see|dinner|sight
+-3.804753	see|he|
+-3.804753	see|he|it
+-3.503723	see|i|	-2.19012e-05
+-3.804753	see|most|end
+-3.804753	see|she|
+-3.804753	see|t|tent
+-2.959655	see|we|	0.107204
+-3.804753	see|we|PERSON
+-3.804753	see|we|approaching
+-3.804753	see|we|bear
+-3.503723	see|we|deer	0.07253496
+-3.503723	see|we|eel	-9.000987e-05
+-3.804753	see|we|family
+-3.804753	see|we|fish
+-3.804753	see|we|group
+-3.804753	see|we|it
+-3.804753	see|we|kind
+-3.804753	see|we|load
+-3.804753	see|we|lot
+-3.804753	see|we|monster
+-3.804753	see|we|moose
+-3.804753	see|we|patch
+-3.804753	see|we|person
+-3.804753	see|we|pile
+-3.804753	see|we|place
+-3.804753	see|we|plenty
+-3.804753	see|we|pony
+-3.804753	see|we|set
+-3.804753	see|we|shark
+-3.804753	see|we|sign
+-3.804753	see|we|site
+-3.804753	see|we|they
+-3.804753	see|we|thing
+-3.804753	see|we|thousand
+-3.804753	see|we|ton
+-3.804753	see|we|turtle
+-3.804753	see|we|water
+-3.804753	see|we|what
+-3.804753	see|which|
+-3.503723	see|you|	0.02942591
+-3.804753	see|you|all
+-3.804753	see|you|bottom
+-3.804753	see|you|ship
+-3.804753	see|you|snow
+-3.804753	see|you|star
+-3.804753	see|you|what
+-2.901663	see||	0.1149517
+-3.804753	see||LOCATION
+-3.503723	see||NUMBER	0.07253496
+-3.804753	see||ORGANIZATION
+-3.202693	see||PERSON	2.768182e-06
+-3.804753	see||Whitsett
+-3.804753	see||bear
+-3.804753	see||cloud
+-3.804753	see||dog
+-3.804753	see||everything
+-3.804753	see||fan
+-3.804753	see||fish
+-3.503723	see||friend	0.02942591
+-3.804753	see||it
+-3.804753	see||lake
+-3.804753	see||lot
+-3.804753	see||moose
+-3.503723	see||mountain	0.07253496
+-3.804753	see||number
+-3.804753	see||people
+-3.804753	see||photo
+-3.804753	see||picture
+-3.503723	see||she	0.07253496
+-3.804753	see||something
+-3.804753	see||stand
+-3.804753	see||star
+-3.804753	see||they
+-3.804753	see||tree
+-3.804753	see||view
+-3.804753	see||we
+-3.804753	see||wildlife
+-3.804753	send|mis-step|
+-3.804753	send|that|
+-3.804753	send||I
+-3.804753	send||MONEY
+-3.804753	send||child
+-3.804753	separate||
+-3.804753	serve||
+-3.804753	settle|I|
+-3.804753	settle|PERSON|
+-3.804753	settle|they|
+-3.804753	settle|we|
+-3.804753	settle|you|
+-3.804753	settle||
+-3.804753	set|I|
+-3.804753	set|I|CAUSE_OF_DEATH
+-3.804753	set|I|we
+-3.804753	set|NUMBER|
+-3.804753	set|PERSON|
+-3.804753	set|camp|
+-3.804753	set|few|
+-3.804753	set|panic|
+-3.804753	set|room|
+-3.804753	set|spot|tent
+-3.804753	set|tent|
+-3.804753	set|they|tent
+-3.804753	set|they|they
+-3.202693	set|we|	0.07824403
+-3.804753	set|we|camp
+-3.804753	set|we|campground
+-3.804753	set|we|everything
+-3.804753	set|we|it
+-3.804753	set|we|ours
+-3.804753	set|we|tent
+-3.804753	set|we|trip
+-3.804753	set|work|
+-3.026601	set||	0.1079906
+-3.804753	set||b
+-3.804753	set||camp
+-3.804753	set||pop
+-3.804753	set||tent
+-3.804753	shake|PERSON|
+-3.804753	shake||
+-3.804753	share|we|habitation
+-3.804753	share||story
+-3.804753	share||thing
+-3.804753	shift||
+-3.804753	shine|sun|
+-3.804753	shine||
+-3.804753	shiver||
+-3.804753	shoot||
+-3.804753	shoot||time
+-3.804753	shower|I|
+-3.804753	shower|everyone|
+-3.804753	shower|we|
+-3.804753	shower|you|
+-3.804753	shower||
+-3.804753	show|I|
+-3.804753	show|I|he
+-3.804753	show|PERSON|
+-3.804753	show|friend|
+-3.804753	show|he|we
+-3.804753	show|it|
+-3.804753	show|mom|
+-3.804753	show|picture|field
+-3.804753	show|picture|line
+-3.804753	show|we|
+-3.503723	show||	-9.000987e-05
+-3.804753	show||I
+-3.804753	shrug|we|
+-3.804753	shut||
+-3.804753	side||
+-3.804753	sift||
+-3.804753	signal|instructor|
+-3.804753	sign|I|
+-3.804753	sign||
+-3.804753	sign||I
+-3.804753	sing|PERSON|song
+-3.804753	sing|man|
+-3.804753	sink||
+-3.804753	site|I|camp
+-3.804753	sit|I|
+-3.804753	sit|PERSON|
+-3.804753	sit|it|
+-3.804753	sit|she|
+-3.804753	sit|they|
+-3.327631	sit|we|	0.001321356
+-3.327631	sit||	0.07242191
+-3.804753	sit||magazine
+-3.804753	size||
+-3.804753	skip|PERSON|rock
+-3.503723	skip||	-2.19012e-05
+-3.804753	skip||PERSON
+-3.804753	skip||it
+-3.804753	slant|it|
+-3.804753	sleep|I|
+-3.804753	sleep|I|ALOT
+-3.804753	sleep|I|bit
+-3.503723	sleep|PERSON|	-9.000987e-05
+-3.804753	sleep|cabin|NUMBER
+-3.804753	sleep|figure|
+-3.804753	sleep|great|
+-3.804753	sleep|he|
+-3.804753	sleep|i|
+-3.503723	sleep|kid|	0.0001143481
+-3.804753	sleep|place|people
+-3.804753	sleep|she|
+-3.804753	sleep|they|
+-3.804753	sleep|we|
+-3.804753	sleep|who|
+-3.804753	sleep|you|
+-2.901663	sleep||	0.1148384
+-3.804753	sleep||bag
+-3.804753	sleep||end
+-3.804753	sleep||pad
+-3.804753	slide|I|
+-3.804753	slide|caravan|side
+-3.804753	slide||
+-3.503723	slip||	0.07253496
+-3.804753	slither||
+-3.804753	slow||
+-3.804753	slumber||
+-3.804753	smash||borderline
+-3.804753	smell|that|
+-3.804753	smell|we|it
+-3.804753	smile|we|
+-3.804753	smile||
+-3.804753	snap|I|picture
+-3.804753	snap|line|times.
+-3.804753	snap||
+-3.804753	snore||
+-3.804753	snorkele|we|
+-3.804753	snorkele||
+-3.804753	snorkel||
+-3.804753	snuck|we|
+-3.804753	snuff||
+-3.503723	snuggle||	-9.000987e-05
+-3.327631	soak||	0.07789905
+-3.804753	soar|they|
+-3.804753	sort|we|
+-3.503723	sound|it|	0.07253496
+-3.804753	sound|that|
+-3.804753	sound|that|fun
+-3.804753	sound|that|lot
+-3.503723	sound|they|	0.07253496
+-3.804753	sound||
+-3.804753	space||
+-3.503723	speak||	0.02942591
+-3.804753	spend|DATE|
+-3.804753	spend|I|
+-3.804753	spend|I|DATE
+-3.503723	spend|I|DURATION	0.07253496
+-3.804753	spend|I|TIME
+-3.804753	spend|I|most
+-3.804753	spend|I|refining
+-3.804753	spend|I|rest
+-3.804753	spend|I|time
+-3.804753	spend|PERSON|NUMBER
+-3.804753	spend|he|
+-3.804753	spend|remainder|
+-3.105783	spend|we|	0.1079543
+-3.804753	spend|we|DATE
+-3.804753	spend|we|DURATION
+-3.804753	spend|we|TIME
+-3.804753	spend|we|camping
+-3.503723	spend|we|half	-9.000987e-05
+-3.804753	spend|we|lot
+-3.804753	spend|we|part
+-3.804753	spend|we|rest
+-3.804753	spend|we|time
+-3.804753	spend|we|while
+-3.804753	spend||
+-3.804753	spend||DURATION
+-3.804753	spend||TIME
+-3.804753	spend||alot
+-3.804753	spend||camping
+-3.804753	spend||hiking
+-3.503723	spend||time	4.621809e-05
+-3.804753	splash||
+-3.804753	split|i|
+-3.804753	split|josh|
+-3.804753	split|kid|
+-3.804753	split|we|
+-3.804753	split|who|
+-3.804753	spook|eerieness|
+-3.804753	spot|I|hanging
+-3.804753	spot||
+-3.804753	spray||tent
+-3.804753	spread||
+-3.804753	spread||tablecloth
+-3.804753	sprinkle|the|
+-3.804753	sprinkle||rain
+-3.804753	stake|we|tent
+-3.804753	stand|I|
+-3.804753	stand|NUMBER|
+-3.804753	stand|PERSON|
+-3.503723	stand|we|	-9.000987e-05
+-3.503723	stand|you|	0.02942591
+-3.503723	stand||	-9.000987e-05
+-3.804753	stare|NUMBER|
+-3.804753	stare|we|
+-3.804753	stare||
+-3.804753	stargaze||
+-3.804753	start|CAUSE_OF_DEATH|
+-3.804753	start|DATE|
+-3.804753	start|DURATION|
+-3.503723	start|I|	-9.000987e-05
+-3.804753	start|I|trip
+-3.804753	start|JS|
+-3.804753	start|MONEY|
+-3.804753	start|PERSON|
+-3.804753	start|cloud|
+-3.804753	start|guy|
+-3.804753	start|he|
+-3.327631	start|it|	-0.0001349545
+-3.804753	start|i|
+-3.804753	start|joy|ORDINAL
+-3.804753	start|kid|
+-3.804753	start|kid|school
+-3.804753	start|knee|
+-3.804753	start|moi|
+-3.804753	start|people|
+-3.804753	start|rain|
+-3.804753	start|she|
+-3.804753	start|sky|
+-3.503723	start|sun|	0.0008644837
+-3.804753	start|that|
+-3.804753	start|then|
+-3.804753	start|they|
+-3.804753	start|thing|
+-3.804753	start|tree|
+-3.804753	start|trip|
+-3.327631	start|we|	0.0006382886
+-3.804753	start|we|CAUSE_OF_DEATH
+-3.804753	start|we|descent
+-3.804753	start|we|dinner
+-3.804753	start|we|drive
+-3.503723	start|we|hike	0.02942591
+-3.804753	start|we|trek
+-3.804753	start|we|trip
+-3.804753	start|work|
+-3.503723	start|you|	-9.000987e-05
+-3.202693	start||	0.0724373
+-3.804753	start||CAUSE_OF_DEATH
+-3.804753	start||cooking
+-3.804753	start||routine
+-3.804753	star|TIME|
+-3.804753	state||
+-3.804753	stay|Easy|
+-3.804753	stay|I|
+-3.804753	stay|I|everything
+-3.804753	stay|I|most
+-3.804753	stay|NUMBER|
+-3.804753	stay|NUMBER|couple
+-3.327631	stay|PERSON|	-4.370639e-05
+-3.804753	stay|TIME|
+-3.804753	stay|he|
+-3.804753	stay|it|
+-3.804753	stay|i|
+-3.804753	stay|kid|
+-3.804753	stay|leg|
+-3.804753	stay|m|
+-3.804753	stay|they|
+-3.327631	stay|we|	0.07271145
+-3.804753	stay|who|
+-3.804753	stay|you|
+-2.901663	stay||	0.1142158
+-3.804753	stealth|I|
+-3.804753	stealth||camp
+-3.804753	steal|raiding|food
+-3.804753	step|I|
+-3.804753	step|we|
+-3.804753	step||
+-3.804753	stew|stew|
+-3.804753	stick|I|
+-3.804753	stick|gill|
+-3.804753	stick|they|
+-3.804753	stick|we|
+-3.804753	stick|we|it
+-3.804753	stick||
+-3.804753	sting|PERSON|himself
+-3.804753	sting||
+-3.804753	sting||PERSON
+-3.804753	stink|it|
+-3.804753	stink|they|
+-3.804753	stir||fry
+-3.804753	stock||
+-3.804753	stoke||
+-3.804753	stopped|we|
+-3.503723	stop|I|	0.07253496
+-3.804753	stop|ORGANIZATION|
+-3.804753	stop|TIME|
+-3.804753	stop|he|
+-3.804753	stop|it|
+-3.804753	stop|rain|
+-3.804753	stop|she|
+-3.804753	stop|that|we
+-2.959655	stop|we|	0.107502
+-3.804753	stop|wind|
+-3.327631	stop||	0.0731145
+-3.804753	stop||time
+-3.804753	stress|I|
+-3.804753	stress|it|
+-3.804753	stretch||
+-3.804753	strike|I|
+-3.804753	strike|muscle|
+-3.804753	string|that|
+-3.804753	strip||
+-3.804753	stroll||
+-3.804753	struggle|I|hill
+-3.804753	struggle|we|
+-3.804753	struggle||
+-3.804753	study||
+-3.804753	stuff/cleaned|camping|house
+-3.804753	stumble|I|
+-3.804753	stumble|PERSON|
+-3.804753	stumble|we|
+-3.804753	suffer|we|rest
+-3.804753	suggest|I|camping
+-3.804753	suggest|PERSON|
+-3.804753	suggest|he|
+-3.804753	suit|Got|
+-3.804753	suit||
+-3.804753	suppose|DATE|
+-3.804753	suppose|I|
+-3.503723	suppose|it|	0.02942591
+-3.804753	suppose|that|
+-3.804753	suppose|we|
+-3.804753	suppose|you|
+-3.804753	suppose||
+-3.804753	sure?|you|MONEY
+-3.503723	surprise|I|	0.002368655
+-3.804753	surprise|we|
+-3.804753	surrender|I|dib
+-3.804753	surround|area|
+-3.804753	surround|oak|
+-3.804753	surround|small|
+-3.804753	surround|we|
+-3.804753	survive|I|adventure
+-3.804753	survive|we|
+-3.804753	swamp||park
+-3.804753	swarm||
+-3.804753	swear|I|
+-3.804753	swear||word
+-3.804753	sweep|that|
+-3.804753	swerve|bicyclist|
+-3.804753	swim|I|
+-3.503723	swim|a|	0.02942591
+-3.804753	swim|shark|
+-3.804753	swim|she|
+-3.804753	swim|they|
+-3.327631	swim|we|	0.02934553
+-3.503723	swim||	-9.000987e-05
+-3.804753	switch||
+-3.804753	t-bone||Ash
+-3.804753	tackle||
+-3.804753	tail||
+-3.804753	take|DATE|
+-3.804753	take|Dad|turn
+-3.503723	take|I|	0.07253496
+-3.804753	take|I|PERSON
+-3.804753	take|I|bike
+-3.804753	take|I|chance
+-3.804753	take|I|it
+-3.804753	take|I|kid
+-3.804753	take|I|nap
+-3.804753	take|I|opportunity
+-3.804753	take|I|photo
+-3.503723	take|I|picture	0.00025064
+-3.804753	take|I|shower
+-3.804753	take|I|southeast
+-3.804753	take|I|tent
+-3.804753	take|I|time
+-3.804753	take|I|trail
+-3.804753	take|I|trip
+-3.804753	take|I|turn
+-3.804753	take|ORGANIZATION|it
+-3.503723	take|PERSON|	-9.000987e-05
+-3.804753	take|PERSON|Alyssa
+-3.804753	take|PERSON|I
+-3.804753	take|PERSON|PERSON
+-3.804753	take|PERSON|car
+-3.804753	take|PERSON|kayak
+-3.804753	take|PERSON|nap
+-3.804753	take|PERSON|we
+-3.804753	take|TITLE|care
+-3.804753	take|da|tent
+-3.804753	take|drive|DURATION
+-3.804753	take|everyone|shower
+-3.804753	take|girl|tent
+-3.804753	take|he|
+-3.804753	take|he|we
+-3.804753	take|it|
+-3.804753	take|it|DURATION
+-3.804753	take|it|I
+-3.327631	take|it|he	0.07263087
+-3.804753	take|it|mile
+-3.804753	take|it|time
+-3.503723	take|it|we	0.001547551
+-3.804753	take|it|while
+-3.804753	take|kid|part
+-3.804753	take|nav|I
+-3.503723	take|picture|	-9.000987e-05
+-3.804753	take|she|picture
+-3.804753	take|that|
+-3.804753	take|that|DURATION
+-3.804753	take|that|we
+-3.804753	take|that|you
+-3.804753	take|they|
+-3.804753	take|trip|
+-3.804753	take|walk|
+-3.202693	take|we|	0.07418061
+-3.804753	take|we|advantage
+-3.804753	take|we|boy
+-3.804753	take|we|break
+-3.804753	take|we|care
+-3.804753	take|we|gear
+-3.804753	take|we|he
+-3.804753	take|we|hike
+-3.804753	take|we|it
+-3.804753	take|we|look
+-3.804753	take|we|nap
+-3.804753	take|we|north
+-3.804753	take|we|photo
+-3.503723	take|we|picture	0.0003869748
+-3.804753	take|we|route
+-3.804753	take|we|run
+-3.804753	take|we|sauna
+-3.804753	take|we|seat
+-3.804753	take|we|shower
+-3.804753	take|we|sister
+-3.503723	take|we|time	0.0001143481
+-3.503723	take|we|trail	0.07253496
+-3.804753	take|we|trip
+-3.804753	take|we|turn
+-3.804753	take|we|walk
+-3.804753	take|we|we
+-3.804753	take|who|they
+-3.804753	take|you|em
+-3.202693	take||	0.0724373
+-3.503723	take||I	-2.19012e-05
+-3.804753	take||PERSON
+-3.804753	take||SO
+-3.804753	take||boat
+-3.804753	take||break
+-3.804753	take||care
+-3.804753	take||dip
+-3.503723	take||drive	0.07253496
+-3.804753	take||ferry
+-3.804753	take||forever.
+-3.804753	take||he
+-3.804753	take||it
+-3.804753	take||kid
+-3.804753	take||kind
+-3.503723	take||photo	0.004497048
+-3.804753	take||photograph
+-3.503723	take||picture	0.0001143481
+-3.804753	take||rv
+-3.804753	take||she
+-3.804753	take||shower
+-3.804753	take||they
+-3.804753	take||time
+-3.804753	take||trail
+-3.804753	take||trip
+-3.804753	take||way
+-3.804753	take||we
+-3.804753	take||you
+-3.327631	talk|I|	0.02934553
+-3.804753	talk|PERSON|
+-3.804753	talk|forcast|
+-3.804753	talk|they|
+-3.503723	talk|we|	4.621809e-05
+-3.804753	talk|we|some
+-3.503723	talk||	0.02942591
+-3.804753	talk||non-stop
+-3.804753	taste|I|
+-3.804753	taste|I|wine
+-3.804753	taste|egg|
+-3.804753	taste|it|
+-3.804753	taste|pancake|
+-3.804753	taste||
+-3.804753	teach|PERSON|
+-3.804753	teach||PERSON
+-3.804753	teach||they
+-3.804753	tear||
+-3.804753	tear||zebra
+-3.503723	tell|I|	0.07253496
+-3.327631	tell|I|PERSON	0.0004335778
+-3.804753	tell|I|he
+-3.804753	tell|I|she
+-3.804753	tell|I|they
+-3.804753	tell|I|what
+-3.804753	tell|I|you
+-3.804753	tell|PERSON|I
+-3.804753	tell|guy|we
+-3.804753	tell|he|
+-3.804753	tell|he|I
+-3.804753	tell|he|we
+-3.804753	tell|i|
+-3.804753	tell|people|we
+-3.804753	tell|ranger|I
+-3.804753	tell|she|I
+-3.804753	tell|she|we
+-3.804753	tell|we|
+-3.804753	tell|we|everyone
+-3.804753	tell|we|he
+-3.804753	tell|we|she
+-3.804753	tell|you|
+-3.804753	tell||
+-3.804753	tell||I
+-3.804753	tell||anything
+-3.804753	tell||he
+-3.804753	tell||she
+-3.804753	tell||story
+-3.804753	tell||they
+-3.804753	tell||this
+-3.804753	tell||we
+-3.804753	tell||you
+-3.503723	tend|I|	-2.19012e-05
+-3.804753	tent||
+-3.804753	test-drive||
+-3.804753	test||it
+-3.503723	thank||	0.02942591
+-3.804753	thank||god
+-3.804753	thank||goodness
+-3.804753	that||
+-3.503723	that||MONEY	0.07253496
+-3.804753	that||s
+-3.804753	there|seaweed|MONEY
+-3.804753	they||MONEY
+-3.804753	think|DATE|
+-3.327631	think|I|	0.1075944
+-3.804753	think|I|DURATION
+-3.804753	think|I|MONEY
+-3.804753	think|I|thing
+-3.804753	think|I|what
+-3.327631	think|I|which	0.02931286
+-3.804753	think|NUMBER|
+-3.804753	think|Odd|
+-3.804753	think|PERSON|
+-3.804753	think|Redneck|
+-3.804753	think|he|
+-3.804753	think|it|
+-3.503723	think|i|	0.02942591
+-3.804753	think|they|
+-3.804753	think|t|
+-3.804753	think|we|
+-3.804753	think|you|
+-3.804753	think|you|what
+-2.959655	think||	0.07309777
+-3.804753	threaten|it|
+-3.503723	threaten||	-9.000987e-05
+-3.804753	thrill|PERSON|
+-3.804753	thrill|boy|
+-3.804753	throw|I|
+-3.503723	throw||	-9.000987e-05
+-3.804753	throw||he
+-3.804753	tie|it|
+-3.804753	tie|side|
+-3.804753	tire|I|
+-3.804753	tire|we|
+-3.804753	tire||
+-3.804753	toast||
+-3.804753	tolerate|you|
+-3.804753	top||bottle
+-3.804753	top||it
+-3.804753	toss||lure
+-3.804753	total|Alyssa|
+-3.804753	touch||
+-3.804753	tour||mile
+-3.804753	tow|we|sawmill
+-3.804753	trail|&|area
+-3.804753	trail|&|bridge
+-3.804753	trail|&|everywhere
+-3.804753	trail|&|part
+-3.804753	trail|&|trail
+-3.804753	trail|campsite|
+-3.804753	trail|hike|
+-3.804753	trail|sidewalk|area
+-3.804753	trail|sidewalk|bridge
+-3.804753	trail|sidewalk|everywhere
+-3.804753	trail|sidewalk|part
+-3.804753	trail|sidewalk|trail
+-3.804753	trail|some|
+-3.804753	trail|the|
+-3.804753	trail|time|
+-3.804753	trail||
+-3.804753	train||
+-3.804753	travel|we|
+-3.804753	travel||
+-3.804753	travel||road
+-3.804753	treat|I|
+-3.804753	treat|we|
+-3.804753	trek||
+-3.804753	trickle||
+-3.804753	trip||
+-3.804753	trust||
+-3.804753	try|Dad|
+-3.026601	try|I|	0.1075275
+-3.804753	try|I|it
+-3.804753	try|PERSON|
+-3.804753	try|he|
+-3.804753	try|i|
+-3.804753	try|they|
+-3.804753	try|we|
+-3.804753	try|we|it
+-3.804753	try|you|
+-3.105783	try||	0.07435905
+-3.503723	try||camping	0.002368655
+-3.804753	try||hiking
+-3.503723	try||it	0.07253496
+-3.804753	try||pool
+-3.804753	tube|people|
+-3.804753	tumble|you|pretty
+-3.804753	tuned|Stay|MONEY
+-3.804753	turn|DATE|
+-3.503723	turn|I|	0.02942591
+-3.503723	turn|PERSON|	-9.000987e-05
+-3.804753	turn|PERSON|NUMBER
+-3.804753	turn|he|
+-3.804753	turn|it|
+-3.804753	turn|it|s
+-3.503723	turn|that|	0.02942591
+-3.804753	turn|trailer|
+-3.804753	turn|trip|
+-3.804753	turn|weather|
+-3.503723	turn|we|	-9.000987e-05
+-3.804753	turn|which|
+-3.804753	turn|you|
+-3.327631	turn||	0.07279202
+-3.804753	turn||bee
+-3.804753	twist|I|ankle
+-3.804753	understand|I|
+-3.804753	understand||
+-3.804753	undo||tent
+-3.804753	unload||
+-3.804753	unpack||
+-3.804753	unplug|I|
+-3.804753	unzip||tent
+-3.804753	update|I|post
+-3.804753	update||
+-3.804753	update||folk
+-3.804753	upload|I|lot
+-3.503723	use|I|	0.02942591
+-3.804753	use|I|bag
+-3.804753	use|I|rice
+-3.804753	use|I|saddlebag
+-3.804753	use|PERSON|
+-3.503723	use|that|	0.0003188021
+-3.804753	use|they|
+-3.804753	use|we|
+-3.804753	use|we|it
+-3.804753	use|we|they
+-3.804753	use|who|
+-3.804753	use|you|
+-3.804753	use||
+-3.804753	use||it
+-3.804753	use||onsite
+-3.804753	use||shower
+-3.804753	use||toilet
+-3.804753	utilize||ubiquitous
+-3.804753	venture|we|
+-3.804753	venture||
+-3.804753	verb||
+-3.503723	view||	0.02942591
+-3.804753	visit|I|LOCATION
+-3.804753	visit|creature|
+-3.804753	visit|we|
+-3.503723	visit|we|LOCATION	0.07253496
+-3.804753	visit|we|light
+-3.503723	visit||	0.07253496
+-3.804753	visit||LOCATION
+-3.804753	visit||PERSON
+-3.804753	visit||he
+-3.804753	visit||they
+-3.804753	volunteer||
+-3.804753	vow||
+-3.804753	wade|I|lot
+-3.804753	wade|we|
+-3.503723	wade||	0.07253496
+-3.804753	wail|DURATION|
+-3.327631	wait|I|	-4.370639e-05
+-3.804753	wait|PERSON|
+-3.804753	wait|customer|
+-3.804753	wait|dinner|I
+-3.804753	wait|he|
+-3.804753	wait|kid|
+-3.804753	wait|she|
+-3.503723	wait|they|	0.07253496
+-3.503723	wait|we|	0.07253496
+-3.327631	wait||	0.03087949
+-3.804753	waken||
+-3.503723	wake|I|	0.004497048
+-3.804753	wake|I|TIME
+-3.804753	wake|PERSON|
+-3.804753	wake|PERSON|I
+-3.804753	wake|moring|
+-3.804753	wake|she|
+-3.202693	wake|we|	0.07429378
+-3.804753	wake|we|cold
+-3.804753	wake|you|
+-3.327631	wake||	0.07263087
+-3.804753	wake||I
+-3.804753	wake||he
+-3.804753	walk|I|
+-3.804753	walk|I|trail
+-3.804753	walk|PERSON|
+-3.804753	walk|PERSON|beach
+-3.804753	walk|he|
+-3.804753	walk|it|
+-3.804753	walk|i|
+-3.804753	walk|people|
+-3.804753	walk|she|
+-3.804753	walk|they|
+-3.804753	walk|they|way
+-3.503723	walk|we|	0.07253496
+-3.804753	walk|we|mile
+-3.804753	walk|we|path
+-3.804753	walk|we|trail
+-3.804753	walk|you|
+-3.105783	walk||	0.1077537
+-3.804753	walk||klick
+-3.804753	walk||loop
+-3.804753	walk||rain.
+-3.804753	walk||road
+-3.804753	wander|I|
+-3.804753	wander|cousin|all
+-3.804753	wander|we|
+-3.503723	wander||	0.02942591
+-3.804753	want|Harry|
+-3.105783	want|I|	0.07342099
+-3.804753	want|I|PERSON
+-3.804753	want|I|nothing
+-3.804753	want|K|
+-3.804753	want|PERSON|
+-3.804753	want|boy|
+-3.804753	want|coffee|cocoa
+-3.804753	want|everyone|
+-3.804753	want|he|
+-3.804753	want|i|
+-3.804753	want|kid|
+-3.804753	want|kid|cocoa
+-3.327631	want|she|	0.001458099
+-3.804753	want|they|
+-3.804753	want|they|money
+-3.327631	want|t|	0.07242191
+-3.202693	want|we|	0.07292084
+-3.804753	want|we|NUMBER
+-3.804753	want|we|it
+-3.804753	want|we|what
+-3.804753	want|who|
+-3.804753	want|you|
+-3.804753	want|you|DATE
+-3.804753	want|you|nothing
+-3.804753	want||
+-3.327631	warm||	0.002279461
+-3.503723	warn||	0.02942591
+-3.804753	wash|t|floor
+-3.804753	wash||
+-3.804753	wash||dish
+-3.804753	wasn|I|
+-3.804753	wasn|I|MONEY
+-3.503723	wasn|I|t	0.02942591
+-3.503723	wasn|it|MONEY	0.07253496
+-3.804753	wasn|it|t
+-3.804753	wasn|she|home
+-3.804753	wasn|that|t
+-3.804753	wasn|weather|t
+-3.503723	wasn||MONEY	0.07253496
+-3.804753	wasn||t
+-3.804753	waste||banana
+-3.503723	watch|I|	0.07253496
+-3.804753	watch|I|it
+-3.804753	watch|I|playing
+-3.804753	watch|PERSON|boy
+-3.804753	watch|josh|half
+-3.804753	watch|tent|movie
+-3.503723	watch|we|	0.07253496
+-3.804753	watch|we|roll
+-3.503723	watch||	0.0001824887
+-3.804753	watch||experience
+-3.804753	watch||movie
+-3.804753	watch||sun
+-3.503723	watch||sunrise	0.02942591
+-3.503723	watch||sunset	-2.19012e-05
+-3.804753	watch||they
+-3.804753	water||
+-3.804753	water||weed
+-3.804753	wear|I|
+-3.804753	wear|trip|you
+-3.503723	wear||	0.07253496
+-3.804753	week|some|
+-3.804753	welcome||
+-3.804753	weren|PERSON|t
+-3.804753	weren|arrived.|camper
+-3.804753	weren|we|t
+-3.804753	we|PERSON|MONEY
+-3.804753	we|calorie|need
+-3.503723	we|that|MONEY	0.02942591
+-3.804753	we|t|MONEY
+-3.804753	we||
+-3.105783	we||MONEY	0.1076046
+-3.804753	whine|I|
+-3.804753	whine|we|
+-3.804753	whine||
+-3.804753	whisper||
+-3.804753	whistle|the|
+-3.804753	win.||
+-3.503723	wind||	0.07253496
+-3.804753	win|I|
+-3.804753	win|I|game
+-3.804753	win|PERSON|award
+-3.804753	win|female|
+-3.804753	wipe|kid|
+-3.804753	wish|I|
+-3.804753	wish|I|I
+-3.804753	wish|you|
+-3.804753	wish||
+-3.804753	witness|I|
+-3.804753	wonder|I|
+-3.804753	wonder|PERSON|
+-3.804753	wonder||
+-3.804753	work|I|
+-3.804753	work|PERSON|
+-3.804753	work|body|
+-3.804753	work|he|
+-3.804753	work|he|what
+-3.503723	work|it|	0.001342518
+-3.804753	work|it|cabin
+-3.804753	work|it|time
+-3.804753	work|they|
+-3.804753	work|we|
+-3.804753	work|which|
+-3.804753	work|which|fine
+-3.804753	work|who|
+-3.327631	work||	0.07242191
+-3.804753	work||MONEY
+-3.804753	worry|I|
+-3.503723	worry|PERSON|	0.07253496
+-3.804753	worry|t|
+-3.503723	worry|we|	-2.19012e-05
+-3.503723	worry||	0.07253496
+-3.804753	wouldn|we|MONEY
+-3.804753	wouldn|you|MONEY
+-3.804753	would|it|MONEY
+-3.804753	would|we|MONEY
+-3.804753	wrap|that|
+-3.804753	wrap||
+-3.804753	wreck|I|
+-3.804753	wreck||
+-3.804753	wrestle|I|bear
+-3.804753	write|I|
+-3.804753	write|I|this
+-3.804753	write|she|
+-3.503723	write||	0.07253496
+-3.804753	yeah||
+-3.503723	yell|I|	0.0004551582
+-3.804753	yell|some|
+-3.804753	yell|we|
+-3.503723	yell||	0.000727999
+-3.804753	yet?|we|MONEY
+-3.804753	you|it|front
+-3.804753	you|that|MONEY
+-3.804753	you||MONEY
+-3.503723	zip||	4.621809e-05
+-3.804753	|meaning|MONEY
+-3.804753	||
+-3.804753	||MONEY
+
+\2-grams:
+-2.741714	<s> <unk>
+-3.285782	<s> be|site|
+-3.285782	<s> be|we|
+-2.887842	<s> be||
+-3.285782	<s> do|PERSON|
+-3.285782	<s> do||
+-3.285782	<s> get|I|
+-3.285782	<s> get|kid|
+-3.285782	<s> go|I|camping
+-3.109691	<s> have||
+-3.285782	<s> hike|I|
+-3.285782	<s> spend|we|
+-3.285782	<s> we||MONEY
+-2.683317	<unk> </s>
+-1.062141	<unk> <unk>
+-3.382287	<unk> accord||
+-3.382287	<unk> agree|PERSON|
+-3.382287	<unk> arrive|we|
+-3.382287	<unk> ask|I|
+-3.382287	<unk> bang||
+-3.382287	<unk> beam||
+-3.382287	<unk> become|I|
+-3.382287	<unk> become||
+-3.382287	<unk> begin|I|
+-3.206196	<unk> be|CAUSE_OF_DEATH|
+-3.206196	<unk> be|I|
+-3.382287	<unk> be|LOCATION|
+-3.382287	<unk> be|camper|
+-3.382287	<unk> be|he|
+-3.382287	<unk> be|hotel|
+-3.382287	<unk> be|house|
+-2.984347	<unk> be|it|
+-3.382287	<unk> be|it|what
+-3.382287	<unk> be|life|
+-3.382287	<unk> be|lot|
+-3.382287	<unk> be|nothing|
+-3.382287	<unk> be|no|
+-3.382287	<unk> be|part|
+-3.382287	<unk> be|plenty|
+-3.382287	<unk> be|room|
+-3.382287	<unk> be|sign|
+-3.382287	<unk> be|space|
+-3.382287	<unk> be|stop|
+-3.081257	<unk> be|that|
+-3.081257	<unk> be|time|
+-3.382287	<unk> be|toilet|
+-2.984347	<unk> be|we|
+-3.382287	<unk> be|which|
+-1.440279	<unk> be||
+-3.382287	<unk> blogg||
+-3.382287	<unk> bring||
+-3.382287	<unk> build||CAUSE_OF_DEATH
+-3.382287	<unk> buy|we|
+-3.382287	<unk> call||
+-3.382287	<unk> call||it
+-3.206196	<unk> camp||
+-3.382287	<unk> catch||
+-3.382287	<unk> celebrate||
+-3.382287	<unk> clean||it
+-3.382287	<unk> climb|we|
+-3.081257	<unk> climb||
+-3.382287	<unk> come|I|
+-3.382287	<unk> come|TIME|
+-3.382287	<unk> come|we|
+-3.382287	<unk> come|you|
+-3.382287	<unk> come||
+-3.206196	<unk> continue|I|
+-3.382287	<unk> cook|we|
+-3.382287	<unk> couldn|I|MONEY
+-3.382287	<unk> crawl||
+-3.382287	<unk> cross|we|
+-3.382287	<unk> cross||
+-3.382287	<unk> cry||
+-3.081257	<unk> decide|I|
+-3.382287	<unk> decide|they|
+-3.206196	<unk> decide|we|
+-3.382287	<unk> decide||
+-3.382287	<unk> desert||
+-3.206196	<unk> didn|I|MONEY
+-3.382287	<unk> discover|I|
+-3.382287	<unk> dive|we|
+-3.382287	<unk> don|I|MONEY
+-3.382287	<unk> do|NUMBER|
+-3.206196	<unk> do|we|
+-3.382287	<unk> do|what|
+-2.569374	<unk> do||
+-3.382287	<unk> drive|we|
+-3.382287	<unk> drive||
+-3.206196	<unk> drop|we|
+-3.382287	<unk> eat|I|
+-3.382287	<unk> eat|we|lunch
+-3.382287	<unk> enjoy||
+-3.382287	<unk> enjoy||it
+-3.382287	<unk> enter|we|
+-3.206196	<unk> exhaust||
+-3.382287	<unk> explore||
+-3.382287	<unk> fail|I|
+-3.382287	<unk> fall|that|
+-3.382287	<unk> fall|we|
+-3.382287	<unk> fall||
+-3.081257	<unk> feel|we|
+-3.382287	<unk> fill||
+-3.382287	<unk> find|I|
+-3.382287	<unk> find|we|
+-3.382287	<unk> finish|I|
+-3.382287	<unk> flow|that|
+-3.382287	<unk> get|I|
+-3.382287	<unk> get|I|home
+-3.382287	<unk> get|they|
+-2.729075	<unk> get|we|
+-3.382287	<unk> get|you|
+-2.780227	<unk> get||
+-3.081257	<unk> go|I|
+-3.382287	<unk> go|kid|
+-3.382287	<unk> go|people|
+-3.382287	<unk> go|she|
+-2.780227	<unk> go|we|
+-3.382287	<unk> go|which|
+-2.984347	<unk> go||
+-3.382287	<unk> go||camping
+-3.382287	<unk> guess|I|
+-3.382287	<unk> hammer||
+-3.382287	<unk> hang|I|
+-3.382287	<unk> happen|it|
+-3.382287	<unk> happen||
+-2.984347	<unk> have|I|
+-3.382287	<unk> have|I|moment
+-3.382287	<unk> have|it|
+-3.382287	<unk> have|i|
+-3.206196	<unk> have|they|
+-3.382287	<unk> have|we|
+-3.382287	<unk> have|we|DURATION
+-3.382287	<unk> have|we|NUMBER
+-3.206196	<unk> have|we|room
+-3.382287	<unk> have|we|shower
+-2.340895	<unk> have||
+-3.382287	<unk> head|I|
+-3.382287	<unk> head|PERSON|
+-2.641925	<unk> head|we|
+-3.382287	<unk> head||
+-3.382287	<unk> hear|I|
+-3.382287	<unk> help||
+-3.382287	<unk> hike|we|
+-3.206196	<unk> hike||
+-3.382287	<unk> hit|we|
+-3.382287	<unk> hope|I|
+-3.382287	<unk> include||
+-3.382287	<unk> it||MONEY
+-3.382287	<unk> keep||
+-3.206196	<unk> know|I|
+-3.382287	<unk> know|we|
+-3.206196	<unk> know|who|
+-3.382287	<unk> leave|I|LOCATION
+-3.382287	<unk> leave|they|
+-3.206196	<unk> leave||
+-3.382287	<unk> let|they|
+-3.382287	<unk> let||
+-3.382287	<unk> lighten||
+-3.382287	<unk> like|I|
+-3.206196	<unk> like|you|
+-3.382287	<unk> live|who|
+-3.382287	<unk> look|PERSON|
+-3.081257	<unk> look|it|
+-3.382287	<unk> look|she|
+-3.382287	<unk> look|they|
+-3.382287	<unk> look|we|
+-3.382287	<unk> look|you|
+-2.984347	<unk> look||
+-3.382287	<unk> love|I|
+-3.382287	<unk> love|I|SET
+-3.382287	<unk> make|I|pancake
+-3.382287	<unk> make|it|
+-3.382287	<unk> make|we|
+-3.382287	<unk> make|we|coffee
+-3.382287	<unk> make|we|egg
+-3.206196	<unk> make|we|it
+-3.382287	<unk> make|which|
+-3.382287	<unk> make||it
+-3.382287	<unk> mean|that|
+-3.382287	<unk> mean||
+-3.382287	<unk> move|I|
+-3.382287	<unk> move|we|
+-3.382287	<unk> move||
+-3.206196	<unk> offer||
+-3.382287	<unk> pack|we|
+-3.382287	<unk> pee||
+-3.382287	<unk> pick|we|
+-3.382287	<unk> pick||PERSON
+-3.382287	<unk> place||
+-3.382287	<unk> plan|I|
+-3.382287	<unk> plan||
+-3.206196	<unk> play|we|
+-3.206196	<unk> play||
+-3.382287	<unk> please||
+-3.382287	<unk> poke|I|
+-3.382287	<unk> post|we|
+-3.382287	<unk> post||
+-3.382287	<unk> pour||rain
+-3.382287	<unk> rain|it|
+-3.382287	<unk> read|I|
+-3.382287	<unk> read||
+-3.382287	<unk> relax|we|
+-3.382287	<unk> remember||
+-3.382287	<unk> return|I|
+-3.382287	<unk> run|that|
+-3.206196	<unk> run||
+-3.382287	<unk> say|I|
+-3.206196	<unk> say|he|
+-3.382287	<unk> say|it|
+-3.382287	<unk> say|who|
+-3.081257	<unk> say||
+-3.382287	<unk> scream||
+-3.382287	<unk> seem|it|
+-3.382287	<unk> seem||
+-3.081257	<unk> see|we|
+-2.984347	<unk> see||
+-3.382287	<unk> see||NUMBER
+-3.382287	<unk> see||mountain
+-3.382287	<unk> set|we|
+-3.206196	<unk> set||
+-3.382287	<unk> show||
+-3.382287	<unk> sit||
+-3.382287	<unk> snuggle||
+-3.382287	<unk> soak||
+-3.382287	<unk> sound|they|
+-3.382287	<unk> spend|we|
+-3.382287	<unk> start|it|
+-3.382287	<unk> start|sun|
+-3.382287	<unk> start|we|
+-3.382287	<unk> start|we|hike
+-3.382287	<unk> stay|we|
+-3.382287	<unk> stop|I|
+-3.206196	<unk> stop|we|
+-3.382287	<unk> stop||
+-3.382287	<unk> swim||
+-3.206196	<unk> take|it|he
+-3.382287	<unk> take|we|
+-3.382287	<unk> take|we|time
+-3.382287	<unk> take|we|trail
+-3.206196	<unk> take||
+-3.382287	<unk> take||drive
+-3.382287	<unk> talk|I|
+-3.382287	<unk> talk|we|
+-3.382287	<unk> tell|I|
+-3.382287	<unk> tell|I|PERSON
+-3.382287	<unk> thank||
+-3.382287	<unk> that||MONEY
+-3.382287	<unk> think|I|
+-3.206196	<unk> think|I|which
+-3.206196	<unk> think||
+-3.382287	<unk> throw||
+-3.206196	<unk> try|I|
+-3.206196	<unk> try||
+-3.382287	<unk> try||it
+-3.382287	<unk> turn|PERSON|
+-3.382287	<unk> turn|that|
+-3.382287	<unk> turn||
+-3.382287	<unk> view||
+-3.382287	<unk> visit||
+-3.382287	<unk> wade||
+-3.382287	<unk> wait|I|
+-3.382287	<unk> wait|they|
+-3.382287	<unk> wait||
+-3.081257	<unk> wake|we|
+-3.382287	<unk> walk|we|
+-3.382287	<unk> want|we|
+-3.382287	<unk> watch|I|
+-3.382287	<unk> watch|we|
+-3.382287	<unk> watch||
+-3.206196	<unk> we||MONEY
+-3.382287	<unk> worry|we|
+-3.283414	accord|| be||
+-3.283527	agree|I| <unk>
+-3.283527	agree|I| do||
+-3.283414	agree|PERSON| agree|I|
+-3.283414	amaze|I| be|car|
+-3.283414	arrive|they| come|PERSON|
+-3.283527	arrive|we| find||we
+-3.283527	arrive|we| go||MONEY
+-3.283414	ask|I| be||
+-3.283414	assume|we| be|NUMBER|
+-3.283414	backtrack|| find|we|spot
+-3.283414	bang|| <unk>
+-3.283414	beam|| run||
+-3.283414	beat|| be|part|
+-3.283414	become|I| be|experience|
+-3.28364	become|| <unk>
+-3.28364	become|| be|it|
+-3.28364	become|| slip||
+-3.107436	begin|I| think||
+-3.28364	be|CAUSE_OF_DEATH| <unk>
+-3.28364	be|CAUSE_OF_DEATH| build|we|
+-3.28364	be|CAUSE_OF_DEATH| remember|I|
+-2.807648	be|I| <unk>
+-3.108678	be|I| be||
+-3.284769	be|I| figure|I|
+-3.284769	be|I| find|we|
+-3.284769	be|I| have||
+-3.284769	be|I| know|she|
+-3.284769	be|I| make|I|
+-3.284769	be|I| start|you|
+-3.283527	be|LOCATION| be|PERSON|
+-3.283527	be|LOCATION| come||
+-3.283414	be|MISC| <unk>
+-3.283414	be|NUMBER| be||
+-3.283414	be|ORGANIZATION| move|we|
+-3.107549	be|PERSON| <unk>
+-3.28364	be|PERSON| be|I|
+-3.283527	be|all| <unk>
+-3.283527	be|all| eat||
+-3.283414	be|camper| wake||
+-3.283527	be|car| do||
+-3.283527	be|car| drive|I|
+-3.283414	be|experience| borrow||
+-3.283414	be|food| be|they|
+-3.283414	be|guy| sit||
+-3.283414	be|he| <unk>
+-3.283414	be|hotel| pull|we|
+-3.283414	be|house| run||
+-3.285332	be|it| </s>
+-2.741264	be|it| <unk>
+-3.285332	be|it| begin|I|
+-3.285332	be|it| be|I|
+-2.984302	be|it| be||
+-3.285332	be|it| find||tent
+-3.285332	be|it| go|she|
+-3.285332	be|it| go|we|
+-3.285332	be|it| have|I|
+-3.285332	be|it| have||
+-3.285332	be|it| make|we|
+-3.283414	be|it|what keep||
+-3.283527	be|life| <unk>
+-3.283527	be|life| be||
+-3.28364	be|lot| <unk>
+-3.28364	be|lot| be||
+-3.28364	be|lot| giggle||
+-3.283414	be|nothing| <unk>
+-3.283527	be|no| <unk>
+-3.283527	be|no| sleep||
+-3.107436	be|part| <unk>
+-3.283414	be|people| <unk>
+-3.283414	be|plenty| <unk>
+-3.283414	be|room| <unk>
+-3.283414	be|she| <unk>
+-3.283527	be|sign| <unk>
+-3.283527	be|sign| warn||
+-3.283414	be|site| be||
+-3.283414	be|space| <unk>
+-3.107549	be|stop| be||
+-3.28364	be|stop| have||
+-3.107662	be|that| <unk>
+-3.283753	be|that| do|we|what
+-3.283753	be|that| say|PERSON|
+-3.283414	be|they| go|guy|
+-3.283414	be|thing| decide|PERSON|
+-3.283753	be|time| <unk>
+-3.283753	be|time| come||
+-3.283753	be|time| die|we|
+-3.283753	be|time| have|we|
+-3.283414	be|toilet| be||
+-3.283414	be|trail| decide|we|
+-3.283414	be|way| <unk>
+-2.807648	be|we| <unk>
+-3.284769	be|we| be|it|
+-3.284769	be|we| be|sign|
+-3.284769	be|we| be|we|
+-3.108678	be|we| be||
+-3.284769	be|we| keep|I|
+-3.284769	be|we| remind||I
+-3.284769	be|we| tend|I|
+-3.283414	be|which| <unk>
+-3.283527	be|who| be|PERSON|
+-3.283527	be|who| have|I|
+-2.93044	be|| </s>
+-1.398961	be|| <unk>
+-3.32838	be|| amaze|I|
+-3.32838	be|| assume|we|
+-3.32838	be|| beat||
+-3.32838	be|| be|I|
+-3.32838	be|| be|PERSON|
+-2.851258	be|| be|it|
+-3.32838	be|| be|lot|
+-3.32838	be|| be|no|
+-3.32838	be|| be|we|
+-1.881222	be|| be||
+-3.32838	be|| camp|we|
+-3.32838	be|| camp||
+-3.32838	be|| climb|we|
+-3.32838	be|| come|DATE|
+-3.32838	be|| decide|I|
+-3.32838	be|| decide|PERSON|
+-3.32838	be|| decide|we|
+-3.32838	be|| decide||
+-3.32838	be|| die|I|
+-3.32838	be|| don|you|MONEY
+-3.32838	be|| do|all|
+-2.515466	be|| do||
+-3.32838	be|| do||something
+-3.32838	be|| drive|we|
+-3.32838	be|| drive|we|DURATION
+-2.851258	be|| drive||
+-3.32838	be|| eat|we|
+-3.32838	be|| embark|we|
+-3.32838	be|| excite|we|
+-3.32838	be|| expect|I|
+-3.32838	be|| feel|I|
+-3.32838	be|| feel|we|
+-3.32838	be|| fill|it|
+-3.32838	be|| fill||
+-3.32838	be|| gear|we|
+-3.32838	be|| get|PERSON|
+-3.02735	be|| get|it|
+-2.93044	be|| get|we|
+-2.62941	be|| get||
+-3.32838	be|| get||gear
+-3.152288	be|| go|I|
+-3.32838	be|| go|sun|
+-3.32838	be|| go|they|
+-3.02735	be|| go|we|
+-3.32838	be|| go|we|fishing
+-3.32838	be|| go|what|
+-3.32838	be|| go|who|
+-3.152288	be|| go||
+-3.32838	be|| go||camping
+-3.32838	be|| greet|we|
+-3.32838	be|| guess|I|
+-3.32838	be|| happen|what|
+-3.32838	be|| have|PERSON|s'more
+-3.32838	be|| have|we|
+-3.152288	be|| have|we|time
+-2.453318	be|| have||
+-3.32838	be|| have||room
+-3.02735	be|| head|we|
+-3.32838	be|| head||home
+-3.32838	be|| hear|we|
+-3.32838	be|| help|he|
+-3.32838	be|| hike|we|
+-3.32838	be|| hike||
+-3.32838	be|| hope|I|
+-3.32838	be|| imagine|you|
+-3.32838	be|| imagine||
+-3.32838	be|| impress|I|
+-3.32838	be|| include||
+-3.32838	be|| it||s
+-3.32838	be|| know||
+-3.32838	be|| laugh|I|
+-3.32838	be|| leave|we|
+-3.152288	be|| leave|we|LOCATION
+-3.152288	be|| leave||
+-3.32838	be|| let|we|
+-3.152288	be|| let||
+-3.32838	be|| like|I|it
+-3.32838	be|| listen|we|
+-3.32838	be|| listen||
+-3.32838	be|| live||
+-3.02735	be|| look|I|
+-3.32838	be|| look|PERSON|
+-3.152288	be|| look|it|
+-3.32838	be|| look|you|
+-3.152288	be|| look||
+-3.32838	be|| lose||
+-3.32838	be|| make|we|dinner
+-3.32838	be|| make|we|trip
+-3.32838	be|| mention||
+-3.32838	be|| pack||
+-3.32838	be|| play|kid|
+-3.32838	be|| put||tent
+-3.32838	be|| rain|it|
+-3.32838	be|| read|I|
+-3.32838	be|| realize|we|
+-3.152288	be|| ride||
+-3.32838	be|| s'more||
+-3.32838	be|| say|I|
+-3.32838	be|| see|we|deer
+-3.32838	be|| see|you|
+-3.32838	be|| see||PERSON
+-3.32838	be|| see||she
+-3.32838	be|| set|we|
+-3.32838	be|| sleep||
+-3.32838	be|| spend|I|DURATION
+-3.32838	be|| stand|we|
+-3.32838	be|| stand||
+-3.32838	be|| start|it|
+-3.32838	be|| start||
+-3.32838	be|| suppose|it|
+-3.32838	be|| surprise|I|
+-3.32838	be|| swim|we|
+-3.32838	be|| take|I|
+-3.32838	be|| take|picture|
+-3.32838	be|| take|we|
+-3.32838	be|| take|we|picture
+-3.32838	be|| talk|I|
+-3.32838	be|| talk||
+-3.32838	be|| tell|I|PERSON
+-3.32838	be|| think||
+-3.32838	be|| use|I|
+-3.32838	be|| use|that|
+-3.32838	be|| wait|we|
+-3.32838	be|| wait||
+-3.32838	be|| wake|I|
+-3.32838	be|| walk||
+-3.152288	be|| want|I|
+-3.32838	be|| want|she|
+-3.32838	be|| we|that|MONEY
+-3.32838	be|| work||
+-3.32838	be|| worry|PERSON|
+-3.32838	be|| zip||
+-3.283414	blogg|| think|I|
+-3.283414	borrow|| be||
+-3.283414	bother|t|I hadn|I|MONEY
+-3.283414	bring|| be||
+-3.283414	build|we| be|lot|
+-3.283414	build||CAUSE_OF_DEATH be||
+-3.283414	buy|we| do|PERSON|
+-3.283414	call|| <unk>
+-3.283414	call||it <unk>
+-3.283414	camp|we| <unk>
+-3.108001	camp|| <unk>
+-3.284092	camp|| arrive|we|
+-3.108001	camp|| be||
+-3.284092	camp|| have|we|campfire
+-3.284092	camp|| make||
+-3.283414	camp||time see|we|
+-3.283414	care|we| be||
+-3.283414	carry||everything we||MONEY
+-3.283414	carry||it be||
+-3.283414	catch|| <unk>
+-3.283414	celebrate|| feel|I|
+-3.283414	change|we| be|it|
+-3.283414	chat|| <unk>
+-3.107436	clean||it <unk>
+-3.283414	climb|I| <unk>
+-3.283527	climb|we| <unk>
+-3.283527	climb|we| sleep||
+-3.28364	climb|| <unk>
+-3.28364	climb|| be|MISC|
+-3.28364	climb|| go|we|
+-3.283414	come|DATE| look||
+-3.283414	come|I| move|we|
+-3.283414	come|PERSON| <unk>
+-3.283414	come|TIME| be|I|
+-3.283414	come|she| wear||
+-3.283527	come|we| find||place
+-3.283527	come|we| stop|we|
+-3.283414	come|you| cross||LOCATION
+-3.28364	come|| go|we|
+-3.28364	come|| prepare||
+-3.28364	come|| take||
+-3.283414	concern|| <unk>
+-3.283414	consider|| cover||
+-3.283527	continue|I| <unk>
+-3.283527	continue|I| have||
+-3.283414	cook|we| be||
+-3.107436	couldn|I|MONEY <unk>
+-3.28364	cover|| <unk>
+-3.28364	cover|| be||
+-3.28364	cover|| say||
+-3.283414	crawl|| decide|we|
+-3.283414	cross|we| <unk>
+-3.283414	cross|| be||
+-3.283414	cross||LOCATION follow||
+-3.283414	cry|| be||
+-3.108227	decide|I| <unk>
+-3.284318	decide|I| be||
+-3.284318	decide|I| camp||
+-3.284318	decide|I| eat||lunch
+-3.284318	decide|I| give||it
+-3.284318	decide|I| have||
+-3.284318	decide|I| pull||
+-3.284318	decide|I| try|I|
+-3.283527	decide|PERSON| decide|I|
+-3.283527	decide|PERSON| do||
+-3.283414	decide|they| <unk>
+-2.886491	decide|we| <unk>
+-3.284431	decide|we| be||
+-3.284431	decide|we| drive||
+-3.284431	decide|we| hike||
+-3.284431	decide|we| stay||
+-3.284431	decide|we| try||camping
+-3.284431	decide|we| watch||sunrise
+-3.283527	decide|| <unk>
+-3.283527	decide|| drive||mile
+-3.283414	desert|| decide|I|
+-3.107436	didn|I|MONEY want|t|
+-3.283414	didn|it|MONEY bother|t|I
+-3.283414	die|I| <unk>
+-3.283414	die|we| happen|which|
+-3.283414	discover|I| be||
+-3.283527	dive|we| be||
+-3.283527	dive|we| see|we|eel
+-3.283414	doesn|it|MONEY <unk>
+-3.283414	don|I|MONEY <unk>
+-3.283414	don|I|t <unk>
+-3.283414	don|you|MONEY <unk>
+-3.283414	down|PERSON| wander||
+-3.283414	do|I| be||
+-3.283414	do|NUMBER| mention|I|
+-3.107549	do|PERSON| <unk>
+-3.28364	do|PERSON| do|PERSON|
+-3.283414	do|all| do|he|
+-3.283414	do|he| be||
+-3.283414	do|she| move|I|
+-3.283414	do|that| hang|we|
+-3.283527	do|we| <unk>
+-3.283527	do|we| be||
+-3.283414	do|we|what go|we|camping
+-3.283414	do|what| <unk>
+-2.226768	do|| <unk>
+-3.287466	do|| care|we|
+-3.287466	do|| come|she|
+-3.287466	do|| decide|I|
+-3.287466	do|| get|we|
+-3.287466	do|| get|you|
+-3.287466	do|| have|it|
+-3.287466	do|| have|it|electricity
+-3.287466	do|| have|we|
+-3.287466	do|| know|I|
+-3.287466	do|| like|PERSON|
+-3.287466	do|| occur|it|
+-3.287466	do|| remember|I|
+-3.287466	do|| seem|it|
+-3.287466	do|| sleep||
+-3.287466	do|| want|we|
+-3.283414	do||something be||
+-3.283414	drink|we|wine <unk>
+-3.283414	drive|I| <unk>
+-3.283414	drive|he| get|PERSON|CAUSE_OF_DEATH
+-3.107775	drive|we| <unk>
+-3.283866	drive|we| be||
+-3.283866	drive|we| have|we|bit
+-3.283866	drive|we| hike|we|
+-3.283414	drive|we|DURATION <unk>
+-3.283414	drive|we|home </s>
+-2.74025	drive|| <unk>
+-3.284318	drive|| have||
+-3.284318	drive|| stop|we|
+-3.284318	drive|| wasn|I|t
+-3.283527	drive||mile <unk>
+-3.283527	drive||mile be|car|
+-3.283527	drop|we| consider||
+-3.283527	drop|we| start|we|
+-3.283414	eat|I| <unk>
+-3.28364	eat|we| <unk>
+-3.107549	eat|we| be||
+-3.283414	eat|we|lunch spend|we|
+-3.283414	eat|| get||water
+-3.283414	eat||lunch see|I|
+-3.283414	embark|we| <unk>
+-3.283414	end|it| feel|it|
+-3.107549	enjoy|I| <unk>
+-3.28364	enjoy|I| soak||
+-3.283414	enjoy|we| have||
+-3.283414	enjoy|we|scenery <unk>
+-3.283414	enjoy|| </s>
+-3.283414	enjoy||it <unk>
+-3.283414	enjoy||view go|we|
+-3.283414	enter|we| be|LOCATION|
+-3.283414	enter|we|water <unk>
+-3.283414	excite|we| be||
+-3.283527	exhaust|| <unk>
+-3.283527	exhaust|| be||
+-3.283414	expect|I| do||
+-3.283414	explore|| <unk>
+-3.283414	fail|I| get||
+-3.283414	fall|that| <unk>
+-3.283414	fall|we| take|I|picture
+-3.28364	fall|| be||
+-3.28364	fall|| go||
+-3.28364	fall|| have||
+-3.283527	feel|I| be||
+-3.283527	feel|I| look|I|
+-3.283414	feel|I|way hike|we|
+-3.283414	feel|it| be||
+-3.107662	feel|we| <unk>
+-3.283753	feel|we| have||
+-3.283753	feel|we| make|we|it
+-3.283414	figure|I| <unk>
+-3.283414	fill|it| end|it|
+-3.283527	fill|| <unk>
+-3.283527	fill|| stop|we|
+-3.283414	find|I| feel|I|way
+-3.107662	find|we| be||
+-3.107662	find|we| have||
+-3.283414	find|we|spot <unk>
+-3.283414	find||place do||
+-3.283414	find||tent make||
+-3.283414	find||we <unk>
+-3.283414	finish|I| be||
+-3.283414	flow|that| be||
+-3.283527	follow|| <unk>
+-3.283527	follow|| lighten||
+-3.283414	gear|we| enter|we|water
+-3.283866	get|I| <unk>
+-3.283866	get|I| hang|the|
+-3.283866	get|I| have||
+-3.283866	get|I| say||
+-3.283866	get|I| sleep|PERSON|
+-3.283414	get|I|chance go||
+-3.283414	get|I|home <unk>
+-3.283527	get|PERSON| pound||
+-3.283527	get|PERSON| stay|PERSON|
+-3.283414	get|PERSON|CAUSE_OF_DEATH go||
+-3.107549	get|it| <unk>
+-3.28364	get|it| decide|I|
+-3.283414	get|kid| <unk>
+-3.283414	get|they| <unk>
+-2.808098	get|we| <unk>
+-3.109128	get|we| be||
+-3.28522	get|we| do||
+-3.28522	get|we| drive|we|home
+-3.28522	get|we| go|we|
+-3.28522	get|we| happen|we|
+-3.28522	get|we| have|water|
+-3.28522	get|we| have||
+-3.28522	get|we| put|that|we
+-3.28522	get|we| run|we|
+-3.28522	get|we| set|we|
+-3.28522	get|we| set||
+-3.283414	get|we|tent <unk>
+-3.107436	get|you| <unk>
+-2.507968	get|| <unk>
+-3.286119	get|| be|I|
+-2.808998	get|| be||
+-3.286119	get|| do|that|
+-3.286119	get|| get|we|tent
+-3.110028	get|| go|we|
+-3.286119	get|| have|they|
+-3.286119	get|| head||
+-3.286119	get|| make||
+-3.286119	get|| yell|I|
+-3.283414	get||gear set||
+-3.283414	get||there <unk>
+-3.283414	get||water have||bit
+-3.283414	giggle|| scream||
+-3.283414	give|| get||
+-3.283414	give||it <unk>
+-2.886265	go|I| <unk>
+-3.284205	go|I| have|we|lot
+-3.284205	go|I| help||
+-3.284205	go|I| run||
+-3.284205	go|I| threaten||
+-3.283414	go|I|camping go|I|
+-3.283753	go|PERSON| <unk>
+-3.283753	go|PERSON| be|she|
+-3.107662	go|PERSON| go|I|
+-3.283414	go|everyone| watch||sunset
+-3.283414	go|guy| <unk>
+-3.283414	go|kid| be||
+-3.283414	go|people| be||
+-3.107436	go|she| <unk>
+-3.107775	go|sun| <unk>
+-3.283866	go|sun| go|PERSON|
+-3.283866	go|sun| look|it|
+-3.283866	go|sun| think|i|
+-3.283414	go|they| sleep||
+-3.285895	go|we| </s>
+-2.683835	go|we| <unk>
+-3.285895	go|we| be|we|
+-2.808774	go|we| be||
+-3.285895	go|we| change|we|
+-3.285895	go|we| eat|we|
+-3.285895	go|we| go|sun|
+-3.285895	go|we| go||
+-3.285895	go|we| have|we|hike
+-3.285895	go|we| make|we|
+-3.285895	go|we| sleep||
+-3.285895	go|we| swim|a|
+-3.285895	go|we| wasn||MONEY
+-3.283414	go|we|camping <unk>
+-3.283414	go|we|fishing sit|we|
+-3.283414	go|what| say|she|
+-3.283414	go|which| <unk>
+-3.283414	go|who| <unk>
+-2.887054	go|| <unk>
+-2.682934	go|| be||
+-3.284994	go|| camp||time
+-3.284994	go|| enjoy|we|
+-3.284994	go|| keep||
+-3.284994	go|| stop||
+-3.283414	go||I <unk>
+-3.283414	go||MONEY have|we|child
+-3.283527	go||camping be|that|
+-3.283527	go||camping couldn|I|MONEY
+-3.283414	go||home agree|I|
+-3.283414	greet|we| <unk>
+-3.28364	guess|I| <unk>
+-3.107549	guess|I| be||
+-3.283414	hadn|I|MONEY <unk>
+-3.283414	hammer|| try||
+-3.283414	hang|I| <unk>
+-3.283414	hang|the| be||
+-3.283527	hang|we| chat||
+-3.283527	hang|we| go|we|
+-3.283527	happen|it| get|we|
+-3.283527	happen|it| make|we|way
+-3.283414	happen|that| be|we|
+-3.283414	happen|we| <unk>
+-3.107436	happen|what| be||
+-3.283414	happen|which| be||
+-3.283414	happen|| <unk>
+-2.807084	have|I| <unk>
+-3.284205	have|I| drive||
+-3.284205	have|I| have||
+-3.284205	have|I| stay||
+-3.283414	have|I|moment speak||
+-3.283414	have|PERSON|fun <unk>
+-3.283414	have|PERSON|s'more <unk>
+-3.283527	have|it| be||
+-3.283527	have|it| carry||it
+-3.283414	have|it|electricity <unk>
+-3.283414	have|i| go||
+-2.98261	have|they| <unk>
+-3.283414	have|water| <unk>
+-3.108227	have|we| <unk>
+-3.284318	have|we| backtrack||
+-2.983288	have|we| be||
+-3.284318	have|we| drive||mile
+-3.284318	have|we| listen||
+-3.284318	have|we| stay||
+-3.283414	have|we|DURATION <unk>
+-3.283414	have|we|NUMBER <unk>
+-3.283414	have|we|bit be||
+-3.283414	have|we|campfire have|we|smore
+-3.283414	have|we|child start||
+-3.283414	have|we|hike be|trail|
+-3.283414	have|we|lot <unk>
+-3.283414	have|we|lunch be||
+-3.283527	have|we|room <unk>
+-3.283527	have|we|room be||
+-3.283527	have|we|shower have|we|shower
+-3.283527	have|we|shower hike|we|
+-3.283414	have|we|smore </s>
+-3.283527	have|we|time <unk>
+-3.283527	have|we|time be||
+-2.100593	have|| <unk>
+-2.989895	have|| be|I|
+-3.290925	have|| be|food|
+-3.290925	have|| be|it|
+-2.445827	have|| be||
+-3.290925	have|| come|we|
+-3.290925	have|| decide|I|
+-3.290925	have|| do|I|
+-3.290925	have|| do||
+-3.290925	have|| get|I|
+-3.290925	have|| get|PERSON|
+-3.290925	have|| have|I|
+-3.290925	have|| hike||
+-3.290925	have|| hope|I|
+-3.290925	have|| make|they|
+-3.290925	have|| make||trip
+-3.290925	have|| plan|we|
+-3.290925	have|| put|I|
+-3.290925	have|| recover||
+-3.290925	have|| spend|we|
+-3.290925	have|| stay|we|
+-3.290925	have|| stay||
+-3.114833	have|| want|I|
+-3.290925	have|| worry||
+-3.283414	have||bit be||
+-3.283414	have||family be||
+-3.283414	have||room be||
+-3.283527	head|I| <unk>
+-3.283527	head|I| drive|we|
+-3.283414	head|PERSON| head|I|
+-2.983964	head|we| <unk>
+-3.284994	head|we| be|ORGANIZATION|
+-3.284994	head|we| be|way|
+-2.983964	head|we| be||
+-3.284994	head|we| concern||
+-3.108903	head|we| decide|we|
+-3.284994	head|we| do||
+-3.284994	head|we| have||
+-3.284994	head|we| run|we|
+-3.284994	head|we| see||friend
+-3.284205	head|| </s>
+-3.108114	head|| <unk>
+-3.108114	head|| be||
+-3.284205	head|| camp||
+-3.284205	head|| get|we|
+-3.284205	head|| have||
+-3.283414	head||home be|it|
+-3.283414	hear|I| <unk>
+-3.283414	hear|we| be||
+-3.283414	help|he| put||
+-3.107436	help|| <unk>
+-3.283414	hike|I| drive|we|
+-3.107888	hike|we| <unk>
+-3.283979	hike|we| be||
+-3.283979	hike|we| decide|we|
+-3.283979	hike|we| drink|we|wine
+-3.283979	hike|we| have|I|
+-3.283979	hike|| <unk>
+-3.283979	hike|| be||
+-3.283979	hike|| carry||everything
+-3.283979	hike|| drive|we|
+-3.283979	hike|| find|we|
+-3.283979	hike|| hike||
+-3.283527	hit|we| <unk>
+-3.283527	hit|we| look|what|
+-3.283414	hit|we|LOCATION be||
+-3.28364	hope|I| be||
+-3.28364	hope|I| get|I|chance
+-3.28364	hope|I| stay||
+-3.283414	imagine|you| <unk>
+-3.283414	imagine|| be|we|
+-3.283414	impress|I| <unk>
+-3.283527	include|| enjoy|I|
+-3.283527	include|| have|PERSON|fun
+-3.283414	it||MONEY <unk>
+-3.283527	it||s cover||
+-3.283527	it||s get||
+-3.283414	keep|I| think||
+-3.283753	keep|| become||
+-3.283753	keep|| go||
+-3.107662	keep|| walk||
+-3.28364	know|I| be|I|
+-3.28364	know|I| be|it|
+-3.28364	know|I| be||
+-3.283414	know|she| have||
+-3.283527	know|we| be||
+-3.283527	know|we| have|we|
+-3.283527	know|who| <unk>
+-3.283527	know|who| be||
+-3.283414	know|you| be||
+-3.283414	know|| <unk>
+-3.283414	laugh|I| try||
+-3.283414	leave|I| be||
+-3.283414	leave|I|LOCATION <unk>
+-3.283414	leave|they| go|sun|
+-3.283527	leave|we| <unk>
+-3.283527	leave|we| be|we|
+-3.283527	leave|we|LOCATION <unk>
+-3.283527	leave|we|LOCATION head||
+-3.283753	leave|| <unk>
+-3.283753	leave|| be||
+-3.283753	leave|| guess|I|
+-3.283753	leave|| leave|I|
+-3.283414	let|they| <unk>
+-3.283414	let|we| drive|he|
+-3.28364	let|| <unk>
+-3.28364	let|| down|PERSON|
+-3.28364	let|| try|I|
+-3.28364	lighten|| <unk>
+-3.28364	lighten|| be||
+-3.28364	lighten|| lighten||
+-3.283414	like|I| <unk>
+-3.283414	like|I|it <unk>
+-3.283414	like|PERSON| <unk>
+-3.107436	like|you| <unk>
+-3.283414	listen|we| <unk>
+-3.107436	listen|| <unk>
+-3.283414	live|who| <unk>
+-3.283527	live|| <unk>
+-3.283527	live|| say|I|
+-3.107662	look|I| have||
+-3.283753	look|I| head||
+-3.283753	look|I| spend||time
+-3.283527	look|PERSON| be||
+-3.283527	look|PERSON| do|she|
+-2.886152	look|it| <unk>
+-3.108001	look|it| be||
+-3.284092	look|it| enjoy|I|
+-3.283414	look|she| <unk>
+-3.283414	look|they| <unk>
+-3.283414	look|we| see|we|
+-3.283414	look|what| be||
+-3.283527	look|you| be||
+-3.283527	look|you| happen|it|
+-2.983062	look|| <unk>
+-3.284092	look|| decide|we|
+-3.284092	look|| get||there
+-3.284092	look|| go|PERSON|
+-3.284092	look|| yell||
+-3.283414	lose|| doesn|it|MONEY
+-3.283527	love|I| be||
+-3.283527	love|I| take||photo
+-3.283414	love|I|SET be||
+-3.283414	make|I| stay|PERSON|
+-3.283414	make|I|pancake pack|we|camp
+-3.283414	make|it| be|it|
+-3.283414	make|they| try|I|
+-3.28364	make|we| <unk>
+-3.28364	make|we| look|it|
+-3.28364	make|we| swim|we|
+-3.283414	make|we|coffee <unk>
+-3.283414	make|we|dinner hang|we|
+-3.283414	make|we|egg scramble||
+-3.28364	make|we|it <unk>
+-3.28364	make|we|it be||
+-3.28364	make|we|it have||
+-3.283414	make|we|trip be||
+-3.283414	make|we|way see||
+-3.283414	make|which| eat|we|
+-3.28364	make|| <unk>
+-3.107549	make|| be||
+-3.283414	make||it it||s
+-3.283414	make||trip be|I|
+-3.283414	make||way hit|we|
+-3.283414	mean|I| promise||
+-3.283414	mean|that| be||
+-3.283414	mean|| <unk>
+-3.283414	mention|I| <unk>
+-3.283414	mention|| be||
+-3.283527	move|I| be||
+-3.283527	move|I| stop|we|
+-3.107549	move|we| have||
+-3.28364	move|we| see||
+-3.283414	move|| roll||
+-3.283414	need|we| <unk>
+-3.283414	notice|I| <unk>
+-3.283414	occur|it| be||
+-3.283527	offer|| </s>
+-3.283527	offer|| give||
+-3.283527	pack|we| <unk>
+-3.283527	pack|we| need|we|
+-3.283414	pack|we|camp head|we|
+-3.283414	pack|we|car head||
+-3.283527	pack|| <unk>
+-3.283527	pack|| take|PERSON|
+-3.283414	pee|| be||
+-3.283414	pick|we| leave|we|
+-3.283414	pick||PERSON be|who|
+-3.283414	pick||apple be||
+-3.283414	place|| get|I|
+-3.283414	plan|I| <unk>
+-3.283414	plan|we| do||
+-3.283414	plan|| <unk>
+-3.283414	play|PERSON| read||
+-3.283414	play|kid| have||
+-3.283527	play|we| play|PERSON|
+-3.283527	play|we| relax|we|
+-3.283527	play|| be||
+-3.283527	play|| enjoy|I|
+-3.283414	please|| <unk>
+-3.283414	poke|I| be||
+-3.283414	post|we| <unk>
+-3.283414	post|| have||
+-3.283414	pound|| decide|we|
+-3.283414	pour||rain follow||
+-3.283414	prepare|| scramble||
+-3.283414	promise|| go|we|
+-3.283414	pull|we| see|we|
+-3.283414	pull|| <unk>
+-3.283414	push|| be||
+-3.283414	put|I| sleep|kid|
+-3.283414	put|that|we head|we|
+-3.283414	put|| <unk>
+-3.283414	put||tent set||
+-3.283527	rain|it| <unk>
+-3.283527	rain|it| have|we|
+-3.283527	rain|| <unk>
+-3.283527	rain|| be||
+-3.28364	read|I| <unk>
+-3.28364	read|I| be|we|
+-3.28364	read|I| happen|that|
+-3.283527	read|| be||
+-3.283527	read|| skip||
+-3.283414	read||book <unk>
+-3.283414	realize|we| <unk>
+-3.283414	recover|| have||family
+-3.283527	relax|we| be||
+-3.283527	relax|we| go|we|
+-3.283527	remember|I| <unk>
+-3.283527	remember|I| be|it|
+-3.283414	remember|| be|it|
+-3.283414	remind||I get||
+-3.283414	return|I| head||
+-3.283527	ride|| <unk>
+-3.283527	ride|| fall||
+-3.283414	ride||NUMBER <unk>
+-3.283414	roll|| <unk>
+-3.283414	run|that| <unk>
+-3.28364	run|we| <unk>
+-3.28364	run|we| say||
+-3.28364	run|we| sit|we|
+-2.982949	run|| <unk>
+-3.107888	run|| be||
+-3.283979	run|| wind||
+-3.283414	s'more|| be|thing|
+-3.28364	say|I| <unk>
+-3.28364	say|I| be||
+-3.28364	say|I| work||
+-3.283414	say|PERSON| want|she|
+-3.283527	say|he| be||
+-3.283527	say|he| know|you|
+-3.283414	say|it| stay||
+-3.283414	say|she| be|CAUSE_OF_DEATH|
+-3.283414	say|that| stay||
+-3.283414	say|who| be||
+-2.982949	say|| <unk>
+-2.982949	say|| be||
+-3.107436	scramble|| <unk>
+-3.107436	scream|| be||
+-3.283527	seem|it| <unk>
+-3.283527	seem|it| be||
+-3.283414	seem|which| <unk>
+-3.283414	seem|| <unk>
+-3.283414	see|I| <unk>
+-3.283414	see|I|sign go|we|
+-3.283414	see|i| dive|we|
+-3.107888	see|we| <unk>
+-2.982949	see|we| be||
+-3.283979	see|we| work|it|
+-3.283414	see|we|deer <unk>
+-3.283414	see|we|eel seem|which|
+-3.283414	see|you| be||
+-3.108001	see|| <unk>
+-3.284092	see|| be||
+-3.284092	see|| get|we|
+-3.284092	see|| go|sun|
+-3.284092	see|| have||
+-3.284092	see|| visit|we|LOCATION
+-3.283414	see||NUMBER <unk>
+-3.28364	see||PERSON be|who|
+-3.28364	see||PERSON see||PERSON
+-3.28364	see||PERSON wait|I|
+-3.283414	see||friend be||
+-3.283414	see||mountain <unk>
+-3.283414	see||she <unk>
+-3.28364	set|we| <unk>
+-3.28364	set|we| have||
+-3.28364	set|we| run||
+-3.107775	set|| <unk>
+-3.283866	set|| be||
+-3.283866	set|| know|we|
+-3.283866	set|| see||
+-3.283414	show|| hit|we|LOCATION
+-3.283527	sit|we| go|we|
+-3.283527	sit|we| push||
+-3.107436	sit|| <unk>
+-3.283414	skip|| be|all|
+-3.283414	sleep|PERSON| start|I|
+-3.283414	sleep|kid| go|PERSON|
+-3.284092	sleep|| <unk>
+-3.284092	sleep|| be||
+-3.284092	sleep|| get|we|
+-3.284092	sleep|| have||
+-3.284092	sleep|| pack|we|
+-3.284092	sleep|| take||I
+-3.284092	sleep|| warm||
+-3.283414	slip|| <unk>
+-3.283414	snuggle|| didn|it|MONEY
+-3.283527	soak|| <unk>
+-3.283527	soak|| have||
+-3.283414	sound|it| <unk>
+-3.283414	sound|they| <unk>
+-3.283414	speak|| be||
+-3.283414	spend|I|DURATION <unk>
+-3.107662	spend|we| <unk>
+-3.283753	spend|we| be||
+-3.283753	spend|we| camp||
+-3.283414	spend|we|half pack|we|car
+-3.283414	spend||time become||
+-3.283414	stand|we| be|guy|
+-3.283414	stand|you| be||
+-3.283414	stand|| go||I
+-3.283414	start|I| read||book
+-3.107436	start|it| rain||
+-3.283414	start|sun| go||
+-3.283527	start|we| be|I|
+-3.283527	start|we| make||way
+-3.283414	start|we|hike be||
+-3.283414	start|you| stand|you|
+-3.107549	start|| <unk>
+-3.28364	start|| pack||
+-3.283527	stay|PERSON| cover||
+-3.283527	stay|PERSON| go|everyone|
+-3.283527	stay|we| <unk>
+-3.283527	stay|we| be|time|
+-3.284092	stay|| <unk>
+-3.284092	stay|| be|stop|
+-3.284092	stay|| be||
+-3.284092	stay|| go|PERSON|
+-3.284092	stay|| have||
+-3.284092	stay|| sleep||
+-3.284092	stay|| sound|it|
+-3.283414	stop|I| <unk>
+-3.283979	stop|we| <unk>
+-3.107888	stop|we| be||
+-3.283979	stop|we| have|we|lunch
+-3.283979	stop|we| pick||apple
+-3.283979	stop|we| take|we|
+-3.283527	stop|| <unk>
+-3.283527	stop|| drive||
+-3.283414	suppose|it| be||
+-3.283414	surprise|I| do||
+-3.283414	swim|a| be||
+-3.283527	swim|we| be||
+-3.283527	swim|we| turn|we|
+-3.283414	swim|| see|I|sign
+-3.283414	take|I| <unk>
+-3.283414	take|I|picture hike|we|
+-3.283414	take|PERSON| spend|we|half
+-3.283527	take|it|he <unk>
+-3.283527	take|it|he fall||
+-3.283414	take|it|we get||
+-3.283414	take|picture| say|that|
+-3.28364	take|we| <unk>
+-3.28364	take|we| enjoy|we|scenery
+-3.28364	take|we| go|we|
+-3.283414	take|we|picture head||
+-3.283414	take|we|time walk||
+-3.283414	take|we|trail <unk>
+-3.107549	take|| <unk>
+-3.28364	take|| clean||it
+-3.283414	take||I warm||
+-3.283414	take||drive <unk>
+-3.283414	take||photo have||
+-3.283414	take||picture find|we|
+-3.283527	talk|I| be||
+-3.283527	talk|I| notice|I|
+-3.283414	talk|we| run|we|
+-3.283414	talk|| be||
+-3.283414	tell|I| <unk>
+-3.283527	tell|I|PERSON happen|what|
+-3.283527	tell|I|PERSON have|we|
+-3.283414	tend|I| wake||
+-3.283414	thank|| be||
+-3.283414	that||MONEY <unk>
+-3.283527	think|I| <unk>
+-3.283527	think|I| be||
+-3.107436	think|I|which be||
+-3.283414	think|i| be||
+-3.283979	think|| <unk>
+-3.283979	think|| be|life|
+-3.283979	think|| be|people|
+-3.283979	think|| have|we|
+-3.283979	think|| read|I|
+-3.283979	think|| see|i|
+-3.283414	threaten|| mean|I|
+-3.283414	throw|| wasn|it|MONEY
+-3.283866	try|I| <unk>
+-3.283866	try|I| be||
+-3.283866	try|I| climb|I|
+-3.283866	try|I| ride||NUMBER
+-3.283866	try|I| turn||
+-3.283753	try|| <unk>
+-3.283753	try|| enjoy||view
+-3.283753	try|| get||
+-3.283753	try|| live||
+-3.283414	try||camping do||
+-3.283414	try||it <unk>
+-3.283414	turn|I| be||
+-3.283414	turn|PERSON| turn|I|
+-3.283414	turn|that| be||
+-3.283414	turn|we| take|it|we
+-3.283527	turn|| <unk>
+-3.283527	turn|| get|I|
+-3.283414	use|I| be||
+-3.283414	use|that| camp||
+-3.283414	view|| be||
+-3.283414	visit|we|LOCATION <unk>
+-3.283414	visit|| <unk>
+-3.283414	wade|| <unk>
+-3.283527	wait|I| arrive|they|
+-3.283527	wait|I| see||PERSON
+-3.283414	wait|they| <unk>
+-3.283414	wait|we| <unk>
+-3.283527	wait|| </s>
+-3.283527	wait|| be||
+-3.283414	wake|I| have||
+-3.28364	wake|we| <unk>
+-3.107549	wake|we| get||
+-3.283527	wake|| <unk>
+-3.283527	wake|| start||
+-3.283414	walk|we| <unk>
+-3.283753	walk|| <unk>
+-3.283753	walk|| be||
+-3.283753	walk|| keep||
+-3.283753	walk|| take||picture
+-3.283414	wander|| be||
+-3.283753	want|I| <unk>
+-3.107662	want|I| go||
+-3.283753	want|I| write||
+-3.283527	want|she| get||
+-3.283527	want|she| go||home
+-3.107436	want|t| <unk>
+-3.107549	want|we| <unk>
+-3.28364	want|we| head||
+-3.283527	warm|| don|I|t
+-3.283527	warm|| do||
+-3.283414	warn|| be||
+-3.283414	wasn|I|t be||
+-3.283414	wasn|it|MONEY <unk>
+-3.283414	wasn||MONEY <unk>
+-3.283414	watch|I| <unk>
+-3.283414	watch|we| <unk>
+-3.283414	watch|| go|sun|
+-3.283414	watch||sunrise be||
+-3.283414	watch||sunset love|I|
+-3.283414	wear|| <unk>
+-3.283414	we|that|MONEY be||
+-3.107662	we||MONEY <unk>
+-3.283753	we||MONEY be||
+-3.283753	we||MONEY want|we|
+-3.283414	wind|| <unk>
+-3.283414	work|it| </s>
+-3.107436	work|| <unk>
+-3.283414	worry|PERSON| <unk>
+-3.283414	worry|we| be|all|
+-3.283414	worry|| <unk>
+-3.283414	write|| <unk>
+-3.283414	yell|I| have|we|
+-3.283414	yell|| be|we|
+-3.283414	zip|| be|stop|
+
+\end\

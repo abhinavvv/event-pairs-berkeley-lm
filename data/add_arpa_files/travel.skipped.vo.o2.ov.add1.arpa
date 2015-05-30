@@ -1,0 +1,4324 @@
+
+\data\
+ngram 1=2832
+ngram 2=1482
+
+\1-grams:
+-3.745855	!!!|
+-3.745855	!!|
+-3.745855	:d|
+-2.384127	</s>
+-99	<s>	0.1418781
+-0.9417158	<unk>	0.139913
+-3.745855	abandon|
+-3.745855	absolve|myself
+-3.745855	accept|
+-3.745855	access|
+-3.745855	accompany|
+-3.745855	accomplish|
+-3.745855	accord|
+-3.745855	account|
+-3.745855	accustom|
+-3.745855	ache|
+-3.745855	act|
+-3.745855	add|
+-3.745855	add|MONEY
+-3.745855	add|half
+-3.745855	add|mile
+-3.745855	add|tarp
+-3.745855	add|water
+-3.444825	adjust|	-0.000150845
+-3.444825	admit|	0.05243726
+-3.268734	advise|	0.007095479
+-3.745855	affect|
+-3.745855	agree|
+-3.745855	ahhh|
+-3.745855	aim|
+-3.745855	allow|
+-3.745855	allow|I
+-3.745855	allow|sleep
+-3.745855	allow|we
+-3.745855	along.|
+-3.745855	alternate|
+-3.444825	amaze|	0.0002393218
+-3.745855	amaze|I
+-3.745855	amount|
+-3.745855	anchor|
+-3.745855	announce|
+-3.745855	answer|
+-3.745855	answer|phone
+-3.745855	anticipate|
+-3.745855	appeal|
+-3.745855	appear|
+-3.745855	apply|
+-3.745855	appreciate|
+-3.745855	approach|
+-3.745855	aren|t
+-3.745855	arrange|
+-3.745855	arrange|trip
+-2.745855	arrive|	0.04923525
+-3.745855	arrive|NUMBER
+-3.745855	arrive|home
+-3.745855	ascend|
+-3.745855	ask|
+-3.745855	ask|I
+-3.745855	ask|PERSON
+-3.745855	ask|favor
+-3.745855	ask|he
+-3.745855	ask|kid
+-3.745855	ask|people
+-3.745855	ask|question
+-3.745855	ask|she
+-3.745855	ask|we
+-3.745855	assese|space
+-3.745855	associate|
+-3.444825	assume|	0.05243726
+-3.745855	assure|
+-3.745855	assure|I
+-3.745855	attach|
+-3.745855	attack|
+-3.745855	attack|we
+-3.745855	attempt|
+-3.745855	attend|
+-3.745855	average|
+-3.745855	average|mpg
+-3.745855	avoid|
+-3.745855	await|
+-3.444825	awake|	-0.000150845
+-3.745855	award|
+-3.745855	backpack|
+-3.143795	backtrack|	0.05910348
+-3.444825	back|	0.04657838
+-3.745855	bail|
+-3.745855	balance|it
+-3.745855	balk|
+-3.745855	bang|
+-3.745855	bark|
+-3.444825	base|	0.04657838
+-3.745855	bath|
+-3.745855	beam|
+-3.745855	bear|
+-3.745855	beat|
+-3.745855	beat|stuff
+-3.444825	become|	0.05243726
+-2.967704	begin|	0.05288597
+-3.745855	begin|ascent
+-3.444825	begin|descent	0.04657838
+-3.745855	begin|down.
+-3.745855	beg|
+-3.745855	behave|
+-3.745855	behold|
+-3.444825	believe|	0.04657838
+-3.745855	believe|I
+-3.745855	believe|it
+-3.745855	belong|
+-3.745855	bend|
+-3.745855	bend|rule
+-3.444825	bet|	0.04657838
+-0.9899803	be|	0.1457121
+-3.745855	be|that
+-3.444825	be|what	0.007164258
+-3.745855	bias|
+-3.745855	bind|
+-3.745855	bird|
+-3.745855	bite|
+-3.745855	blame|parenting
+-3.745855	blast|
+-3.444825	blaze|	0.04657838
+-3.745855	bleed|
+-3.268734	blend|	0.1054564
+-3.444825	bless|	0.005264662
+-3.745855	bless|you
+-3.444825	block|	0.04657838
+-3.745855	blogg|
+-3.745855	bloom|
+-3.745855	blow|
+-3.745855	blow|it
+-3.745855	board|
+-3.745855	board|boat
+-3.745855	bob|
+-3.745855	boil|
+-3.745855	boil|water
+-3.745855	bonk|
+-3.745855	bookend|
+-3.745855	book|
+-3.745855	book|it
+-3.745855	book|room
+-3.745855	book|site
+-3.745855	border|
+-3.745855	bore|
+-3.444825	borrow|	-7.28397e-05
+-3.745855	bother|
+-3.444825	bother|I	0.05243726
+-3.745855	bounce|
+-3.745855	bowl|
+-3.745855	brave|
+-3.745855	brave|NUMBER
+-3.745855	breakfast.|
+-3.745855	breakfast|MONEY
+-3.745855	break|
+-3.745855	break|bone
+-3.268734	break|camp	0.1054564
+-3.745855	break|free.
+-3.745855	break|it
+-3.745855	break|rule
+-3.745855	break|vegetarianism
+-3.444825	breathe|	0.04657838
+-3.745855	breathe|alcohol
+-3.745855	breathe|sleep
+-2.967704	bring|	0.05292816
+-3.444825	bring|I	-7.28397e-05
+-3.745855	bring|blast
+-3.745855	bring|bottle
+-3.745855	bring|camera
+-3.745855	bring|chook
+-3.745855	bring|cowrie
+-3.745855	bring|friend
+-3.745855	bring|in.
+-3.745855	bring|it
+-3.745855	bring|pot
+-3.745855	bring|rear
+-3.745855	bring|salad
+-3.745855	bring|set
+-3.745855	bring|some
+-3.745855	bring|stereo
+-3.745855	bring|stuff
+-3.745855	bring|veggy
+-3.745855	bring|water
+-3.745855	bring|we
+-3.444825	brush|tooth	0.001255399
+-3.745855	buck|MONEY
+-3.745855	build|
+-3.745855	build|CAUSE_OF_DEATH
+-3.745855	build|DATE
+-3.745855	build|campfire
+-3.745855	bump|
+-3.745855	bundle|
+-3.745855	bunk|
+-3.745855	burn|
+-3.745855	burn|it
+-3.745855	bury|
+-3.745855	bushwack|way
+-3.444825	buy|	0.05243726
+-3.745855	buy|MONEY
+-3.745855	buy|NUMBER
+-3.745855	buy|camera
+-3.745855	buy|chicken
+-3.745855	buy|couple
+-3.444825	buy|food	0.005264662
+-3.745855	buy|stove
+-3.745855	buy|tent
+-3.745855	buy|trucker
+-3.444825	buzz|	0.04657838
+-2.967704	call|	0.0524443
+-3.745855	call|I
+-3.745855	call|LOCATION
+-3.745855	call|Mushrooms
+-3.745855	call|NUMBER
+-3.745855	call|PERSON
+-3.745855	call|dib
+-3.745855	call|hat
+-3.444825	call|he	0.0008643185
+-3.745855	call|hotel
+-3.444825	call|it	0.001333657
+-3.444825	call|they	0.05243726
+-3.745855	call|trip
+-3.444825	call|we	0.05243726
+-3.745855	call|what
+-3.745855	call|word
+-3.444825	calm|	0.0003173973
+-3.745855	calm|fear
+-3.745855	came|
+-3.444825	campground|	-7.28397e-05
+-2.967704	camp|	0.1172114
+-3.745855	camp|DATE
+-3.745855	camp|ORGANIZATION
+-3.745855	camp|better
+-3.745855	camp|time
+-3.745855	camp|trip
+-3.745855	cancel|
+-3.745855	cancel|reservation
+-3.745855	cancel|trip
+-3.745855	canoe|
+-3.745855	cant|
+-3.745855	can|
+-3.745855	can|MONEY
+-3.745855	can|wait
+-3.745855	capture|heart
+-3.745855	care|
+-3.745855	carry|
+-3.745855	carry|I
+-3.745855	carry|PERSON
+-3.745855	carry|dog
+-3.444825	carry|everything	0.05243726
+-3.745855	carry|grudge
+-3.745855	carry|it
+-3.745855	carry|tent
+-3.745855	carry|toy
+-3.745855	carry|water
+-3.745855	carry|what
+-3.745855	cast|
+-3.444825	catch|	0.04657838
+-3.745855	catch|NUMBER
+-3.745855	catch|anything
+-3.745855	catch|attention
+-3.745855	catch|bus
+-3.745855	catch|couple
+-3.268734	catch|fish	0.00661954
+-3.745855	catch|fishing
+-3.745855	catch|frog
+-3.745855	catch|it
+-3.745855	catch|many
+-3.745855	catch|train
+-3.745855	catch|view
+-3.745855	cause|
+-3.745855	cause|plan
+-3.745855	cease|
+-3.745855	celebrate|
+-3.745855	certify|
+-3.143795	change|	0.05232948
+-3.745855	change|clothes
+-3.745855	change|plan
+-3.745855	change|spot
+-3.745855	change|thing
+-3.745855	change|trip
+-3.444825	charge|	0.0001612602
+-3.745855	charter|PERSON
+-3.745855	char|
+-3.745855	chase|
+-3.745855	chase|bravado
+-3.745855	chat|
+-3.046885	check|	0.001196575
+-3.745855	check|LOCATION
+-3.745855	check|PERSON
+-3.745855	check|gage
+-3.745855	check|geyser
+-3.745855	check|it
+-3.745855	check|kid
+-3.745855	check|lht
+-3.745855	check|place
+-3.745855	check|resort
+-3.745855	check|river
+-3.745855	check|time
+-3.745855	cherish|
+-3.745855	chew|
+-3.745855	chillin|MONEY
+-3.745855	chill|
+-3.745855	choose|
+-3.745855	choose|NUMBER
+-3.745855	chop|firewood
+-3.745855	chop|put
+-3.745855	circle|
+-3.745855	claim|dib
+-3.745855	clap|
+-3.268734	clean|	0.05699977
+-3.745855	clean|it
+-3.444825	clear|	0.001333657
+-3.745855	clear|it
+-3.444825	click|	-0.000150845
+-3.745855	click|picture
+-3.046885	climb|	0.1124745
+-3.268734	climb|it	0.04653222
+-3.745855	climb|mountain
+-3.745855	climb|rock
+-3.745855	climb|tower
+-3.745855	climb|tree
+-3.745855	cling|
+-2.967704	close|	0.05826027
+-3.745855	close|it
+-3.745855	cloud|
+-3.745855	coat|
+-3.745855	collapse|
+-3.745855	collect|
+-3.745855	color|
+-2.704463	come|	0.1060592
+-3.745855	come|DATE
+-3.745855	come|MONEY
+-3.745855	come|home
+-3.444825	come|it	0.04657838
+-3.745855	come|walking
+-3.745855	come|way
+-3.745855	commence|
+-3.745855	comment|
+-3.745855	commune|
+-3.745855	communicate|
+-3.745855	compare|
+-3.745855	compensate|
+-3.268734	complain|	0.1054564
+-3.745855	complain|ton
+-3.745855	complete|
+-3.745855	complete|course
+-3.745855	complete|dive
+-3.745855	complete|hike
+-3.745855	complete|journey
+-3.745855	compliment|
+-3.745855	comprise|
+-3.745855	concentrate|
+-3.745855	concern|
+-3.745855	confess|
+-3.444825	confirm|	0.05243726
+-3.745855	confuse|
+-3.745855	connect|
+-3.745855	connect|MONEY
+-3.745855	connect|lifestyle
+-3.444825	consider|	0.009311282
+-3.745855	consist|
+-3.745855	construct|
+-3.444825	consume|	0.007164258
+-3.745855	contain|
+-3.745855	contemplate|
+-3.745855	contemplate|horror
+-3.745855	contend|
+-3.268734	continue|	0.009722509
+-3.745855	continue|haul
+-3.745855	contribute|
+-3.745855	control|
+-3.745855	convince|
+-3.268734	convince|PERSON	-0.0002236007
+-3.745855	cook|
+-3.745855	cook|breakfast
+-3.745855	cook|dinner
+-3.444825	cook|meal	0.0006298393
+-3.745855	cook|sun
+-3.444825	cook|they	0.05243726
+-3.745855	cook|we
+-3.745855	cool|
+-3.745855	cooperate|
+-3.745855	cope|course
+-3.745855	cost|buck
+-3.444825	couldnt|	0.05243726
+-3.143795	couldn|MONEY	0.009016638
+-3.745855	couldn|drive
+-3.745855	couldn|t
+-3.745855	couldn|use
+-3.745855	counter|
+-3.745855	count|
+-3.444825	cover|	0.0008643185
+-3.745855	cover|all
+-3.745855	cover|mile
+-3.745855	cover|myself
+-3.745855	cozy|
+-3.745855	co|
+-3.745855	crackle|
+-3.745855	cram|
+-3.444825	crash|	0.0002393218
+-3.745855	crash|wave
+-3.268734	crawl|	0.006223322
+-3.745855	create|
+-3.745855	create|couple
+-3.745855	creep|
+-3.745855	cross|
+-3.745855	cross|LOCATION
+-3.745855	cross|border
+-3.745855	cross|bridge
+-3.745855	cross|creek
+-3.745855	cross|everything
+-3.745855	cross|face
+-3.745855	cross|river
+-3.745855	cross|water
+-3.745855	crowd|
+-3.444825	cruise|	0.04657838
+-3.745855	crush|
+-3.745855	cry|
+-3.745855	cry|little
+-3.745855	cuddle|
+-3.745855	curl|
+-3.444825	cut|	0.0004735902
+-3.745855	cut|meat
+-3.745855	cut|short.
+-3.745855	cut|veggy
+-3.444825	dance|	0.0001612602
+-3.745855	dart|
+-3.745855	date|
+-3.444825	deal|	0.04657838
+-2.330882	decide|	0.1295291
+-3.745855	decide|campsite
+-3.745855	declare|
+-3.745855	deflate|
+-3.745855	dehydrate|
+-3.745855	dehydrate|it
+-3.745855	delay|
+-3.745855	depart|
+-3.745855	depress|
+-3.745855	descend|
+-3.745855	describe|
+-3.745855	describe|it
+-3.745855	describe|part
+-3.444825	desert|	0.05243726
+-3.745855	deserve|break
+-3.745855	designate|
+-3.745855	design|
+-3.745855	desire|
+-3.745855	destroy|
+-3.444825	determine|	0.04657838
+-3.745855	develop|
+-3.745855	develop|bond
+-3.745855	develop|film
+-3.745855	didnt|
+-3.745855	didn|
+-3.444825	didn|MONEY	0.009311282
+-3.745855	didn|anything
+-3.745855	didn|care
+-3.745855	didn|look
+-3.745855	didn|show
+-3.745855	didn|sleep
+-3.745855	didn|t
+-3.745855	didn|take
+-3.745855	didn|think
+-3.745855	didn|wake
+-3.745855	didn|whatever
+-3.745855	didn|work
+-3.444825	die|	0.05243726
+-3.745855	die|PERSON
+-3.745855	digress|
+-3.745855	dig|
+-3.745855	dig|latrine
+-3.745855	dig|pit
+-3.745855	dine|
+-3.745855	dip|
+-3.745855	direct|she
+-3.745855	disapoint|
+-3.444825	disappear|	0.009311282
+-3.444825	disappoint|	0.04657838
+-3.268734	discover|	-0.0003016339
+-3.745855	discover|badmitton
+-3.745855	discover|practiced
+-3.745855	disturb|something
+-2.967704	dive|	0.04707105
+-3.745855	do.|
+-3.745855	document|
+-3.745855	dodge|
+-3.745855	doesn|Camping
+-3.745855	doesn|MONEY
+-3.745855	doesn|t
+-3.444825	doesn|work	0.05243726
+-3.745855	dominate|
+-3.143795	don|	0.05232948
+-3.444825	don|MONEY	0.005264662
+-3.745855	don|t
+-3.444825	don|think	0.009311282
+-3.745855	dot|
+-3.745855	douse|ourselves
+-3.444825	down|	-0.000150845
+-3.745855	doze|
+-1.859365	do|	0.1462503
+-3.745855	do|!!
+-3.745855	do|?!
+-3.745855	do|DATE
+-3.745855	do|DURATION
+-3.745855	do|LOCATION
+-3.745855	do|MISC
+-3.268734	do|NUMBER	0.007333645
+-3.745855	do|PERSON
+-3.745855	do|all
+-3.745855	do|anything
+-3.745855	do|before
+-3.745855	do|best
+-3.745855	do|blog
+-3.745855	do|bunch
+-3.745855	do|camping
+-3.745855	do|cooking
+-3.745855	do|course
+-3.745855	do|dish
+-3.745855	do|dive
+-3.745855	do|diving
+-3.745855	do|everything
+-3.745855	do|feeding
+-3.745855	do|half
+-3.444825	do|hike	0.009311282
+-3.745855	do|hiking
+-3.745855	do|i
+-3.046885	do|it	0.1051499
+-3.143795	do|job	0.1056475
+-3.745855	do|jump
+-3.745855	do|kind
+-3.745855	do|laundry
+-3.745855	do|loop
+-3.745855	do|lot
+-3.745855	do|mile
+-3.745855	do|more
+-3.745855	do|research
+-3.745855	do|same
+-3.745855	do|section
+-3.745855	do|shopping
+-3.745855	do|sign
+-3.745855	do|snorkeling
+-3.745855	do|some
+-3.745855	do|something
+-3.745855	do|stop
+-3.745855	do|stuff
+-3.444825	do|that	0.009311282
+-3.745855	do|they
+-3.444825	do|thing	0.007164258
+-3.745855	do|this
+-3.745855	do|time
+-3.745855	do|ton
+-3.745855	do|tour
+-3.745855	do|trail
+-3.745855	do|travel
+-3.745855	do|treatment
+-3.745855	do|trip
+-3.268734	do|walk	0.05239465
+-3.745855	do|water
+-3.745855	do|we
+-3.143795	do|what	0.04822897
+-3.745855	do|which
+-3.745855	do|work
+-3.444825	drag|	0.05243726
+-3.745855	drain|
+-3.745855	drain|lot
+-3.745855	draw|
+-3.745855	dream|
+-3.745855	dream|DURATION
+-3.745855	drench|
+-3.745855	drench|grounds
+-3.143795	dress|	9.43573e-05
+-3.444825	drift|	0.04657838
+-3.745855	drinkin|smithwick
+-3.444825	drink|	-7.28397e-05
+-3.745855	drink|Light
+-3.745855	drink|beer
+-3.745855	drink|wine
+-3.444825	drip|	0.005264662
+-2.240705	drive|	0.1160863
+-3.745855	drive|DURATION
+-3.745855	drive|Hwy
+-3.745855	drive|NUMBER
+-3.745855	drive|Shore
+-3.745855	drive|butte
+-3.444825	drive|car	0.009311282
+-3.745855	drive|drive
+-3.745855	drive|excavator
+-3.745855	drive|grab
+-3.745855	drive|half
+-3.444825	drive|home	0.04657838
+-3.745855	drive|hundred
+-3.745855	drive|interest
+-3.444825	drive|mile	0.0004735902
+-3.745855	drive|mountain
+-3.745855	drive|north
+-3.745855	drive|road
+-3.745855	drive|route
+-3.745855	drive|solo
+-3.745855	drive|total
+-3.745855	drive|way
+-3.745855	drive|we
+-3.745855	drizzle|forecast
+-3.268734	drop|	0.04642505
+-3.745855	drop|PERSON
+-3.745855	drop|parent
+-3.745855	drown|
+-3.444825	dry|	0.05243726
+-3.745855	dry|egg
+-3.745855	dry|food
+-3.745855	dry|meal
+-3.745855	dry|most
+-3.745855	duck|
+-3.745855	dump|
+-3.745855	dump|thing
+-3.745855	earn|moniker
+-3.745855	earn|pad
+-2.842765	eat|	0.1177263
+-3.444825	eat|breakfast	0.04657838
+-3.745855	eat|chicken
+-3.745855	eat|crust
+-3.745855	eat|dinner
+-3.745855	eat|food
+-3.745855	eat|grass
+-3.745855	eat|lunch
+-3.745855	eat|mores
+-3.745855	eat|non-stop
+-3.745855	eat|package
+-3.745855	eat|pizza
+-3.745855	eat|something
+-3.745855	eat|supper
+-3.444825	eat|they	0.00219543
+-3.745855	eat|ton
+-3.745855	echo|
+-3.745855	edward|
+-3.745855	elbow|PERSON
+-3.745855	elect|driver
+-3.745855	email|I
+-3.745855	embark|
+-3.745855	emerge|
+-3.444825	empty|	-7.28397e-05
+-3.745855	encourage|
+-3.745855	endure|moment
+-3.745855	endure|trekking
+-3.046885	end|	0.05425463
+-3.745855	end|next
+-3.745855	end|sleep
+-3.745855	end|trip
+-3.745855	engage|
+-2.900757	enjoy|	0.05773563
+-3.745855	enjoy|LOCATION
+-3.745855	enjoy|beach
+-3.745855	enjoy|beer
+-3.745855	enjoy|boat
+-3.745855	enjoy|burrito
+-3.745855	enjoy|campsite
+-3.745855	enjoy|chance
+-3.745855	enjoy|diving
+-3.745855	enjoy|drive
+-3.745855	enjoy|eruption
+-3.745855	enjoy|feel
+-3.745855	enjoy|hike
+-3.444825	enjoy|it	0.04657838
+-3.745855	enjoy|life
+-3.745855	enjoy|lot
+-3.745855	enjoy|ourselves
+-3.745855	enjoy|pace
+-3.745855	enjoy|picture
+-3.745855	enjoy|quiet
+-3.745855	enjoy|rest
+-3.745855	enjoy|road
+-3.745855	enjoy|s'more
+-3.745855	enjoy|scenery
+-3.745855	enjoy|swimming
+-3.745855	enjoy|time
+-3.745855	enjoy|trip
+-3.745855	enjoy|view
+-3.745855	enjoy|visibility
+-3.745855	enjoy|walking
+-3.745855	enjoy|water
+-3.444825	enjoy|weather	0.001255399
+-3.745855	enlarge|
+-3.745855	ensue|
+-3.745855	ensure|
+-3.745855	entertain|
+-3.745855	entertain|cop
+-3.268734	enter|	0.04653222
+-3.745855	enter|LOCATION
+-3.745855	enter|ORGANIZATION
+-3.745855	enter|area
+-3.745855	enter|water
+-3.745855	envelop|we
+-3.745855	equalize|
+-3.745855	equalize|pressure
+-3.745855	equate|
+-3.745855	equip|
+-3.745855	erode|
+-3.444825	escape|	0.001020708
+-3.745855	estimate|
+-3.745855	etch|
+-3.745855	etc|MONEY
+-3.745855	examine|
+-3.745855	exceed|mile
+-3.143795	excite|	0.05687106
+-3.745855	exhaust|
+-3.745855	exit|
+-3.745855	exit|water
+-3.745855	expand|
+-3.444825	expect|	0.005738782
+-3.745855	expect|animal
+-3.745855	expect|it
+-3.745855	expect|they
+-3.745855	experience|
+-3.745855	experience|bush
+-3.745855	experience|what
+-3.745855	experience|wreck
+-3.745855	explain|
+-3.745855	explode|
+-3.745855	explore|
+-3.745855	explore|LOCATION
+-3.745855	explore|area
+-3.745855	explore|island
+-3.745855	explore|trail
+-3.745855	face|
+-3.745855	face|TIME
+-3.745855	face|beach
+-3.745855	face|lake
+-3.745855	fade|
+-3.745855	fail|
+-2.842765	fall|	0.05961848
+-3.745855	fall|time
+-3.745855	family|MONEY
+-3.745855	family|t
+-3.745855	fascinate|
+-3.745855	fashion|
+-3.444825	feast|	0.04657838
+-3.745855	feed|
+-3.745855	feed|duck
+-3.745855	feed|fish
+-3.745855	feed|she
+-3.745855	feed|wood
+-2.569764	feel|	0.1054553
+-3.745855	feel|:--rrb-_NN
+-3.745855	feel|better
+-3.745855	feel|cold
+-3.745855	feel|it
+-3.745855	feel|kind
+-3.745855	feel|load
+-3.745855	feel|lot
+-3.745855	feel|need
+-3.745855	feel|tingling
+-3.745855	feel|way
+-3.745855	fight|
+-3.745855	fight|intruder
+-3.745855	fight|it
+-2.631912	figure|	0.1245258
+-3.745855	fill|
+-3.745855	fill|tank
+-3.745855	film|
+-3.745855	filter|water
+-2.900757	find|	0.1195259
+-3.745855	find|MISC
+-3.745855	find|Motel
+-3.745855	find|NUMBER
+-3.143795	find|PERSON	0.05213067
+-3.444825	find|campground	0.009311282
+-3.444825	find|campsite	0.009311282
+-3.745855	find|car
+-3.745855	find|flight
+-3.745855	find|gallon
+-3.745855	find|he
+-3.444825	find|hotel	0.05243726
+-3.745855	find|it
+-3.745855	find|myself
+-3.745855	find|nemo
+-3.444825	find|place	0.005738782
+-3.745855	find|quarry
+-3.745855	find|restaurant
+-3.745855	find|she
+-3.444825	find|site	0.04657838
+-3.745855	find|solution
+-3.143795	find|spot	0.04637895
+-3.745855	find|tent
+-3.745855	find|trail
+-3.745855	find|trailhead
+-3.745855	find|tree
+-3.444825	find|way	0.05243726
+-3.444825	find|we	-0.000150845
+-3.143795	finish|	0.1053487
+-3.745855	finish|DATE
+-3.745855	finish|breakfast
+-3.745855	finish|dinner
+-3.745855	finish|dive
+-3.745855	finish|float
+-3.745855	finish|job
+-3.745855	fire|
+-3.745855	fish.|
+-3.745855	fish|
+-3.745855	fit|
+-3.745855	fit|I
+-3.745855	fit|people
+-3.745855	fix|
+-3.745855	fix|it
+-3.745855	fix|situation
+-3.745855	flap|
+-3.745855	flip|
+-3.745855	flip|switch
+-3.745855	float|
+-3.745855	float|MONEY
+-3.745855	flood|
+-3.745855	flounder|
+-3.745855	flow|
+-3.745855	flush|
+-3.143795	fly|	0.05473867
+-3.745855	focus|
+-3.745855	fold|it
+-2.842765	follow|	0.04831339
+-3.745855	follow|LOCATION
+-3.745855	follow|it
+-3.745855	follow|sign
+-3.745855	follow|track
+-3.745855	follow|trail
+-3.745855	follow|we
+-3.745855	fool|
+-3.745855	forage|
+-3.444825	force|	0.001333657
+-3.745855	force|myself
+-2.967704	forget|	0.06377675
+-3.745855	forget|anything
+-3.745855	forget|it
+-3.745855	forget|name
+-3.745855	forget|tent
+-3.745855	form|
+-3.745855	freak|
+-3.745855	freak|I
+-3.745855	freak|time
+-3.268734	freeze|	0.1054564
+-3.745855	frequent|
+-3.745855	frustrate|
+-3.745855	fry|steak
+-3.745855	fuck|
+-3.745855	fuel|
+-3.268734	gain|	0.04653222
+-3.745855	gain|elevation
+-3.745855	gather|
+-3.745855	gaze|
+-3.745855	gear|
+-1.894597	get|	0.1521364
+-3.745855	get|:d
+-3.444825	get|CAUSE_OF_DEATH	0.007164258
+-3.745855	get|DATE
+-3.745855	get|DURATION
+-3.745855	get|I
+-3.745855	get|Luke-Xavier
+-3.745855	get|MISC
+-3.745855	get|MONEY
+-3.745855	get|NUMBER
+-3.745855	get|PERSON
+-3.745855	get|TIME
+-3.745855	get|all
+-3.745855	get|anything
+-3.745855	get|battery
+-3.444825	get|better	0.001490216
+-3.745855	get|bike
+-3.745855	get|bit
+-3.444825	get|break	-0.000150845
+-3.745855	get|breakfast
+-3.745855	get|bus
+-3.745855	get|cabin
+-3.745855	get|camera
+-3.745855	get|campchair
+-3.745855	get|campsite
+-3.444825	get|canoe	-0.000150845
+-3.745855	get|car
+-3.745855	get|chance
+-3.745855	get|coffee
+-3.745855	get|cold
+-3.745855	get|cooler
+-3.745855	get|couple
+-3.745855	get|cream
+-3.745855	get|darker
+-3.745855	get|direction
+-3.745855	get|discount
+-3.745855	get|donut
+-3.745855	get|enough
+-3.745855	get|equipment
+-3.745855	get|everything
+-3.745855	get|firewood
+-3.745855	get|food
+-3.745855	get|foot
+-3.745855	get|gas
+-3.745855	get|gear
+-3.745855	get|get
+-3.745855	get|glimpse
+-3.745855	get|grill
+-3.745855	get|grocery
+-3.745855	get|half
+-3.268734	get|he	0.1054564
+-3.745855	get|heck
+-3.745855	get|holiday
+-3.046885	get|home	0.06508116
+-3.745855	get|home.
+-3.745855	get|idea
+-3.745855	get|invitation
+-3.444825	get|it	0.05243726
+-3.745855	get|kid
+-3.745855	get|kit
+-3.745855	get|light
+-3.745855	get|lot
+-3.745855	get|lunch
+-3.745855	get|lure
+-3.745855	get|mask
+-3.745855	get|mile
+-3.745855	get|mileage
+-3.745855	get|milkshake
+-3.745855	get|more
+-3.745855	get|opportunity
+-3.745855	get|pancake
+-3.745855	get|part
+-3.444825	get|photo	0.05243726
+-3.745855	get|picture
+-3.745855	get|pizza
+-3.745855	get|rain
+-3.745855	get|really.
+-3.745855	get|ride
+-3.745855	get|room
+-3.745855	get|seasick
+-3.745855	get|setup
+-3.745855	get|she
+-3.745855	get|shot
+-3.745855	get|shower
+-3.745855	get|signal
+-3.444825	get|site	0.05243726
+-3.745855	get|sleep
+-3.745855	get|snow
+-3.745855	get|something
+-3.444825	get|start	0.04657838
+-3.745855	get|suit
+-3.745855	get|sunburn
+-3.745855	get|supplies
+-3.745855	get|tan
+-3.745855	get|tent
+-3.745855	get|there
+-3.745855	get|they
+-3.268734	get|thing	0.0003230253
+-3.444825	get|time	0.04657838
+-3.745855	get|ton
+-3.745855	get|trail
+-3.745855	get|trip
+-3.745855	get|unwritten
+-3.745855	get|video
+-3.745855	get|view
+-3.745855	get|visa
+-3.745855	get|water
+-3.745855	get|way
+-3.745855	get|we
+-3.745855	get|what
+-3.745855	get|which
+-3.745855	get|work
+-3.745855	giggle|
+-3.745855	giggle|flashlight
+-3.745855	giggle|kid
+-3.268734	give|	0.1054564
+-3.745855	give|!!
+-3.745855	give|DURATION
+-3.268734	give|I	0.05228394
+-3.444825	give|NUMBER	0.05243726
+-3.444825	give|PERSON	-0.000150845
+-3.444825	give|break	5.179609e-06
+-3.745855	give|chance
+-3.745855	give|direction
+-3.444825	give|go	5.179609e-06
+-3.745855	give|hand
+-3.745855	give|he
+-3.745855	give|hug
+-3.444825	give|it	-0.000150845
+-3.745855	give|result
+-3.444825	give|she	0.05243726
+-3.745855	give|shower
+-3.745855	give|some
+-3.745855	give|something
+-3.745855	give|they
+-3.745855	give|time
+-3.745855	give|tour
+-3.745855	give|trouble
+-3.745855	give|try
+-3.745855	give|view
+-3.745855	give|we
+-3.444825	give|you	0.05243726
+-3.745855	glance|
+-3.745855	glisten|
+-3.745855	go?|MONEY
+-3.745855	gobble|they
+-3.745855	gon|
+-1.768132	go|	0.1547517
+-3.745855	go|!!!
+-3.745855	go|DATE
+-3.745855	go|I
+-3.745855	go|LOCATION
+-3.444825	go|MONEY	0.04657838
+-3.745855	go|NUMBER
+-3.745855	go|Oooooohhhhhh
+-3.745855	go|bag
+-3.745855	go|bike
+-3.745855	go|bowling
+-3.046885	go|camping	0.1068917
+-3.745855	go|cool
+-3.745855	go|direction
+-3.745855	go|diving
+-3.745855	go|eating
+-3.745855	go|fishing
+-3.745855	go|from
+-3.745855	go|hand
+-3.745855	go|hiking
+-3.745855	go|hill
+-3.444825	go|home	8.321292e-05
+-3.745855	go|mattress
+-3.745855	go|mile
+-3.745855	go|north
+-3.745855	go|overhead
+-3.745855	go|picking
+-3.745855	go|s
+-3.745855	go|shopping
+-3.444825	go|swimming	0.04657838
+-3.745855	go|that
+-3.745855	go|time
+-3.745855	go|trail
+-3.745855	go|venture
+-3.143795	go|way	0.05427223
+-3.745855	go|what
+-3.444825	grab|	0.0008643185
+-3.745855	grab|I
+-3.745855	grab|geocache
+-3.745855	grab|guide
+-3.745855	grant|water
+-3.745855	grant|we
+-3.745855	grate|
+-3.745855	graze|
+-3.268734	greet|	0.04801223
+-3.745855	greet|DATE
+-3.745855	grow|
+-3.745855	grow|tomboy
+-3.745855	grumble|
+-3.745855	guard|campsite
+-3.444825	guess|	0.009311282
+-3.745855	guess|cost
+-3.745855	guess|it
+-3.745855	guide|
+-3.745855	guide|we
+-3.745855	had.|
+-3.745855	hadn|MONEY
+-3.745855	hadn|t
+-3.745855	hail|
+-3.745855	hammer|
+-3.745855	handle|
+-3.745855	handle|LOCATION
+-3.745855	handle|it
+-3.745855	handle|trip
+-3.745855	hand|
+-3.143795	hang|	0.05394172
+-3.745855	hang|food
+-3.745855	hang|tarp
+-3.268734	happen|	0.04670608
+-3.745855	hasn|MONEY
+-3.444825	hate|	0.005738782
+-3.745855	hate|cricket
+-3.745855	hate|thing
+-3.745855	haul|
+-3.745855	haul|everything
+-3.444825	haven|MONEY	-0.000150845
+-1.659495	have|	0.161567
+-3.745855	have|2x
+-3.745855	have|CAUSE_OF_DEATH
+-3.444825	have|DATE	0.0002393218
+-3.745855	have|DURATION
+-3.745855	have|I
+-3.745855	have|IDEOLOGY
+-3.745855	have|MISC
+-3.745855	have|MONEY
+-3.745855	have|NEVER
+-3.444825	have|NUMBER	0.05243726
+-3.745855	have|ORGANIZATION
+-3.745855	have|PERSON
+-3.745855	have|TIME
+-3.745855	have|a
+-3.745855	have|ac
+-3.745855	have|air
+-3.745855	have|all
+-3.745855	have|anything
+-3.745855	have|around.
+-3.745855	have|bag
+-3.745855	have|bathroom
+-3.745855	have|bbq
+-3.745855	have|beach
+-3.745855	have|bed
+-3.444825	have|bedroom	0.04657838
+-3.444825	have|beer	8.321292e-05
+-3.745855	have|bike
+-3.745855	have|bit
+-3.444825	have|blast	0.0002393218
+-3.745855	have|blister
+-3.745855	have|bread
+-3.745855	have|break
+-3.444825	have|breakfast	-0.000150845
+-3.444825	have|burger	0.05243726
+-3.745855	have|cake
+-3.745855	have|camera
+-3.745855	have|camp
+-3.444825	have|campfire	0.005264662
+-3.745855	have|campground
+-3.268734	have|camping	0.0001667765
+-3.444825	have|campsite	0.04657838
+-3.745855	have|car
+-3.444825	have|chance	-7.28397e-05
+-3.745855	have|chicken
+-3.745855	have|child
+-3.745855	have|climb
+-3.745855	have|clothing
+-3.745855	have|clue
+-3.745855	have|coffee
+-3.745855	have|company
+-3.745855	have|control
+-3.745855	have|conversation
+-3.745855	have|corn
+-3.444825	have|couple	0.0009425064
+-3.745855	have|cucumber
+-3.745855	have|cup
+-3.745855	have|deck
+-3.745855	have|dinner
+-3.444825	have|dish	0.0003173973
+-3.745855	have|dive
+-3.745855	have|downpour
+-3.745855	have|dream
+-3.745855	have|drink
+-3.444825	have|drive	0.0004735902
+-3.745855	have|drunk
+-3.745855	have|effect
+-3.444825	have|electricity	-0.000150845
+-3.745855	have|energy
+-3.444825	have|enough	0.0007079851
+-3.745855	have|equipment.
+-3.745855	have|etc.
+-3.745855	have|event
+-3.745855	have|experience
+-3.745855	have|eye
+-3.444825	have|family	0.04657838
+-3.745855	have|favorite
+-3.745855	have|fear
+-3.444825	have|feeling	0.04657838
+-3.745855	have|firework
+-3.745855	have|fish
+-3.745855	have|food
+-3.745855	have|friend
+-3.444825	have|fun	-0.000150845
+-3.745855	have|fun.
+-3.745855	have|gear
+-3.745855	have|good
+-3.745855	have|goodness
+-3.745855	have|hat
+-3.444825	have|headache	0.05243726
+-3.745855	have|heat
+-3.745855	have|hell
+-3.745855	have|hike
+-3.745855	have|history
+-3.745855	have|hole
+-3.444825	have|idea	0.05243726
+-3.745855	have|intention
+-3.745855	have|issue
+-3.745855	have|it
+-3.745855	have|jacket
+-3.745855	have|job
+-3.745855	have|kid
+-3.745855	have|kind
+-3.444825	have|kitchen	-0.000150845
+-3.745855	have|laugh
+-3.745855	have|leak
+-3.745855	have|leg
+-3.745855	have|load
+-3.745855	have|location
+-3.745855	have|look
+-2.967704	have|lot	0.05250968
+-3.745855	have|luck
+-3.268734	have|lunch	0.1054564
+-3.745855	have|map
+-3.745855	have|marsh-mellow
+-3.745855	have|mattress
+-3.745855	have|meal
+-3.745855	have|meaning
+-3.745855	have|mercy
+-3.745855	have|mile
+-3.745855	have|mileage
+-3.745855	have|mindset
+-3.745855	have|moment
+-3.745855	have|more
+-3.745855	have|most
+-3.745855	have|nap
+-3.444825	have|none	0.05243726
+-3.745855	have|noodle
+-3.745855	have|nothing
+-3.745855	have|oatmeal
+-3.745855	have|off
+-3.745855	have|opportunity
+-3.745855	have|option
+-3.745855	have|pain
+-3.745855	have|parade
+-3.745855	have|parent
+-3.745855	have|park
+-3.745855	have|party
+-3.745855	have|peer
+-3.444825	have|people	0.05243726
+-3.745855	have|picnic
+-3.745855	have|picture
+-3.745855	have|place
+-3.444825	have|plan	0.00219543
+-3.745855	have|plenty
+-3.745855	have|point
+-3.745855	have|pool
+-3.745855	have|potential
+-3.745855	have|problem
+-3.745855	have|qualm
+-3.745855	have|reason
+-3.745855	have|regret
+-3.745855	have|requirement
+-3.745855	have|reservation
+-3.745855	have|rest
+-3.444825	have|rib	0.05243726
+-3.745855	have|river
+-3.745855	have|road
+-3.745855	have|roast
+-3.046885	have|room	0.1094459
+-3.745855	have|route
+-3.745855	have|s'more
+-3.745855	have|salad
+-3.745855	have|sense
+-3.745855	have|set
+-3.745855	have|sex
+-3.745855	have|show
+-3.745855	have|shower
+-3.745855	have|sign
+-3.745855	have|sister
+-3.745855	have|site
+-3.745855	have|size
+-3.745855	have|sky
+-3.444825	have|sleep	0.05243726
+-3.745855	have|smore
+-3.745855	have|snack
+-3.745855	have|some
+-3.745855	have|something
+-3.444825	have|spot	0.04657838
+-3.745855	have|stopped
+-3.745855	have|table
+-3.745855	have|talk
+-3.745855	have|tank
+-3.745855	have|temp
+-3.444825	have|tent	0.04657838
+-3.745855	have|terror
+-3.745855	have|there
+-3.745855	have|thing
+-3.745855	have|thought
+-2.900757	have|time	0.1144009
+-3.444825	have|toast	0.05243726
+-3.745855	have|toilet
+-3.745855	have|too.
+-3.745855	have|tour
+-3.745855	have|traffic
+-3.745855	have|trailer
+-3.745855	have|training
+-3.745855	have|tree
+-3.268734	have|trip	0.05301173
+-3.745855	have|trouble
+-3.745855	have|view
+-3.745855	have|vision
+-3.745855	have|visit
+-3.745855	have|watch
+-3.745855	have|water
+-3.745855	have|way
+-3.745855	have|weather
+-3.745855	have|what
+-3.745855	have|wind
+-3.745855	have|wood
+-2.444825	head|	0.139063
+-3.745855	head|MONEY
+-3.745855	head|NUMBER
+-3.745855	head|PERSON
+-3.745855	head|direction
+-3.046885	head|home	0.05323487
+-3.745855	head|north
+-3.745855	head|way
+-3.444825	hear|	-7.28397e-05
+-3.745855	hear|I
+-3.745855	hear|camping
+-3.745855	hear|comment
+-3.745855	hear|end
+-3.745855	hear|loon
+-3.745855	hear|lot
+-3.745855	hear|noise
+-3.745855	hear|raccoon
+-3.745855	hear|rustling
+-3.745855	hear|siren
+-3.745855	hear|something
+-3.444825	hear|sound	0.0003954866
+-3.745855	hear|that
+-3.745855	heat|they
+-3.143795	help|	0.1067451
+-3.745855	help|I
+-3.745855	help|float
+-3.745855	help|lot
+-3.745855	help|too.
+-3.745855	help|we
+-3.745855	help|you
+-3.745855	herd|
+-3.745855	here|MONEY
+-3.745855	here|fact
+-3.745855	hesitate|
+-3.745855	he|MONEY
+-3.745855	hide|
+-3.444825	highlight|	0.04657838
+-2.666674	hike|	0.1192265
+-3.745855	hike|LOCATION
+-3.745855	hike|NUMBER
+-3.745855	hike|PERSON
+-3.444825	hike|it	-0.000150845
+-3.745855	hike|mile
+-3.745855	hike|trail
+-3.745855	hike|we
+-3.745855	hiss|
+-3.745855	hit|
+-3.745855	hit|LOCATION
+-3.745855	hit|Lucky
+-3.745855	hit|ORGANIZATION
+-3.745855	hit|PERSON
+-3.745855	hit|beach
+-3.745855	hit|border
+-3.745855	hit|it
+-3.745855	hit|pillow
+-3.046885	hit|road	0.01513917
+-3.745855	hit|tent
+-3.745855	hit|town
+-3.745855	hit|traffic
+-3.745855	hit|trail
+-3.745855	hit|trunk
+-3.745855	hit|water
+-3.745855	hit|waterslide
+-3.745855	hit|you
+-3.745855	hold|
+-3.745855	hold|NUMBER
+-3.745855	hold|it
+-3.745855	hold|she
+-3.745855	hold|snake
+-3.745855	hold|tent
+-3.745855	hold|they
+-3.745855	hoof|it
+-3.745855	hook|
+-3.046885	hope|	0.1063921
+-3.745855	hop|
+-3.745855	hospital|MONEY
+-3.745855	host|
+-3.444825	hover|	0.0007079851
+-3.745855	howl|
+-3.745855	huddle|
+-3.745855	hug|side
+-3.745855	huh|
+-3.745855	hunt|
+-3.745855	hurl|cliff
+-3.745855	hurry|
+-3.745855	hurt|
+-3.745855	hurt|I
+-3.745855	hurt|back
+-3.745855	hydrate|
+-3.745855	hypermile|
+-3.444825	identify|	8.321292e-05
+-3.745855	identify|they
+-3.444825	ignore|it	0.05243726
+-3.444825	imagine|	0.0002393218
+-3.745855	imagine|place
+-3.745855	imagine|search
+-3.745855	impress|
+-3.745855	improve|
+-3.745855	improvise|
+-3.143795	include|	0.05252852
+-3.745855	include|MISC
+-3.745855	include|PERSON
+-3.745855	include|driving
+-3.745855	include|ride
+-3.745855	increase|pace
+-3.745855	inform|
+-3.745855	inform|I
+-3.745855	ingrain|
+-3.745855	inhabit|
+-3.745855	injure|
+-3.745855	insist|
+-2.967704	intend|	0.05531951
+-3.745855	interrupt|
+-3.745855	intersperse|
+-3.745855	introduce|camping
+-3.745855	inundate|
+-3.745855	invite|
+-3.745855	invite|family
+-3.745855	invite|we
+-3.745855	involve|
+-3.745855	involve|ride
+-3.745855	isn|MONEY
+-3.745855	isn|t
+-3.745855	isolate|
+-3.745855	itch|
+-3.745855	it|
+-3.268734	it|MONEY	0.05699977
+-3.444825	it|s	0.0002393218
+-3.745855	i|MONEY
+-3.745855	i|m
+-3.745855	jog|
+-3.745855	join|
+-3.444825	join|I	0.001255399
+-3.745855	join|group
+-3.745855	join|they
+-3.745855	join|we
+-3.745855	joke|
+-3.745855	journey|
+-3.745855	judge|we
+-3.444825	jump|	0.04657838
+-3.745855	kayake|
+-3.745855	kayak|
+-2.842765	keep|	0.008501924
+-3.745855	keep|PERSON
+-3.745855	keep|cool
+-3.745855	keep|eye
+-3.745855	keep|fluid
+-3.745855	keep|he
+-3.745855	keep|head
+-3.745855	keep|journal
+-3.745855	keep|pace
+-3.745855	keep|safe
+-3.745855	keep|she
+-3.745855	keep|some
+-3.745855	keep|stuff
+-3.745855	keep|they
+-3.745855	keep|water
+-3.745855	keep|we
+-3.745855	keep|you
+-3.745855	kick|
+-3.745855	kick|I
+-3.745855	kick|it
+-3.444825	kid|	0.04657838
+-3.745855	kill|
+-3.745855	kill|myself
+-3.745855	kinda|
+-3.745855	kit|
+-3.745855	knit|
+-3.745855	knock|mile
+-2.467102	know|	0.1270732
+-3.745855	know|I
+-3.745855	know|NUMBER
+-3.745855	know|anyone
+-3.745855	know|guy
+-3.745855	know|it
+-3.745855	know|merely
+-3.745855	know|name
+-3.745855	know|s
+-3.745855	know|this
+-3.745855	know|we
+-3.745855	know|what
+-3.745855	lack|
+-3.745855	lament|fact
+-3.745855	land|
+-3.745855	land|NUMBER
+-3.745855	lash|
+-3.444825	last|	0.0001612602
+-3.444825	laugh|	0.04657838
+-3.745855	launch|
+-3.444825	lay|	5.179609e-06
+-3.745855	lay|TIME
+-3.745855	lead|
+-3.745855	lead|we
+-3.745855	leak|
+-2.967704	learn|	0.05656468
+-3.745855	learn|NUMBER
+-3.745855	learn|all
+-3.745855	learn|lesson
+-3.745855	learn|something
+-3.745855	learn|technique
+-3.444825	learn|thing	0.005738782
+-3.444825	learn|this	0.05243726
+-3.745855	learn|what
+-2.515406	leave|	0.1212185
+-3.745855	leave|DATE
+-3.745855	leave|I
+-3.745855	leave|LOCATION
+-3.745855	leave|MISC
+-3.745855	leave|MONEY
+-3.745855	leave|PERSON
+-3.745855	leave|Rock
+-3.745855	leave|TIME
+-3.745855	leave|baby
+-3.745855	leave|backpack
+-3.745855	leave|bag
+-3.745855	leave|bit
+-3.745855	leave|cabin
+-3.745855	leave|campground
+-3.745855	leave|firework
+-3.444825	leave|home	-7.28397e-05
+-3.444825	leave|house	0.007164258
+-3.745855	leave|it
+-3.745855	leave|little
+-3.745855	leave|park
+-3.745855	leave|site
+-3.444825	leave|they	0.0007861446
+-3.745855	leave|town
+-3.745855	leave|watch
+-3.745855	leave|we
+-3.745855	leave|work
+-3.745855	leave|you
+-3.745855	lecture|
+-2.704463	let|	0.1101801
+-3.745855	let|I
+-3.745855	let|MONEY
+-3.745855	let|cabin
+-3.745855	let|it
+-3.745855	let|space
+-3.745855	level|
+-3.143795	lie|	0.06053827
+-3.745855	lie|recumbent
+-3.745855	lift|bike
+-3.745855	lighten|
+-3.444825	light|	0.04657838
+-3.745855	light|lantern
+-3.268734	like|	0.1054564
+-3.745855	like|I
+-3.745855	like|MONEY
+-3.745855	like|NUMBER
+-3.745855	like|Plus
+-3.745855	like|camping
+-3.444825	like|it	0.007164258
+-3.745855	like|town
+-3.745855	like|weather
+-3.745855	like|what
+-3.444825	limit|	0.009311282
+-3.745855	limit|number
+-3.745855	limit|yourself
+-3.745855	line|
+-3.745855	linger|
+-3.444825	listen|	0.04657838
+-3.745855	litter|trail
+-3.444825	live|	0.04657838
+-3.444825	load|	0.0003954866
+-3.745855	load|all
+-3.745855	load|canoe
+-3.745855	load|car
+-3.745855	load|it
+-3.745855	load|ton
+-3.745855	loan|we
+-3.444825	lodge|	8.321292e-05
+-3.444825	log|	-0.000150845
+-3.745855	london|
+-3.745855	long|
+-2.541735	look|	0.1165052
+-3.745855	look|it
+-3.745855	look|little
+-3.745855	look|lot
+-3.745855	look|thing
+-3.745855	look|what
+-3.745855	loom|
+-3.745855	loop|
+-3.268734	lose|	0.04905998
+-3.745855	lose|MONEY
+-3.745855	lose|NUMBER
+-3.745855	lose|calorie
+-3.745855	lose|it
+-3.745855	lose|life
+-3.745855	lose|lunch
+-3.745855	lose|rest
+-3.444825	lose|trail	0.001255399
+-3.745855	lose|weight
+-3.745855	love|
+-3.745855	love|Ganges
+-3.745855	love|I
+-3.745855	love|MONEY
+-3.745855	love|Park
+-3.745855	love|SET
+-3.745855	love|area
+-3.745855	love|camp
+-3.745855	love|camping
+-3.745855	love|campsite
+-3.745855	love|d
+-3.745855	love|diving
+-3.745855	love|game
+-3.444825	love|it	0.04657838
+-3.745855	love|landscape
+-3.745855	love|mushroom
+-3.745855	love|park.
+-3.745855	love|photography
+-3.745855	love|they
+-3.745855	lo|
+-3.745855	luck|
+-3.745855	lure|they
+-3.745855	magnify|
+-2.791613	make|	0.1297608
+-3.745855	make|CAUSE_OF_DEATH
+-3.745855	make|I
+-3.745855	make|NUMBER
+-3.745855	make|arrangement
+-3.745855	make|bacon
+-3.745855	make|batch
+-3.745855	make|bed
+-3.745855	make|best
+-3.745855	make|bread
+-3.745855	make|break
+-3.745855	make|breakfast
+-3.745855	make|burger
+-3.745855	make|call
+-3.268734	make|camp	0.002045487
+-3.745855	make|campfire
+-3.745855	make|cheese
+-3.745855	make|coffee
+-3.745855	make|decision
+-3.143795	make|dinner	0.001503389
+-3.745855	make|effort
+-3.745855	make|egg
+-3.745855	make|feel
+-3.745855	make|friend
+-3.745855	make|fun
+-3.745855	make|ground
+-3.745855	make|group
+-3.745855	make|herself
+-3.745855	make|hike
+-2.791613	make|it	0.05468992
+-3.745855	make|loop
+-3.745855	make|lot
+-3.745855	make|marshmallow
+-3.745855	make|meal
+-3.745855	make|mile
+-3.745855	make|mistake
+-3.268734	make|noise	0.0474022
+-3.745855	make|note
+-3.745855	make|pancake
+-3.444825	make|post	0.04657838
+-3.745855	make|progress
+-3.745855	make|ride
+-3.745855	make|rule
+-3.745855	make|s'more
+-3.745855	make|sandwich
+-3.745855	make|sense
+-3.745855	make|shelter
+-3.745855	make|some
+-3.745855	make|stew
+-3.444825	make|stop	-0.000150845
+-3.745855	make|story
+-3.745855	make|suggestion
+-3.745855	make|taco
+-3.444825	make|talk	0.0005517076
+-3.745855	make|tea
+-3.745855	make|thingy
+-3.745855	make|time
+-3.745855	make|trek
+-3.745855	make|trip
+-3.745855	make|use
+-3.143795	make|way	0.007503553
+-3.745855	make|we
+-3.745855	manage|
+-3.745855	manage|it
+-3.745855	mark|
+-3.745855	mark|DURATION
+-3.745855	mark|time
+-3.745855	marry|
+-3.745855	match|
+-3.745855	meander|
+-3.268734	mean|	0.01036177
+-3.444825	mean|what	0.05243726
+-3.745855	measure|they
+-3.268734	meet|	0.001261703
+-3.745855	meet|I
+-3.745855	meet|LOCATION
+-3.444825	meet|PERSON	0.009311282
+-3.745855	meet|couple
+-3.745855	meet|family
+-3.444825	meet|he	0.0006298393
+-3.745855	meet|objective
+-3.745855	meet|people
+-3.745855	meet|person
+-3.745855	meet|she
+-3.745855	meet|they
+-3.745855	meet|we
+-3.745855	meet|yellow-jacket
+-3.268734	melt|	0.001261703
+-3.745855	melt|chocolate
+-3.745855	mend|
+-3.143795	mention|	0.1174665
+-3.745855	me|MONEY
+-3.745855	mind|
+-3.745855	mis-spell|it
+-3.745855	misspoke|
+-3.444825	miss|	0.05243726
+-3.745855	miss|CAUSE_OF_DEATH
+-3.745855	miss|I
+-3.745855	miss|NUMBER
+-3.444825	miss|PERSON	0.0007861446
+-3.745855	miss|anyone
+-3.745855	miss|camping
+-3.745855	miss|it
+-3.745855	miss|relaxing
+-3.745855	miss|s'mores
+-3.745855	miss|you
+-3.268734	mix|	0.0004793309
+-3.745855	mob|
+-3.745855	motor|
+-3.745855	mount|
+-3.745855	mount|expedition
+-2.967704	move|	0.05295125
+-3.745855	move|inch
+-3.745855	move|tent
+-3.745855	mow|
+-3.745855	mumble|
+-3.745855	murder|PERSON
+-3.745855	mystify|
+-3.745855	name|
+-3.745855	name|PERSON
+-3.745855	name|it
+-3.444825	nap|	-0.000150845
+-3.745855	narrow|selection
+-3.745855	navigate|
+-3.745855	near|degree
+-3.745855	near|time
+-3.745855	needless|
+-3.745855	needn|MONEY
+-2.967704	need|	0.113385
+-3.745855	need|MONEY
+-3.745855	need|blanket
+-3.745855	need|it
+-3.745855	need|lunch
+-3.745855	need|mattress
+-3.745855	need|space
+-3.745855	need|they
+-3.745855	need|towel
+-3.745855	need|vacation
+-3.745855	need|water
+-3.745855	need|what
+-3.745855	need|wood
+-3.745855	negotiate|tunnel
+-3.745855	nestle|
+-3.745855	never|
+-3.745855	nod|
+-3.745855	note|
+-3.745855	note|camping
+-3.268734	notice|	0.04661914
+-3.745855	notice|boy
+-3.745855	notice|flower
+-3.745855	notice|triangle
+-3.745855	notice|vegetation
+-3.745855	now.|scenery.
+-3.745855	observe|
+-3.444825	occur|	0.05243726
+-3.444825	offer|	8.321292e-05
+-3.745855	offer|I
+-3.745855	offer|opportunity
+-3.268734	open|	0.05842661
+-3.745855	open|door
+-3.745855	open|tent
+-3.745855	operate|
+-3.745855	operate|bucket
+-3.745855	operate|swivel
+-3.745855	opt|
+-3.745855	order|
+-3.745855	organise|
+-3.268734	organize|	0.05460256
+-3.745855	overcome|
+-3.745855	overflow|
+-3.745855	overlook|
+-3.268734	overlook|lake	0.05230657
+-3.745855	own|
+-3.745855	pace|myself
+-2.631912	pack|	0.1333612
+-3.745855	pack|ORGANIZATION
+-3.745855	pack|all
+-3.444825	pack|bag	0.007164258
+-3.745855	pack|camera
+-3.745855	pack|camp
+-3.745855	pack|canoe
+-3.444825	pack|car	0.001255399
+-3.745855	pack|cheese
+-3.745855	pack|early
+-3.745855	pack|everything
+-3.745855	pack|food
+-3.745855	pack|gear
+-3.745855	pack|it
+-3.745855	pack|light
+-3.745855	pack|sleep
+-3.745855	pack|snack
+-3.745855	pack|spray
+-3.444825	pack|stuff	0.001255399
+-3.745855	pack|sunscreen
+-3.745855	pack|tent
+-3.745855	pack|thing
+-3.745855	pack|truck
+-3.745855	pack|water
+-3.745855	paddle|
+-3.745855	paddle|half
+-3.745855	paddle|mile
+-3.444825	paint|	5.179609e-06
+-3.745855	pair|
+-3.745855	panic|
+-3.745855	pant|
+-3.745855	parallel|it
+-3.143795	park|	0.005916509
+-3.745855	park|car
+-3.745855	partake|
+-3.745855	participate|
+-3.745855	part|way
+-3.143795	pass|	0.05713834
+-3.745855	pass|I
+-3.444825	pass|NUMBER	-0.000150845
+-3.745855	pass|PERSON
+-3.745855	pass|coral
+-3.745855	pass|it
+-3.745855	pass|kiosk
+-3.745855	pass|office
+-3.745855	pass|we
+-3.745855	paste|
+-3.745855	patrol|
+-3.745855	pause|
+-3.268734	pave|	0.05699977
+-3.745855	pay|
+-3.745855	pay|MONEY
+-3.745855	pay|attention
+-3.745855	pay|fee
+-3.745855	pedal|weight
+-3.745855	peek|
+-3.745855	peel|
+-3.745855	peer|
+-3.745855	pee|
+-3.745855	peg|
+-3.745855	perch|
+-3.745855	perfect|
+-3.745855	persevere|
+-3.745855	persist|
+-3.745855	pick|
+-3.745855	pick|I
+-3.745855	pick|NUMBER
+-3.745855	pick|PERSON
+-3.745855	pick|apple
+-3.745855	pick|bacterium
+-3.745855	pick|car
+-3.745855	pick|combo
+-3.745855	pick|everything
+-3.745855	pick|it
+-3.745855	pick|mile
+-3.745855	pick|pace
+-3.745855	pick|pack
+-3.745855	pick|spot
+-3.745855	pick|we
+-3.444825	pile|	-0.000150845
+-3.745855	pile|work
+-3.745855	pine|tree
+-3.444825	piss|	-7.28397e-05
+-3.268734	pitch|tent	0.1054564
+-3.444825	place|	0.005264662
+-3.745855	plague|
+-3.745855	plague|beach
+-2.900757	plan|	0.1176224
+-3.745855	plan|camping
+-3.745855	plan|route
+-3.745855	plan|trip
+-3.745855	plan|what
+-3.268734	play|	-0.0002236007
+-3.745855	play|card
+-3.745855	play|chicken
+-3.745855	play|flute
+-3.268734	play|game	0.1054564
+-3.745855	play|golf
+-3.745855	play|guitar
+-3.745855	play|it
+-3.745855	play|music
+-3.745855	play|tag
+-3.745855	please|
+-3.745855	please|pray
+-3.745855	plod|
+-3.745855	plow|
+-3.745855	plug|ear
+-3.745855	plug|shout
+-3.745855	plummet|
+-3.745855	plunge|
+-3.745855	point|
+-3.745855	poke|
+-3.745855	poop|
+-3.745855	pop|
+-3.745855	pop|can
+-3.745855	pose|
+-3.745855	possess|camping
+-3.745855	possess|skill
+-3.444825	post|	0.005264662
+-3.745855	post|picture
+-3.745855	post|they
+-3.745855	pound|
+-3.745855	pound|lot
+-3.745855	pour|
+-3.745855	pour|bucket
+-3.745855	pour|rain
+-3.745855	power|
+-3.745855	practice|
+-3.745855	practice|skill
+-3.745855	practise|
+-3.444825	pray|	0.0003173973
+-3.745855	predict|
+-3.745855	prefer|
+-3.745855	prefer|MISC
+-3.745855	prefer|solitude
+-3.143795	prepare|	0.04718248
+-3.745855	prepare|PERSON
+-3.268734	prepare|dinner	0.001105116
+-3.745855	present|share
+-3.143795	press|	0.001660231
+-3.745855	pretend|
+-3.745855	proceed|
+-3.745855	procure|combo
+-3.745855	procure|pad
+-3.745855	promise|
+-3.745855	propose|
+-3.745855	prop|plane
+-3.745855	protect|
+-3.745855	protect|we
+-3.745855	prove|
+-3.745855	provide|
+-3.745855	provide|limitation
+-3.745855	provide|s'more
+-3.745855	provide|song
+-3.745855	provide|we
+-3.745855	provoke|wonder
+-3.745855	publish|
+-2.900757	pull|	0.1153705
+-3.745855	pull|PERSON
+-3.745855	pull|TIME
+-3.745855	pull|arrow
+-3.745855	pull|bow
+-3.745855	pull|camera
+-3.745855	pull|chest
+-3.444825	pull|it	0.009311282
+-3.745855	pull|pants
+-3.745855	pull|something
+-3.745855	pump|gas
+-3.745855	pump|mattress
+-3.745855	punch|
+-3.444825	purchase|	0.04657838
+-3.745855	purify|water
+-3.745855	push|
+-3.745855	push|I
+-3.745855	push|NUMBER
+-3.745855	push|calf
+-3.745855	push|it
+-3.444825	put|	5.179609e-06
+-3.745855	put|I
+-3.444825	put|PERSON	0.005738782
+-3.745855	put|bunch
+-3.745855	put|chop
+-3.745855	put|cook
+-3.745855	put|everything
+-3.745855	put|face
+-3.745855	put|food
+-3.745855	put|he
+-3.444825	put|it	0.04657838
+-3.745855	put|mattress
+-3.745855	put|pet
+-3.745855	put|root
+-3.745855	put|smile
+-3.745855	put|stuff
+-3.745855	put|team
+-3.745855	put|tent
+-3.745855	put|they
+-3.745855	put|top
+-3.745855	put|we
+-3.745855	put|you
+-3.745855	qualify|
+-3.745855	question|
+-3.745855	quick-cook|
+-3.745855	quiet|
+-3.444825	quit|	0.001255399
+-3.745855	quiver|
+-3.745855	race|
+-3.745855	race|TDF
+-3.745855	raft|
+-3.745855	rage|
+-3.745855	rain.|walk
+-2.967704	rain|	0.05242141
+-3.745855	rain|most
+-3.745855	raise|
+-3.745855	ramble|
+-3.745855	rave|horn
+-3.745855	re-do|operation
+-3.444825	reach|	0.001490216
+-3.745855	reach|LOCATION
+-3.745855	reach|NUMBER
+-3.745855	reach|PERSON
+-3.745855	reach|end
+-3.745855	reach|goal
+-3.745855	reach|path
+-3.745855	reach|point
+-3.745855	reach|summit
+-3.745855	reach|top
+-3.745855	reach|town
+-3.745855	reach|vista
+-3.143795	read|	0.1053031
+-3.745855	read|Bible
+-3.268734	read|PERSON	0.1054564
+-3.745855	read|blog
+-3.268734	read|book	0.05228394
+-3.444825	read|it	0.05243726
+-3.745855	read|this
+-3.745855	realise|
+-3.444825	realize|	0.04657838
+-3.745855	receive|
+-3.745855	recharge|
+-3.745855	reckon|
+-3.745855	recommend|
+-3.745855	recommend|LOCATION
+-3.745855	recommend|it
+-3.745855	reconcile|difference
+-3.444825	recover|	-0.000150845
+-3.745855	reduce|
+-3.745855	reel|it
+-3.268734	reflect|	0.04792503
+-3.444825	refresh|	0.05243726
+-3.444825	refuse|	5.179609e-06
+-3.745855	relaxin|MONEY
+-3.268734	relax|	0.0004011713
+-3.745855	relax|bit
+-3.745855	relax|scenery
+-3.745855	release|it
+-3.745855	release|they
+-3.745855	relieve|
+-3.444825	remain|	0.0008643185
+-3.444825	remember|	0.05243726
+-3.444825	remember|it	-0.000150845
+-3.745855	remember|what
+-3.745855	remind|
+-3.745855	remind|I
+-3.745855	remove|hook
+-3.745855	remove|stinger
+-3.745855	remove|they
+-3.745855	render|
+-3.745855	rent|
+-3.745855	rent|NUMBER
+-3.444825	rent|cabin	0.00172516
+-3.745855	rent|car
+-3.745855	rent|equipment
+-3.745855	rent|kayak
+-3.745855	repair|
+-3.444825	replace|	0.009311282
+-3.745855	reply|
+-3.745855	report|
+-3.745855	repusle|
+-3.444825	require|	0.04657838
+-3.745855	require|equipment
+-3.745855	research|
+-3.745855	reserve|
+-3.745855	reserve|it
+-3.745855	reserve|site
+-3.745855	resist|
+-3.745855	resist|opportunity
+-3.745855	respond|
+-3.143795	rest|	0.004967058
+-3.745855	rest|Stop
+-3.745855	result|
+-3.745855	resume|
+-3.745855	retch|
+-3.745855	retire|
+-3.745855	retreat|
+-3.143795	return|	0.0554483
+-3.745855	return|car
+-3.745855	return|home
+-3.745855	return|verdict
+-3.745855	re|
+-3.444825	ride|	0.001333657
+-3.745855	ride|NUMBER
+-3.745855	ride|another
+-3.745855	ride|asphalt
+-3.745855	ride|bike
+-3.745855	ride|mile
+-3.745855	ride|time
+-3.745855	ride|train
+-3.745855	ride|walk
+-3.745855	ride|wheeler
+-3.745855	rinse|
+-3.745855	rinse|gear
+-3.444825	rip|	0.05243726
+-3.745855	rip|tag
+-3.444825	rise|	0.05243726
+-3.745855	roadwalk|
+-3.745855	roar|
+-3.745855	roast|stick
+-3.745855	rob|I
+-3.745855	rock|
+-3.745855	roll|
+-3.745855	roll|hill
+-3.745855	roll|window
+-3.745855	rough|it
+-3.745855	round|
+-3.745855	ruin|experience
+-3.745855	rumble|
+-3.143795	run|	0.05224137
+-3.745855	run|MONEY
+-3.745855	run|water
+-3.745855	rush|
+-3.745855	s'more|
+-3.745855	sail|
+-3.745855	salute|you
+-3.745855	satisfy|
+-3.745855	satisfy|hobby
+-3.745855	save|
+-3.745855	save|it
+-3.745855	save|money
+-3.745855	save|remainder
+-3.745855	save|time
+-2.569764	say|	0.1263722
+-3.745855	say|MONEY
+-3.745855	say|ORGANIZATION
+-3.745855	say|PERSON
+-3.745855	say|bike
+-3.745855	say|goodbye
+-3.745855	say|hello
+-3.745855	say|it
+-3.745855	say|lady
+-3.745855	say|least
+-3.745855	say|loud
+-3.745855	say|something
+-3.745855	say|that
+-3.745855	say|what
+-3.745855	say|yes
+-3.745855	scan|
+-3.268734	scare|	0.001418346
+-3.745855	scare|it
+-3.745855	scarf|handful
+-3.745855	scatter|
+-3.444825	schedule|	0.05243726
+-3.745855	scop|site
+-3.745855	scop|view
+-3.745855	scout|
+-3.745855	scramble|
+-3.745855	scramble|egg
+-3.444825	scratch|	0.00172516
+-3.268734	scream|	0.04853579
+-3.745855	scream|CRIMINAL_CHARGE
+-3.745855	scurry|
+-3.268734	search|	0.04644532
+-3.745855	search|area
+-3.745855	seat|
+-3.745855	seek|
+-3.143795	seem|	0.1053031
+-3.745855	seep|
+-2.423636	see|	0.1204506
+-3.745855	see|2
+-3.745855	see|I
+-3.444825	see|LOCATION	0.0005517076
+-3.745855	see|NUMBER
+-3.745855	see|ORGANIZATION
+-3.444825	see|PERSON	0.05243726
+-3.745855	see|Whitsett
+-3.745855	see|all
+-3.745855	see|animal
+-3.745855	see|anything
+-3.745855	see|area
+-3.745855	see|band
+-3.745855	see|bear
+-3.745855	see|bird
+-3.745855	see|bottom
+-3.745855	see|car
+-3.745855	see|cloud
+-3.745855	see|coral
+-3.745855	see|deal
+-3.745855	see|deer
+-3.745855	see|dog
+-3.745855	see|dolphin
+-3.745855	see|eel
+-3.745855	see|end
+-3.745855	see|everything
+-3.745855	see|family
+-3.745855	see|fan
+-3.745855	see|feeding
+-3.444825	see|fish	0.001177154
+-3.745855	see|fox
+-3.745855	see|friend
+-3.745855	see|group
+-3.745855	see|grouper
+-3.745855	see|he
+-3.268734	see|it	0.009483031
+-3.745855	see|kid
+-3.444825	see|kind	-7.28397e-05
+-3.444825	see|lake	0.009311282
+-3.745855	see|life
+-3.444825	see|load	0.0001612602
+-3.745855	see|lobster
+-3.745855	see|look
+-3.444825	see|lot	-0.000150845
+-3.745855	see|mammal
+-3.745855	see|map
+-3.745855	see|moose
+-3.745855	see|most
+-3.745855	see|mountain
+-3.745855	see|number
+-3.745855	see|patch
+-3.444825	see|people	0.007164258
+-3.745855	see|person
+-3.745855	see|photo
+-3.745855	see|picture
+-3.745855	see|pile
+-3.745855	see|plenty
+-3.745855	see|reef
+-3.745855	see|rock
+-3.745855	see|seahorse
+-3.745855	see|set
+-3.745855	see|shaft
+-3.745855	see|share
+-3.745855	see|shark
+-3.745855	see|she
+-3.745855	see|ship
+-3.745855	see|show
+-3.444825	see|sign	0.05243726
+-3.745855	see|snow
+-3.745855	see|stand
+-3.745855	see|star
+-3.745855	see|tent
+-3.745855	see|they
+-3.745855	see|thing
+-3.745855	see|this
+-3.745855	see|thousand
+-3.745855	see|ton
+-3.745855	see|tree
+-3.745855	see|turtle
+-3.745855	see|type
+-3.745855	see|view
+-3.745855	see|water
+-3.444825	see|waterfall	0.04657838
+-3.745855	see|way
+-3.745855	see|we
+-3.745855	see|whale
+-3.444825	see|what	0.04657838
+-3.745855	see|which
+-3.745855	see|wildlife
+-3.745855	see|you
+-3.745855	sell|
+-3.745855	send|
+-3.143795	send|I	0.1128826
+-3.745855	separate|
+-3.444825	serve|	-0.000150845
+-3.268734	settle|	0.052659
+-2.791613	set|	0.1189614
+-3.745855	set|CAUSE_OF_DEATH
+-3.745855	set|awning
+-3.745855	set|b
+-3.268734	set|camp	0.052659
+-3.745855	set|everything
+-3.745855	set|gear
+-3.745855	set|it
+-3.745855	set|ours
+-3.745855	set|pop
+-3.745855	set|site
+-3.444825	set|tent	-7.28397e-05
+-3.745855	set|they
+-3.745855	set|trip
+-3.745855	set|we
+-3.745855	set|wood
+-3.745855	shake|
+-3.745855	share|
+-3.745855	share|beer
+-3.745855	share|it
+-3.745855	share|love
+-3.745855	share|path
+-3.745855	share|portion
+-3.444825	share|story	0.05243726
+-3.745855	share|thing
+-3.444825	shift|	0.0001612602
+-3.745855	shine|
+-3.745855	shiver|
+-3.745855	shock|
+-3.745855	shoot|
+-3.745855	shower|
+-3.143795	show|	0.04639926
+-3.745855	show|I
+-3.745855	show|field
+-3.745855	show|he
+-3.745855	show|line
+-3.745855	show|sign
+-3.745855	show|we
+-3.745855	shroud|
+-3.444825	shrug|	0.05243726
+-3.745855	shut|
+-3.745855	side|
+-3.444825	sift|	5.179609e-06
+-3.745855	signal|
+-3.745855	sign|
+-3.745855	sign|I
+-3.745855	sing|
+-3.745855	sing|song
+-3.745855	sink|
+-3.745855	site|camp
+-2.631912	sit|	0.1255301
+-3.745855	sit|magazine
+-3.444825	size|	0.05243726
+-3.745855	skip|
+-3.745855	skip|PERSON
+-3.745855	skip|it
+-3.745855	skip|rock
+-3.745855	slant|
+-2.423636	sleep|	0.1167727
+-3.745855	sleep|ALOT
+-3.444825	sleep|NUMBER	-7.28397e-05
+-3.745855	sleep|ORGANIZATION
+-3.745855	sleep|bag
+-3.745855	sleep|end
+-3.745855	sleep|here
+-3.745855	sleep|mom
+-3.745855	sleep|most
+-3.745855	sleep|pad
+-3.745855	sleep|people
+-3.745855	sleep|tent
+-3.745855	slide|
+-3.745855	slide|mountain
+-3.745855	slide|side
+-3.745855	slip|
+-3.745855	slither|
+-3.745855	slog|
+-3.745855	slow|
+-3.745855	slow|car
+-3.745855	slumber|
+-3.745855	smell|
+-3.745855	smile|
+-3.745855	smore|
+-3.745855	snap|
+-3.745855	snap|picture
+-3.745855	snap|times.
+-3.745855	snore|
+-3.745855	snorkele|
+-3.745855	snorkel|
+-3.745855	snorkle|
+-3.745855	snuff|
+-3.745855	snuggle|
+-3.268734	soak|	0.04644532
+-3.745855	soak|tho
+-3.745855	soar|
+-3.745855	sop|
+-3.745855	sort|
+-3.444825	sound|	0.007164258
+-3.745855	sound|fun
+-3.745855	sound|lot
+-3.745855	space|
+-3.745855	spare|
+-3.444825	speak|	0.05243726
+-3.444825	speed|	0.005264662
+-3.745855	spend|
+-3.745855	spend|DATE
+-3.444825	spend|DURATION	0.05243726
+-3.745855	spend|MONEY
+-3.745855	spend|NUMBER
+-3.745855	spend|TIME
+-3.745855	spend|all
+-3.745855	spend|alot
+-3.745855	spend|camping
+-3.444825	spend|half	-0.000150845
+-3.745855	spend|hiking
+-3.745855	spend|lot
+-3.745855	spend|most
+-3.444825	spend|part	0.05243726
+-3.745855	spend|refining
+-3.444825	spend|rest	0.05243726
+-3.444825	spend|time	-0.000150845
+-3.745855	spend|while
+-3.745855	spin|
+-3.745855	splash|
+-3.268734	split|	0.04853579
+-3.745855	spoil|
+-3.444825	spook|	0.001020708
+-3.745855	spot|
+-3.745855	spot|hanging
+-3.745855	spot|they
+-3.444825	spread|	-0.000150845
+-3.745855	spread|tablecloth
+-3.268734	sprinkle|	0.009157958
+-3.745855	squeeze|
+-3.745855	squirm|
+-3.745855	stack|
+-3.745855	staff|
+-3.745855	stall|
+-3.046885	stand|	0.05200008
+-3.444825	stare|	0.05243726
+-3.745855	stargaze|
+-3.745855	startle|
+-2.900757	start|	0.053529
+-3.745855	start|CAUSE_OF_DEATH
+-3.745855	start|adventure
+-3.745855	start|cooking
+-3.745855	start|course
+-3.745855	start|descent
+-3.745855	start|dinner
+-3.745855	start|drive
+-3.745855	start|hike
+-3.745855	start|routine
+-3.745855	start|trek
+-3.745855	start|trip
+-3.745855	start|what
+-3.745855	star|
+-3.745855	state|
+-2.599727	stay|	0.1200674
+-3.745855	stay|NUMBER
+-3.745855	stay|everything
+-3.745855	stay|most
+-3.745855	stealth|
+-3.745855	stealth|camp
+-3.745855	steal|food
+-3.745855	step|
+-3.745855	stew|
+-3.268734	stick|	0.05345304
+-3.745855	stick|it
+-3.745855	sting|
+-3.745855	sting|PERSON
+-3.745855	sting|himself
+-3.745855	sting|mouth
+-3.444825	stink|	0.04657838
+-3.745855	stir|fry
+-3.444825	stock|	0.05243726
+-3.745855	stone|
+-2.704463	stop|	0.05444895
+-3.745855	stop|myself
+-3.745855	stop|swimming
+-3.745855	stop|there
+-3.745855	stop|time
+-3.745855	stop|we
+-3.745855	store|
+-3.745855	strap|
+-3.444825	stress|	0.007164258
+-3.745855	stretch|
+-3.745855	strew|
+-3.745855	strike|
+-3.745855	strike|camp
+-3.745855	string|
+-3.268734	stroll|	0.04661914
+-3.444825	struggle|	0.0002393218
+-3.745855	struggle|hill
+-3.745855	study|
+-3.745855	stuff|
+-3.745855	stumble|
+-3.745855	submerge|
+-3.745855	subside|
+-3.268734	suck|	0.05380642
+-3.745855	suffer|
+-3.745855	suffer|rest
+-3.745855	suffice|
+-3.444825	suggest|	0.05243726
+-3.745855	suggest|camping
+-3.745855	suit|
+-3.745855	support|
+-3.143795	suppose|	0.006947427
+-3.745855	suppose|what
+-3.745855	suprise|
+-3.745855	sure?|MONEY
+-3.745855	surface|
+-3.745855	surface|DURATION
+-3.745855	surge|
+-3.745855	surprise|
+-3.745855	surrender|dib
+-3.444825	surround|	0.04657838
+-3.745855	survive|
+-3.745855	survive|adventure
+-3.745855	suspend|
+-3.745855	swallow|
+-3.745855	swap|empty
+-3.745855	swarm|
+-3.745855	sway|
+-3.745855	swear|
+-3.745855	swear|word
+-3.745855	sweep|
+-3.745855	swell|
+-3.444825	swim|	0.007164258
+-3.745855	swim|suit
+-3.745855	swing|
+-3.745855	swirl|
+-3.745855	switch|
+-3.745855	switch|place
+-3.745855	tackle|
+-3.745855	tail|
+-2.599727	take|	0.1277564
+-3.143795	take|DURATION	0.005515953
+-3.745855	take|Highway
+-3.444825	take|I	0.0007079851
+-3.745855	take|LOCATION
+-3.745855	take|MISC
+-3.745855	take|MONEY
+-3.745855	take|NUMBER
+-3.745855	take|PERSON
+-3.745855	take|SO
+-3.745855	take|TIME
+-3.745855	take|accross
+-3.745855	take|advantage
+-3.745855	take|any
+-3.745855	take|bath
+-3.745855	take|bike
+-3.745855	take|bit
+-3.444825	take|boat	0.05243726
+-3.745855	take|booth
+-3.745855	take|boy
+-3.745855	take|break
+-3.745855	take|breath
+-3.745855	take|bunch
+-3.745855	take|camera
+-3.745855	take|camping
+-3.745855	take|car
+-3.745855	take|care
+-3.444825	take|chance	0.04657838
+-3.745855	take|drink
+-3.444825	take|drive	0.0005517076
+-3.745855	take|exit
+-3.745855	take|ferry
+-3.745855	take|forever.
+-3.745855	take|gear
+-3.745855	take|hand
+-3.143795	take|he	1.621206e-05
+-3.444825	take|hike	5.179609e-06
+-3.745855	take|it
+-3.745855	take|kayak
+-3.143795	take|kid	0.04629204
+-3.745855	take|limo
+-3.444825	take|look	0.04657838
+-3.444825	take|lot	0.05243726
+-3.745855	take|lunch
+-3.745855	take|mile
+-3.745855	take|moment
+-3.745855	take|name
+-3.745855	take|nap
+-3.745855	take|north
+-3.745855	take|opportunity
+-3.745855	take|part
+-3.444825	take|photo	0.0001612602
+-3.745855	take|photograph
+-3.745855	take|pic
+-3.046885	take|picture	-0.000290602
+-3.444825	take|place	0.04657838
+-3.745855	take|ride
+-3.745855	take|route
+-3.745855	take|rv
+-3.745855	take|sauna
+-3.745855	take|set-off
+-3.745855	take|she
+-3.745855	take|shelter
+-3.745855	take|shot
+-3.444825	take|shower	0.04657838
+-3.745855	take|sister
+-3.268734	take|some	0.05239465
+-3.745855	take|southeast
+-3.444825	take|tent	0.05243726
+-3.745855	take|they
+-3.444825	take|time	0.0006298393
+-3.745855	take|tour
+-3.745855	take|trail
+-3.745855	take|trek
+-3.745855	take|trip
+-3.745855	take|turn
+-3.745855	take|vacation
+-3.745855	take|video
+-3.745855	take|walk
+-3.745855	take|way
+-3.268734	take|we	0.04809944
+-3.745855	take|what
+-3.444825	take|while	0.05243726
+-3.745855	take|you
+-3.143795	talk|	0.063784
+-3.745855	talk|some
+-3.745855	tangle|
+-3.745855	tan|
+-3.745855	tape|
+-3.046885	taste|	0.05301606
+-3.745855	teach|
+-3.444825	teach|they	0.0007079851
+-3.745855	tear|
+-3.745855	tear|zebra
+-3.745855	teem|
+-2.967704	tell|	0.04615949
+-3.143795	tell|I	0.1128826
+-3.745855	tell|MONEY
+-3.444825	tell|PERSON	0.009311282
+-3.745855	tell|boy
+-3.268734	tell|he	0.001810203
+-3.444825	tell|she	-0.000150845
+-3.444825	tell|story	0.05243726
+-3.745855	tell|they
+-3.745855	tell|this
+-3.745855	tell|we
+-3.745855	tell|what
+-3.745855	tell|ya
+-3.268734	tell|you	0.04827393
+-3.745855	tempt|
+-3.745855	tend|
+-3.745855	tent|
+-3.745855	terrify|
+-3.745855	test|
+-3.745855	thank|
+-3.745855	thank|PERSON
+-3.745855	thank|you
+-3.268734	that|	-6.749196e-05
+-3.444825	that|MONEY	0.05243726
+-3.745855	that|s
+-3.745855	there|MONEY
+-3.745855	they|MONEY
+-2.599727	think|	0.1176316
+-3.745855	think|DURATION
+-3.745855	think|MONEY
+-3.745855	think|about.
+-3.745855	think|d
+-3.745855	think|nothing
+-3.745855	think|thing
+-3.745855	think|what
+-3.444825	think|which	0.04657838
+-3.745855	threaten|
+-3.268734	thrill|	0.0001667765
+-3.268734	throw|	0.0004011713
+-3.745855	throw|asthma
+-3.745855	tick|
+-3.745855	tie|
+-3.745855	tinge|rest
+-3.268734	tire|	0.1054564
+-3.745855	toast|
+-3.745855	top|
+-3.745855	top|bottle
+-3.444825	top|it	0.04657838
+-3.745855	toss|
+-3.745855	toss|lure
+-3.745855	total|
+-3.745855	touch|
+-3.745855	touch|it
+-3.745855	touch|you
+-3.745855	tour|mile
+-3.745855	tow|boat
+-3.745855	tow|people
+-3.745855	tow|sawmill
+-3.745855	tow|trailer
+-3.745855	track|
+-3.268734	trail|	0.05345304
+-3.745855	trail|area
+-3.745855	trail|bridge
+-3.745855	trail|everywhere
+-3.745855	trail|part
+-3.745855	trail|trail
+-3.745855	train|
+-3.745855	trap|
+-3.444825	travel|	0.05243726
+-3.745855	travel|road
+-3.745855	tread|
+-3.745855	treat|
+-3.745855	trek|
+-3.745855	trickle|
+-3.745855	trip|
+-3.745855	trust|
+-2.704463	try|	0.05863433
+-3.745855	try|Waters
+-3.268734	try|camping	0.05301173
+-3.745855	try|diving
+-3.745855	try|hiking
+-3.444825	try|it	0.04657838
+-3.745855	try|pool
+-3.745855	tube|
+-3.745855	tuck|they
+-3.745855	tumble|pretty
+-3.745855	tuned|MONEY
+-3.745855	tune|
+-2.423636	turn|	0.1191035
+-3.745855	turn|I
+-3.745855	turn|NUMBER
+-3.745855	turn|bee
+-3.745855	turn|it
+-3.745855	turn|road
+-3.745855	twist|ankle
+-3.745855	understand|
+-3.745855	understand|what
+-3.745855	undo|tent
+-3.745855	unload|
+-3.745855	unpack|
+-3.745855	unplug|
+-3.745855	unzip|tent
+-3.745855	update|
+-3.268734	upload|	0.05239465
+-3.745855	upload|video
+-3.745855	upset|
+-3.143795	use|	0.05217594
+-3.745855	use|NUMBER
+-3.745855	use|bag
+-3.745855	use|bathroom
+-3.745855	use|camera
+-3.745855	use|equipment
+-3.745855	use|facility
+-3.745855	use|it
+-3.745855	use|restroom
+-3.745855	use|rice
+-3.745855	use|saddlebag
+-3.745855	use|they
+-3.745855	use|time
+-3.745855	use|toilet
+-3.745855	utilize|ubiquitous
+-3.745855	vacation|
+-3.745855	vanish|
+-3.745855	vary|
+-3.444825	venture|	0.0001612602
+-3.745855	verb|
+-3.444825	view|	-0.000150845
+-3.745855	visit|
+-3.745855	visit|LOCATION
+-3.745855	visit|PERSON
+-3.745855	visit|he
+-3.745855	visit|light
+-3.745855	visit|lighthouse
+-3.745855	visit|site
+-3.745855	visit|they
+-3.745855	visit|waterfall
+-3.745855	volunteer|
+-3.745855	vomit|
+-3.745855	vow|
+-3.745855	wade|
+-3.745855	wade|lot
+-3.143795	wait|	0.06360305
+-3.745855	wait|DURATION
+-3.745855	wait|I
+-3.745855	wait|it
+-3.444825	waken|	0.04657838
+-2.791613	wake|	0.1104902
+-3.745855	wake|I
+-3.745855	wake|MONEY
+-3.745855	wake|NUMBER
+-3.745855	wake|TIME
+-3.745855	wake|cold
+-3.745855	wake|gear
+-3.745855	wake|he
+-3.745855	wake|we
+-2.631912	walk|	0.1149623
+-3.745855	walk|beach
+-3.745855	walk|hill
+-3.745855	walk|klick
+-3.745855	walk|loop
+-3.745855	walk|path
+-3.745855	walk|rain.
+-3.745855	walk|road
+-3.745855	walk|trail
+-3.745855	walk|way
+-3.444825	wander|	0.04657838
+-2.541735	want|	0.1352122
+-3.745855	want|I
+-3.745855	want|NUMBER
+-3.745855	want|PERSON
+-3.745855	want|cocoa
+-3.745855	want|it
+-3.745855	want|money
+-3.745855	want|nothing
+-3.745855	want|photo
+-3.745855	want|time
+-3.745855	want|we
+-3.745855	want|what
+-3.745855	warm|
+-3.745855	warn|
+-3.745855	warn|I
+-3.745855	warn|we
+-3.268734	wash|	0.04766354
+-3.745855	wash|clothes
+-3.745855	wash|dish
+-3.745855	wash|floor
+-3.745855	wash|hand
+-3.745855	wasn|
+-3.745855	wasn|MONEY
+-3.268734	wasn|t	0.04644532
+-3.745855	waste|banana
+-3.268734	watch|	0.05230657
+-3.745855	watch|MONEY
+-3.745855	watch|boy
+-3.745855	watch|episode
+-3.745855	watch|experience
+-3.444825	watch|it	0.0001612602
+-3.745855	watch|movie
+-3.745855	watch|playing
+-3.745855	watch|rise
+-3.745855	watch|roll
+-3.745855	watch|sun
+-3.745855	watch|sunrise
+-3.444825	watch|sunset	0.00219543
+-3.745855	watch|they
+-3.444825	watch|tv	0.007164258
+-3.745855	water|
+-3.745855	water|weed
+-3.745855	wave|
+-3.444825	wear|	-7.28397e-05
+-3.745855	wear|FiveFingers
+-3.745855	wear|boot
+-3.745855	wear|hat
+-3.745855	wear|it
+-3.745855	wear|wetsuit
+-3.745855	week|
+-3.745855	welcome|
+-3.745855	werent|
+-3.745855	weren|MONEY
+-3.745855	weren|camper
+-3.745855	weren|t
+-3.745855	we|
+-3.745855	we|MONEY
+-3.745855	we|d
+-3.745855	we|need
+-3.745855	we|re
+-3.745855	whine|
+-3.745855	whisper|
+-3.745855	whistle|
+-3.745855	whittle|
+-3.745855	who|MONEY
+-3.745855	win.|
+-3.745855	wind|
+-3.745855	wind|road
+-3.268734	win|	0.04642505
+-3.745855	win|award
+-3.745855	win|game
+-3.444825	wipe|	5.179609e-06
+-3.444825	wish|	0.009311282
+-3.745855	wish|I
+-3.745855	witness|
+-3.444825	wonder|	0.04657838
+-3.745855	won|MONEY
+-2.967704	work|	0.05492346
+-3.745855	work|fine
+-3.745855	work|what
+-3.046885	worry|	0.1125758
+-3.745855	wouldn|MONEY
+-3.745855	would|MONEY
+-3.745855	wrap|
+-3.745855	wreck|
+-3.745855	wrestle|bear
+-3.745855	write|
+-3.745855	write|post
+-3.745855	write|this
+-3.745855	yeah|
+-3.745855	yell|
+-3.745855	yep|
+-3.745855	yet?|MONEY
+-3.745855	yet?|crap
+-3.745855	you|MONEY
+-3.444825	zip|	0.005264662
+-3.444825	|	0.04657838
+-3.444825	|MONEY	-0.000150845
+-3.745855	|we
+
+\2-grams:
+-2.756332	<s> <unk>
+-2.67715	<s> be|
+-3.154272	<s> dive|
+-3.154272	<s> don|
+-3.154272	<s> do|
+-3.154272	<s> get|
+-3.154272	<s> get|home
+-3.154272	<s> go|
+-3.154272	<s> go|camping
+-2.97818	<s> have|
+-3.154272	<s> have|chance
+-3.154272	<s> have|trip
+-3.154272	<s> it|MONEY
+-3.154272	<s> upload|
+-2.761803	<unk> </s>
+-1.268112	<unk> <unk>
+-3.238924	<unk> adjust|
+-3.238924	<unk> admit|
+-3.238924	<unk> arrive|
+-3.238924	<unk> assume|
+-3.062833	<unk> backtrack|
+-3.238924	<unk> begin|
+-3.238924	<unk> begin|descent
+-1.471768	<unk> be|
+-3.238924	<unk> borrow|
+-3.238924	<unk> bring|
+-3.238924	<unk> bring|I
+-3.238924	<unk> call|
+-3.238924	<unk> call|we
+-3.238924	<unk> camp|
+-3.238924	<unk> catch|
+-3.238924	<unk> change|
+-3.238924	<unk> charge|
+-3.238924	<unk> check|
+-3.238924	<unk> close|
+-3.062833	<unk> come|
+-3.238924	<unk> come|it
+-3.238924	<unk> complain|
+-3.238924	<unk> continue|
+-3.238924	<unk> cook|they
+-3.238924	<unk> couldn|MONEY
+-3.238924	<unk> cut|
+-2.694856	<unk> decide|
+-3.238924	<unk> desert|
+-3.238924	<unk> determine|
+-3.238924	<unk> die|
+-3.238924	<unk> disappear|
+-3.238924	<unk> dive|
+-2.197531	<unk> do|
+-3.238924	<unk> do|NUMBER
+-3.238924	<unk> do|job
+-3.238924	<unk> dress|
+-3.238924	<unk> drink|
+-2.636864	<unk> drive|
+-3.238924	<unk> drive|mile
+-3.062833	<unk> eat|
+-3.238924	<unk> end|
+-3.238924	<unk> enjoy|weather
+-3.062833	<unk> fall|
+-3.238924	<unk> feel|
+-2.937894	<unk> figure|
+-3.238924	<unk> find|
+-2.937894	<unk> find|PERSON
+-3.238924	<unk> find|campground
+-3.238924	<unk> find|place
+-3.238924	<unk> finish|
+-3.062833	<unk> fly|
+-3.238924	<unk> forget|
+-3.238924	<unk> freeze|
+-2.42601	<unk> get|
+-3.238924	<unk> get|it
+-3.238924	<unk> get|photo
+-3.238924	<unk> get|thing
+-3.238924	<unk> give|she
+-3.238924	<unk> give|you
+-2.197531	<unk> go|
+-3.238924	<unk> go|home
+-3.238924	<unk> go|way
+-3.238924	<unk> greet|
+-3.238924	<unk> hang|
+-2.008475	<unk> have|
+-3.238924	<unk> have|beer
+-3.238924	<unk> have|burger
+-3.238924	<unk> have|dish
+-3.238924	<unk> have|headache
+-3.238924	<unk> have|lot
+-3.238924	<unk> have|lunch
+-3.238924	<unk> have|rib
+-3.062833	<unk> have|time
+-2.937894	<unk> head|
+-3.062833	<unk> help|
+-2.937894	<unk> hike|
+-3.238924	<unk> hope|
+-3.238924	<unk> ignore|it
+-3.238924	<unk> include|
+-3.062833	<unk> intend|
+-3.238924	<unk> it|MONEY
+-3.238924	<unk> it|s
+-3.238924	<unk> keep|
+-2.937894	<unk> know|
+-3.238924	<unk> lay|
+-3.238924	<unk> learn|
+-3.062833	<unk> leave|
+-3.238924	<unk> leave|they
+-3.062833	<unk> let|
+-3.238924	<unk> lie|
+-2.937894	<unk> look|
+-3.062833	<unk> make|
+-3.062833	<unk> make|dinner
+-2.937894	<unk> make|it
+-3.238924	<unk> make|way
+-3.238924	<unk> melt|
+-3.062833	<unk> mention|
+-3.238924	<unk> miss|PERSON
+-3.062833	<unk> move|
+-3.238924	<unk> occur|
+-3.062833	<unk> overlook|lake
+-3.238924	<unk> pack|
+-3.238924	<unk> park|
+-3.238924	<unk> pass|
+-3.238924	<unk> play|game
+-3.238924	<unk> post|
+-3.238924	<unk> pray|
+-3.238924	<unk> prepare|
+-3.062833	<unk> press|
+-3.062833	<unk> pull|
+-3.238924	<unk> read|
+-3.062833	<unk> read|PERSON
+-3.238924	<unk> reflect|
+-3.238924	<unk> refresh|
+-3.238924	<unk> relax|
+-3.238924	<unk> remain|
+-3.238924	<unk> remember|
+-3.238924	<unk> rest|
+-3.062833	<unk> return|
+-3.238924	<unk> rip|
+-3.238924	<unk> rise|
+-3.238924	<unk> run|
+-3.062833	<unk> say|
+-3.238924	<unk> schedule|
+-3.238924	<unk> scream|
+-2.761803	<unk> see|
+-3.238924	<unk> see|it
+-3.238924	<unk> see|sign
+-3.238924	<unk> send|I
+-3.238924	<unk> settle|
+-3.238924	<unk> set|
+-3.238924	<unk> set|camp
+-3.238924	<unk> shift|
+-3.238924	<unk> shrug|
+-3.238924	<unk> sift|
+-2.937894	<unk> sit|
+-3.238924	<unk> sleep|
+-3.238924	<unk> soak|
+-3.238924	<unk> spend|DURATION
+-3.238924	<unk> spend|rest
+-3.238924	<unk> spread|
+-3.238924	<unk> sprinkle|
+-3.062833	<unk> stand|
+-3.238924	<unk> stay|
+-2.937894	<unk> stop|
+-3.238924	<unk> suck|
+-2.937894	<unk> take|
+-3.238924	<unk> take|DURATION
+-3.238924	<unk> take|boat
+-3.238924	<unk> take|chance
+-3.062833	<unk> take|he
+-3.238924	<unk> take|hike
+-3.238924	<unk> take|kid
+-3.238924	<unk> take|look
+-3.238924	<unk> take|time
+-3.238924	<unk> take|we
+-3.062833	<unk> taste|
+-3.238924	<unk> tell|he
+-3.062833	<unk> think|
+-3.238924	<unk> think|which
+-3.238924	<unk> throw|
+-2.937894	<unk> try|
+-2.636864	<unk> turn|
+-2.937894	<unk> walk|
+-2.840984	<unk> want|
+-3.062833	<unk> wash|
+-3.238924	<unk> watch|
+-3.238924	<unk> watch|sunset
+-3.238924	<unk> wish|
+-3.238924	<unk> wonder|
+-2.937894	<unk> work|
+-3.238924	<unk> |MONEY
+-3.151063	adjust| doesn|work
+-3.151063	admit| <unk>
+-3.151217	advise| advise|
+-3.151217	advise| go|
+-3.151063	amaze| enjoy|
+-2.851258	arrive| be|
+-3.152288	arrive| campground|
+-3.152288	arrive| come|
+-3.152288	arrive| drive|
+-3.152288	arrive| hear|sound
+-3.152288	arrive| stare|
+-3.152288	arrive| tell|
+-3.151063	assume| <unk>
+-3.151063	awake| take|while
+-3.15137	backtrack| <unk>
+-3.15137	backtrack| do|
+-3.15137	backtrack| have|room
+-3.151063	back| be|
+-3.151063	base| be|
+-3.151063	become| <unk>
+-3.151676	begin| <unk>
+-3.151676	begin| begin|
+-3.151676	begin| rain|
+-3.151676	begin| struggle|
+-3.151676	begin| worry|
+-3.151063	begin|descent be|
+-3.151063	believe| be|
+-3.151063	bet| be|
+-2.628389	be| </s>
+-1.417536	be| <unk>
+-3.230449	be| advise|
+-3.230449	be| amaze|
+-3.230449	be| begin|
+-1.410905	be| be|
+-3.230449	be| be|what
+-3.230449	be| blaze|
+-3.230449	be| bless|
+-3.230449	be| block|
+-3.230449	be| break|camp
+-3.230449	be| bring|
+-3.230449	be| buy|
+-3.230449	be| call|they
+-3.054358	be| camp|
+-3.230449	be| catch|fish
+-3.230449	be| clean|
+-3.230449	be| climb|
+-3.230449	be| climb|it
+-3.054358	be| close|
+-3.230449	be| come|
+-3.230449	be| confirm|
+-3.230449	be| convince|PERSON
+-3.230449	be| couldn|MONEY
+-3.230449	be| decide|
+-3.230449	be| disappoint|
+-3.230449	be| discover|
+-2.252725	be| do|
+-3.230449	be| do|it
+-3.230449	be| do|that
+-3.054358	be| do|what
+-3.230449	be| dress|
+-3.230449	be| drift|
+-2.929419	be| drive|
+-3.230449	be| drive|home
+-3.230449	be| dry|
+-3.230449	be| empty|
+-3.230449	be| end|
+-3.230449	be| escape|
+-2.929419	be| excite|
+-3.230449	be| expect|
+-3.230449	be| fall|
+-3.230449	be| feast|
+-2.832509	be| feel|
+-3.054358	be| figure|
+-3.230449	be| find|spot
+-3.230449	be| find|way
+-3.230449	be| follow|
+-3.230449	be| force|
+-3.230449	be| freeze|
+-2.490086	be| get|
+-3.230449	be| get|home
+-3.054358	be| give|
+-3.230449	be| give|I
+-3.230449	be| give|NUMBER
+-2.100115	be| go|
+-3.230449	be| go|MONEY
+-3.054358	be| go|camping
+-3.230449	be| go|way
+-3.230449	be| greet|
+-3.230449	be| hate|
+-2.169751	be| have|
+-3.230449	be| have|blast
+-3.230449	be| have|feeling
+-3.054358	be| have|lot
+-3.230449	be| have|time
+-2.929419	be| head|
+-3.230449	be| head|home
+-3.230449	be| hear|
+-3.230449	be| highlight|
+-3.230449	be| hike|
+-2.929419	be| hope|
+-3.230449	be| hover|
+-3.230449	be| include|
+-3.230449	be| intend|
+-3.230449	be| jump|
+-3.230449	be| keep|
+-3.230449	be| kid|
+-3.230449	be| know|
+-3.230449	be| laugh|
+-3.230449	be| learn|
+-3.230449	be| learn|thing
+-2.686381	be| leave|
+-2.929419	be| let|
+-3.230449	be| like|
+-3.230449	be| like|it
+-3.230449	be| limit|
+-2.929419	be| look|
+-2.929419	be| make|
+-3.054358	be| make|it
+-3.230449	be| meet|
+-3.230449	be| move|
+-3.230449	be| nap|
+-3.230449	be| open|
+-3.054358	be| organize|
+-2.832509	be| pack|
+-3.054358	be| pave|
+-3.230449	be| piss|
+-3.230449	be| pitch|tent
+-3.054358	be| plan|
+-3.230449	be| prepare|
+-3.054358	be| pull|
+-3.230449	be| put|
+-3.230449	be| put|PERSON
+-3.054358	be| rain|
+-3.230449	be| reach|
+-3.230449	be| read|book
+-3.230449	be| reflect|
+-3.230449	be| remember|it
+-3.230449	be| return|
+-3.230449	be| run|
+-3.230449	be| say|
+-3.230449	be| scare|
+-3.230449	be| scratch|
+-3.230449	be| seem|
+-2.753328	be| see|
+-3.230449	be| see|fish
+-3.230449	be| see|lake
+-3.230449	be| see|people
+-3.230449	be| send|I
+-3.230449	be| settle|
+-3.054358	be| set|
+-3.230449	be| show|
+-2.929419	be| sit|
+-2.686381	be| sleep|
+-3.230449	be| sleep|NUMBER
+-3.230449	be| spend|time
+-3.054358	be| start|
+-2.929419	be| stay|
+-3.230449	be| stick|
+-3.230449	be| stink|
+-3.230449	be| stop|
+-3.230449	be| stress|
+-2.929419	be| suppose|
+-3.230449	be| surround|
+-3.054358	be| take|
+-3.230449	be| take|photo
+-3.230449	be| take|some
+-3.054358	be| talk|
+-3.230449	be| teach|they
+-3.054358	be| tell|
+-3.230449	be| tell|I
+-3.230449	be| tell|PERSON
+-3.230449	be| tell|he
+-2.832509	be| think|
+-3.230449	be| thrill|
+-3.054358	be| tire|
+-3.230449	be| top|it
+-3.230449	be| travel|
+-2.832509	be| try|
+-3.230449	be| try|camping
+-3.230449	be| turn|
+-3.230449	be| wait|
+-3.230449	be| waken|
+-3.230449	be| wake|
+-2.929419	be| walk|
+-3.054358	be| want|
+-3.230449	be| wasn|t
+-3.230449	be| win|
+-3.230449	be| wipe|
+-3.054358	be| work|
+-3.054358	be| worry|
+-3.230449	be| zip|
+-3.151063	be|what go|
+-3.151063	blaze| be|
+-3.151217	blend| <unk>
+-3.151217	blend| be|
+-3.151063	bless| get|
+-3.151063	block| be|
+-3.151063	borrow| have|camping
+-3.151063	bother|I <unk>
+-3.151217	break|camp <unk>
+-3.151217	break|camp be|
+-3.151063	breathe| be|
+-2.850646	bring| <unk>
+-3.151676	bring| brush|tooth
+-3.151676	bring| think|
+-3.151063	bring|I search|
+-3.151063	brush|tooth head|
+-3.151063	buy| <unk>
+-3.151063	buy|food get|
+-3.151063	buzz| be|
+-3.151676	call| <unk>
+-3.151676	call| end|
+-3.151676	call| fly|
+-3.151676	call| quit|
+-3.151676	call| scream|
+-3.151063	call|he say|
+-3.151063	call|it sleep|
+-3.151063	call|they <unk>
+-3.151063	call|we <unk>
+-3.151063	calm| fall|
+-3.151063	campground| notice|
+-3.151676	camp| <unk>
+-2.975585	camp| be|
+-3.151676	camp| have|
+-3.151676	camp| rent|cabin
+-3.151063	carry|everything <unk>
+-3.151063	catch| be|
+-3.151217	catch|fish do|
+-3.151217	catch|fish say|
+-2.975279	change| <unk>
+-3.15137	change| change|
+-3.151063	charge| bring|
+-3.151523	check| cruise|
+-3.151523	check| look|
+-3.151523	check| pull|
+-3.151523	check| tell|
+-3.151217	clean| be|
+-3.151217	clean| have|
+-3.151063	clear| see|
+-3.151063	click| view|
+-3.151523	climb| <unk>
+-3.151523	climb| be|
+-3.151523	climb| climb|
+-3.151523	climb| get|
+-3.151217	climb|it be|
+-3.151217	climb|it climb|it
+-2.850646	close| <unk>
+-3.151676	close| get|
+-3.151676	close| hit|road
+-2.97635	come| <unk>
+-2.851411	come| be|
+-3.152441	come| come|
+-3.152441	come| find|
+-3.152441	come| get|canoe
+-3.152441	come| have|breakfast
+-3.152441	come| tell|I
+-3.151063	come|it be|
+-3.151217	complain| <unk>
+-3.151217	complain| be|
+-3.151063	confirm| <unk>
+-3.151063	consider| have|
+-3.151063	consume| go|
+-3.151217	continue| have|
+-3.151217	continue| set|
+-3.151217	convince|PERSON convince|PERSON
+-3.151217	convince|PERSON join|I
+-3.151063	cook|meal hike|
+-3.151063	cook|they <unk>
+-3.151063	couldnt| <unk>
+-3.15137	couldn|MONEY deal|
+-3.15137	couldn|MONEY get|break
+-3.15137	couldn|MONEY have|
+-3.151063	cover| say|
+-3.151063	crash| have|time
+-3.151217	crawl| arrive|
+-3.151217	crawl| do|
+-3.151063	cruise| be|
+-3.151063	cut| arrive|
+-3.151063	dance| call|
+-3.151063	deal| be|
+-2.978637	decide| <unk>
+-3.154728	decide| be|
+-3.154728	decide| call|it
+-3.154728	decide| camp|
+-3.154728	decide| didn|MONEY
+-2.978637	decide| do|
+-3.154728	decide| follow|
+-3.154728	decide| get|start
+-3.154728	decide| give|PERSON
+-3.154728	decide| give|it
+-2.853698	decide| go|
+-3.154728	decide| have|trip
+-3.154728	decide| head|
+-3.154728	decide| need|
+-3.154728	decide| stay|
+-3.154728	decide| stop|
+-3.154728	decide| take|
+-3.154728	decide| take|he
+-3.154728	decide| try|camping
+-3.154728	decide| turn|
+-3.154728	decide| wait|
+-3.151063	desert| <unk>
+-3.151063	determine| be|
+-3.151063	didn|MONEY have|
+-3.151063	die| <unk>
+-3.151063	disappear| have|
+-3.151063	disappoint| be|
+-3.151217	discover| last|
+-3.151217	discover| take|shower
+-3.151676	dive| believe|
+-2.975585	dive| be|
+-3.151676	dive| see|load
+-3.151676	dive| think|
+-3.151063	doesn|work <unk>
+-3.15137	don| <unk>
+-2.975279	don| don|
+-3.151063	don|MONEY get|
+-3.151063	don|think have|
+-3.151063	down| wander|
+-3.162415	do| </s>
+-2.184691	do| <unk>
+-2.560355	do| be|
+-3.162415	do| bother|I
+-3.162415	do| catch|fish
+-3.162415	do| do|it
+-3.162415	do| eat|they
+-3.162415	do| enjoy|
+-2.986324	do| feel|
+-2.986324	do| figure|
+-2.986324	do| forget|
+-2.986324	do| get|
+-3.162415	do| get|better
+-3.162415	do| get|site
+-3.162415	do| get|time
+-2.986324	do| go|
+-2.986324	do| have|
+-3.162415	do| have|campsite
+-3.162415	do| have|electricity
+-3.162415	do| have|idea
+-3.162415	do| have|lot
+-3.162415	do| have|spot
+-3.162415	do| help|
+-3.162415	do| hit|road
+-3.162415	do| keep|
+-2.986324	do| know|
+-3.162415	do| let|
+-3.162415	do| like|
+-3.162415	do| love|it
+-3.162415	do| make|noise
+-3.162415	do| mention|
+-3.162415	do| mix|
+-2.986324	do| pack|
+-3.162415	do| pile|
+-3.162415	do| put|it
+-3.162415	do| say|
+-3.162415	do| set|tent
+-3.162415	do| sleep|
+-2.986324	do| take|
+-3.162415	do| that|MONEY
+-3.162415	do| think|
+-2.861385	do| want|
+-3.151217	do|NUMBER dive|
+-3.151217	do|NUMBER go|
+-3.151063	do|hike have|
+-2.850493	do|it <unk>
+-3.151523	do|it be|
+-3.15137	do|job <unk>
+-3.15137	do|job be|
+-3.15137	do|job head|home
+-3.151063	do|that have|
+-3.151063	do|thing go|
+-3.151217	do|walk <unk>
+-3.151217	do|walk do|walk
+-3.15137	do|what </s>
+-3.15137	do|what be|
+-3.15137	do|what make|camp
+-3.151063	drag| <unk>
+-3.15137	dress| call|
+-3.15137	dress| check|
+-3.15137	dress| tell|she
+-3.151063	drift| be|
+-3.151063	drink| blend|
+-3.151063	drip| get|
+-2.502427	drive| <unk>
+-2.611572	drive| be|
+-3.15564	drive| check|
+-2.85461	drive| drive|
+-3.15564	drive| find|spot
+-3.15564	drive| get|
+-3.15564	drive| get|CAUSE_OF_DEATH
+-2.979548	drive| make|
+-3.15564	drive| meet|PERSON
+-2.979548	drive| pass|
+-3.15564	drive| relax|
+-3.15564	drive| sit|
+-3.15564	drive| stop|
+-3.15564	drive| that|
+-3.15564	drive| wake|
+-3.151063	drive|car have|
+-3.151063	drive|home be|
+-3.151063	drive|mile arrive|
+-2.975125	drop| be|
+-3.151063	dry| <unk>
+-3.151982	eat| <unk>
+-2.975891	eat| be|
+-3.151982	eat| cook|meal
+-3.151982	eat| discover|
+-3.151982	eat| eat|
+-3.151982	eat| have|
+-3.151063	eat|breakfast be|
+-3.151063	eat|they drive|
+-3.151063	empty| clean|
+-3.151523	end| <unk>
+-3.151523	end| decide|
+-3.151523	end| give|I
+-3.151523	end| take|I
+-3.151829	enjoy| be|
+-3.151829	enjoy| have|
+-3.151829	enjoy| meet|he
+-3.151829	enjoy| read|
+-3.151829	enjoy| soak|
+-3.151829	enjoy| walk|
+-3.151063	enjoy|it be|
+-3.151063	enjoy|weather head|
+-3.151217	enter| be|
+-3.151217	enter| enter|
+-3.151063	escape| leave|
+-3.15137	excite| be|
+-3.15137	excite| have|
+-3.15137	excite| have|DATE
+-3.151063	expect| do|
+-2.975891	fall| be|
+-3.151982	fall| don|MONEY
+-3.151982	fall| drive|
+-2.975891	fall| have|
+-3.151982	fall| wake|
+-3.151063	feast| be|
+-2.852022	feel| <unk>
+-2.49984	feel| be|
+-3.153052	feel| do|hike
+-3.153052	feel| leave|
+-3.153052	feel| tell|I
+-2.976656	figure| <unk>
+-2.675626	figure| be|
+-3.152747	figure| do|
+-3.152747	figure| enjoy|
+-2.976656	figure| have|
+-3.152747	figure| read|it
+-3.151829	find| <unk>
+-3.151829	find| be|
+-3.151829	find| close|
+-3.151829	find| have|
+-3.151829	find| miss|
+-3.151829	find| turn|
+-2.85034	find|PERSON <unk>
+-3.151063	find|campground have|
+-3.151063	find|campsite have|
+-3.151063	find|hotel <unk>
+-3.151063	find|place do|
+-3.151063	find|site be|
+-2.975279	find|spot be|
+-3.15137	find|spot set|camp
+-3.151063	find|way <unk>
+-3.151063	find|we find|hotel
+-3.15137	finish| <unk>
+-3.15137	finish| be|
+-3.15137	finish| pack|stuff
+-3.15137	fly| </s>
+-3.15137	fly| <unk>
+-3.15137	fly| arrive|
+-3.151982	follow| be|
+-3.151982	follow| follow|
+-3.151982	follow| happen|
+-3.151982	follow| see|
+-3.151982	follow| split|
+-3.151982	follow| trail|
+-3.151982	follow| wasn|t
+-3.151063	force| turn|
+-3.151676	forget| be|
+-3.151676	forget| get|
+-2.975585	forget| have|
+-3.151676	forget| pack|
+-3.151217	freeze| <unk>
+-3.151217	freeze| be|
+-3.151217	gain| be|
+-3.151217	gain| gain|
+-3.161518	get| </s>
+-2.286457	get| <unk>
+-3.161518	get| begin|
+-2.207275	get| be|
+-3.161518	get| break|camp
+-3.161518	get| do|
+-3.161518	get| do|it
+-3.161518	get| dress|
+-2.860488	get| drive|
+-3.161518	get| find|
+-2.684397	get| get|
+-2.860488	get| go|
+-3.161518	get| go|swimming
+-2.860488	get| have|
+-3.161518	get| have|fun
+-3.161518	get| head|
+-2.985426	get| know|
+-3.161518	get| load|
+-2.985426	get| lose|
+-3.161518	get| mean|what
+-3.161518	get| notice|
+-3.161518	get| pack|
+-3.161518	get| rain|
+-3.161518	get| rest|
+-3.161518	get| see|
+-3.161518	get| spook|
+-3.161518	get| stand|
+-3.161518	get| stop|
+-3.161518	get| walk|
+-3.151063	get|CAUSE_OF_DEATH go|
+-3.151063	get|better </s>
+-3.151063	get|break watch|tv
+-3.151063	get|canoe place|
+-3.151217	get|he <unk>
+-3.151217	get|he be|
+-2.975432	get|home be|
+-3.151523	get|home go|
+-3.151523	get|home have|
+-3.151063	get|it <unk>
+-3.151063	get|photo <unk>
+-3.151063	get|site <unk>
+-3.151063	get|start be|
+-3.151217	get|thing forget|
+-3.151217	get|thing need|
+-3.151063	get|time be|
+-3.151217	give| <unk>
+-3.151217	give| be|
+-2.975125	give|I <unk>
+-3.151063	give|NUMBER <unk>
+-3.151063	give|PERSON give|break
+-3.151063	give|break take|kid
+-3.151063	give|go do|job
+-3.151063	give|it give|go
+-3.151063	give|she <unk>
+-3.151063	give|you <unk>
+-2.085915	go| <unk>
+-2.143907	go| be|
+-3.165096	go| bring|
+-3.165096	go| check|
+-2.989005	go| come|
+-3.165096	go| decide|
+-2.989005	go| do|
+-3.165096	go| drag|
+-3.165096	go| end|
+-3.165096	go| enjoy|
+-3.165096	go| feel|
+-3.165096	go| find|we
+-3.165096	go| get|
+-3.165096	go| get|he
+-3.165096	go| get|thing
+-2.767156	go| go|
+-2.687975	go| have|
+-3.165096	go| have|campfire
+-3.165096	go| have|tent
+-3.165096	go| leave|
+-3.165096	go| leave|house
+-3.165096	go| let|
+-3.165096	go| listen|
+-3.165096	go| make|camp
+-3.165096	go| pack|
+-3.165096	go| play|
+-3.165096	go| read|book
+-3.165096	go| run|
+-3.165096	go| say|
+-3.165096	go| seem|
+-3.165096	go| see|LOCATION
+-3.165096	go| see|it
+-2.989005	go| sleep|
+-2.989005	go| stay|
+-3.165096	go| stroll|
+-3.165096	go| swim|
+-3.165096	go| take|place
+-3.165096	go| think|
+-3.165096	go| try|
+-3.165096	go| turn|
+-3.165096	go| use|
+-3.165096	go| want|
+-3.151063	go|MONEY be|
+-3.151523	go|camping <unk>
+-2.975432	go|camping be|
+-3.151523	go|camping know|
+-3.151063	go|home head|home
+-3.151063	go|swimming be|
+-2.975279	go|way <unk>
+-3.15137	go|way decide|
+-3.151063	grab| feel|
+-3.151217	greet| be|
+-3.151217	greet| head|
+-3.151063	guess| have|
+-3.15137	hang| <unk>
+-3.15137	hang| head|
+-3.15137	hang| show|
+-3.151217	happen| be|
+-3.151217	happen| stand|
+-3.151063	hate| do|
+-3.151063	haven|MONEY eat|breakfast
+-2.022958	have| <unk>
+-3.169086	have| arrive|
+-3.169086	have| become|
+-2.072176	have| be|
+-3.169086	have| carry|everything
+-3.169086	have| climb|
+-3.169086	have| close|
+-3.169086	have| come|
+-3.169086	have| complain|
+-3.169086	have| consume|
+-3.169086	have| couldn|MONEY
+-2.992995	have| crawl|
+-3.169086	have| decide|
+-3.169086	have| do|
+-3.169086	have| drive|
+-3.169086	have| drive|car
+-3.169086	have| drop|
+-2.868056	have| eat|
+-3.169086	have| feel|
+-3.169086	have| forget|
+-2.868056	have| get|
+-2.470116	have| go|
+-3.169086	have| go|way
+-3.169086	have| have|
+-3.169086	have| have|enough
+-3.169086	have| have|sleep
+-3.169086	have| have|time
+-3.169086	have| hike|
+-3.169086	have| intend|
+-3.169086	have| keep|
+-3.169086	have| leave|
+-3.169086	have| make|
+-3.169086	have| make|stop
+-3.169086	have| make|talk
+-3.169086	have| melt|
+-3.169086	have| pack|
+-3.169086	have| pass|NUMBER
+-3.169086	have| pitch|tent
+-2.992995	have| plan|
+-3.169086	have| purchase|
+-3.169086	have| recover|
+-2.992995	have| say|
+-2.771146	have| see|
+-3.169086	have| see|what
+-3.169086	have| send|I
+-3.169086	have| set|
+-3.169086	have| sleep|
+-3.169086	have| stay|
+-3.169086	have| suggest|
+-3.169086	have| take|
+-3.169086	have| take|picture
+-3.169086	have| tell|
+-3.169086	have| think|
+-3.169086	have| want|
+-3.151063	have|DATE plan|
+-3.151063	have|NUMBER <unk>
+-3.151063	have|bedroom be|
+-3.151063	have|beer head|home
+-3.151063	have|blast start|
+-3.151063	have|breakfast have|toast
+-3.151063	have|burger <unk>
+-3.151063	have|campfire get|
+-3.151217	have|camping have|camping
+-3.151217	have|camping plan|
+-3.151063	have|campsite be|
+-3.151063	have|chance do|NUMBER
+-3.151063	have|couple look|
+-3.151063	have|dish follow|
+-3.151063	have|drive arrive|
+-3.151063	have|electricity have|kitchen
+-3.151063	have|enough sit|
+-3.151063	have|family be|
+-3.151063	have|feeling be|
+-3.151063	have|fun buy|food
+-3.151063	have|headache <unk>
+-3.151063	have|idea <unk>
+-3.151063	have|kitchen have|bedroom
+-2.975585	have|lot be|
+-3.151676	have|lot get|
+-3.151676	have|lot have|lot
+-3.151676	have|lot tell|you
+-3.151217	have|lunch <unk>
+-3.151217	have|lunch be|
+-3.151063	have|none <unk>
+-3.151063	have|people <unk>
+-3.151063	have|plan drive|
+-3.151063	have|rib <unk>
+-3.151523	have|room <unk>
+-3.151523	have|room be|
+-3.151523	have|room drive|
+-3.151523	have|room stay|
+-3.151063	have|sleep <unk>
+-3.151063	have|spot be|
+-3.151063	have|tent be|
+-3.151829	have|time <unk>
+-3.151829	have|time be|
+-3.151829	have|time do|thing
+-3.151829	have|time get|
+-3.151829	have|time have|time
+-3.151829	have|time sleep|
+-3.151063	have|toast <unk>
+-3.151217	have|trip be|
+-3.151217	have|trip do|
+-2.977724	head| <unk>
+-2.676694	head| be|
+-3.153815	head| camp|
+-3.153815	head| decide|
+-3.153815	head| drop|
+-3.153815	head| get|
+-3.153815	head| go|
+-3.153815	head| hang|
+-3.153815	head| have|
+-3.153815	head| head|
+-3.153815	head| lie|
+-3.153815	head| pull|
+-3.153815	head| show|
+-3.153815	head| take|kid
+-2.850493	head|home <unk>
+-3.151523	head|home want|
+-3.151063	hear| sprinkle|
+-3.151063	hear|sound wake|
+-3.15137	help| <unk>
+-3.15137	help| be|
+-3.15137	help| look|
+-3.151063	highlight| be|
+-2.851564	hike| <unk>
+-2.851564	hike| be|
+-3.152594	hike| do|
+-3.152594	hike| gain|
+-3.152594	hike| get|
+-3.152594	hike| talk|
+-3.152594	hike| wear|
+-3.151063	hike|it lose|trail
+-3.151523	hit|road get|
+-3.151523	hit|road have|
+-3.151523	hit|road have|drive
+-3.151523	hit|road stop|
+-3.151523	hope| <unk>
+-2.975432	hope| be|
+-3.151523	hope| stay|
+-3.151063	hover| sit|
+-3.151063	identify| taste|
+-3.151063	ignore|it <unk>
+-3.151063	imagine| enjoy|
+-3.15137	include| <unk>
+-3.15137	include| bring|
+-3.15137	include| ride|
+-2.850646	intend| <unk>
+-3.151676	intend| decide|
+-3.151676	intend| leave|
+-3.151217	it|MONEY be|
+-3.151217	it|MONEY have|
+-3.151063	it|s find|
+-3.151063	join|I head|
+-3.151063	jump| be|
+-3.151982	keep| decide|
+-2.975891	keep| follow|
+-3.151982	keep| get|
+-3.151982	keep| sleep|
+-3.151982	keep| stock|
+-3.151982	keep| worry|
+-3.151063	kid| be|
+-3.153662	know| </s>
+-2.755723	know| <unk>
+-2.50045	know| be|
+-3.153662	know| do|
+-3.153662	know| have|
+-2.852633	know| know|
+-3.151063	last| begin|
+-3.151063	laugh| be|
+-3.151063	lay| rest|
+-2.850646	learn| be|
+-3.151676	learn| have|
+-3.151676	learn| have|couple
+-3.151063	learn|thing do|
+-3.151063	learn|this <unk>
+-2.755417	leave| <unk>
+-2.977266	leave| be|
+-3.153358	leave| decide|
+-3.153358	leave| do|
+-3.153358	leave| drive|
+-3.153358	leave| figure|
+-3.153358	leave| finish|
+-3.153358	leave| go|camping
+-3.153358	leave| haven|MONEY
+-3.153358	leave| leave|
+-3.153358	leave| pack|
+-3.153358	leave| require|
+-3.151063	leave|home mean|
+-3.151063	leave|house go|
+-3.151063	leave|they think|
+-3.152441	let| <unk>
+-3.152441	let| be|
+-3.152441	let| down|
+-3.152441	let| drive|
+-3.152441	let| paint|
+-3.152441	let| say|
+-3.152441	let| speak|
+-2.97635	let| take|
+-3.152441	let| tell|you
+-3.15137	lie| <unk>
+-3.15137	lie| do|
+-3.15137	lie| sleep|
+-3.151063	light| be|
+-3.151217	like| <unk>
+-3.151217	like| be|
+-3.151063	like|it go|
+-3.151063	limit| have|
+-3.151063	listen| be|
+-3.151063	live| be|
+-3.151063	load| set|
+-3.151063	lodge| have|room
+-3.151063	log| have|plan
+-2.676084	look| <unk>
+-3.153205	look| be|
+-3.153205	look| climb|
+-3.153205	look| do|
+-3.153205	look| feel|
+-3.153205	look| have|room
+-3.153205	look| keep|
+-2.977114	look| look|
+-3.153205	look| sit|
+-3.153205	look| tell|story
+-3.151217	lose| be|
+-3.151217	lose| drive|
+-3.151063	lose|trail head|
+-3.151063	love|it be|
+-2.851105	make| <unk>
+-3.152135	make| be|
+-3.152135	make| go|
+-3.152135	make| have|
+-3.152135	make| sleep|
+-3.152135	make| stay|
+-3.151217	make|camp drive|
+-3.151217	make|camp enjoy|it
+-3.15137	make|dinner blend|
+-3.15137	make|dinner enjoy|
+-3.15137	make|dinner turn|
+-3.152135	make|it </s>
+-3.152135	make|it <unk>
+-3.152135	make|it intend|
+-2.976044	make|it make|it
+-3.152135	make|it make|way
+-3.152135	make|it take|DURATION
+-3.152135	make|it take|drive
+-3.151217	make|noise be|
+-3.151217	make|noise sit|
+-3.151063	make|post be|
+-3.151063	make|stop grab|
+-3.151063	make|talk try|
+-3.15137	make|way follow|
+-3.15137	make|way go|
+-3.15137	make|way hang|
+-3.151217	mean| have|
+-3.151217	mean| leave|
+-3.151063	mean|what <unk>
+-3.151217	meet| meet|
+-3.151217	meet| see|
+-3.151063	meet|PERSON have|
+-3.151063	meet|he hike|
+-3.151217	melt| sleep|
+-3.151217	melt| stick|
+-3.15137	mention| <unk>
+-3.15137	mention| be|
+-3.15137	mention| have|
+-3.151063	miss| <unk>
+-3.151063	miss|PERSON stay|
+-3.151217	mix| let|
+-3.151217	mix| mix|
+-2.975585	move| be|
+-3.151676	move| do|
+-3.151676	move| light|
+-3.151676	move| move|
+-3.151063	nap| call|he
+-3.151676	need| <unk>
+-3.151676	need| be|
+-3.151676	need| figure|
+-3.151676	need| get|
+-3.151676	need| press|
+-3.151217	notice| be|
+-3.151217	notice| park|
+-3.151063	occur| <unk>
+-3.151063	offer| take|picture
+-3.151217	open| <unk>
+-3.151217	open| get|
+-3.151217	organize| be|
+-3.151217	organize| go|
+-3.151217	overlook|lake <unk>
+-3.151217	overlook|lake have|none
+-2.976656	pack| <unk>
+-2.976656	pack| be|
+-3.152747	pack| do|
+-2.976656	pack| get|
+-3.152747	pack| get|home
+-3.152747	pack| have|
+-3.152747	pack| hit|road
+-3.152747	pack| take|
+-3.152747	pack| |
+-3.151063	pack|bag go|
+-3.151063	pack|car head|
+-3.151063	pack|stuff head|
+-3.151063	paint| lie|
+-3.15137	park| get|
+-3.15137	park| hike|
+-3.15137	park| park|
+-3.15137	pass| be|
+-3.15137	pass| do|it
+-3.15137	pass| have|
+-3.151063	pass|NUMBER refuse|
+-3.151217	pave| be|
+-3.151217	pave| have|
+-3.151063	pile| speed|
+-3.151063	piss| take|some
+-3.151217	pitch|tent <unk>
+-3.151217	pitch|tent be|
+-3.151063	place| get|
+-3.151829	plan| <unk>
+-2.975738	plan| be|
+-3.151829	plan| feel|
+-3.151829	plan| go|
+-3.151829	plan| turn|
+-3.151217	play| have|lunch
+-3.151217	play| see|waterfall
+-3.151217	play|game <unk>
+-3.151217	play|game be|
+-3.151063	post| get|
+-3.151063	pray| fall|
+-3.15137	prepare| be|
+-3.15137	prepare| come|
+-3.15137	prepare| prepare|dinner
+-3.151217	prepare|dinner know|
+-3.151217	prepare|dinner prepare|dinner
+-3.15137	press| arrive|
+-3.15137	press| realize|
+-3.15137	press| turn|
+-2.975738	pull| <unk>
+-3.151829	pull| be|
+-3.151829	pull| decide|
+-3.151829	pull| do|
+-3.151829	pull| learn|
+-3.151063	pull|it have|
+-3.151063	purchase| be|
+-3.151063	put| finish|
+-3.151063	put|PERSON do|
+-3.151063	put|it be|
+-3.151063	quit| head|
+-2.975585	rain| be|
+-3.151676	rain| get|
+-3.151676	rain| learn|
+-3.151676	rain| log|
+-3.151063	reach| </s>
+-2.975279	read| <unk>
+-3.15137	read| be|
+-3.151217	read|PERSON <unk>
+-3.151217	read|PERSON be|
+-2.975125	read|book <unk>
+-3.151063	read|it <unk>
+-3.151063	realize| be|
+-3.151063	recover| have|family
+-3.151217	reflect| be|
+-3.151217	reflect| know|
+-3.151063	refresh| <unk>
+-3.151063	refuse| backtrack|
+-3.151217	relax| read|
+-3.151217	relax| wake|
+-3.151063	remain| feel|
+-3.151063	remember| <unk>
+-3.151063	remember|it don|think
+-3.151063	rent|cabin decide|
+-3.151063	replace| have|
+-3.151063	require| be|
+-3.15137	rest| couldnt|
+-3.15137	rest| get|
+-3.15137	rest| venture|
+-3.15137	return| be|
+-3.15137	return| go|
+-3.15137	return| walk|
+-3.151063	ride| see|
+-3.151063	rip| <unk>
+-3.151063	rise| <unk>
+-2.975279	run| <unk>
+-3.15137	run| continue|
+-2.976961	say| <unk>
+-2.675931	say| be|
+-2.852022	say| do|
+-3.153052	say| have|
+-3.153052	say| play|game
+-3.153052	say| sleep|
+-3.153052	say| start|
+-3.151217	scare| </s>
+-3.151217	scare| scare|
+-3.151063	schedule| <unk>
+-3.151063	scratch| decide|
+-3.151217	scream| be|
+-3.151217	scream| decide|
+-3.151217	search| be|
+-3.151217	search| find|campsite
+-2.975279	seem| <unk>
+-3.15137	seem| be|
+-2.676846	see| <unk>
+-2.609899	see| be|
+-3.153967	see| do|what
+-3.153967	see| get|home
+-3.153967	see| happen|
+-3.153967	see| have|
+-3.153967	see| look|
+-3.153967	see| see|
+-3.153967	see| set|
+-3.153967	see| take|picture
+-3.153967	see| win|
+-3.151063	see|LOCATION let|
+-3.151063	see|PERSON <unk>
+-3.151063	see|fish know|
+-3.151217	see|it have|
+-3.151217	see|it need|
+-3.151063	see|kind enter|
+-3.151063	see|lake have|
+-3.151063	see|load dive|
+-3.151063	see|lot see|kind
+-3.151063	see|people go|
+-3.151063	see|sign <unk>
+-3.151063	see|waterfall be|
+-3.151063	see|what be|
+-3.15137	send|I <unk>
+-3.15137	send|I be|
+-3.15137	send|I do|
+-3.151063	serve| imagine|
+-3.151217	settle| <unk>
+-3.151217	settle| call|
+-2.851105	set| <unk>
+-2.976044	set| be|
+-3.152135	set| have|
+-3.152135	set| prepare|
+-3.152135	set| turn|
+-3.151217	set|camp <unk>
+-3.151217	set|camp learn|
+-3.151063	set|tent split|
+-3.151063	share|story <unk>
+-3.151063	shift| need|
+-3.15137	show| be|
+-3.15137	show| crash|
+-3.15137	show| get|he
+-3.151063	shrug| <unk>
+-3.151063	sift| use|
+-2.976656	sit| <unk>
+-2.851717	sit| be|
+-3.152747	sit| breathe|
+-3.152747	sit| do|
+-3.152747	sit| do|walk
+-3.152747	sit| drive|
+-3.152747	sit| go|
+-3.152747	sit| make|post
+-3.152747	sit| stop|
+-3.151063	size| <unk>
+-2.756027	sleep| <unk>
+-3.153967	sleep| awake|
+-2.676846	sleep| be|
+-2.977876	sleep| decide|
+-2.977876	sleep| get|
+-3.153967	sleep| guess|
+-3.153967	sleep| look|
+-3.153967	sleep| seem|
+-2.977876	sleep| sleep|
+-3.153967	sleep| wake|
+-3.151063	sleep|NUMBER mean|
+-3.151217	soak| be|
+-3.151217	soak| drip|
+-3.151063	sound| go|
+-3.151063	speak| <unk>
+-3.151063	speed| get|
+-3.151063	spend|DURATION <unk>
+-3.151063	spend|half pack|car
+-3.151063	spend|part <unk>
+-3.151063	spend|rest <unk>
+-3.151063	spend|time share|story
+-3.151217	split| be|
+-3.151217	split| decide|
+-3.151063	spook| leave|
+-3.151063	spread| bet|
+-2.975125	sprinkle| have|
+-2.850493	stand| <unk>
+-3.151523	stand| click|
+-3.151063	stare| <unk>
+-2.975738	start| <unk>
+-3.151829	start| come|
+-3.151829	start| make|way
+-3.151829	start| rain|
+-3.151829	start| start|
+-3.1529	stay| <unk>
+-3.1529	stay| be|
+-3.1529	stay| cover|
+-3.1529	stay| figure|
+-3.1529	stay| go|
+-3.1529	stay| have|room
+-3.1529	stay| look|
+-3.1529	stay| open|
+-3.1529	stay| pack|bag
+-3.1529	stay| say|
+-3.1529	stay| stay|
+-3.1529	stay| wake|
+-3.1529	stay| watch|
+-3.151217	stick| <unk>
+-3.151217	stick| say|
+-3.151063	stink| be|
+-3.151063	stock| <unk>
+-2.67532	stop| <unk>
+-3.152441	stop| do|job
+-3.152441	stop| fall|
+-3.152441	stop| know|
+-3.152441	stop| play|
+-3.152441	stop| walk|
+-3.151063	stress| go|
+-3.151217	stroll| be|
+-3.151217	stroll| wait|
+-3.151063	struggle| start|
+-3.151217	suck| <unk>
+-3.151217	suck| know|
+-3.151063	suggest| <unk>
+-3.15137	suppose| do|
+-3.15137	suppose| serve|
+-3.15137	suppose| turn|
+-3.151063	surround| be|
+-3.151063	swim| go|
+-3.1529	take| <unk>
+-2.976808	take| be|
+-3.1529	take| do|
+-3.1529	take| drive|
+-3.1529	take| eat|
+-3.1529	take| figure|
+-3.1529	take| get|
+-3.1529	take| head|
+-3.1529	take| spend|half
+-3.1529	take| stroll|
+-3.1529	take| take|lot
+-3.1529	take| turn|
+-2.975279	take|DURATION get|
+-3.15137	take|DURATION set|
+-3.151063	take|I figure|
+-3.151063	take|boat <unk>
+-3.151063	take|chance be|
+-3.151063	take|drive stop|
+-3.15137	take|he calm|
+-3.15137	take|he fall|
+-3.15137	take|he lodge|
+-3.151063	take|hike use|
+-2.975279	take|kid be|
+-3.15137	take|kid find|site
+-3.151063	take|look be|
+-3.151063	take|lot <unk>
+-3.151063	take|photo need|
+-3.151523	take|picture have|people
+-3.151523	take|picture offer|
+-3.151523	take|picture take|picture
+-3.151523	take|picture throw|
+-3.151063	take|place be|
+-3.151063	take|shower be|
+-3.151217	take|some <unk>
+-3.151217	take|some search|
+-3.151063	take|tent <unk>
+-3.151063	take|time hike|
+-3.151217	take|we be|
+-3.151217	take|we turn|
+-3.151063	take|while <unk>
+-3.15137	talk| <unk>
+-3.15137	talk| have|
+-3.15137	talk| hike|
+-3.151523	taste| be|
+-3.151523	taste| do|
+-3.151523	taste| have|NUMBER
+-3.151523	taste| taste|
+-3.151063	teach|they walk|
+-2.753736	tell| be|
+-3.151676	tell| change|
+-3.15137	tell|I <unk>
+-3.15137	tell|I be|
+-3.15137	tell|I do|
+-3.151063	tell|PERSON have|
+-3.151217	tell|he feel|
+-3.151217	tell|he want|
+-3.151063	tell|she base|
+-3.151063	tell|story <unk>
+-3.151217	tell|you </s>
+-3.151217	tell|you be|
+-3.151217	that| include|
+-3.151217	that| that|
+-3.151063	that|MONEY <unk>
+-2.976808	think| <unk>
+-2.608832	think| be|
+-2.976808	think| have|
+-3.1529	think| hit|road
+-3.1529	think| think|
+-3.1529	think| try|it
+-3.151063	think|which be|
+-3.151217	thrill| find|
+-3.151217	thrill| thrill|
+-3.151217	throw| let|
+-3.151217	throw| replace|
+-3.151217	tire| <unk>
+-3.151217	tire| be|
+-3.151063	top|it be|
+-3.151217	trail| <unk>
+-3.151217	trail| say|
+-3.151063	travel| <unk>
+-2.97635	try| <unk>
+-3.152441	try| find|
+-3.152441	try| find|spot
+-3.152441	try| get|
+-3.152441	try| hike|it
+-3.152441	try| identify|
+-3.152441	try| keep|
+-3.152441	try| make|noise
+-3.152441	try| pull|it
+-3.151217	try|camping be|
+-3.151217	try|camping do|
+-3.151063	try|it be|
+-2.852937	turn| <unk>
+-2.609899	turn| be|
+-3.153967	turn| consider|
+-3.153967	turn| decide|
+-3.153967	turn| drive|
+-3.153967	turn| get|
+-3.153967	turn| keep|
+-3.153967	turn| make|it
+-3.153967	turn| see|PERSON
+-3.153967	turn| size|
+-3.153967	turn| sound|
+-3.153967	turn| take|we
+-3.153967	turn| turn|
+-3.151217	upload| <unk>
+-3.151217	upload| upload|
+-3.15137	use| <unk>
+-3.15137	use| live|
+-3.15137	use| spend|part
+-3.151063	venture| dive|
+-3.151063	view| buzz|
+-3.15137	wait| <unk>
+-3.15137	wait| arrive|
+-3.15137	wait| have|
+-3.151063	waken| be|
+-2.976044	wake| <unk>
+-3.152135	wake| be|
+-3.152135	wake| decide|
+-3.152135	wake| take|
+-3.152135	wake| take|tent
+-3.152135	wake| wake|
+-3.152135	wake| want|
+-2.851717	walk| <unk>
+-2.976656	walk| be|
+-3.152747	walk| do|
+-3.152747	walk| hike|
+-3.152747	walk| learn|this
+-3.152747	walk| sit|
+-3.152747	walk| trail|
+-3.152747	walk| try|
+-3.152747	walk| watch|it
+-3.151063	wander| be|
+-2.755265	want| <unk>
+-2.977114	want| be|
+-3.153205	want| decide|
+-3.153205	want| do|
+-3.153205	want| get|
+-2.977114	want| go|
+-3.153205	want| know|
+-3.153205	want| leave|home
+-3.153205	want| walk|
+-3.153205	want| want|
+-3.151217	wash| be|
+-3.151217	wash| look|
+-3.151217	wasn|t be|
+-3.151217	wasn|t clear|
+-3.151217	watch| <unk>
+-3.151217	watch| dance|
+-3.151063	watch|it move|
+-3.151063	watch|sunset drive|
+-3.151063	watch|tv go|
+-3.151063	wear| suck|
+-2.975125	win| be|
+-3.151063	wipe| make|dinner
+-3.151063	wish| have|
+-3.151063	wonder| be|
+-3.151676	work| back|
+-3.151676	work| be|
+-3.151676	work| drive|
+-3.151676	work| get|
+-3.151676	work| take|DURATION
+-3.151523	worry| <unk>
+-3.151523	worry| be|
+-3.151523	worry| call|
+-3.151523	worry| get|
+-3.151063	zip| get|
+-3.151063	| be|
+-3.151063	|MONEY see|lot
+
+\end\

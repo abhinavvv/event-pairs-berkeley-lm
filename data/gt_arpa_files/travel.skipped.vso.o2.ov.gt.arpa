@@ -1,0 +1,5156 @@
+
+\data\
+ngram 1=3841
+ngram 2=1305
+
+\1-grams:
+-6.923059	!!!|PERSON|
+-2.062411	</s>
+-99	<s>	0.08147264
+-0.4122802	<unk>	0.2157934
+-6.923059	abandon|he|I
+-6.923059	abandon||
+-6.923059	absolve|I|myself
+-6.923059	accomplish|I|
+-3.404834	accord||	-0.006596491
+-6.923059	add|it|mile
+-6.923059	add|we|tarp
+-6.923059	add||
+-6.923059	add||MONEY
+-6.923059	add||half
+-6.923059	add||tarp
+-6.923059	add||water
+-6.923059	adjust||
+-6.923059	admit|both|
+-6.923059	admit||
+-3.103804	agree|I|	0.1378958
+-3.404834	agree|PERSON|	-0.08475224
+-6.923059	agree|we|
+-6.923059	agree|what|
+-6.923059	allow|alcohol|
+-6.923059	allow|car|
+-6.923059	allow|you|eye
+-6.923059	allow||
+-6.923059	allow||I
+-6.923059	allow||sleep
+-6.923059	allow||we
+-6.923059	alternate||
+-3.404834	amaze|I|	-0.08475224
+-6.923059	amount|rain|
+-6.923059	answer|he|phone
+-6.923059	anticipate|we|
+-6.923059	anticipate||
+-6.923059	appear|what|
+-6.923059	appear|which|
+-6.923059	appoint||
+-6.923059	approach|CAUSE_OF_DEATH|
+-6.923059	approach|I|
+-6.923059	arise|need|
+-6.923059	arrange|PERSON|trip
+-6.923059	arrange|we|
+-6.923059	arrive|I|
+-6.923059	arrive|PERSON|
+-6.923059	arrive|boat|
+-6.923059	arrive|gain|NUMBER
+-6.923059	arrive|p|
+-3.404834	arrive|they|	-0.08492333
+-3.103804	arrive|we|	-0.08475223
+-6.923059	arrive||
+-6.923059	ascend||
+-3.404834	ask|I|	-0.006596491
+-6.923059	ask|I|PERSON
+-6.923059	ask|I|she
+-6.923059	ask|PERSON|
+-6.923059	ask|he|
+-6.923059	ask|he|I
+-6.923059	ask|she|I
+-6.923059	ask|that|
+-6.923059	ask|they|
+-6.923059	ask|we|
+-6.923059	ask|you|
+-6.923059	ask|you|daddy
+-6.923059	ask||
+-6.923059	ask||I
+-6.923059	ask||favor
+-6.923059	ask||she
+-6.923059	ask||we
+-6.923059	assateague||
+-6.923059	assese|we|space
+-3.404834	assume|we|	-0.08492333
+-6.923059	assure|you|
+-6.923059	attach||
+-6.923059	attack|bear|we
+-6.923059	attack||
+-6.923059	attempt|I|
+-6.923059	attempt|we|
+-6.923059	attempt||
+-6.923059	attempt||camping
+-6.923059	avoid||
+-6.923059	avoid||crowd
+-6.923059	avoid||people
+-6.923059	await||arrival
+-6.923059	awake|I|
+-6.923059	awake|we|
+-6.923059	awake||
+-6.923059	backpack||
+-6.923059	backtrack|we|
+-3.404834	backtrack||	-0.08492333
+-6.923059	back|it|MONEY
+-6.923059	back|it|all
+-6.923059	back|traffic|
+-6.923059	back||
+-6.923059	bail|PERSON|
+-6.923059	balance||it
+-3.404834	bang||	0.1274508
+-6.923059	barbeque|we|
+-6.923059	bark||
+-6.923059	base||
+-3.404834	beam||	-0.08406723
+-6.923059	bear|he|
+-6.923059	bear||
+-6.923059	beat|salad|stuff
+-3.404834	beat||	-0.08475224
+-3.404834	become|I|	-0.08492333
+-6.923059	become|he|
+-6.923059	become|they|
+-6.923059	become|we|
+-2.927712	become||	0.132783
+-6.923059	bed.||TIME
+-3.103804	begin|I|	-0.1901045
+-6.923059	begin|cloud|
+-6.923059	begin|it|
+-6.923059	begin|sun|
+-6.923059	begin|trip|
+-6.923059	begin|we|
+-6.923059	begin|we|descent
+-6.923059	begin|we|down.
+-6.923059	begin||
+-6.923059	begin||ascent
+-6.923059	begin||incline
+-6.923059	behave|child|
+-6.923059	behold||
+-6.923059	behold||wonder
+-6.923059	believe|I|
+-6.923059	believe||
+-6.923059	bend||rule
+-6.923059	bet|I|
+-6.923059	be|!!|
+-6.923059	be|BUT|
+-2.927712	be|CAUSE_OF_DEATH|	0.1282884
+-6.923059	be|DATE|
+-6.923059	be|DURATION|
+-2.29089	be|I|	0.2189301
+-3.103804	be|LOCATION|	-0.08406723
+-3.404834	be|MISC|	0.1274508
+-6.923059	be|MONEY|
+-6.923059	be|Might|
+-3.404834	be|NUMBER|	-0.006596491
+-3.404834	be|ORGANIZATION|	-0.08458109
+-2.927712	be|PERSON|	0.06335016
+-6.923059	be|PERSON|what
+-6.923059	be|Plus|
+-6.923059	be|TIME|
+-6.923059	be|That|
+-6.923059	be|Trust|
+-6.923059	be|access|
+-6.923059	be|adult|
+-6.923059	be|advantage|
+-6.923059	be|alcove|
+-3.103804	be|all|	0.1277298
+-6.923059	be|anyone|
+-6.923059	be|anything|
+-6.923059	be|any|
+-6.923059	be|area|
+-6.923059	be|basin|
+-6.923059	be|bathroom|
+-6.923059	be|battle|
+-6.923059	be|bear|
+-6.923059	be|best|
+-6.923059	be|bit|
+-6.923059	be|breakfast|
+-6.923059	be|bridge|
+-6.923059	be|brother|
+-6.923059	be|bunch|
+-6.923059	be|calculation|
+-3.404834	be|camper|	-0.08475224
+-6.923059	be|campfire|
+-6.923059	be|campground|
+-6.923059	be|camping|
+-6.923059	be|campsite|
+-6.923059	be|camp|
+-3.103804	be|car|	-0.07854792
+-6.923059	be|chair|
+-6.923059	be|coral|
+-6.923059	be|couple|
+-6.923059	be|debate|
+-6.923059	be|deer|
+-6.923059	be|detour|
+-6.923059	be|discussion|
+-6.923059	be|diver|
+-6.923059	be|dive|
+-6.923059	be|diving|
+-6.923059	be|doubt|
+-6.923059	be|downside|
+-6.923059	be|else|
+-6.923059	be|entry|
+-6.923059	be|everybody|
+-6.923059	be|everyone|
+-6.923059	be|everything|
+-3.404834	be|experience|	-0.08492333
+-6.923059	be|fear|
+-6.923059	be|fishing|
+-6.923059	be|fish|
+-6.923059	be|fly|
+-6.923059	be|folk|
+-3.404834	be|food|	-0.08492333
+-6.923059	be|girl|
+-6.923059	be|glacier|
+-6.923059	be|glass/metal|
+-6.923059	be|goal|
+-6.923059	be|grizzly|
+-6.923059	be|ground|
+-3.404834	be|guy|	-0.08475224
+-6.923059	be|head|
+-3.404834	be|he|	0.1274508
+-6.923059	be|hike|
+-6.923059	be|home|
+-3.404834	be|hotel|	-0.08492333
+-3.404834	be|house|	-0.08406723
+-6.923059	be|idea|
+-2.149561	be|it|	0.07212889
+-3.404834	be|it|what	-0.08440987
+-6.923059	be|i|
+-6.923059	be|kid|
+-6.923059	be|leg|
+-3.103804	be|life|	0.2639789
+-6.923059	be|line|
+-6.923059	be|load|
+-6.923059	be|look|
+-2.927712	be|lot|	0.264361
+-6.923059	be|love|
+-6.923059	be|man|
+-6.923059	be|mile|
+-6.923059	be|mine|
+-6.923059	be|moment|
+-6.923059	be|motorcycle|
+-6.923059	be|mountain|
+-6.923059	be|need|
+-6.923059	be|neighber|
+-6.923059	be|news|
+-3.404834	be|nothing|	0.1274508
+-3.103804	be|no|	0.1294077
+-6.923059	be|on|
+-6.923059	be|other|
+-6.923059	be|party|
+-3.103804	be|part|	0.02141352
+-6.923059	be|path|
+-3.404834	be|people|	0.1274508
+-6.923059	be|picture|
+-6.923059	be|pizza|
+-6.923059	be|place|
+-6.923059	be|plane|
+-6.923059	be|planning|
+-6.923059	be|plant|
+-6.923059	be|plan|
+-3.404834	be|plenty|	0.1274508
+-6.923059	be|point|
+-6.923059	be|policy|
+-6.923059	be|pool|
+-6.923059	be|problem|
+-6.923059	be|question|
+-6.923059	be|rattlesnake|
+-6.923059	be|reason|
+-6.923059	be|reef|
+-6.923059	be|reply|
+-6.923059	be|restaurant|
+-6.923059	be|river|
+-6.923059	be|road|
+-6.923059	be|rock|
+-3.404834	be|room|	0.1274508
+-6.923059	be|rule|
+-6.923059	be|scenery|
+-6.923059	be|school|
+-6.923059	be|section|
+-6.923059	be|shade|
+-6.923059	be|shark|
+-3.404834	be|she|	0.1274508
+-6.923059	be|shower|
+-6.923059	be|side|
+-3.103804	be|sign|	0.1277298
+-6.923059	be|silence|
+-3.404834	be|site|	-0.006596491
+-6.923059	be|skepticism|
+-6.923059	be|skiing|
+-6.923059	be|soap|
+-6.923059	be|some|
+-6.923059	be|son|
+-3.404834	be|space|	0.1274508
+-6.923059	be|species|
+-6.923059	be|spot|
+-6.923059	be|star|
+-2.927712	be|stop|	-0.0601799
+-6.923059	be|structure|
+-6.923059	be|stuff|
+-6.923059	be|table|
+-6.923059	be|talk|
+-6.923059	be|temperature|
+-6.923059	be|tent|
+-2.802774	be|that|	0.07821861
+-6.923059	be|then|
+-3.404834	be|they|	-0.08492333
+-6.923059	be|they|what
+-3.404834	be|thing|	-0.08475224
+-6.923059	be|thing|that
+-6.923059	be|this|
+-6.923059	be|this|what
+-6.923059	be|tide|
+-2.802774	be|time|	0.1310921
+-3.404834	be|toilet|	-0.006596491
+-6.923059	be|ton|
+-6.923059	be|town|
+-6.923059	be|track|
+-6.923059	be|traffic|
+-3.404834	be|trail|	-0.08338115
+-6.923059	be|tree|
+-6.923059	be|trip|
+-6.923059	be|truth|
+-6.923059	be|view|
+-6.923059	be|walking|
+-6.923059	be|water|
+-3.404834	be|way|	0.1274508
+-6.923059	be|weather|
+-2.29089	be|we|	0.2028582
+-6.923059	be|what|
+-3.404834	be|which|	0.1274508
+-3.103804	be|who|	-0.08320945
+-6.923059	be|wildflower|
+-6.923059	be|you|
+-0.7815844	be||	0.06937569
+-6.923059	bias|m|
+-6.923059	bike|we|
+-6.923059	bird||
+-6.923059	bite|fly|
+-6.923059	bite|mosquito|
+-6.923059	bite|they|
+-6.923059	bite|we|
+-6.923059	bite||
+-6.923059	blame||parenting
+-6.923059	blaze||
+-6.923059	blend||
+-6.923059	bless|God|
+-3.404834	blogg||	-0.08475224
+-6.923059	blow|I|
+-6.923059	blow|it|
+-6.923059	blow|sand|
+-6.923059	blow|they|
+-6.923059	blow|wind|
+-6.923059	blow||
+-6.923059	board|we|boat
+-6.923059	boil||
+-6.923059	bonk|I|
+-6.923059	book|it|
+-6.923059	book|we|
+-6.923059	book|we|it
+-6.923059	book||
+-6.923059	bore|I|
+-6.923059	bore|they|
+-6.923059	bore||
+-6.923059	borrow|we|
+-3.404834	borrow||	-0.006596491
+-3.404834	bother|t|I	-0.08492333
+-6.923059	bounce||
+-6.923059	brave|other|
+-6.923059	brave|soul|
+-6.923059	brave||
+-6.923059	brave||NUMBER
+-6.923059	breakfast||MONEY
+-6.923059	break|PERSON|
+-6.923059	break|Tanner|free.
+-6.923059	break|camp|
+-6.923059	break|it|
+-6.923059	break|people|
+-6.923059	break|tent|
+-6.923059	break||
+-6.923059	break||bone
+-6.923059	break||camp
+-6.923059	breathe|DURATION|
+-6.923059	breathe|I|
+-6.923059	breathe|you|
+-6.923059	breathe||
+-6.923059	brew|sun|tea
+-6.923059	bring|I|
+-6.923059	bring|I|camera
+-6.923059	bring|I|veggy
+-6.923059	bring|LOCATION|we
+-6.923059	bring|PERSON|player
+-6.923059	bring|PERSON|rear
+-6.923059	bring|it|
+-6.923059	bring|it|memory
+-6.923059	bring|people|blast
+-6.923059	bring|people|stereo
+-6.923059	bring|that|
+-6.923059	bring|we|
+-6.923059	bring|we|car
+-6.923059	bring|we|some
+-6.923059	bring|we|water
+-6.923059	bring|we|wheeler
+-6.923059	bring|who|all
+-3.404834	bring||	-0.006596491
+-6.923059	bring||friend
+-6.923059	bring||in.
+-6.923059	bring||set
+-6.923059	bring||stuff
+-6.923059	bring||we
+-6.923059	build|CAUSE_OF_DEATH|
+-6.923059	build|I|it
+-6.923059	build|that|
+-3.404834	build|we|	-0.08458109
+-6.923059	build|we|CAUSE_OF_DEATH
+-6.923059	build|we|campfire
+-6.923059	build|which|
+-6.923059	build||
+-3.404834	build||CAUSE_OF_DEATH	-0.006596491
+-6.923059	build||DATE
+-6.923059	bundle|we|
+-6.923059	burly||town
+-6.923059	burn|eye|
+-6.923059	burn||
+-6.923059	buy|I|
+-6.923059	buy|I|bottle
+-6.923059	buy|I|donut
+-6.923059	buy|I|trucker
+-6.923059	buy|i|pair
+-3.404834	buy|we|	-0.08458109
+-6.923059	buy|we|tent
+-6.923059	buy|we|ticket
+-6.923059	buy|wife|tent
+-6.923059	buy|you|
+-6.923059	buy||NUMBER
+-6.923059	buy||food
+-6.923059	buzz||
+-6.923059	call|DATE|
+-6.923059	call|I|
+-6.923059	call|I|PERSON
+-6.923059	call|I|dib
+-6.923059	call|I|hotel
+-6.923059	call|PERSON|
+-6.923059	call|PERSON|I
+-6.923059	call|forecast|
+-6.923059	call|he|I
+-6.923059	call|it|Mushrooms
+-6.923059	call|she|
+-6.923059	call|we|
+-6.923059	call|we|PERSON
+-6.923059	call|we|it
+-6.923059	call|what|
+-3.404834	call||	0.1274508
+-6.923059	call||LOCATION
+-6.923059	call||MISC
+-6.923059	call||hat
+-6.923059	call||hotel
+-3.404834	call||it	0.1274508
+-6.923059	call||they
+-6.923059	call||trip
+-6.923059	call||we
+-6.923059	call||word
+-6.923059	calm|I|
+-6.923059	calm|I|fear
+-6.923059	came||
+-6.923059	camp|I|
+-6.923059	camp|MONEY|
+-6.923059	camp|it|
+-6.923059	camp|they|
+-6.923059	camp|thing|
+-3.404834	camp|we|	0.1274508
+-6.923059	camp|we|ORGANIZATION
+-6.923059	camp|we|camper
+-6.923059	camp|you|
+-2.559736	camp||	0.2088836
+-6.923059	camp||DATE
+-6.923059	camp||better
+-3.404834	camp||time	-0.08406723
+-6.923059	camp||trip
+-6.923059	cancel||reservation
+-6.923059	can|I|MONEY
+-6.923059	can|I|wait
+-6.923059	can|that|MONEY
+-6.923059	can|we|MONEY
+-6.923059	can|we|wait
+-6.923059	can|you|MONEY
+-6.923059	can||
+-6.923059	capture|PERSON|heart
+-6.923059	care|I|
+-3.404834	care|we|	-0.006596491
+-6.923059	care|you|
+-6.923059	carry|I|
+-6.923059	carry|I|grudge
+-6.923059	carry|I|you
+-6.923059	carry|d|PERSON
+-6.923059	carry|we|
+-6.923059	carry||
+-3.404834	carry||everything	-0.08440987
+-3.404834	carry||it	-0.006596491
+-6.923059	catch|Gran|
+-6.923059	catch|I|
+-6.923059	catch|I|NUMBER
+-6.923059	catch|guy|fishing
+-6.923059	catch|he|many
+-6.923059	catch|we|
+-3.404834	catch||	0.1274508
+-6.923059	catch||fish
+-6.923059	catch||frog
+-6.923059	catch||it
+-6.923059	catch||ya
+-6.923059	cause|PERSON|
+-6.923059	cause|she|trouble
+-6.923059	cause||
+-3.404834	celebrate||	-0.08475224
+-6.923059	certify||
+-6.923059	change|etiquette|
+-6.923059	change|that|
+-6.923059	change|thing|
+-3.404834	change|we|	-0.0820057
+-6.923059	change|we|spot
+-6.923059	change||
+-6.923059	change||plan
+-6.923059	charge||
+-6.923059	charter|we|PERSON
+-6.923059	chase|we|PERSON
+-6.923059	chat|we|
+-3.404834	chat||	0.1274508
+-6.923059	check|I|
+-6.923059	check|I|time
+-6.923059	check|camp|
+-6.923059	check|we|
+-6.923059	check|we|PERSON
+-6.923059	check|you|it
+-6.923059	check||
+-6.923059	check||facility
+-6.923059	check||gage
+-6.923059	check||geyser
+-6.923059	check||it
+-6.923059	check||kid
+-6.923059	check||lht
+-6.923059	check||resort
+-6.923059	check||river
+-6.923059	chew|we|
+-6.923059	chillin|you|MONEY
+-6.923059	chill|we|
+-6.923059	chill||
+-6.923059	choose|I|
+-6.923059	choose|d|
+-6.923059	choose|we|
+-6.923059	choose|you|
+-6.923059	choose||
+-6.923059	chop||firewood
+-6.923059	chop||put
+-6.923059	claim|I|dib
+-6.923059	clap|that|
+-6.923059	clean|we|
+-6.923059	clean||
+-6.923059	clean||house/do
+-3.103804	clean||it	0.02141352
+-6.923059	clear|cloud|
+-6.923059	clear|island|
+-6.923059	clear|it|
+-6.923059	clear|rain|
+-6.923059	clear|rest|
+-6.923059	click||
+-6.923059	click||picture
+-3.404834	climb|I|	0.1274508
+-6.923059	climb|PERSON|rock
+-6.923059	climb|sound|tree
+-3.103804	climb|we|	0.1294077
+-2.927712	climb||	0.1341972
+-6.923059	climb||it
+-6.923059	climb||mountain
+-6.923059	cling|I|
+-6.923059	close|NUMBER|
+-6.923059	close|it|
+-6.923059	close|office|
+-6.923059	close|they|
+-6.923059	close|you|eye
+-6.923059	close||
+-6.923059	cloud|it|
+-6.923059	collapse|I|
+-6.923059	collapse||tent
+-6.923059	color||
+-3.404834	come|DATE|	-0.08389581
+-3.404834	come|I|	-0.08458109
+-6.923059	come|I|home
+-6.923059	come|NUMBER|
+-3.404834	come|PERSON|	0.1274508
+-3.404834	come|TIME|	-0.08286586
+-6.923059	come|boat|
+-6.923059	come|child|
+-6.923059	come|everyone|home
+-6.923059	come|family|
+-6.923059	come|friend|
+-6.923059	come|group|
+-6.923059	come|guy|
+-6.923059	come|he|
+-6.923059	come|it|
+-6.923059	come|light|
+-6.923059	come|mom|
+-6.923059	come|parent|
+-6.923059	come|rain|
+-3.404834	come|she|	-0.08492333
+-6.923059	come|someone|
+-6.923059	come|sun|
+-6.923059	come|tent|
+-6.923059	come|that|
+-6.923059	come|then|
+-6.923059	come|they|
+-6.923059	come|they|it
+-6.923059	come|thing|
+-6.923059	come|traffic|
+-6.923059	come|trip|
+-6.923059	come|water|
+-3.103804	come|we|	-0.0838958
+-6.923059	come|we|home
+-6.923059	come|what|
+-6.923059	come|which|
+-6.923059	come|who|
+-3.404834	come|you|	-0.08492333
+-2.927712	come||	-0.08045312
+-6.923059	come||home
+-6.923059	come||way
+-6.923059	comment|we|
+-6.923059	commune||
+-6.923059	compare||
+-6.923059	compensate||
+-6.923059	complain|I|
+-6.923059	complain|we|
+-6.923059	complain||
+-6.923059	complain||ton
+-6.923059	comprise|DATE|
+-6.923059	comprise|share|
+-3.404834	concern||	0.1274508
+-6.923059	confess|I|
+-6.923059	connect|that|
+-6.923059	connect||MONEY
+-6.923059	connect||lifestyle
+-6.923059	consider|I|
+-6.923059	consider|people|
+-6.923059	consider|we|ourselves
+-3.404834	consider||	-0.08458109
+-6.923059	consist|PERSON|
+-6.923059	consist|which|
+-6.923059	contemplate||
+-3.103804	continue|I|	0.1468447
+-6.923059	continue|PERSON|
+-6.923059	continue|White|
+-6.923059	continue|he|
+-6.923059	continue|trail|
+-6.923059	continue|we|
+-6.923059	continue|wind|
+-6.923059	continue||
+-6.923059	control||
+-6.923059	convince|I|PERSON
+-6.923059	convince||PERSON
+-6.923059	cook|I|
+-6.923059	cook|I|sun
+-6.923059	cook|PERSON|breakfast
+-3.404834	cook|we|	-0.006596491
+-6.923059	cook|we|breakfast
+-6.923059	cook|we|dinner
+-6.923059	cook|we|dog
+-6.923059	cook|we|they
+-6.923059	cook||
+-6.923059	cook||breakfast
+-6.923059	cook||dinner
+-6.923059	cook||meal
+-6.923059	cool|it|
+-6.923059	cool|temperature|
+-6.923059	cool||
+-6.923059	cooperate|weather|
+-6.923059	cooperate||
+-6.923059	cope|the|course
+-6.923059	cost|DATE|MONEY
+-6.923059	cost|DATE|we
+-6.923059	cost|campsite|buck
+-6.923059	couldnt|we|
+-3.103804	couldn|I|MONEY	0.02141352
+-6.923059	couldn|MONEY|MONEY
+-6.923059	couldn|he|MONEY
+-6.923059	couldn|she|use
+-6.923059	couldn|we|MONEY
+-6.923059	couldn|we|t
+-6.923059	counter||
+-6.923059	count|monkey|they
+-6.923059	count|we|
+-2.927712	cover||	0.2662768
+-6.923059	cover||all
+-6.923059	cover||myself
+-6.923059	cozy|breakfast|
+-6.923059	cram||
+-6.923059	crash|I|
+-6.923059	crash||
+-6.923059	crash||wave
+-6.923059	crawl|I|
+-6.923059	crawl|PERSON|
+-6.923059	crawl|meal|
+-6.923059	crawl|we|
+-3.404834	crawl||	-0.08338115
+-6.923059	creak||
+-6.923059	create|kid|couple
+-6.923059	creep||
+-6.923059	cross|I|
+-6.923059	cross|it|creek
+-6.923059	cross|it|river
+-3.404834	cross|we|	0.1274508
+-3.404834	cross||	-0.006596491
+-3.404834	cross||LOCATION	-0.08475224
+-6.923059	cross||face
+-6.923059	cross||river
+-6.923059	cross||water
+-6.923059	cruise|we|
+-6.923059	crush|I|
+-6.923059	cry|PERSON|
+-6.923059	cry|girl|
+-6.923059	cry|you|little
+-3.404834	cry||	-0.006596491
+-6.923059	cuddle||
+-6.923059	curl|PERSON|
+-6.923059	curse|we|
+-6.923059	cut|I|
+-6.923059	cut||
+-6.923059	cut||meat
+-6.923059	cut||short.
+-6.923059	cut||veggy
+-6.923059	dawn|it|
+-6.923059	deal|I|
+-6.923059	deal|we|
+-6.923059	deal||
+-6.923059	deal||m
+-6.923059	decide|DATE|
+-2.450591	decide|I|	0.275471
+-6.923059	decide|LOCATION|
+-3.103804	decide|PERSON|	-0.07715707
+-6.923059	decide|PERSON|campsite
+-6.923059	decide|guy|
+-6.923059	decide|he|
+-6.923059	decide|i|
+-6.923059	decide|people|
+-6.923059	decide|se|
+-6.923059	decide|she|
+-3.404834	decide|they|	0.1274508
+-2.404834	decide|we|	0.1263867
+-6.923059	decide|who|
+-3.103804	decide||	0.128009
+-6.923059	declare|PERSON|
+-6.923059	dehydrate|I|
+-6.923059	dehydrate|grain|it
+-6.923059	dehydrate||
+-6.923059	delay|we|
+-6.923059	deliver||litter
+-6.923059	depart||
+-6.923059	depend|that|
+-6.923059	descend|mosquito|
+-6.923059	descend|we|
+-6.923059	descend||
+-6.923059	describe|I|it
+-6.923059	describe|hike|
+-6.923059	describe|they|part
+-6.923059	describe|you|
+-3.404834	desert||	-0.08355277
+-6.923059	deserve||
+-6.923059	designate||
+-6.923059	desire||
+-6.923059	determine|I|
+-6.923059	determine|he|
+-6.923059	determine|we|
+-6.923059	determine||
+-6.923059	develop||bond
+-6.923059	did.|we|
+-6.923059	didnt|we|
+-3.103804	didn|I|MONEY	-0.1907895
+-6.923059	didn|I|sleep
+-6.923059	didn|PERSON|show
+-6.923059	didn|he|MONEY
+-3.404834	didn|it|MONEY	-0.08492333
+-6.923059	didn|it|look
+-6.923059	didn|it|take
+-6.923059	didn|she|MONEY
+-6.923059	didn|they|MONEY
+-6.923059	didn|they|anything
+-6.923059	didn|we|MONEY
+-6.923059	didn|we|grab
+-6.923059	didn|we|t
+-6.923059	didn|we|whatever
+-6.923059	didn|who|MONEY
+-6.923059	didn|you|MONEY
+-6.923059	didn||MONEY
+-6.923059	die|CAUSE_OF_DEATH|
+-3.404834	die|I|	0.1274508
+-3.404834	die|we|	-0.08492333
+-6.923059	die||
+-6.923059	die||PERSON
+-6.923059	digress|I|
+-6.923059	dig|they|latrine
+-6.923059	dig||
+-6.923059	dig||pit
+-6.923059	dine||
+-6.923059	dip||
+-6.923059	direct|it|I
+-6.923059	disapoint|it|
+-6.923059	disappoint|we|
+-3.404834	discover|I|	-0.006596491
+-6.923059	discover|PERSON|
+-6.923059	discover|PERSON|badmitton
+-6.923059	discover|PERSON|practiced
+-6.923059	discover|we|
+-6.923059	discover||
+-6.923059	discuss||plan
+-6.923059	disturb||something
+-6.923059	disway|we|
+-6.923059	dive|NUMBER|
+-6.923059	dive|TIME|
+-6.923059	dive|he|
+-3.103804	dive|we|	-0.006391577
+-6.923059	dive||
+-6.923059	do.||
+-6.923059	dodge||
+-3.404834	doesn|it|MONEY	0.1274508
+-6.923059	doesn|it|work
+-6.923059	dominate|group|
+-6.923059	dominate|it|
+-3.404834	don|I|MONEY	0.1274508
+-6.923059	don|I|definition
+-3.404834	don|I|t	0.1274508
+-6.923059	don|I|think
+-6.923059	don|we|MONEY
+-6.923059	don|who|MONEY
+-3.404834	don|you|MONEY	0.1274508
+-6.923059	don||
+-6.923059	douse|we|ourselves
+-6.923059	douse||ourselves
+-3.404834	down|PERSON|	-0.08492333
+-3.404834	do|I|	-0.006596491
+-6.923059	do|I|?!
+-6.923059	do|I|NUMBER
+-6.923059	do|I|anything
+-6.923059	do|I|course
+-6.923059	do|I|dive
+-6.923059	do|I|hike
+-6.923059	do|I|it
+-6.923059	do|I|lot
+-6.923059	do|I|research
+-6.923059	do|I|this
+-6.923059	do|I|ton
+-6.923059	do|I|trip
+-6.923059	do|I|what
+-6.923059	do|I|which
+-6.923059	do|Little|
+-6.923059	do|MONEY|
+-3.404834	do|NUMBER|	-0.08492333
+-6.923059	do|ORGANIZATION|time
+-2.927712	do|PERSON|	0.06054644
+-6.923059	do|PERSON|lot
+-6.923059	do|PERSON|same
+-6.923059	do|PERSON|what
+-3.404834	do|all|	-0.08492333
+-6.923059	do|camper|what
+-6.923059	do|dive|
+-6.923059	do|everyone|
+-6.923059	do|fishing|
+-6.923059	do|forcast|
+-3.404834	do|he|	-0.006596491
+-6.923059	do|it|
+-6.923059	do|it|job
+-6.923059	do|i|blog
+-6.923059	do|plenty|
+-3.404834	do|she|	-0.08475224
+-6.923059	do|something|
+-6.923059	do|some|
+-3.404834	do|that|	-0.08475224
+-6.923059	do|they|
+-6.923059	do|thing|
+-6.923059	do|this|
+-6.923059	do|t|camping
+-6.923059	do|t|that
+-3.103804	do|we|	0.2639789
+-6.923059	do|we|MISC
+-6.923059	do|we|care
+-6.923059	do|we|course
+-6.923059	do|we|dive
+-6.923059	do|we|hike
+-6.923059	do|we|hiking
+-6.923059	do|we|it
+-6.923059	do|we|snorkeling
+-6.923059	do|we|stop
+-6.923059	do|we|that
+-6.923059	do|we|thing
+-6.923059	do|we|trip
+-3.404834	do|we|what	-0.08492333
+-3.404834	do|what|	0.1274508
+-6.923059	do|you|
+-6.923059	do|you|it
+-6.923059	do|you|loop
+-6.923059	do|you|what
+-1.836632	do||	-0.2473027
+-6.923059	do||DURATION
+-6.923059	do||NUMBER
+-6.923059	do||anything
+-6.923059	do||dive
+-6.923059	do||diving
+-6.923059	do||drive
+-6.923059	do||everything
+-6.923059	do||half
+-6.923059	do||hike
+-6.923059	do||it
+-6.923059	do||kind
+-6.923059	do||lot
+-6.923059	do||mile
+-6.923059	do||monkey
+-6.923059	do||more
+-6.923059	do||shopping
+-3.404834	do||something	-0.006596491
+-6.923059	do||that
+-6.923059	do||thing
+-6.923059	do||this
+-6.923059	do||trail
+-6.923059	do||travel
+-6.923059	do||trip
+-6.923059	do||water
+-6.923059	do||work
+-6.923059	drag||
+-6.923059	drag||tent
+-6.923059	draw||
+-6.923059	dread||work
+-6.923059	dream||
+-6.923059	drench|sky|grounds
+-6.923059	drench||
+-6.923059	dress|I|
+-6.923059	dress||
+-6.923059	drinkin|Al|smithwick
+-6.923059	drink|I|
+-6.923059	drink|we|beer
+-3.404834	drink|we|wine	0.1274508
+-6.923059	drink||
+-6.923059	drink||Light
+-6.923059	drink||beer
+-6.923059	drip||
+-3.404834	drive|I|	0.1274508
+-6.923059	drive|I|home
+-6.923059	drive|I|solo
+-6.923059	drive|PERSON|
+-3.404834	drive|he|	-0.08492333
+-6.923059	drive|then|
+-2.705864	drive|we|	0.2272958
+-3.404834	drive|we|DURATION	0.1274508
+-6.923059	drive|we|drive
+-3.404834	drive|we|home	-0.08131635
+-6.923059	drive|we|hundred
+-6.923059	drive|we|mile
+-6.923059	drive|wheel|grab
+-6.923059	drive|you|
+-2.450591	drive||	-0.3282301
+-6.923059	drive||NUMBER
+-6.923059	drive||Shore
+-6.923059	drive||excavator
+-6.923059	drive||interest
+-3.103804	drive||mile	0.128009
+-6.923059	drive||road
+-6.923059	drive||way
+-6.923059	drizzle||forecast
+-6.923059	drop|I|
+-6.923059	drop|I|ORGANIZATION
+-6.923059	drop|I|PERSON
+-6.923059	drop|PERSON|
+-6.923059	drop|temperature|
+-6.923059	drop|temp|
+-6.923059	drop|traffic|
+-3.103804	drop|we|	-0.08458108
+-6.923059	drop|we|PERSON
+-6.923059	drop||
+-6.923059	drop||pack
+-6.923059	drown||
+-6.923059	dry|tent|
+-6.923059	dry||
+-6.923059	dry||everything
+-6.923059	duck||
+-6.923059	dump|we|thing
+-6.923059	earn|pad|moniker
+-6.923059	earn|pad|pad
+-3.404834	eat|I|	0.1274508
+-6.923059	eat|I|dinner
+-6.923059	eat|I|ton
+-6.923059	eat|PERSON|
+-6.923059	eat|fish|
+-6.923059	eat|he|
+-6.923059	eat|hike|
+-6.923059	eat|mosquito|
+-6.923059	eat|she|
+-2.927712	eat|we|	0.196237
+-6.923059	eat|we|breakfast
+-6.923059	eat|we|chicken
+-6.923059	eat|we|dinner
+-6.923059	eat|we|it
+-6.923059	eat|we|j
+-3.404834	eat|we|lunch	-0.08440987
+-6.923059	eat|we|pb
+-6.923059	eat|you|crust
+-3.404834	eat||	-0.08492333
+-6.923059	eat||breakfast
+-6.923059	eat||dinner
+-6.923059	eat||food
+-3.404834	eat||lunch	-0.08492333
+-6.923059	eat||mores
+-6.923059	eat||non-stop
+-6.923059	eat||package
+-6.923059	eat||pizza
+-6.923059	eat||s'more
+-6.923059	eat||something
+-6.923059	edward||
+-6.923059	elbow|I|PERSON
+-6.923059	elect||driver
+-3.404834	embark|we|	0.1274508
+-6.923059	embark||
+-6.923059	emphasize|I|MONEY
+-6.923059	emphasize|I|normality
+-6.923059	empty||
+-6.923059	endure|NUMBER|moment
+-6.923059	end|I|
+-6.923059	end|Road|
+-6.923059	end|he|
+-3.404834	end|it|	-0.08492333
+-6.923059	end|it|next
+-6.923059	end|that|
+-6.923059	end|trip|
+-6.923059	end|we|
+-6.923059	end|which|
+-6.923059	end||
+-6.923059	end||trip
+-6.923059	engeneer|that|
+-6.923059	enjoy|Girly|swimming
+-2.927712	enjoy|I|	0.06026706
+-6.923059	enjoy|I|diving
+-6.923059	enjoy|I|it
+-6.923059	enjoy|I|ride
+-6.923059	enjoy|I|trip
+-6.923059	enjoy|PERSON|
+-6.923059	enjoy|PERSON|ourselves
+-6.923059	enjoy|PERSON|trip
+-6.923059	enjoy|citizen|hike
+-6.923059	enjoy|he|
+-6.923059	enjoy|they|
+-6.923059	enjoy|they|it
+-3.404834	enjoy|we|	-0.07330909
+-6.923059	enjoy|we|beach
+-6.923059	enjoy|we|campsite
+-6.923059	enjoy|we|dinner
+-6.923059	enjoy|we|eruption
+-6.923059	enjoy|we|feel
+-6.923059	enjoy|we|it
+-6.923059	enjoy|we|lot
+-6.923059	enjoy|we|quiet
+-3.404834	enjoy|we|scenery	0.1274508
+-6.923059	enjoy|you|
+-3.404834	enjoy||	-0.08131635
+-6.923059	enjoy||beach
+-3.404834	enjoy||it	0.1274508
+-6.923059	enjoy||pace
+-6.923059	enjoy||trip
+-3.404834	enjoy||view	-0.08114384
+-6.923059	enjoy||walking
+-6.923059	enjoy||water
+-6.923059	enlarge||
+-6.923059	ensure||
+-6.923059	entertain|you|
+-3.404834	enter|we|	-0.08475224
+-6.923059	enter|we|LOCATION
+-3.404834	enter|we|water	0.1274508
+-6.923059	equalize||
+-6.923059	equip||
+-6.923059	erode||
+-6.923059	escape||
+-6.923059	estimate|I|
+-6.923059	etch||
+-6.923059	everyht||
+-6.923059	everyone|MONEY|laundry
+-6.923059	examine||
+-6.923059	exceed||mile
+-6.923059	excite|I|
+-3.404834	excite|we|	-0.006596491
+-6.923059	exhaust|I|
+-6.923059	exhaust|it|
+-6.923059	exhaust|time|
+-6.923059	exhaust|we|
+-3.103804	exhaust||	0.2639789
+-6.923059	exict|we|
+-6.923059	exit|we|
+-6.923059	exit||water
+-6.923059	expand||
+-3.404834	expect|I|	-0.07872147
+-6.923059	expect|we|
+-6.923059	expect|you|
+-6.923059	expect||
+-6.923059	expect||experience
+-6.923059	experience||bush
+-6.923059	experience||wreck
+-6.923059	explain||
+-6.923059	explore|we|area
+-3.404834	explore||	0.1274508
+-6.923059	explore||LOCATION
+-6.923059	face|I|TIME
+-6.923059	face||
+-6.923059	face||beach
+-6.923059	face||lake
+-3.404834	fail|I|	-0.08079861
+-6.923059	fail|idea|
+-6.923059	fail||
+-6.923059	fall|I|
+-6.923059	fall|NUMBER|
+-6.923059	fall|PERSON|
+-6.923059	fall|cooler|
+-6.923059	fall|he|
+-6.923059	fall|he|time
+-6.923059	fall|it|
+-6.923059	fall|rain|
+-3.404834	fall|that|	0.1274508
+-6.923059	fall|they|
+-6.923059	fall|the|
+-6.923059	fall|water|
+-3.404834	fall|we|	-0.08492333
+-6.923059	fall|you|
+-2.927712	fall||	0.01074834
+-6.923059	fashion||
+-6.923059	feast|we|
+-6.923059	feast||
+-6.923059	feed||
+-6.923059	feed||wood
+-3.103804	feel|I|	-0.005776286
+-3.404834	feel|I|way	-0.08406723
+-6.923059	feel|PERSON|
+-6.923059	feel|PERSON|tingling
+-6.923059	feel|he|
+-3.404834	feel|it|	-0.006596491
+-6.923059	feel|i|
+-6.923059	feel|ride|
+-6.923059	feel|she|
+-6.923059	feel|tent|
+-6.923059	feel|that|
+-6.923059	feel|they|
+-6.923059	feel|this|
+-2.802774	feel|we|	0.09793019
+-6.923059	feel|we|load
+-6.923059	feel|you|
+-6.923059	feel||
+-6.923059	feel||it
+-6.923059	fight|I|way
+-6.923059	fight||
+-6.923059	fight||intruder
+-6.923059	fight||it
+-3.404834	figure|I|	0.1274508
+-6.923059	figure|PERSON|
+-6.923059	figure|i|
+-6.923059	figure|we|
+-6.923059	figure|we|situations
+-6.923059	figure||
+-6.923059	fill|DURATION|
+-6.923059	fill|I|tank
+-3.404834	fill|it|	-0.08492333
+-6.923059	fill|site|
+-6.923059	fill|sky|
+-6.923059	fill|we|tank
+-3.103804	fill||	0.1291276
+-6.923059	fill||thing
+-3.404834	find|I|	-0.08492333
+-6.923059	find|I|NUMBER
+-6.923059	find|I|gallon
+-6.923059	find|I|myself
+-6.923059	find|I|spot
+-6.923059	find|I|way
+-6.923059	find|PERSON|
+-6.923059	find|PERSON|PERSON
+-6.923059	find|PERSON|quartz
+-6.923059	find|diamond|tell
+-6.923059	find|food|
+-6.923059	find|rain|it
+-6.923059	find|she|
+-6.923059	find|they|
+-6.923059	find|they|it
+-6.923059	find|they|site
+-6.923059	find|thunderstorm|it
+-2.802774	find|we|	-0.09847522
+-6.923059	find|we|NUMBER
+-6.923059	find|we|all
+-6.923059	find|we|bunch
+-6.923059	find|we|campground
+-6.923059	find|we|campsite
+-6.923059	find|we|hotel
+-6.923059	find|we|it
+-6.923059	find|we|place
+-6.923059	find|we|site
+-3.404834	find|we|spot	0.1274508
+-6.923059	find|we|way
+-6.923059	find|you|
+-6.923059	find||
+-6.923059	find||DATE
+-6.923059	find||PERSON
+-6.923059	find||campsite
+-6.923059	find||constellation
+-6.923059	find||flight
+-6.923059	find||it
+-6.923059	find||nemo
+-3.404834	find||place	-0.07872147
+-6.923059	find||restaurant
+-6.923059	find||site
+-6.923059	find||spot
+-3.404834	find||tent	-0.08458109
+-3.404834	find||we	0.1274508
+-3.404834	finish|I|	-0.006596491
+-6.923059	finish|I|dish
+-6.923059	finish|they|
+-6.923059	finish|we|
+-6.923059	finish|we|dinner
+-6.923059	finish|we|float
+-6.923059	finish||
+-6.923059	finish||dive
+-6.923059	finish||food
+-6.923059	finish||job
+-6.923059	fire||
+-6.923059	fish.|PERSON|
+-6.923059	fish|they|
+-6.923059	fit|they|
+-6.923059	fit||
+-6.923059	fix|we|situation
+-6.923059	fix||
+-6.923059	flap||
+-6.923059	flare||CAUSE_OF_DEATH
+-6.923059	flip|someone|switch
+-6.923059	float|I|
+-6.923059	float||
+-6.923059	float||MONEY
+-6.923059	flounder||
+-3.404834	flow|that|	-0.006596491
+-6.923059	flow||
+-6.923059	fly|DATE|
+-6.923059	fly|be|
+-6.923059	fly|birdie|
+-6.923059	fly|he|
+-6.923059	fly|it|
+-6.923059	fly|time|
+-6.923059	fly|we|
+-6.923059	fly||
+-6.923059	focus||
+-6.923059	follow|I|
+-6.923059	follow|PERSON|track
+-3.103804	follow||	0.1282884
+-6.923059	forage||
+-6.923059	force|I|
+-6.923059	force||myself
+-6.923059	forget|!!|tent
+-6.923059	forget|I|
+-6.923059	forget|I|name
+-6.923059	forget|we|
+-6.923059	forget||
+-6.923059	forget||it
+-6.923059	freak|I|
+-6.923059	freak||
+-6.923059	freeze|I|
+-6.923059	frequent|none|
+-6.923059	fry|country|steak
+-6.923059	fuel|we|
+-6.923059	fuel||
+-6.923059	fussed|you|
+-6.923059	gain||elevation
+-6.923059	gather|one|
+-6.923059	gather||
+-6.923059	gather||gear
+-6.923059	gaze|we|
+-6.923059	gaze||
+-6.923059	gear|girl|
+-3.404834	gear|we|	-0.08492333
+-6.923059	get|DATE|
+-6.923059	get|Finaly|
+-6.923059	get|Girly|
+-2.705864	get|I|	0.1491843
+-6.923059	get|I|bike
+-3.404834	get|I|chance	-0.082522
+-6.923059	get|I|heck
+-3.404834	get|I|home	0.1274508
+-6.923059	get|I|it
+-6.923059	get|I|lot
+-6.923059	get|I|picture
+-6.923059	get|I|sleep
+-6.923059	get|I|sunburn
+-6.923059	get|I|tan
+-6.923059	get|I|what
+-6.923059	get|MISC|
+-6.923059	get|NUMBER|
+-6.923059	get|ORGANIZATION|work
+-3.103804	get|PERSON|	-0.08458108
+-3.404834	get|PERSON|CAUSE_OF_DEATH	-0.082522
+-6.923059	get|PERSON|cut
+-6.923059	get|camp|
+-6.923059	get|camp|firewood
+-6.923059	get|cloud|darker
+-6.923059	get|everyone|
+-6.923059	get|girl|
+-6.923059	get|he|
+-6.923059	get|he|MONEY
+-2.927712	get|it|	0.06222649
+-6.923059	get|it|AND
+-6.923059	get|it|cold
+-6.923059	get|i|
+-3.404834	get|kid|	0.1274508
+-6.923059	get|place|snow
+-6.923059	get|she|
+-6.923059	get|squeeter|
+-6.923059	get|that|MONEY
+-3.404834	get|they|	0.1274508
+-6.923059	get|thing|
+-6.923059	get|t|
+-6.923059	get|t|it
+-6.923059	get|water|
+-2.174385	get|we|	0.2661318
+-6.923059	get|we|:d
+-6.923059	get|we|DATE
+-6.923059	get|we|NUMBER
+-6.923059	get|we|all
+-6.923059	get|we|bus
+-6.923059	get|we|donut
+-6.923059	get|we|everything
+-6.923059	get|we|gas
+-6.923059	get|we|half
+-6.923059	get|we|holiday
+-6.923059	get|we|home
+-6.923059	get|we|interstate
+-6.923059	get|we|it
+-6.923059	get|we|lunch
+-6.923059	get|we|outta
+-6.923059	get|we|pancake
+-6.923059	get|we|picture
+-6.923059	get|we|sleep
+-6.923059	get|we|start
+-3.404834	get|we|tent	0.1274508
+-6.923059	get|we|there
+-6.923059	get|we|thing
+-6.923059	get|we|time
+-6.923059	get|we|what
+-6.923059	get|we|which
+-3.103804	get|you|	0.02141352
+-6.923059	get|you|chance
+-6.923059	get|you|it
+-6.923059	get|you|trip
+-2.006894	get||	-0.03637943
+-6.923059	get||CAUSE_OF_DEATH
+-6.923059	get||I
+-6.923059	get||Luke-Xavier
+-6.923059	get||NUMBER
+-6.923059	get||PERSON
+-6.923059	get||all
+-6.923059	get||breakfast
+-6.923059	get||cabin
+-6.923059	get||campchair
+-6.923059	get||campsite
+-6.923059	get||car
+-6.923059	get||cream
+-6.923059	get||direction
+-6.923059	get||food
+-6.923059	get||foot
+-6.923059	get||gas
+-3.404834	get||gear	-0.08423859
+-6.923059	get||get
+-6.923059	get||grill
+-6.923059	get||he
+-6.923059	get||home
+-6.923059	get||home.
+-6.923059	get||it
+-6.923059	get||lot
+-6.923059	get||lure
+-6.923059	get||milkshake
+-6.923059	get||pan
+-6.923059	get||part
+-6.923059	get||picture
+-6.923059	get||pizza
+-6.923059	get||rain
+-6.923059	get||ride
+-6.923059	get||setup
+-6.923059	get||shot
+-6.923059	get||site
+-6.923059	get||sleep
+-6.923059	get||some
+-6.923059	get||spot
+-6.923059	get||start
+-6.923059	get||tent
+-3.404834	get||there	0.1274508
+-6.923059	get||they
+-6.923059	get||thing
+-6.923059	get||visa
+-3.404834	get||water	-0.08492333
+-3.404834	giggle||	-0.08475224
+-6.923059	giggle||flashlight
+-6.923059	giggle||kid
+-6.923059	give|I|
+-6.923059	give|I|he
+-6.923059	give|MONEY|chance
+-6.923059	give|bbq|
+-6.923059	give|he|I
+-6.923059	give|it|I
+-6.923059	give|mascot|
+-6.923059	give|master|NUMBER
+-6.923059	give|they|direction
+-6.923059	give|they|we
+-6.923059	give|we|
+-6.923059	give|we|they
+-6.923059	give|which|view
+-6.923059	give|which|we
+-3.404834	give||	-0.08079861
+-6.923059	give||I
+-6.923059	give||break
+-6.923059	give||he
+-3.404834	give||it	0.1274508
+-6.923059	give||result
+-6.923059	give||she
+-6.923059	give||something
+-6.923059	give||we
+-6.923059	give||you
+-6.923059	glance||
+-6.923059	glare|we|
+-6.923059	glisten||
+-6.923059	gloat||husband
+-6.923059	gon|I|
+-6.923059	gon|that|
+-6.923059	gon||
+-6.923059	go|A|
+-6.923059	go|DATE|
+-6.923059	go|DURATION|
+-6.923059	go|Finaly|
+-2.501744	go|I|	-0.06264998
+-3.404834	go|I|camping	-0.08372433
+-6.923059	go|I|diving
+-6.923059	go|I|fishing
+-6.923059	go|I|hand
+-6.923059	go|I|home
+-6.923059	go|I|mile
+-6.923059	go|I|s
+-6.923059	go|I|way
+-6.923059	go|LOCATION|
+-6.923059	go|NUMBER|
+-2.802774	go|PERSON|	0.08017804
+-6.923059	go|PERSON|diving
+-6.923059	go|PERSON|fishing
+-6.923059	go|TIME|
+-6.923059	go|TIME|time
+-6.923059	go|adventure|
+-6.923059	go|all|
+-6.923059	go|boat|
+-6.923059	go|dad|
+-6.923059	go|daughter|
+-6.923059	go|do|
+-6.923059	go|d|
+-3.404834	go|everyone|	-0.08492333
+-6.923059	go|everything|
+-6.923059	go|family|
+-6.923059	go|fam|camping
+-6.923059	go|girl|
+-6.923059	go|group|
+-3.404834	go|guy|	0.1274508
+-6.923059	go|helo|overhead
+-6.923059	go|he|
+-6.923059	go|he|home
+-6.923059	go|house|MONEY
+-6.923059	go|it|
+-6.923059	go|i|
+-3.404834	go|kid|	-0.006596491
+-6.923059	go|kid|fishing
+-6.923059	go|light|
+-6.923059	go|ll|
+-6.923059	go|moring|
+-6.923059	go|niece|
+-6.923059	go|parent|
+-3.404834	go|people|	-0.006596491
+-6.923059	go|rest|
+-3.103804	go|she|	0.02141352
+-6.923059	go|she|swimming
+-6.923059	go|sign|
+-2.705864	go|sun|	0.09144574
+-6.923059	go|tank|
+-6.923059	go|tent|
+-6.923059	go|that|
+-6.923059	go|then|
+-3.404834	go|they|	-0.08389581
+-6.923059	go|thing|
+-6.923059	go|this|
+-6.923059	go|time|
+-6.923059	go|trail|
+-6.923059	go|train|
+-6.923059	go|trip|
+-6.923059	go|weather|
+-2.043106	go|we|	0.2423012
+-6.923059	go|we|DATE
+-6.923059	go|we|MONEY
+-6.923059	go|we|NUMBER
+-6.923059	go|we|bowling
+-3.404834	go|we|camping	0.1274508
+-3.404834	go|we|fishing	-0.08475224
+-6.923059	go|we|home
+-6.923059	go|we|mile
+-6.923059	go|we|swimming
+-6.923059	go|we|way
+-6.923059	go|we|what
+-3.404834	go|what|	-0.08492333
+-3.404834	go|which|	0.1274508
+-3.404834	go|who|	0.1274508
+-6.923059	go|you|
+-6.923059	go|you|Oooooohhhhhh
+-6.923059	go|you|camping
+-2.228742	go||	0.1423541
+-6.923059	go||!!!
+-3.404834	go||I	0.1274508
+-3.404834	go||MONEY	-0.08492333
+-3.103804	go||camping	-0.08406723
+-6.923059	go||diving
+-6.923059	go||figure
+-6.923059	go||fishing
+-6.923059	go||hike
+-6.923059	go||hill
+-3.404834	go||home	-0.08475224
+-6.923059	go||north
+-6.923059	go||swimming
+-6.923059	go||venture
+-6.923059	go||way
+-6.923059	grab|I|
+-6.923059	grab|PERSON|guide
+-6.923059	grab|we|
+-6.923059	grab||PERSON
+-6.923059	grab||thing
+-6.923059	grant|God|water
+-6.923059	grant|God|we
+-3.404834	greet|we|	0.1274508
+-6.923059	greet||
+-6.923059	greet||DATE
+-6.923059	grow|I|
+-6.923059	grow|he|
+-6.923059	grow|it|
+-6.923059	grow|space|
+-6.923059	grow|we|
+-6.923059	grow||
+-6.923059	grumble|kid|
+-2.927712	guess|I|	0.196237
+-6.923059	guess||
+-6.923059	had.|I|
+-3.404834	hadn|I|MONEY	0.1274508
+-6.923059	hadn|we|MONEY
+-6.923059	hadn|we|t
+-3.404834	hammer||	-0.08440987
+-6.923059	handle|I|
+-6.923059	handle|car|
+-6.923059	handle|kid|it
+-6.923059	handle||LOCATION
+-6.923059	hand|they|we
+-3.404834	hang|I|	0.1274508
+-6.923059	hang|that|
+-3.404834	hang|the|	-0.006596491
+-3.103804	hang|we|	-0.08097126
+-6.923059	hang||
+-6.923059	happen|DATE|
+-6.923059	happen|I|
+-6.923059	happen|he|
+-3.103804	happen|it|	-0.0820057
+-6.923059	happen|nothing|
+-3.404834	happen|that|	-0.08286586
+-6.923059	happen|this|
+-3.404834	happen|we|	0.1274508
+-3.103804	happen|what|	-0.1126337
+-3.404834	happen|which|	-0.006596491
+-6.923059	happen|who|
+-3.404834	happen||	0.1274508
+-6.923059	hate|I|
+-6.923059	hate|I|it
+-6.923059	hate|girl|it
+-6.923059	haul||
+-6.923059	haven|I|MONEY
+-6.923059	have|AND|child
+-6.923059	have|But|fun.
+-6.923059	have|DATE|
+-6.923059	have|DATE|temp
+-6.923059	have|DATE|wind
+-6.923059	have|God|mercy
+-2.501744	have|I|	0.05252115
+-6.923059	have|I|2x
+-6.923059	have|I|DATE
+-6.923059	have|I|MONEY
+-6.923059	have|I|NEVER
+-6.923059	have|I|NUMBER
+-6.923059	have|I|TIME
+-6.923059	have|I|bag
+-6.923059	have|I|breakfast
+-6.923059	have|I|dive
+-6.923059	have|I|dream
+-6.923059	have|I|drunk
+-6.923059	have|I|energy
+-6.923059	have|I|experience
+-6.923059	have|I|feeling
+-6.923059	have|I|friend
+-6.923059	have|I|headache
+-6.923059	have|I|idea
+-6.923059	have|I|intention
+-6.923059	have|I|it
+-6.923059	have|I|lot
+-6.923059	have|I|luck
+-6.923059	have|I|map
+-3.404834	have|I|moment	-0.08492333
+-6.923059	have|I|most
+-6.923059	have|I|opportunity
+-6.923059	have|I|picture
+-6.923059	have|I|problem
+-6.923059	have|I|route
+-6.923059	have|I|salad
+-6.923059	have|I|show
+-6.923059	have|I|some
+-6.923059	have|I|talk
+-6.923059	have|I|time
+-6.923059	have|I|trouble
+-6.923059	have|I|vision
+-6.923059	have|MONEY|rip
+-6.923059	have|MONEY|tent
+-6.923059	have|NATIONALITY|a
+-6.923059	have|NUMBER|
+-6.923059	have|NUMBER|leak
+-6.923059	have|PERSON|
+-6.923059	have|PERSON|NUMBER
+-6.923059	have|PERSON|PERSON
+-6.923059	have|PERSON|escargot
+-3.404834	have|PERSON|fun	0.1274508
+-6.923059	have|PERSON|it
+-6.923059	have|PERSON|lot
+-3.404834	have|PERSON|s'more	0.1274508
+-6.923059	have|PERSON|sparerib
+-6.923059	have|PERSON|tent
+-6.923059	have|PERSON|time
+-6.923059	have|PERSON|trouble
+-6.923059	have|TIME|reservation
+-6.923059	have|TITLE|too.
+-6.923059	have|all|time
+-6.923059	have|boat|
+-6.923059	have|campground|air
+-6.923059	have|child|
+-6.923059	have|everyone|PERSON
+-6.923059	have|friend|terror
+-6.923059	have|grill|leak
+-6.923059	have|he|
+-6.923059	have|he|2x
+-6.923059	have|he|grown.
+-6.923059	have|he|lot
+-6.923059	have|home|meal
+-6.923059	have|husband|NEVER
+-3.103804	have|it|	-0.006391577
+-3.404834	have|it|electricity	0.1274508
+-6.923059	have|it|lot
+-6.923059	have|it|nothing
+-6.923059	have|it|traffic
+-3.404834	have|i|	-0.082522
+-6.923059	have|jump|
+-6.923059	have|kid|
+-6.923059	have|kid|fun
+-6.923059	have|kid|time
+-6.923059	have|lightning|stopped
+-6.923059	have|ll|fun
+-6.923059	have|luck|it
+-6.923059	have|man|insurance
+-6.923059	have|man|license
+-6.923059	have|mosquito|chance
+-6.923059	have|pannier|lot
+-6.923059	have|part|size
+-6.923059	have|person|
+-6.923059	have|river|lot
+-6.923059	have|room|table
+-6.923059	have|route|wood
+-6.923059	have|she|
+-6.923059	have|she|jacket
+-6.923059	have|she|qualm
+-6.923059	have|she|tent
+-6.923059	have|that|
+-6.923059	have|that|camping
+-6.923059	have|that|food
+-6.923059	have|that|pool
+-6.923059	have|then|
+-2.927712	have|they|	-0.2977082
+-6.923059	have|they|bit
+-6.923059	have|they|couple
+-6.923059	have|they|mindset
+-6.923059	have|they|requirement
+-6.923059	have|they|river
+-6.923059	have|they|room
+-6.923059	have|they|site
+-6.923059	have|tree|sign
+-6.923059	have|trip|feeling
+-6.923059	have|t|
+-6.923059	have|t|equipment.
+-6.923059	have|t|time
+-6.923059	have|ve|
+-6.923059	have|ve|around.
+-3.404834	have|water|	0.1274508
+-6.923059	have|water|MONEY
+-2.450591	have|we|	0.1400186
+-6.923059	have|we|CAUSE_OF_DEATH
+-3.404834	have|we|DURATION	0.1274508
+-3.404834	have|we|NUMBER	0.1274508
+-6.923059	have|we|PERSON
+-6.923059	have|we|TIME
+-6.923059	have|we|age
+-6.923059	have|we|apartment
+-6.923059	have|we|bag
+-6.923059	have|we|bed
+-3.404834	have|we|bit	-0.006596491
+-6.923059	have|we|blast
+-6.923059	have|we|bread
+-6.923059	have|we|breakfast
+-6.923059	have|we|burger
+-6.923059	have|we|cake
+-6.923059	have|we|camp
+-3.404834	have|we|campfire	-0.08492333
+-6.923059	have|we|campsite
+-6.923059	have|we|car
+-6.923059	have|we|chicken
+-3.404834	have|we|child	-0.08458109
+-6.923059	have|we|choice
+-6.923059	have|we|climb
+-6.923059	have|we|coffee
+-6.923059	have|we|conversation
+-6.923059	have|we|corn
+-6.923059	have|we|cream
+-6.923059	have|we|cucumber
+-6.923059	have|we|dinner
+-6.923059	have|we|dog
+-6.923059	have|we|downpour
+-6.923059	have|we|drink
+-6.923059	have|we|enough
+-6.923059	have|we|event
+-6.923059	have|we|festival
+-6.923059	have|we|firework
+-6.923059	have|we|food
+-6.923059	have|we|fun
+-6.923059	have|we|gear
+-6.923059	have|we|group
+-6.923059	have|we|hell
+-3.404834	have|we|hike	-0.08492333
+-6.923059	have|we|idea
+-6.923059	have|we|kid
+-3.404834	have|we|lot	0.1274508
+-6.923059	have|we|luck
+-3.404834	have|we|lunch	-0.006596491
+-6.923059	have|we|mattress
+-6.923059	have|we|meal
+-6.923059	have|we|mile
+-6.923059	have|we|milk
+-6.923059	have|we|noddle
+-6.923059	have|we|noodle
+-6.923059	have|we|opportunity
+-6.923059	have|we|park
+-6.923059	have|we|people
+-6.923059	have|we|picnic
+-6.923059	have|we|place
+-6.923059	have|we|plan
+-6.923059	have|we|plenty
+-6.923059	have|we|problem
+-6.923059	have|we|reservation
+-6.923059	have|we|rib
+-6.923059	have|we|roast
+-3.103804	have|we|room	0.2639789
+-6.923059	have|we|seclusion
+-3.103804	have|we|shower	-0.08372432
+-3.404834	have|we|smore	-0.08131635
+-6.923059	have|we|task
+-6.923059	have|we|temp
+-6.923059	have|we|tent
+-3.103804	have|we|time	0.2639789
+-6.923059	have|we|toast
+-6.923059	have|we|trip
+-6.923059	have|we|view
+-6.923059	have|we|water
+-6.923059	have|we|weather
+-6.923059	have|you|
+-6.923059	have|you|blast
+-6.923059	have|you|kid
+-6.923059	have|you|time
+-6.923059	have|you|view
+-1.572325	have||	-0.160753
+-6.923059	have||CAUSE_OF_DEATH
+-6.923059	have||PERSON
+-6.923059	have||beer
+-3.404834	have||bit	-0.006596491
+-6.923059	have||breakfast
+-6.923059	have||cake
+-6.923059	have||chance
+-6.923059	have||coffee
+-6.923059	have||couple
+-6.923059	have||dinner
+-6.923059	have||drink
+-6.923059	have||etc.
+-6.923059	have||experience
+-3.404834	have||family	-0.006596491
+-6.923059	have||fun
+-6.923059	have||good
+-6.923059	have||issue
+-6.923059	have||look
+-6.923059	have||lunch
+-6.923059	have||marsh-mellow
+-6.923059	have||moment
+-6.923059	have||opportunity
+-6.923059	have||parade
+-6.923059	have||place
+-3.404834	have||room	-0.006596491
+-6.923059	have||sex
+-6.923059	have||spot
+-6.923059	have||time
+-6.923059	have||trip
+-6.923059	have||trouble
+-6.923059	have||water
+-6.923059	head|&|
+-6.923059	head|DATE|
+-3.103804	head|I|	0.1288477
+-3.404834	head|PERSON|	-0.08475224
+-6.923059	head|boat|
+-6.923059	head|cabin|
+-6.923059	head|he|
+-6.923059	head|m|
+-6.923059	head|they|
+-2.228742	head|we|	0.1714464
+-6.923059	head|we|PERSON
+-6.923059	head|we|direction
+-6.923059	head|we|home
+-6.923059	head|we|north
+-2.501744	head||	0.2600734
+-3.404834	head||home	-0.0820057
+-3.404834	hear|I|	0.1274508
+-6.923059	hear|I|camping
+-6.923059	hear|I|noise
+-6.923059	hear|PERSON|noise
+-6.923059	hear|WI|rustling
+-6.923059	hear|all|raccoon
+-6.923059	hear|t|peep
+-3.404834	hear|we|	-0.006596491
+-6.923059	hear|we|noise
+-6.923059	hear|we|siren
+-6.923059	hear|we|sound
+-6.923059	hear|we|thunder
+-6.923059	hear||
+-6.923059	hear||end
+-6.923059	hear||that
+-6.923059	heat||they
+-6.923059	heed||instruction
+-6.923059	help|I|
+-6.923059	help|LOCATION|too.
+-6.923059	help|PERSON|
+-6.923059	help|PERSON|too.
+-6.923059	help|everyone|
+-3.404834	help|he|	-0.08492333
+-6.923059	help|it|
+-6.923059	help|jacket|float
+-6.923059	help|low|
+-6.923059	help|that|
+-6.923059	help|they|
+-6.923059	help|we|
+-6.923059	help|which|
+-3.103804	help||	0.02141352
+-6.923059	help||I
+-6.923059	help||you
+-6.923059	here|Well|MONEY
+-6.923059	hesitate|I|
+-6.923059	he|I|MONEY
+-6.923059	he||MONEY
+-6.923059	hide|PERSON|
+-6.923059	hide||
+-6.923059	highlight|the|
+-6.923059	highlight||
+-6.923059	hike|DATE|
+-3.404834	hike|I|	-0.08423859
+-6.923059	hike|I|trail
+-6.923059	hike|PERSON|
+-6.923059	hike|mile|
+-6.923059	hike|that|
+-2.626683	hike|we|	0.2387461
+-6.923059	hike|we|mile
+-6.923059	hike|you|
+-2.626683	hike||	0.2701338
+-6.923059	hike||LOCATION
+-6.923059	hike||it
+-6.923059	hike||mile
+-6.923059	hike||trail
+-6.923059	hike||we
+-6.923059	hit|I|road
+-6.923059	hit|I|stopwatch
+-6.923059	hit|I|town
+-6.923059	hit|PERSON|she
+-6.923059	hit|all|
+-6.923059	hit|they|
+-3.103804	hit|we|	0.1277298
+-3.404834	hit|we|LOCATION	-0.006596491
+-6.923059	hit|we|Lucky
+-6.923059	hit|we|border
+-6.923059	hit|we|road
+-6.923059	hit|we|sand
+-6.923059	hit||ORGANIZATION
+-6.923059	hit||road
+-6.923059	hit||tent
+-6.923059	hit||trail
+-6.923059	hit||trunk
+-6.923059	hit||waterslide
+-6.923059	hold|I|
+-6.923059	hold|he|
+-6.923059	hold|luck|
+-6.923059	hold|tent|it
+-6.923059	hold||
+-6.923059	hold||it
+-6.923059	hold||tent
+-6.923059	hold||they
+-6.923059	holler|you|$
+-2.927712	hope|I|	-0.004954547
+-6.923059	hope|tent|
+-6.923059	hope|we|
+-6.923059	hope||
+-6.923059	hop|I|
+-6.923059	hop|we|
+-6.923059	hop||
+-6.923059	hover||
+-6.923059	howl||
+-6.923059	hurl|old|cliff
+-6.923059	hurry||
+-6.923059	hurt|ground|back
+-6.923059	hurt|it|
+-6.923059	hurt||
+-6.923059	identify||
+-6.923059	identify||they
+-6.923059	ignore|I|rule
+-6.923059	imagine|I|
+-3.404834	imagine|you|	0.1274508
+-3.404834	imagine||	-0.08286586
+-6.923059	imagine||place
+-3.404834	impress|I|	0.1274508
+-6.923059	improvise||
+-6.923059	include|myself|
+-6.923059	include|other|MISC
+-6.923059	include|other|PERSON
+-6.923059	include|price|ride
+-6.923059	include|stats|driving
+-3.103804	include||	-0.08440986
+-6.923059	increase|heart|pace
+-6.923059	inform|he|I
+-6.923059	ingrain|it|
+-6.923059	inhabit|camp|
+-6.923059	inhabit|sex|
+-6.923059	insist|girl|
+-6.923059	intend|I|
+-6.923059	intend|we|
+-6.923059	intend||
+-6.923059	internett|PERSON|
+-6.923059	intersperse||
+-6.923059	invite|people|
+-6.923059	invite|we|
+-6.923059	involve||
+-6.923059	isn|it|t
+-6.923059	isolate||
+-6.923059	itch||
+-6.923059	it|I|MONEY
+-6.923059	it|s|MONEY
+-6.923059	it||
+-3.404834	it||MONEY	0.1274508
+-3.103804	it||s	-0.08028025
+-6.923059	it||star
+-6.923059	i||m
+-6.923059	join|I|they
+-6.923059	join|kid|
+-6.923059	join|rest|
+-6.923059	join|some|
+-6.923059	join|ve|you
+-6.923059	join|we|
+-6.923059	join||
+-6.923059	join||I
+-6.923059	join||group
+-6.923059	join||they
+-6.923059	join||we
+-6.923059	joke|we|
+-6.923059	jump|I|
+-6.923059	jump|kid|
+-6.923059	jump|we|
+-6.923059	jump||
+-6.923059	kayake||
+-6.923059	kayak||
+-6.923059	keep|DURATION|
+-3.404834	keep|I|	-0.08406723
+-6.923059	keep|I|eye
+-6.923059	keep|I|fluid
+-6.923059	keep|I|head
+-6.923059	keep|I|journal
+-6.923059	keep|NUMBER|
+-6.923059	keep|PERSON|
+-6.923059	keep|PERSON|stuff
+-6.923059	keep|he|
+-6.923059	keep|he|they
+-6.923059	keep|it|
+-6.923059	keep|it|some
+-6.923059	keep|i|
+-6.923059	keep|thanks|
+-6.923059	keep|that|
+-6.923059	keep|they|
+-6.923059	keep|we|
+-2.802774	keep||	-0.1311067
+-6.923059	keep||cool
+-6.923059	keep||eye
+-6.923059	keep||pace
+-6.923059	keep||thing
+-6.923059	keep||water
+-6.923059	keep||we
+-6.923059	kick|we|
+-6.923059	kick||I
+-6.923059	kid|we|
+-6.923059	kid||
+-6.923059	kill||
+-6.923059	kill||myself
+-6.923059	knit|it|
+-6.923059	knock|I|mile
+-2.927712	know|I|	-0.0001990721
+-6.923059	know|I|guy
+-6.923059	know|I|it
+-6.923059	know|I|merely
+-6.923059	know|PERSON|
+-6.923059	know|any|
+-6.923059	know|cyclist|
+-6.923059	know|he|
+-6.923059	know|it|
+-3.404834	know|she|	-0.07330909
+-6.923059	know|that|
+-6.923059	know|that|I
+-6.923059	know|they|
+-6.923059	know|this|
+-6.923059	know|t|
+-6.923059	know|t|it
+-3.103804	know|we|	-0.004748851
+-6.923059	know|we|what
+-3.103804	know|who|	0.2639789
+-6.923059	know|who|I
+-3.404834	know|you|	-0.006596491
+-6.923059	know|you|NUMBER
+-6.923059	know|you|it
+-6.923059	know|you|s
+-6.923059	know|you|we
+-3.404834	know||	0.1274508
+-6.923059	lack||
+-6.923059	land|DURATION|
+-6.923059	land|I|
+-6.923059	land|we|
+-6.923059	land||NUMBER
+-6.923059	lash|nothing|
+-6.923059	last|it|
+-6.923059	last|peace|
+-3.404834	laugh|I|	-0.08440987
+-6.923059	laugh|we|
+-6.923059	launch|we|
+-6.923059	launch||
+-6.923059	lay|I|
+-6.923059	lay|we|
+-6.923059	lay||
+-6.923059	lay||TIME
+-6.923059	lead|that|
+-6.923059	lead||
+-6.923059	leak|mask|
+-6.923059	leak|tent|
+-6.923059	leak||
+-6.923059	lean|you|MONEY
+-6.923059	lean|you|which
+-6.923059	learn|'d|lesson
+-6.923059	learn|I|
+-6.923059	learn|I|this
+-6.923059	learn|Sander|lesson
+-6.923059	learn|TITLE|
+-6.923059	learn|she|
+-6.923059	learn|son|
+-6.923059	learn|we|
+-6.923059	learn|we|all
+-6.923059	learn||
+-6.923059	learn||technique
+-3.404834	leave|I|	-0.006596491
+-3.404834	leave|I|LOCATION	0.1274508
+-6.923059	leave|I|chocolate
+-6.923059	leave|I|house
+-6.923059	leave|I|marshmallow
+-6.923059	leave|I|watch
+-6.923059	leave|I|you
+-6.923059	leave|PERSON|
+-6.923059	leave|he|we
+-6.923059	leave|it|
+-6.923059	leave|kid|dinner
+-6.923059	leave|that|DATE
+-3.404834	leave|they|	-0.08423859
+-3.103804	leave|we|	0.1310921
+-3.103804	leave|we|LOCATION	0.129688
+-6.923059	leave|we|MISC
+-6.923059	leave|we|Rock
+-6.923059	leave|we|cabin
+-6.923059	leave|we|campground
+-6.923059	leave|we|home
+-6.923059	leave|we|it
+-6.923059	leave|we|little
+-6.923059	leave|we|site
+-6.923059	leave|we|you
+-6.923059	leave|what|
+-2.802774	leave||	0.2655094
+-6.923059	leave||DATE
+-6.923059	leave||I
+-6.923059	leave||LOCATION
+-6.923059	leave||PERSON
+-6.923059	leave||comment
+-6.923059	leave||everything
+-6.923059	leave||firework
+-6.923059	leave||it
+-6.923059	leave||parent
+-6.923059	leave||park
+-6.923059	leave||we
+-6.923059	leave||work
+-6.923059	lecture|camp|
+-6.923059	let|I|
+-6.923059	let|PERSON|
+-6.923059	let|TIME|
+-6.923059	let|friend|
+-6.923059	let|it|
+-6.923059	let|kid|
+-6.923059	let|rain|
+-6.923059	let|she|cabin
+-6.923059	let|she|space
+-6.923059	let|that|
+-3.404834	let|they|	0.1274508
+-3.404834	let|we|	-0.08492333
+-2.927712	let||	0.1291276
+-6.923059	let||MONEY
+-6.923059	let||it
+-6.923059	lie|picture|
+-6.923059	lie|what|
+-6.923059	lie|which|
+-6.923059	lie||
+-6.923059	lie||recumbent
+-6.923059	lift||bike
+-2.927712	lighten||	0.2651263
+-6.923059	light|CAUSE_OF_DEATH|
+-6.923059	light||
+-3.404834	like|I|	0.1274508
+-6.923059	like|I|camping
+-3.404834	like|I|it	0.1274508
+-6.923059	like|I|park
+-6.923059	like|I|weather
+-3.404834	like|PERSON|	0.1274508
+-6.923059	like|PERSON|Plus
+-6.923059	like|he|
+-6.923059	like|he|Plus
+-6.923059	like|other|town
+-6.923059	like|thing|
+-6.923059	like|we|
+-6.923059	like|who|I
+-3.103804	like|you|	0.02141352
+-6.923059	like|you|camping
+-6.923059	limit|I|number
+-6.923059	limit||yourself
+-6.923059	linger|we|
+-6.923059	listen|I|
+-3.404834	listen|we|	0.1274508
+-3.103804	listen||	0.02141352
+-6.923059	live|I|
+-6.923059	live|PERSON|
+-6.923059	live|child|
+-6.923059	live|family|
+-6.923059	live|he|
+-6.923059	live|that|
+-6.923059	live|they|
+-6.923059	live|we|
+-3.404834	live|who|	0.1274508
+-6.923059	live|you|
+-3.103804	live||	0.1282884
+-6.923059	load|mile|
+-6.923059	load|we|
+-6.923059	load|we|car
+-6.923059	load|we|stuff
+-6.923059	load||
+-6.923059	load||all
+-6.923059	load||car
+-6.923059	load||gear
+-6.923059	lodge|park|
+-6.923059	lodge||
+-6.923059	log||
+-6.923059	london||
+-6.923059	long|I|
+-6.923059	look|Husband|
+-2.802774	look|I|	-0.1215154
+-6.923059	look|LOCATION|
+-3.103804	look|PERSON|	-0.006391577
+-6.923059	look|all|
+-2.559736	look|it|	-0.01205251
+-6.923059	look|it|little
+-6.923059	look|it|lot
+-6.923059	look|myself|
+-6.923059	look|pool|
+-3.404834	look|she|	0.1274508
+-6.923059	look|that|
+-3.404834	look|they|	0.1274508
+-3.404834	look|we|	-0.08406723
+-3.404834	look|what|	-0.006596491
+-6.923059	look|which|
+-3.103804	look|you|	-0.006186575
+-2.559736	look||	-0.003289565
+-6.923059	look||it
+-6.923059	loop|we|
+-6.923059	lose|I|
+-6.923059	lose|I|weight
+-6.923059	lose|we|coverage
+-6.923059	lose|who|life
+-6.923059	lose|you|it
+-3.404834	lose||	-0.08492333
+-6.923059	lose||NUMBER
+-6.923059	lose||communication
+-6.923059	lose||rest
+-6.923059	love|All|area
+-3.103804	love|I|	-0.006391577
+-6.923059	love|I|MONEY
+-6.923059	love|I|Park
+-3.404834	love|I|SET	-0.006596491
+-6.923059	love|I|camp
+-6.923059	love|I|camping
+-6.923059	love|I|diving
+-6.923059	love|I|game
+-6.923059	love|I|it
+-6.923059	love|I|landscape
+-6.923059	love|I|mushroom
+-6.923059	love|I|park.
+-6.923059	love|PERSON|
+-6.923059	love|camper|d
+-6.923059	love|i|it
+-6.923059	love|kid|
+-6.923059	love|kid|it
+-6.923059	love|kid|they
+-6.923059	love|we|
+-6.923059	love|we|campsite
+-6.923059	love||
+-6.923059	love||it
+-6.923059	lo|I|
+-6.923059	luck|we|
+-6.923059	lure||they
+-6.923059	make|DATE|
+-3.404834	make|I|	-0.08475224
+-6.923059	make|I|batch
+-6.923059	make|I|dinner
+-6.923059	make|I|it
+-6.923059	make|I|mistake
+-6.923059	make|I|note
+-3.404834	make|I|pancake	-0.08492333
+-6.923059	make|I|rule
+-6.923059	make|I|way
+-6.923059	make|PERSON|
+-6.923059	make|PERSON|bed
+-6.923059	make|PERSON|campfire
+-6.923059	make|PERSON|friend
+-6.923059	make|PERSON|herself
+-6.923059	make|PERSON|suggestion
+-6.923059	make|PERSON|thingy
+-6.923059	make|PERSON|use
+-6.923059	make|camp|it
+-6.923059	make|food|
+-6.923059	make|he|
+-3.404834	make|it|	-0.0820057
+-6.923059	make|jd|it
+-6.923059	make|josh|way
+-6.923059	make|kid|it
+-6.923059	make|rain|feel
+-6.923059	make|that|
+-3.404834	make|they|	-0.08423859
+-6.923059	make|this|it
+-6.923059	make|tree|lot
+-6.923059	make|t|
+-6.923059	make|t|it
+-2.927712	make|we|	0.1299684
+-6.923059	make|we|CAUSE_OF_DEATH
+-6.923059	make|we|bacon
+-6.923059	make|we|bbq
+-6.923059	make|we|breakfast
+-3.404834	make|we|coffee	0.1274508
+-6.923059	make|we|corn
+-6.923059	make|we|decision
+-3.404834	make|we|dinner	-0.08475224
+-3.404834	make|we|egg	-0.08475224
+-6.923059	make|we|friend
+-2.927712	make|we|it	0.2907616
+-6.923059	make|we|kabob
+-6.923059	make|we|list
+-6.923059	make|we|marshmallow
+-6.923059	make|we|potato
+-6.923059	make|we|s'more
+-6.923059	make|we|stop
+-6.923059	make|we|talk
+-6.923059	make|we|trek
+-3.404834	make|we|trip	-0.006596491
+-3.404834	make|we|way	-0.08389581
+-3.404834	make|which|	-0.08458109
+-6.923059	make|wind|
+-6.923059	make|you|it
+-2.927712	make||	0.196237
+-6.923059	make||CAUSE_OF_DEATH
+-6.923059	make||arrangement
+-6.923059	make||breakfast
+-6.923059	make||camp
+-6.923059	make||dinner
+-6.923059	make||ground
+-3.404834	make||it	-0.08475224
+-6.923059	make||noise
+-6.923059	make||post
+-6.923059	make||ride
+-6.923059	make||s'more
+-6.923059	make||sandwich
+-6.923059	make||shelter
+-6.923059	make||stew
+-6.923059	make||stop
+-6.923059	make||story
+-6.923059	make||tea
+-6.923059	make||that
+-3.404834	make||trip	-0.08286586
+-6.923059	make||use
+-3.404834	make||way	-0.08475224
+-6.923059	manage|I|
+-6.923059	manage|PERSON|success
+-6.923059	manage|he|
+-6.923059	manage|we|
+-6.923059	manage|we|experience
+-6.923059	manage|we|it
+-6.923059	manage||
+-6.923059	mark|DATE|DURATION
+-6.923059	marry|I|
+-6.923059	marry|hubby|
+-6.923059	marry||
+-6.923059	mash||
+-6.923059	meander|we|
+-3.404834	mean|I|	-0.08492333
+-6.923059	mean|I|what
+-3.404834	mean|that|	-0.006596491
+-6.923059	mean|this|
+-6.923059	mean|which|
+-3.404834	mean||	0.1274508
+-6.923059	measure|you|they
+-6.923059	meet|I|
+-6.923059	meet|I|PERSON
+-6.923059	meet|I|he
+-6.923059	meet|I|person
+-6.923059	meet|PERSON|
+-6.923059	meet|it|
+-6.923059	meet|we|
+-6.923059	meet|we|people
+-6.923059	meet|we|she
+-6.923059	meet|who|they
+-6.923059	meet||
+-6.923059	meet||PERSON
+-6.923059	meet||people
+-6.923059	melt|I|
+-6.923059	melt|ember|chocolate
+-6.923059	melt||
+-3.404834	mention|I|	0.1274508
+-3.404834	mention||	-0.006596491
+-6.923059	mind||
+-6.923059	misspoke|I|
+-6.923059	miss|I|
+-6.923059	miss|I|PERSON
+-6.923059	miss|I|anyone
+-6.923059	miss|I|camping
+-6.923059	miss|I|time
+-6.923059	miss|Mommy|relaxing
+-6.923059	miss|little|relaxing
+-6.923059	miss|we|
+-6.923059	miss|which|fly
+-6.923059	miss||
+-6.923059	miss||CAUSE_OF_DEATH
+-6.923059	mob||
+-3.103804	move|I|	-0.005365603
+-6.923059	move|it|
+-6.923059	move|she|
+-2.927712	move|we|	-0.1398195
+-6.923059	move|we|bag
+-6.923059	move|we|thing
+-3.404834	move||	-0.08492333
+-6.923059	move||tent
+-6.923059	mumble||
+-6.923059	name|you|it
+-6.923059	name||
+-6.923059	name||PERSON
+-6.923059	nap|we|
+-6.923059	nap||
+-6.923059	navigate||
+-6.923059	navigate||road
+-6.923059	near|it|time
+-6.923059	needless||
+-6.923059	needn|we|MONEY
+-6.923059	need|I|
+-6.923059	need|I|lunch
+-6.923059	need|I|towel
+-6.923059	need|I|water
+-6.923059	need|I|what
+-6.923059	need|NUMBER|
+-6.923059	need|PERSON|
+-6.923059	need|fish|
+-6.923059	need|he|
+-6.923059	need|i|
+-6.923059	need|they|
+-6.923059	need|they|mattress
+-3.404834	need|we|	0.1274508
+-6.923059	need|you|
+-6.923059	need||
+-6.923059	need||vacation
+-6.923059	need||wood
+-6.923059	nestle||
+-6.923059	never|I|
+-6.923059	nod|I|
+-6.923059	note|I|camping
+-6.923059	note|I|marker
+-6.923059	note|sister|
+-6.923059	note||
+-6.923059	note||snuggle
+-3.404834	notice|I|	0.1274508
+-6.923059	notice|I|boy
+-6.923059	notice|he|
+-6.923059	notice|we|
+-6.923059	now.||scenery.
+-6.923059	observe||
+-3.404834	occur|it|	-0.006596491
+-6.923059	offer|DATE|I
+-6.923059	offer|DATE|opportunity
+-3.103804	offer||	-0.08114383
+-6.923059	open|it|
+-6.923059	open|road|
+-6.923059	open|sky|
+-6.923059	open|station|
+-6.923059	open|we|bag
+-6.923059	open|we|chair
+-6.923059	open|we|pack
+-6.923059	open|we|tarp
+-6.923059	open|we|tent
+-6.923059	open||
+-6.923059	operate|PERSON|bucket
+-6.923059	operate|PERSON|swivel
+-6.923059	opt|we|
+-6.923059	opt||
+-6.923059	order|I|
+-6.923059	order|we|
+-6.923059	organize||
+-6.923059	organize||box
+-6.923059	outta|stuff|car
+-6.923059	overflow||
+-6.923059	overlook||
+-6.923059	overlook||lake
+-6.923059	pace||myself
+-6.923059	pack|Everything|
+-6.923059	pack|I|
+-6.923059	pack|I|all
+-6.923059	pack|I|cheese
+-6.923059	pack|I|stuff
+-6.923059	pack|I|thing
+-6.923059	pack|do|
+-6.923059	pack|horse|
+-6.923059	pack|they|NUMBER
+-3.103804	pack|we|	0.1277298
+-6.923059	pack|we|ORGANIZATION
+-6.923059	pack|we|all
+-6.923059	pack|we|bag
+-3.404834	pack|we|camp	-0.082522
+-3.404834	pack|we|car	-0.08372433
+-6.923059	pack|we|food
+-6.923059	pack|we|gear
+-6.923059	pack|we|stuff
+-6.923059	pack|we|tent
+-6.923059	pack|we|thing
+-6.923059	pack|you|it
+-3.103804	pack||	0.1277298
+-6.923059	pack||canoe
+-6.923059	pack||car
+-6.923059	pack||everything
+-6.923059	pack||it
+-6.923059	pack||light
+-6.923059	pack||water
+-6.923059	paddle|I|
+-6.923059	paddle|we|
+-6.923059	paddle||
+-6.923059	paddle||half
+-6.923059	paddle||mile
+-6.923059	paint|I|
+-6.923059	panic||
+-6.923059	pant|I|
+-6.923059	pant|kid|
+-6.923059	parallel|I|it
+-6.923059	park|we|
+-6.923059	park|we|car
+-6.923059	park||
+-6.923059	partake|kid|
+-6.923059	participate||
+-6.923059	part|everyone|way
+-6.923059	pass|I|
+-6.923059	pass|I|kiosk
+-6.923059	pass|I|office
+-6.923059	pass|PERSON|
+-6.923059	pass|it|
+-6.923059	pass|man|
+-6.923059	pass|that|
+-6.923059	pass|vehicle|I
+-6.923059	pass|we|
+-6.923059	pass|we|it
+-6.923059	pass||
+-6.923059	pass||LOCATION
+-6.923059	pay|I|
+-6.923059	pay|we|
+-6.923059	pay|we|park
+-6.923059	pay||
+-6.923059	pedal|I|weight
+-6.923059	peel||
+-6.923059	peer||
+-6.923059	pee|child|all
+-3.404834	pee||	-0.006596491
+-6.923059	pick|I|combo
+-6.923059	pick|I|mile
+-6.923059	pick|I|pack
+-6.923059	pick|PERSON|I
+-6.923059	pick|PERSON|PERSON
+-3.404834	pick|we|	-0.08475224
+-6.923059	pick|we|it
+-6.923059	pick|we|spot
+-6.923059	pick|wind|
+-6.923059	pick||
+-3.404834	pick||PERSON	-0.08475224
+-3.404834	pick||apple	-0.006596491
+-6.923059	pick||car
+-6.923059	pick||spot
+-6.923059	pick||stick
+-6.923059	pick||thing
+-6.923059	pile|site|
+-6.923059	pile|we|
+-6.923059	pile|we|work
+-6.923059	pine||tree
+-6.923059	piss|I|
+-6.923059	pitch|rule|tent
+-6.923059	pitch|we|tent
+-6.923059	pitch||tent
+-6.923059	place|I|
+-3.404834	place||	-0.08423859
+-6.923059	plague|Plus|beach
+-6.923059	planned|we|MONEY
+-3.404834	plan|I|	0.1274508
+-6.923059	plan|I|trip
+-6.923059	plan|I|what
+-6.923059	plan|PERSON|trip
+-6.923059	plan|trip|camping
+-3.404834	plan|we|	-0.07872147
+-6.923059	plan|we|trip
+-3.404834	plan||	0.1274508
+-6.923059	play|I|
+-3.404834	play|PERSON|	-0.08475224
+-6.923059	play|PERSON|flute
+-3.404834	play|kid|	-0.07330909
+-3.103804	play|we|	-0.08458108
+-6.923059	play|we|card
+-6.923059	play|we|game
+-6.923059	play|we|guitar
+-6.923059	play|you|
+-3.103804	play||	-0.005981475
+-6.923059	play||NUMBER
+-6.923059	play||card
+-6.923059	play||game
+-6.923059	play||guitar
+-6.923059	play||music
+-6.923059	play||tag
+-6.923059	please|I|
+-3.404834	please||	0.1274508
+-6.923059	please||pray
+-6.923059	plug|I|ear
+-6.923059	plug|I|shout
+-6.923059	plummet||
+-6.923059	point|PERSON|
+-3.404834	poke|I|	-0.006596491
+-6.923059	poke|we|
+-6.923059	pool||water
+-6.923059	poop|you|
+-6.923059	pop||
+-6.923059	pose|PERSON|
+-6.923059	possess|I|camping
+-6.923059	possess|I|skill
+-6.923059	post|I|picture
+-6.923059	post|I|they
+-3.404834	post|we|	0.1274508
+-3.404834	post||	-0.07330909
+-3.404834	pound||	-0.08338115
+-6.923059	pour|it|
+-6.923059	pour||
+-6.923059	pour||bucket
+-3.404834	pour||rain	-0.08475224
+-6.923059	practice||
+-6.923059	practice||skill
+-6.923059	pray|I|
+-6.923059	pray|we|
+-6.923059	pray||
+-6.923059	prefer|I|
+-6.923059	prefer|I|solitude
+-6.923059	prepare|I|
+-6.923059	prepare|PERSON|dinner
+-6.923059	prepare|PERSON|supper
+-6.923059	prepare|she|
+-6.923059	prepare|we|
+-3.404834	prepare||	-0.08475224
+-6.923059	prepare||PERSON
+-6.923059	prepare||dinner
+-6.923059	prep||
+-6.923059	press|we|
+-6.923059	press||
+-6.923059	proceed|we|
+-6.923059	procure|I|combo
+-6.923059	procure|I|pad
+-3.404834	promise||	-0.08114384
+-6.923059	prop||plane
+-6.923059	prove|it|
+-6.923059	prove|which|
+-6.923059	prove||
+-6.923059	provide|direction|
+-6.923059	provide||
+-6.923059	provoke||wonder
+-6.923059	publish||
+-6.923059	pull|I|
+-6.923059	pull|I|TIME
+-6.923059	pull|I|camera
+-6.923059	pull|I|chest
+-6.923059	pull|I|something
+-6.923059	pull|boat|
+-6.923059	pull|friend|
+-6.923059	pull|truck|
+-3.404834	pull|we|	-0.08406723
+-6.923059	pull|we|rainfly
+-3.404834	pull||	0.1274508
+-6.923059	pull||it
+-6.923059	pump||mattress
+-6.923059	punch|I|
+-6.923059	purchase||
+-6.923059	purify||water
+-6.923059	push|we|bike
+-6.923059	push|we|it
+-6.923059	push|wind|I
+-3.404834	push||	-0.006596491
+-6.923059	push||calf
+-6.923059	put|Daddy|you
+-3.404834	put|I|	-0.08492333
+-6.923059	put|I|he
+-6.923059	put|I|tent
+-6.923059	put|NUMBER|
+-6.923059	put|he|they
+-6.923059	put|most|
+-6.923059	put|ranger|pet
+-6.923059	put|spot|
+-3.404834	put|that|we	-0.082522
+-6.923059	put|we|
+-6.923059	put|we|food
+-6.923059	put|we|headlight
+-6.923059	put|we|mattress
+-6.923059	put|we|pack-n-play
+-6.923059	put|we|tent
+-6.923059	put|you|bunch
+-3.404834	put||	0.1274508
+-6.923059	put||I
+-6.923059	put||chop
+-6.923059	put||cook
+-6.923059	put||it
+-6.923059	put||stuff
+-3.404834	put||tent	-0.08423859
+-6.923059	put||the
+-6.923059	quick-cook|it|
+-6.923059	quit|it|
+-6.923059	quiver|he|
+-6.923059	race|he|TDF
+-6.923059	race|we|sun
+-6.923059	rain.|it|walk
+-3.103804	rain|it|	0.1299684
+-6.923059	rain|it|most
+-6.923059	rain|we|
+-6.923059	rain|we|time
+-3.103804	rain||	0.2639789
+-6.923059	raise|AND|
+-6.923059	raise|I|
+-6.923059	rave|friend|horn
+-6.923059	re-do||operation
+-6.923059	re-organize||stuff
+-6.923059	reach|I|town
+-6.923059	reach|ground|
+-6.923059	reach|we|
+-6.923059	reach|we|PERSON
+-6.923059	reach|we|top
+-6.923059	reach|we|vista
+-6.923059	reach||
+-6.923059	reach||LOCATION
+-6.923059	reach||PERSON
+-6.923059	reach||path
+-6.923059	reach||summit
+-2.927712	read|I|	0.1313734
+-6.923059	read|I|book
+-6.923059	read|we|
+-3.103804	read||	-0.006391577
+-3.404834	read||book	0.1274508
+-6.923059	realize|I|
+-6.923059	realize|PERSON|
+-6.923059	realize|he|
+-6.923059	realize|t|
+-3.404834	realize|we|	0.1274508
+-6.923059	realize||
+-6.923059	receive|I|
+-6.923059	reckon|I|
+-6.923059	recommend|I|it
+-6.923059	recommend|they|
+-6.923059	recommend||
+-6.923059	reconcile|Daddy|difference
+-6.923059	reconcile|I|difference
+-6.923059	recover|I|
+-6.923059	recover|PERSON|
+-3.404834	recover||	-0.08492333
+-6.923059	reel||it
+-6.923059	reflect||
+-6.923059	refresh||
+-6.923059	refuse|I|
+-6.923059	relaxin|PERSON|MONEY
+-6.923059	relax|PERSON|
+-3.103804	relax|we|	-0.001859047
+-6.923059	relax||
+-6.923059	relax||scenery
+-6.923059	release|he|they
+-6.923059	relieve|Daddy|
+-6.923059	relieve|we|
+-6.923059	remain||
+-3.103804	remember|I|	0.1325008
+-6.923059	remember|I|it
+-6.923059	remember|I|said.
+-6.923059	remember|I|trip
+-6.923059	remember|I|what
+-6.923059	remember|then|
+-6.923059	remember|we|
+-3.404834	remember||	-0.0820057
+-6.923059	remind|I|
+-6.923059	remind|that|I
+-3.404834	remind||I	-0.08079861
+-6.923059	remove|I|stinger
+-6.923059	remove||hook
+-6.923059	remove||they
+-6.923059	rent|she|NUMBER
+-6.923059	rent|she|cabin
+-6.923059	rent|they|
+-6.923059	rent|we|boat
+-6.923059	rent|we|equipment
+-6.923059	rent||
+-6.923059	repair|co-pilot|
+-6.923059	replicate||they
+-6.923059	reply|she|
+-6.923059	report||
+-6.923059	repusle|cross|
+-6.923059	require||equipment
+-6.923059	rescue|myself|equipment
+-6.923059	reserve|she|it
+-6.923059	reserve||site
+-6.923059	resist||urge
+-6.923059	rest|we|
+-6.923059	rest||
+-6.923059	rest||Stop
+-6.923059	result|that|
+-6.923059	result||
+-6.923059	retire||
+-6.923059	retreat|we|
+-3.404834	return|I|	-0.08372433
+-6.923059	return|PERSON|
+-6.923059	return|he|home
+-6.923059	return|jury|verdict
+-6.923059	return|myself|
+-6.923059	return|none|
+-6.923059	return|she|home
+-6.923059	return|they|
+-6.923059	return|we|
+-6.923059	return||
+-6.923059	return||home
+-6.923059	reward|we|
+-6.923059	re|we|
+-6.923059	ride|I|
+-6.923059	ride|I|another
+-6.923059	ride|different|
+-6.923059	ride|we|
+-6.923059	ride|we|bike
+-6.923059	ride|we|mile
+-6.923059	ride|you|
+-3.103804	ride||	0.1282884
+-3.404834	ride||NUMBER	0.1274508
+-6.923059	ride||asphalt
+-6.923059	ride||time
+-6.923059	ride||train
+-6.923059	rinse|we|gear
+-6.923059	rip||
+-6.923059	rise|sun|
+-6.923059	rise||
+-6.923059	roadwalk||
+-6.923059	roar||
+-6.923059	roast||dog
+-6.923059	roll|fog|
+-6.923059	roll|she|
+-6.923059	roll|we|
+-3.404834	roll||	0.1274508
+-6.923059	roll||hill
+-6.923059	roll||tent
+-6.923059	rough||it
+-6.923059	ruin|I|experience
+-6.923059	ruin|that|experience
+-6.923059	run|I|
+-6.923059	run|PERSON|
+-6.923059	run|couple|
+-6.923059	run|everyone|
+-6.923059	run|he|
+-6.923059	run|it|
+-6.923059	run|kid|
+-6.923059	run|man|
+-6.923059	run|rain|
+-3.404834	run|that|	0.1274508
+-6.923059	run|they|
+-2.927712	run|we|	0.129688
+-2.626683	run||	0.05368605
+-6.923059	run||electricity
+-6.923059	run||water
+-6.923059	rush|I|
+-6.923059	rush|we|
+-6.923059	rush||
+-3.404834	s'more||	-0.08492333
+-6.923059	sail|we|
+-6.923059	satisfy|I|hobby
+-6.923059	save|I|money
+-6.923059	save||
+-6.923059	save||remainder
+-6.923059	say|&|
+-6.923059	say|Husband|
+-6.923059	say|Husband|nothing
+-2.927712	say|I|	0.2647435
+-6.923059	say|I|try
+-6.923059	say|I|what
+-6.923059	say|LOCATION|
+-6.923059	say|MONEY|
+-3.404834	say|PERSON|	-0.08475224
+-6.923059	say|book|
+-6.923059	say|father|
+-6.923059	say|girl|
+-3.103804	say|he|	-0.006391577
+-6.923059	say|he|bike
+-6.923059	say|husband|
+-3.404834	say|it|	-0.08389581
+-6.923059	say|i|
+-3.404834	say|she|	-0.08458109
+-3.404834	say|that|	-0.08389581
+-6.923059	say|they|
+-6.923059	say|t|
+-6.923059	say|we|
+-6.923059	say|we|goodbye
+-6.923059	say|we|what
+-3.404834	say|who|	-0.006596491
+-2.626683	say||	-0.1611801
+-6.923059	say||date
+-6.923059	say||goodbye
+-6.923059	say||least
+-6.923059	say||loud
+-6.923059	say||something
+-6.923059	say||yes
+-6.923059	say||you
+-6.923059	scan|I|
+-6.923059	scare|I|
+-6.923059	scare|we|
+-6.923059	scare|who|
+-6.923059	scare||
+-6.923059	scatter||
+-6.923059	schedule||
+-6.923059	scout||
+-6.923059	scramble|we|
+-3.103804	scramble||	0.02141352
+-6.923059	scream|I|
+-6.923059	scream|some|
+-3.103804	scream||	-0.1126337
+-6.923059	search|I|area
+-6.923059	search|we|
+-6.923059	search||
+-6.923059	seat||
+-6.923059	seem|I|
+-6.923059	seem|PERSON|
+-6.923059	seem|diver|
+-6.923059	seem|drive|
+-6.923059	seem|fish|
+-6.923059	seem|he|
+-3.103804	seem|it|	0.2639789
+-6.923059	seem|she|
+-6.923059	seem|site|
+-6.923059	seem|some|
+-6.923059	seem|that|
+-6.923059	seem|they|
+-6.923059	seem|this|
+-6.923059	seem|t|
+-6.923059	seem|we|
+-6.923059	seem|what|
+-3.404834	seem|which|	0.1274508
+-3.404834	seem||	0.1274508
+-3.404834	see|I|	0.1274508
+-6.923059	see|I|LOCATION
+-6.923059	see|I|PERSON
+-6.923059	see|I|anything
+-6.923059	see|I|boy
+-6.923059	see|I|fish
+-6.923059	see|I|he
+-6.923059	see|I|it
+-6.923059	see|I|lot
+-6.923059	see|I|shaft
+-6.923059	see|I|shark
+-3.404834	see|I|sign	-0.08114384
+-6.923059	see|I|turtle
+-6.923059	see|I|what
+-6.923059	see|I|which
+-6.923059	see|PERSON|
+-6.923059	see|actually|person
+-6.923059	see|dinner|sight
+-6.923059	see|he|
+-6.923059	see|he|it
+-3.404834	see|i|	-0.08475224
+-6.923059	see|most|end
+-6.923059	see|she|
+-6.923059	see|t|tent
+-2.626683	see|we|	0.05368605
+-6.923059	see|we|PERSON
+-6.923059	see|we|approaching
+-6.923059	see|we|bear
+-3.404834	see|we|deer	0.1274508
+-3.404834	see|we|eel	-0.08492333
+-6.923059	see|we|family
+-6.923059	see|we|fish
+-6.923059	see|we|group
+-6.923059	see|we|it
+-6.923059	see|we|kind
+-6.923059	see|we|load
+-6.923059	see|we|lot
+-6.923059	see|we|monster
+-6.923059	see|we|moose
+-6.923059	see|we|patch
+-6.923059	see|we|person
+-6.923059	see|we|pile
+-6.923059	see|we|place
+-6.923059	see|we|plenty
+-6.923059	see|we|pony
+-6.923059	see|we|set
+-6.923059	see|we|shark
+-6.923059	see|we|sign
+-6.923059	see|we|site
+-6.923059	see|we|they
+-6.923059	see|we|thing
+-6.923059	see|we|thousand
+-6.923059	see|we|ton
+-6.923059	see|we|turtle
+-6.923059	see|we|water
+-6.923059	see|we|what
+-6.923059	see|which|
+-3.404834	see|you|	-0.006596491
+-6.923059	see|you|all
+-6.923059	see|you|bottom
+-6.923059	see|you|ship
+-6.923059	see|you|snow
+-6.923059	see|you|star
+-6.923059	see|you|what
+-2.559736	see||	0.2724585
+-6.923059	see||LOCATION
+-3.404834	see||NUMBER	0.1274508
+-6.923059	see||ORGANIZATION
+-2.927712	see||PERSON	-0.08389582
+-6.923059	see||Whitsett
+-6.923059	see||bear
+-6.923059	see||cloud
+-6.923059	see||dog
+-6.923059	see||everything
+-6.923059	see||fan
+-6.923059	see||fish
+-3.404834	see||friend	-0.006596491
+-6.923059	see||it
+-6.923059	see||lake
+-6.923059	see||lot
+-6.923059	see||moose
+-3.404834	see||mountain	0.1274508
+-6.923059	see||number
+-6.923059	see||people
+-6.923059	see||photo
+-6.923059	see||picture
+-3.404834	see||she	0.1274508
+-6.923059	see||something
+-6.923059	see||stand
+-6.923059	see||star
+-6.923059	see||they
+-6.923059	see||tree
+-6.923059	see||view
+-6.923059	see||we
+-6.923059	see||wildlife
+-6.923059	send|mis-step|
+-6.923059	send|that|
+-6.923059	send||I
+-6.923059	send||MONEY
+-6.923059	send||child
+-6.923059	separate||
+-6.923059	serve||
+-6.923059	settle|I|
+-6.923059	settle|PERSON|
+-6.923059	settle|they|
+-6.923059	settle|we|
+-6.923059	settle|you|
+-6.923059	settle||
+-6.923059	set|I|
+-6.923059	set|I|CAUSE_OF_DEATH
+-6.923059	set|I|we
+-6.923059	set|NUMBER|
+-6.923059	set|PERSON|
+-6.923059	set|camp|
+-6.923059	set|few|
+-6.923059	set|panic|
+-6.923059	set|room|
+-6.923059	set|spot|tent
+-6.923059	set|tent|
+-6.923059	set|they|tent
+-6.923059	set|they|they
+-2.927712	set|we|	0.1485982
+-6.923059	set|we|camp
+-6.923059	set|we|campground
+-6.923059	set|we|everything
+-6.923059	set|we|it
+-6.923059	set|we|ours
+-6.923059	set|we|tent
+-6.923059	set|we|trip
+-6.923059	set|work|
+-2.705864	set||	0.2280651
+-6.923059	set||b
+-6.923059	set||camp
+-6.923059	set||pop
+-6.923059	set||tent
+-6.923059	shake|PERSON|
+-6.923059	shake||
+-6.923059	share|we|habitation
+-6.923059	share||story
+-6.923059	share||thing
+-6.923059	shift||
+-6.923059	shine|sun|
+-6.923059	shine||
+-6.923059	shiver||
+-6.923059	shoot||
+-6.923059	shoot||time
+-6.923059	shower|I|
+-6.923059	shower|everyone|
+-6.923059	shower|we|
+-6.923059	shower|you|
+-6.923059	shower||
+-6.923059	show|I|
+-6.923059	show|I|he
+-6.923059	show|PERSON|
+-6.923059	show|friend|
+-6.923059	show|he|we
+-6.923059	show|it|
+-6.923059	show|mom|
+-6.923059	show|picture|field
+-6.923059	show|picture|line
+-6.923059	show|we|
+-3.404834	show||	-0.08492333
+-6.923059	show||I
+-6.923059	shrug|we|
+-6.923059	shut||
+-6.923059	side||
+-6.923059	sift||
+-6.923059	signal|instructor|
+-6.923059	sign|I|
+-6.923059	sign||
+-6.923059	sign||I
+-6.923059	sing|PERSON|song
+-6.923059	sing|man|
+-6.923059	sink||
+-6.923059	site|I|camp
+-6.923059	sit|I|
+-6.923059	sit|PERSON|
+-6.923059	sit|it|
+-6.923059	sit|she|
+-6.923059	sit|they|
+-3.103804	sit|we|	-0.08097126
+-3.103804	sit||	0.02141352
+-6.923059	sit||magazine
+-6.923059	size||
+-6.923059	skip|PERSON|rock
+-3.404834	skip||	-0.08475224
+-6.923059	skip||PERSON
+-6.923059	skip||it
+-6.923059	slant|it|
+-6.923059	sleep|I|
+-6.923059	sleep|I|ALOT
+-6.923059	sleep|I|bit
+-3.404834	sleep|PERSON|	-0.08492333
+-6.923059	sleep|cabin|NUMBER
+-6.923059	sleep|figure|
+-6.923059	sleep|great|
+-6.923059	sleep|he|
+-6.923059	sleep|i|
+-3.404834	sleep|kid|	-0.08440987
+-6.923059	sleep|place|people
+-6.923059	sleep|she|
+-6.923059	sleep|they|
+-6.923059	sleep|we|
+-6.923059	sleep|who|
+-6.923059	sleep|you|
+-2.559736	sleep||	0.2997927
+-6.923059	sleep||bag
+-6.923059	sleep||end
+-6.923059	sleep||pad
+-6.923059	slide|I|
+-6.923059	slide|caravan|side
+-6.923059	slide||
+-3.404834	slip||	0.1274508
+-6.923059	slither||
+-6.923059	slow||
+-6.923059	slumber||
+-6.923059	smash||borderline
+-6.923059	smell|that|
+-6.923059	smell|we|it
+-6.923059	smile|we|
+-6.923059	smile||
+-6.923059	snap|I|picture
+-6.923059	snap|line|times.
+-6.923059	snap||
+-6.923059	snore||
+-6.923059	snorkele|we|
+-6.923059	snorkele||
+-6.923059	snorkel||
+-6.923059	snuck|we|
+-6.923059	snuff||
+-3.404834	snuggle||	-0.08492333
+-3.103804	soak||	0.1468447
+-6.923059	soar|they|
+-6.923059	sort|we|
+-3.404834	sound|it|	0.1274508
+-6.923059	sound|that|
+-6.923059	sound|that|fun
+-6.923059	sound|that|lot
+-3.404834	sound|they|	0.1274508
+-6.923059	sound||
+-6.923059	space||
+-3.404834	speak||	-0.006596491
+-6.923059	spend|DATE|
+-6.923059	spend|I|
+-6.923059	spend|I|DATE
+-3.404834	spend|I|DURATION	0.1274508
+-6.923059	spend|I|TIME
+-6.923059	spend|I|most
+-6.923059	spend|I|refining
+-6.923059	spend|I|rest
+-6.923059	spend|I|time
+-6.923059	spend|PERSON|NUMBER
+-6.923059	spend|he|
+-6.923059	spend|remainder|
+-2.802774	spend|we|	0.2168705
+-6.923059	spend|we|DATE
+-6.923059	spend|we|DURATION
+-6.923059	spend|we|TIME
+-6.923059	spend|we|camping
+-3.404834	spend|we|half	-0.08492333
+-6.923059	spend|we|lot
+-6.923059	spend|we|part
+-6.923059	spend|we|rest
+-6.923059	spend|we|time
+-6.923059	spend|we|while
+-6.923059	spend||
+-6.923059	spend||DURATION
+-6.923059	spend||TIME
+-6.923059	spend||alot
+-6.923059	spend||camping
+-6.923059	spend||hiking
+-3.404834	spend||time	-0.08458109
+-6.923059	splash||
+-6.923059	split|i|
+-6.923059	split|josh|
+-6.923059	split|kid|
+-6.923059	split|we|
+-6.923059	split|who|
+-6.923059	spook|eerieness|
+-6.923059	spot|I|hanging
+-6.923059	spot||
+-6.923059	spray||tent
+-6.923059	spread||
+-6.923059	spread||tablecloth
+-6.923059	sprinkle|the|
+-6.923059	sprinkle||rain
+-6.923059	stake|we|tent
+-6.923059	stand|I|
+-6.923059	stand|NUMBER|
+-6.923059	stand|PERSON|
+-3.404834	stand|we|	-0.08492333
+-3.404834	stand|you|	-0.006596491
+-3.404834	stand||	-0.08492333
+-6.923059	stare|NUMBER|
+-6.923059	stare|we|
+-6.923059	stare||
+-6.923059	stargaze||
+-6.923059	start|CAUSE_OF_DEATH|
+-6.923059	start|DATE|
+-6.923059	start|DURATION|
+-3.404834	start|I|	-0.08492333
+-6.923059	start|I|trip
+-6.923059	start|JS|
+-6.923059	start|MONEY|
+-6.923059	start|PERSON|
+-6.923059	start|cloud|
+-6.923059	start|guy|
+-6.923059	start|he|
+-3.103804	start|it|	-0.1907895
+-6.923059	start|i|
+-6.923059	start|joy|ORDINAL
+-6.923059	start|kid|
+-6.923059	start|kid|school
+-6.923059	start|knee|
+-6.923059	start|moi|
+-6.923059	start|people|
+-6.923059	start|rain|
+-6.923059	start|she|
+-6.923059	start|sky|
+-3.404834	start|sun|	-0.082522
+-6.923059	start|that|
+-6.923059	start|then|
+-6.923059	start|they|
+-6.923059	start|thing|
+-6.923059	start|tree|
+-6.923059	start|trip|
+-3.103804	start|we|	-0.08269396
+-6.923059	start|we|CAUSE_OF_DEATH
+-6.923059	start|we|descent
+-6.923059	start|we|dinner
+-6.923059	start|we|drive
+-3.404834	start|we|hike	-0.006596491
+-6.923059	start|we|trek
+-6.923059	start|we|trip
+-6.923059	start|work|
+-3.404834	start|you|	-0.08492333
+-2.927712	start||	0.06026706
+-6.923059	start||CAUSE_OF_DEATH
+-6.923059	start||cooking
+-6.923059	start||routine
+-6.923059	star|TIME|
+-6.923059	state||
+-6.923059	stay|Easy|
+-6.923059	stay|I|
+-6.923059	stay|I|everything
+-6.923059	stay|I|most
+-6.923059	stay|NUMBER|
+-6.923059	stay|NUMBER|couple
+-3.103804	stay|PERSON|	-0.08440986
+-6.923059	stay|TIME|
+-6.923059	stay|he|
+-6.923059	stay|it|
+-6.923059	stay|i|
+-6.923059	stay|kid|
+-6.923059	stay|leg|
+-6.923059	stay|m|
+-6.923059	stay|they|
+-3.103804	stay|we|	0.1285679
+-6.923059	stay|who|
+-6.923059	stay|you|
+-2.559736	stay||	0.2968987
+-6.923059	stealth|I|
+-6.923059	stealth||camp
+-6.923059	steal|raiding|food
+-6.923059	step|I|
+-6.923059	step|we|
+-6.923059	step||
+-6.923059	stew|stew|
+-6.923059	stick|I|
+-6.923059	stick|gill|
+-6.923059	stick|they|
+-6.923059	stick|we|
+-6.923059	stick|we|it
+-6.923059	stick||
+-6.923059	sting|PERSON|himself
+-6.923059	sting||
+-6.923059	sting||PERSON
+-6.923059	stink|it|
+-6.923059	stink|they|
+-6.923059	stir||fry
+-6.923059	stock||
+-6.923059	stoke||
+-6.923059	stopped|we|
+-3.404834	stop|I|	0.1274508
+-6.923059	stop|ORGANIZATION|
+-6.923059	stop|TIME|
+-6.923059	stop|he|
+-6.923059	stop|it|
+-6.923059	stop|rain|
+-6.923059	stop|she|
+-6.923059	stop|that|we
+-2.626683	stop|we|	0.2333415
+-6.923059	stop|wind|
+-3.103804	stop||	0.1299684
+-6.923059	stop||time
+-6.923059	stress|I|
+-6.923059	stress|it|
+-6.923059	stretch||
+-6.923059	strike|I|
+-6.923059	strike|muscle|
+-6.923059	string|that|
+-6.923059	strip||
+-6.923059	stroll||
+-6.923059	struggle|I|hill
+-6.923059	struggle|we|
+-6.923059	struggle||
+-6.923059	study||
+-6.923059	stuff/cleaned|camping|house
+-6.923059	stumble|I|
+-6.923059	stumble|PERSON|
+-6.923059	stumble|we|
+-6.923059	suffer|we|rest
+-6.923059	suggest|I|camping
+-6.923059	suggest|PERSON|
+-6.923059	suggest|he|
+-6.923059	suit|Got|
+-6.923059	suit||
+-6.923059	suppose|DATE|
+-6.923059	suppose|I|
+-3.404834	suppose|it|	-0.006596491
+-6.923059	suppose|that|
+-6.923059	suppose|we|
+-6.923059	suppose|you|
+-6.923059	suppose||
+-6.923059	sure?|you|MONEY
+-3.404834	surprise|I|	-0.07872147
+-6.923059	surprise|we|
+-6.923059	surrender|I|dib
+-6.923059	surround|area|
+-6.923059	surround|oak|
+-6.923059	surround|small|
+-6.923059	surround|we|
+-6.923059	survive|I|adventure
+-6.923059	survive|we|
+-6.923059	swamp||park
+-6.923059	swarm||
+-6.923059	swear|I|
+-6.923059	swear||word
+-6.923059	sweep|that|
+-6.923059	swerve|bicyclist|
+-6.923059	swim|I|
+-3.404834	swim|a|	-0.006596491
+-6.923059	swim|shark|
+-6.923059	swim|she|
+-6.923059	swim|they|
+-3.103804	swim|we|	-0.006391577
+-3.404834	swim||	-0.08492333
+-6.923059	switch||
+-6.923059	t-bone||Ash
+-6.923059	tackle||
+-6.923059	tail||
+-6.923059	take|DATE|
+-6.923059	take|Dad|turn
+-3.404834	take|I|	0.1274508
+-6.923059	take|I|PERSON
+-6.923059	take|I|bike
+-6.923059	take|I|chance
+-6.923059	take|I|it
+-6.923059	take|I|kid
+-6.923059	take|I|nap
+-6.923059	take|I|opportunity
+-6.923059	take|I|photo
+-3.404834	take|I|picture	-0.08406723
+-6.923059	take|I|shower
+-6.923059	take|I|southeast
+-6.923059	take|I|tent
+-6.923059	take|I|time
+-6.923059	take|I|trail
+-6.923059	take|I|trip
+-6.923059	take|I|turn
+-6.923059	take|ORGANIZATION|it
+-3.404834	take|PERSON|	-0.08492333
+-6.923059	take|PERSON|Alyssa
+-6.923059	take|PERSON|I
+-6.923059	take|PERSON|PERSON
+-6.923059	take|PERSON|car
+-6.923059	take|PERSON|kayak
+-6.923059	take|PERSON|nap
+-6.923059	take|PERSON|we
+-6.923059	take|TITLE|care
+-6.923059	take|da|tent
+-6.923059	take|drive|DURATION
+-6.923059	take|everyone|shower
+-6.923059	take|girl|tent
+-6.923059	take|he|
+-6.923059	take|he|we
+-6.923059	take|it|
+-6.923059	take|it|DURATION
+-6.923059	take|it|I
+-3.103804	take|it|he	0.1282884
+-6.923059	take|it|mile
+-6.923059	take|it|time
+-3.404834	take|it|we	-0.08079861
+-6.923059	take|it|while
+-6.923059	take|kid|part
+-6.923059	take|nav|I
+-3.404834	take|picture|	-0.08492333
+-6.923059	take|she|picture
+-6.923059	take|that|
+-6.923059	take|that|DURATION
+-6.923059	take|that|we
+-6.923059	take|that|you
+-6.923059	take|they|
+-6.923059	take|trip|
+-6.923059	take|walk|
+-2.927712	take|we|	0.1341972
+-6.923059	take|we|advantage
+-6.923059	take|we|boy
+-6.923059	take|we|break
+-6.923059	take|we|care
+-6.923059	take|we|gear
+-6.923059	take|we|he
+-6.923059	take|we|hike
+-6.923059	take|we|it
+-6.923059	take|we|look
+-6.923059	take|we|nap
+-6.923059	take|we|north
+-6.923059	take|we|photo
+-3.404834	take|we|picture	-0.08372433
+-6.923059	take|we|route
+-6.923059	take|we|run
+-6.923059	take|we|sauna
+-6.923059	take|we|seat
+-6.923059	take|we|shower
+-6.923059	take|we|sister
+-3.404834	take|we|time	-0.08440987
+-3.404834	take|we|trail	0.1274508
+-6.923059	take|we|trip
+-6.923059	take|we|turn
+-6.923059	take|we|walk
+-6.923059	take|we|we
+-6.923059	take|who|they
+-6.923059	take|you|em
+-2.927712	take||	0.06026706
+-3.404834	take||I	-0.08475224
+-6.923059	take||PERSON
+-6.923059	take||SO
+-6.923059	take||boat
+-6.923059	take||break
+-6.923059	take||care
+-6.923059	take||dip
+-3.404834	take||drive	0.1274508
+-6.923059	take||ferry
+-6.923059	take||forever.
+-6.923059	take||he
+-6.923059	take||it
+-6.923059	take||kid
+-6.923059	take||kind
+-3.404834	take||photo	-0.07330909
+-6.923059	take||photograph
+-3.404834	take||picture	-0.08440987
+-6.923059	take||rv
+-6.923059	take||she
+-6.923059	take||shower
+-6.923059	take||they
+-6.923059	take||time
+-6.923059	take||trail
+-6.923059	take||trip
+-6.923059	take||way
+-6.923059	take||we
+-6.923059	take||you
+-3.103804	talk|I|	-0.006391577
+-6.923059	talk|PERSON|
+-6.923059	talk|forcast|
+-6.923059	talk|they|
+-3.404834	talk|we|	-0.08458109
+-6.923059	talk|we|some
+-3.404834	talk||	-0.006596491
+-6.923059	talk||non-stop
+-6.923059	taste|I|
+-6.923059	taste|I|wine
+-6.923059	taste|egg|
+-6.923059	taste|it|
+-6.923059	taste|pancake|
+-6.923059	taste||
+-6.923059	teach|PERSON|
+-6.923059	teach||PERSON
+-6.923059	teach||they
+-6.923059	tear||
+-6.923059	tear||zebra
+-3.404834	tell|I|	0.1274508
+-3.103804	tell|I|PERSON	-0.08320945
+-6.923059	tell|I|he
+-6.923059	tell|I|she
+-6.923059	tell|I|they
+-6.923059	tell|I|what
+-6.923059	tell|I|you
+-6.923059	tell|PERSON|I
+-6.923059	tell|guy|we
+-6.923059	tell|he|
+-6.923059	tell|he|I
+-6.923059	tell|he|we
+-6.923059	tell|i|
+-6.923059	tell|people|we
+-6.923059	tell|ranger|I
+-6.923059	tell|she|I
+-6.923059	tell|she|we
+-6.923059	tell|we|
+-6.923059	tell|we|everyone
+-6.923059	tell|we|he
+-6.923059	tell|we|she
+-6.923059	tell|you|
+-6.923059	tell||
+-6.923059	tell||I
+-6.923059	tell||anything
+-6.923059	tell||he
+-6.923059	tell||she
+-6.923059	tell||story
+-6.923059	tell||they
+-6.923059	tell||this
+-6.923059	tell||we
+-6.923059	tell||you
+-3.404834	tend|I|	-0.08475224
+-6.923059	tent||
+-6.923059	test-drive||
+-6.923059	test||it
+-3.404834	thank||	-0.006596491
+-6.923059	thank||god
+-6.923059	thank||goodness
+-6.923059	that||
+-3.404834	that||MONEY	0.1274508
+-6.923059	that||s
+-6.923059	there|seaweed|MONEY
+-6.923059	they||MONEY
+-6.923059	think|DATE|
+-3.103804	think|I|	0.2639789
+-6.923059	think|I|DURATION
+-6.923059	think|I|MONEY
+-6.923059	think|I|thing
+-6.923059	think|I|what
+-3.103804	think|I|which	-0.1126337
+-6.923059	think|NUMBER|
+-6.923059	think|Odd|
+-6.923059	think|PERSON|
+-6.923059	think|Redneck|
+-6.923059	think|he|
+-6.923059	think|it|
+-3.404834	think|i|	-0.006596491
+-6.923059	think|they|
+-6.923059	think|t|
+-6.923059	think|we|
+-6.923059	think|you|
+-6.923059	think|you|what
+-2.626683	think||	0.1319367
+-6.923059	threaten|it|
+-3.404834	threaten||	-0.08492333
+-6.923059	thrill|PERSON|
+-6.923059	thrill|boy|
+-6.923059	throw|I|
+-3.404834	throw||	-0.08492333
+-6.923059	throw||he
+-6.923059	tie|it|
+-6.923059	tie|side|
+-6.923059	tire|I|
+-6.923059	tire|we|
+-6.923059	tire||
+-6.923059	toast||
+-6.923059	tolerate|you|
+-6.923059	top||bottle
+-6.923059	top||it
+-6.923059	toss||lure
+-6.923059	total|Alyssa|
+-6.923059	touch||
+-6.923059	tour||mile
+-6.923059	tow|we|sawmill
+-6.923059	trail|&|area
+-6.923059	trail|&|bridge
+-6.923059	trail|&|everywhere
+-6.923059	trail|&|part
+-6.923059	trail|&|trail
+-6.923059	trail|campsite|
+-6.923059	trail|hike|
+-6.923059	trail|sidewalk|area
+-6.923059	trail|sidewalk|bridge
+-6.923059	trail|sidewalk|everywhere
+-6.923059	trail|sidewalk|part
+-6.923059	trail|sidewalk|trail
+-6.923059	trail|some|
+-6.923059	trail|the|
+-6.923059	trail|time|
+-6.923059	trail||
+-6.923059	train||
+-6.923059	travel|we|
+-6.923059	travel||
+-6.923059	travel||road
+-6.923059	treat|I|
+-6.923059	treat|we|
+-6.923059	trek||
+-6.923059	trickle||
+-6.923059	trip||
+-6.923059	trust||
+-6.923059	try|Dad|
+-2.705864	try|I|	0.2655094
+-6.923059	try|I|it
+-6.923059	try|PERSON|
+-6.923059	try|he|
+-6.923059	try|i|
+-6.923059	try|they|
+-6.923059	try|we|
+-6.923059	try|we|it
+-6.923059	try|you|
+-2.802774	try||	0.1353319
+-3.404834	try||camping	-0.07872147
+-6.923059	try||hiking
+-3.404834	try||it	0.1274508
+-6.923059	try||pool
+-6.923059	tube|people|
+-6.923059	tumble|you|pretty
+-6.923059	tuned|Stay|MONEY
+-6.923059	turn|DATE|
+-3.404834	turn|I|	-0.006596491
+-3.404834	turn|PERSON|	-0.08492333
+-6.923059	turn|PERSON|NUMBER
+-6.923059	turn|he|
+-6.923059	turn|it|
+-6.923059	turn|it|s
+-3.404834	turn|that|	-0.006596491
+-6.923059	turn|trailer|
+-6.923059	turn|trip|
+-6.923059	turn|weather|
+-3.404834	turn|we|	-0.08492333
+-6.923059	turn|which|
+-6.923059	turn|you|
+-3.103804	turn||	0.1288477
+-6.923059	turn||bee
+-6.923059	twist|I|ankle
+-6.923059	understand|I|
+-6.923059	understand||
+-6.923059	undo||tent
+-6.923059	unload||
+-6.923059	unpack||
+-6.923059	unplug|I|
+-6.923059	unzip||tent
+-6.923059	update|I|post
+-6.923059	update||
+-6.923059	update||folk
+-6.923059	upload|I|lot
+-3.404834	use|I|	-0.006596491
+-6.923059	use|I|bag
+-6.923059	use|I|rice
+-6.923059	use|I|saddlebag
+-6.923059	use|PERSON|
+-3.404834	use|that|	-0.08389581
+-6.923059	use|they|
+-6.923059	use|we|
+-6.923059	use|we|it
+-6.923059	use|we|they
+-6.923059	use|who|
+-6.923059	use|you|
+-6.923059	use||
+-6.923059	use||it
+-6.923059	use||onsite
+-6.923059	use||shower
+-6.923059	use||toilet
+-6.923059	utilize||ubiquitous
+-6.923059	venture|we|
+-6.923059	venture||
+-6.923059	verb||
+-3.404834	view||	-0.006596491
+-6.923059	visit|I|LOCATION
+-6.923059	visit|creature|
+-6.923059	visit|we|
+-3.404834	visit|we|LOCATION	0.1274508
+-6.923059	visit|we|light
+-3.404834	visit||	0.1274508
+-6.923059	visit||LOCATION
+-6.923059	visit||PERSON
+-6.923059	visit||he
+-6.923059	visit||they
+-6.923059	volunteer||
+-6.923059	vow||
+-6.923059	wade|I|lot
+-6.923059	wade|we|
+-3.404834	wade||	0.1274508
+-6.923059	wail|DURATION|
+-3.103804	wait|I|	-0.08440986
+-6.923059	wait|PERSON|
+-6.923059	wait|customer|
+-6.923059	wait|dinner|I
+-6.923059	wait|he|
+-6.923059	wait|kid|
+-6.923059	wait|she|
+-3.404834	wait|they|	0.1274508
+-3.404834	wait|we|	0.1274508
+-3.103804	wait||	-0.002066106
+-6.923059	waken||
+-3.404834	wake|I|	-0.07330909
+-6.923059	wake|I|TIME
+-6.923059	wake|PERSON|
+-6.923059	wake|PERSON|I
+-6.923059	wake|moring|
+-6.923059	wake|she|
+-2.927712	wake|we|	0.06673868
+-6.923059	wake|we|cold
+-6.923059	wake|you|
+-3.103804	wake||	0.1282884
+-6.923059	wake||I
+-6.923059	wake||he
+-6.923059	walk|I|
+-6.923059	walk|I|trail
+-6.923059	walk|PERSON|
+-6.923059	walk|PERSON|beach
+-6.923059	walk|he|
+-6.923059	walk|it|
+-6.923059	walk|i|
+-6.923059	walk|people|
+-6.923059	walk|she|
+-6.923059	walk|they|
+-6.923059	walk|they|way
+-3.404834	walk|we|	0.1274508
+-6.923059	walk|we|mile
+-6.923059	walk|we|path
+-6.923059	walk|we|trail
+-6.923059	walk|you|
+-2.802774	walk||	0.2658929
+-6.923059	walk||klick
+-6.923059	walk||loop
+-6.923059	walk||rain.
+-6.923059	walk||road
+-6.923059	wander|I|
+-6.923059	wander|cousin|all
+-6.923059	wander|we|
+-3.404834	wander||	-0.006596491
+-6.923059	want|Harry|
+-2.802774	want|I|	0.08214636
+-6.923059	want|I|PERSON
+-6.923059	want|I|nothing
+-6.923059	want|K|
+-6.923059	want|PERSON|
+-6.923059	want|boy|
+-6.923059	want|coffee|cocoa
+-6.923059	want|everyone|
+-6.923059	want|he|
+-6.923059	want|i|
+-6.923059	want|kid|
+-6.923059	want|kid|cocoa
+-3.103804	want|she|	-0.08062589
+-6.923059	want|they|
+-6.923059	want|they|money
+-3.103804	want|t|	0.02141352
+-2.927712	want|we|	0.06194603
+-6.923059	want|we|NUMBER
+-6.923059	want|we|it
+-6.923059	want|we|what
+-6.923059	want|who|
+-6.923059	want|you|
+-6.923059	want|you|DATE
+-6.923059	want|you|nothing
+-6.923059	want||
+-3.103804	warm||	-0.07854792
+-3.404834	warn||	-0.006596491
+-6.923059	wash|t|floor
+-6.923059	wash||
+-6.923059	wash||dish
+-6.923059	wasn|I|
+-6.923059	wasn|I|MONEY
+-3.404834	wasn|I|t	-0.006596491
+-3.404834	wasn|it|MONEY	0.1274508
+-6.923059	wasn|it|t
+-6.923059	wasn|she|home
+-6.923059	wasn|that|t
+-6.923059	wasn|weather|t
+-3.404834	wasn||MONEY	0.1274508
+-6.923059	wasn||t
+-6.923059	waste||banana
+-3.404834	watch|I|	0.1274508
+-6.923059	watch|I|it
+-6.923059	watch|I|playing
+-6.923059	watch|PERSON|boy
+-6.923059	watch|josh|half
+-6.923059	watch|tent|movie
+-3.404834	watch|we|	0.1274508
+-6.923059	watch|we|roll
+-3.404834	watch||	-0.08423859
+-6.923059	watch||experience
+-6.923059	watch||movie
+-6.923059	watch||sun
+-3.404834	watch||sunrise	-0.006596491
+-3.404834	watch||sunset	-0.08475224
+-6.923059	watch||they
+-6.923059	water||
+-6.923059	water||weed
+-6.923059	wear|I|
+-6.923059	wear|trip|you
+-3.404834	wear||	0.1274508
+-6.923059	week|some|
+-6.923059	welcome||
+-6.923059	weren|PERSON|t
+-6.923059	weren|arrived.|camper
+-6.923059	weren|we|t
+-6.923059	we|PERSON|MONEY
+-6.923059	we|calorie|need
+-3.404834	we|that|MONEY	-0.006596491
+-6.923059	we|t|MONEY
+-6.923059	we||
+-2.802774	we||MONEY	0.2153359
+-6.923059	whine|I|
+-6.923059	whine|we|
+-6.923059	whine||
+-6.923059	whisper||
+-6.923059	whistle|the|
+-6.923059	win.||
+-3.404834	wind||	0.1274508
+-6.923059	win|I|
+-6.923059	win|I|game
+-6.923059	win|PERSON|award
+-6.923059	win|female|
+-6.923059	wipe|kid|
+-6.923059	wish|I|
+-6.923059	wish|I|I
+-6.923059	wish|you|
+-6.923059	wish||
+-6.923059	witness|I|
+-6.923059	wonder|I|
+-6.923059	wonder|PERSON|
+-6.923059	wonder||
+-6.923059	work|I|
+-6.923059	work|PERSON|
+-6.923059	work|body|
+-6.923059	work|he|
+-6.923059	work|he|what
+-3.404834	work|it|	-0.08131635
+-6.923059	work|it|cabin
+-6.923059	work|it|time
+-6.923059	work|they|
+-6.923059	work|we|
+-6.923059	work|which|
+-6.923059	work|which|fine
+-6.923059	work|who|
+-3.103804	work||	0.02141352
+-6.923059	work||MONEY
+-6.923059	worry|I|
+-3.404834	worry|PERSON|	0.1274508
+-6.923059	worry|t|
+-3.404834	worry|we|	-0.08475224
+-3.404834	worry||	0.1274508
+-6.923059	wouldn|we|MONEY
+-6.923059	wouldn|you|MONEY
+-6.923059	would|it|MONEY
+-6.923059	would|we|MONEY
+-6.923059	wrap|that|
+-6.923059	wrap||
+-6.923059	wreck|I|
+-6.923059	wreck||
+-6.923059	wrestle|I|bear
+-6.923059	write|I|
+-6.923059	write|I|this
+-6.923059	write|she|
+-3.404834	write||	0.1274508
+-6.923059	yeah||
+-3.404834	yell|I|	-0.08355277
+-6.923059	yell|some|
+-6.923059	yell|we|
+-3.404834	yell||	-0.08286586
+-6.923059	yet?|we|MONEY
+-6.923059	you|it|front
+-6.923059	you|that|MONEY
+-6.923059	you||MONEY
+-3.404834	zip||	-0.08458109
+-6.923059	|meaning|MONEY
+-6.923059	||
+-6.923059	||MONEY
+
+\2-grams:
+-0.5642715	<s> <unk>
+-2.092159	<s> be|site|
+-2.092159	<s> be|we|
+-0.8552343	<s> be||
+-2.092159	<s> do|PERSON|
+-2.092159	<s> do||
+-2.092159	<s> get|I|
+-2.092159	<s> get|kid|
+-2.092159	<s> go|I|camping
+-1.489911	<s> have||
+-2.092159	<s> hike|I|
+-2.092159	<s> spend|we|
+-2.092159	<s> we||MONEY
+-2.038311	<unk> </s>
+-0.3724174	<unk> <unk>
+-3.74229	<unk> accord||
+-3.74229	<unk> agree|PERSON|
+-3.74229	<unk> arrive|we|
+-3.74229	<unk> ask|I|
+-3.74229	<unk> bang||
+-3.74229	<unk> beam||
+-3.74229	<unk> become|I|
+-3.74229	<unk> become||
+-3.74229	<unk> begin|I|
+-3.140042	<unk> be|CAUSE_OF_DEATH|
+-3.140042	<unk> be|I|
+-3.74229	<unk> be|LOCATION|
+-3.74229	<unk> be|camper|
+-3.74229	<unk> be|he|
+-3.74229	<unk> be|hotel|
+-3.74229	<unk> be|house|
+-2.505365	<unk> be|it|
+-3.74229	<unk> be|it|what
+-3.74229	<unk> be|life|
+-3.74229	<unk> be|lot|
+-3.74229	<unk> be|nothing|
+-3.74229	<unk> be|no|
+-3.74229	<unk> be|part|
+-3.74229	<unk> be|plenty|
+-3.74229	<unk> be|room|
+-3.74229	<unk> be|sign|
+-3.74229	<unk> be|space|
+-3.74229	<unk> be|stop|
+-2.675859	<unk> be|that|
+-2.675859	<unk> be|time|
+-3.74229	<unk> be|toilet|
+-2.505365	<unk> be|we|
+-3.74229	<unk> be|which|
+-0.7520043	<unk> be||
+-3.74229	<unk> blogg||
+-3.74229	<unk> bring||
+-3.74229	<unk> build||CAUSE_OF_DEATH
+-3.74229	<unk> buy|we|
+-3.74229	<unk> call||
+-3.74229	<unk> call||it
+-3.140042	<unk> camp||
+-3.74229	<unk> catch||
+-3.74229	<unk> celebrate||
+-3.74229	<unk> clean||it
+-3.74229	<unk> climb|we|
+-2.675859	<unk> climb||
+-3.74229	<unk> come|I|
+-3.74229	<unk> come|TIME|
+-3.74229	<unk> come|we|
+-3.74229	<unk> come|you|
+-3.74229	<unk> come||
+-3.140042	<unk> continue|I|
+-3.74229	<unk> cook|we|
+-3.74229	<unk> couldn|I|MONEY
+-3.74229	<unk> crawl||
+-3.74229	<unk> cross|we|
+-3.74229	<unk> cross||
+-3.74229	<unk> cry||
+-2.675859	<unk> decide|I|
+-3.74229	<unk> decide|they|
+-3.140042	<unk> decide|we|
+-3.74229	<unk> decide||
+-3.74229	<unk> desert||
+-3.140042	<unk> didn|I|MONEY
+-3.74229	<unk> discover|I|
+-3.74229	<unk> dive|we|
+-3.74229	<unk> don|I|MONEY
+-3.74229	<unk> do|NUMBER|
+-3.140042	<unk> do|we|
+-3.74229	<unk> do|what|
+-1.913372	<unk> do||
+-3.74229	<unk> drive|we|
+-3.74229	<unk> drive||
+-3.140042	<unk> drop|we|
+-3.74229	<unk> eat|I|
+-3.74229	<unk> eat|we|lunch
+-3.74229	<unk> enjoy||
+-3.74229	<unk> enjoy||it
+-3.74229	<unk> enter|we|
+-3.140042	<unk> exhaust||
+-3.74229	<unk> explore||
+-3.74229	<unk> fail|I|
+-3.74229	<unk> fall|that|
+-3.74229	<unk> fall|we|
+-3.74229	<unk> fall||
+-2.675859	<unk> feel|we|
+-3.74229	<unk> fill||
+-3.74229	<unk> find|I|
+-3.74229	<unk> find|we|
+-3.74229	<unk> finish|I|
+-3.74229	<unk> flow|that|
+-3.74229	<unk> get|I|
+-3.74229	<unk> get|I|home
+-3.74229	<unk> get|they|
+-2.089463	<unk> get|we|
+-3.74229	<unk> get|you|
+-2.699321	<unk> get||
+-2.675859	<unk> go|I|
+-3.74229	<unk> go|kid|
+-3.74229	<unk> go|people|
+-3.74229	<unk> go|she|
+-2.699321	<unk> go|we|
+-3.74229	<unk> go|which|
+-2.505365	<unk> go||
+-3.74229	<unk> go||camping
+-3.74229	<unk> guess|I|
+-3.74229	<unk> hammer||
+-3.74229	<unk> hang|I|
+-3.74229	<unk> happen|it|
+-3.74229	<unk> happen||
+-2.505365	<unk> have|I|
+-3.74229	<unk> have|I|moment
+-3.74229	<unk> have|it|
+-3.74229	<unk> have|i|
+-3.140042	<unk> have|they|
+-3.74229	<unk> have|we|
+-3.74229	<unk> have|we|DURATION
+-3.74229	<unk> have|we|NUMBER
+-3.140042	<unk> have|we|room
+-3.74229	<unk> have|we|shower
+-1.670334	<unk> have||
+-3.74229	<unk> head|I|
+-3.74229	<unk> head|PERSON|
+-1.992553	<unk> head|we|
+-3.74229	<unk> head||
+-3.74229	<unk> hear|I|
+-3.74229	<unk> help||
+-3.74229	<unk> hike|we|
+-3.140042	<unk> hike||
+-3.74229	<unk> hit|we|
+-3.74229	<unk> hope|I|
+-3.74229	<unk> include||
+-3.74229	<unk> it||MONEY
+-3.74229	<unk> keep||
+-3.140042	<unk> know|I|
+-3.74229	<unk> know|we|
+-3.140042	<unk> know|who|
+-3.74229	<unk> leave|I|LOCATION
+-3.74229	<unk> leave|they|
+-3.140042	<unk> leave||
+-3.74229	<unk> let|they|
+-3.74229	<unk> let||
+-3.74229	<unk> lighten||
+-3.74229	<unk> like|I|
+-3.140042	<unk> like|you|
+-3.74229	<unk> live|who|
+-3.74229	<unk> look|PERSON|
+-2.675859	<unk> look|it|
+-3.74229	<unk> look|she|
+-3.74229	<unk> look|they|
+-3.74229	<unk> look|we|
+-3.74229	<unk> look|you|
+-2.505365	<unk> look||
+-3.74229	<unk> love|I|
+-3.74229	<unk> love|I|SET
+-3.74229	<unk> make|I|pancake
+-3.74229	<unk> make|it|
+-3.74229	<unk> make|we|
+-3.74229	<unk> make|we|coffee
+-3.74229	<unk> make|we|egg
+-3.140042	<unk> make|we|it
+-3.74229	<unk> make|which|
+-3.74229	<unk> make||it
+-3.74229	<unk> mean|that|
+-3.74229	<unk> mean||
+-3.74229	<unk> move|I|
+-3.74229	<unk> move|we|
+-3.74229	<unk> move||
+-3.140042	<unk> offer||
+-3.74229	<unk> pack|we|
+-3.74229	<unk> pee||
+-3.74229	<unk> pick|we|
+-3.74229	<unk> pick||PERSON
+-3.74229	<unk> place||
+-3.74229	<unk> plan|I|
+-3.74229	<unk> plan||
+-3.140042	<unk> play|we|
+-3.140042	<unk> play||
+-3.74229	<unk> please||
+-3.74229	<unk> poke|I|
+-3.74229	<unk> post|we|
+-3.74229	<unk> post||
+-3.74229	<unk> pour||rain
+-3.74229	<unk> rain|it|
+-3.74229	<unk> read|I|
+-3.74229	<unk> read||
+-3.74229	<unk> relax|we|
+-3.74229	<unk> remember||
+-3.74229	<unk> return|I|
+-3.74229	<unk> run|that|
+-3.140042	<unk> run||
+-3.74229	<unk> say|I|
+-3.140042	<unk> say|he|
+-3.74229	<unk> say|it|
+-3.74229	<unk> say|who|
+-2.675859	<unk> say||
+-3.74229	<unk> scream||
+-3.74229	<unk> seem|it|
+-3.74229	<unk> seem||
+-2.675859	<unk> see|we|
+-2.505365	<unk> see||
+-3.74229	<unk> see||NUMBER
+-3.74229	<unk> see||mountain
+-3.74229	<unk> set|we|
+-3.140042	<unk> set||
+-3.74229	<unk> show||
+-3.74229	<unk> sit||
+-3.74229	<unk> snuggle||
+-3.74229	<unk> soak||
+-3.74229	<unk> sound|they|
+-3.74229	<unk> spend|we|
+-3.74229	<unk> start|it|
+-3.74229	<unk> start|sun|
+-3.74229	<unk> start|we|
+-3.74229	<unk> start|we|hike
+-3.74229	<unk> stay|we|
+-3.74229	<unk> stop|I|
+-3.140042	<unk> stop|we|
+-3.74229	<unk> stop||
+-3.74229	<unk> swim||
+-3.140042	<unk> take|it|he
+-3.74229	<unk> take|we|
+-3.74229	<unk> take|we|time
+-3.74229	<unk> take|we|trail
+-3.140042	<unk> take||
+-3.74229	<unk> take||drive
+-3.74229	<unk> talk|I|
+-3.74229	<unk> talk|we|
+-3.74229	<unk> tell|I|
+-3.74229	<unk> tell|I|PERSON
+-3.74229	<unk> thank||
+-3.74229	<unk> that||MONEY
+-3.74229	<unk> think|I|
+-3.140042	<unk> think|I|which
+-3.140042	<unk> think||
+-3.74229	<unk> throw||
+-3.140042	<unk> try|I|
+-3.140042	<unk> try||
+-3.74229	<unk> try||it
+-3.74229	<unk> turn|PERSON|
+-3.74229	<unk> turn|that|
+-3.74229	<unk> turn||
+-3.74229	<unk> view||
+-3.74229	<unk> visit||
+-3.74229	<unk> wade||
+-3.74229	<unk> wait|I|
+-3.74229	<unk> wait|they|
+-3.74229	<unk> wait||
+-2.675859	<unk> wake|we|
+-3.74229	<unk> walk|we|
+-3.74229	<unk> want|we|
+-3.74229	<unk> watch|I|
+-3.74229	<unk> watch|we|
+-3.74229	<unk> watch||
+-3.140042	<unk> we||MONEY
+-3.74229	<unk> worry|we|
+-0.7497363	accord|| be||
+-1.050766	agree|I| <unk>
+-1.050766	agree|I| do||
+-0.7497363	agree|PERSON| agree|I|
+-0.7497363	amaze|I| be|car|
+-0.7497363	arrive|they| come|PERSON|
+-1.050766	arrive|we| find||we
+-1.050766	arrive|we| go||MONEY
+-0.7497363	ask|I| be||
+-0.7497363	assume|we| be|NUMBER|
+-0.7497363	backtrack|| find|we|spot
+-0.7497363	bang|| <unk>
+-0.7497363	beam|| run||
+-0.7497363	beat|| be|part|
+-0.7497363	become|I| be|experience|
+-1.226858	become|| <unk>
+-1.226858	become|| be|it|
+-1.226858	become|| slip||
+-0.4485185	begin|I| think||
+-1.226858	be|CAUSE_OF_DEATH| <unk>
+-1.226858	be|CAUSE_OF_DEATH| build|we|
+-1.226858	be|CAUSE_OF_DEATH| remember|I|
+-0.7655553	be|I| <unk>
+-1.261432	be|I| be||
+-1.86368	be|I| figure|I|
+-1.86368	be|I| find|we|
+-1.86368	be|I| have||
+-1.86368	be|I| know|she|
+-1.86368	be|I| make|I|
+-1.86368	be|I| start|you|
+-1.050766	be|LOCATION| be|PERSON|
+-1.050766	be|LOCATION| come||
+-0.7497363	be|MISC| <unk>
+-0.7497363	be|NUMBER| be||
+-0.7497363	be|ORGANIZATION| move|we|
+-0.6246097	be|PERSON| <unk>
+-1.226858	be|PERSON| be|I|
+-1.050766	be|all| <unk>
+-1.050766	be|all| eat||
+-0.7497363	be|camper| wake||
+-1.050766	be|car| do||
+-1.050766	be|car| drive|I|
+-0.7497363	be|experience| borrow||
+-0.7497363	be|food| be|they|
+-0.7497363	be|guy| sit||
+-0.7497363	be|he| <unk>
+-0.7497363	be|hotel| pull|we|
+-0.7497363	be|house| run||
+-2.005009	be|it| </s>
+-0.4771213	be|it| <unk>
+-2.005009	be|it| begin|I|
+-2.005009	be|it| be|I|
+-0.9385785	be|it| be||
+-2.005009	be|it| find||tent
+-2.005009	be|it| go|she|
+-2.005009	be|it| go|we|
+-2.005009	be|it| have|I|
+-2.005009	be|it| have||
+-2.005009	be|it| make|we|
+-0.7497363	be|it|what keep||
+-1.050766	be|life| <unk>
+-1.050766	be|life| be||
+-1.226858	be|lot| <unk>
+-1.226858	be|lot| be||
+-1.226858	be|lot| giggle||
+-0.7497363	be|nothing| <unk>
+-1.050766	be|no| <unk>
+-1.050766	be|no| sleep||
+-0.4485185	be|part| <unk>
+-0.7497363	be|people| <unk>
+-0.7497363	be|plenty| <unk>
+-0.7497363	be|room| <unk>
+-0.7497363	be|she| <unk>
+-1.050766	be|sign| <unk>
+-1.050766	be|sign| warn||
+-0.7497363	be|site| be||
+-0.7497363	be|space| <unk>
+-0.6246097	be|stop| be||
+-1.226858	be|stop| have||
+-0.7495484	be|that| <unk>
+-1.351796	be|that| do|we|what
+-1.351796	be|that| say|PERSON|
+-0.7497363	be|they| go|guy|
+-0.7497363	be|thing| decide|PERSON|
+-1.351796	be|time| <unk>
+-1.351796	be|time| come||
+-1.351796	be|time| die|we|
+-1.351796	be|time| have|we|
+-0.7497363	be|toilet| be||
+-0.7497363	be|trail| decide|we|
+-0.7497363	be|way| <unk>
+-0.7655553	be|we| <unk>
+-1.86368	be|we| be|it|
+-1.86368	be|we| be|sign|
+-1.86368	be|we| be|we|
+-1.261432	be|we| be||
+-1.86368	be|we| keep|I|
+-1.86368	be|we| remind||I
+-1.86368	be|we| tend|I|
+-0.7497363	be|which| <unk>
+-1.050766	be|who| be|PERSON|
+-1.050766	be|who| have|I|
+-2.136061	be|| </s>
+-0.3953626	be|| <unk>
+-3.372986	be|| amaze|I|
+-3.372986	be|| assume|we|
+-3.372986	be|| beat||
+-3.372986	be|| be|I|
+-3.372986	be|| be|PERSON|
+-2.274861	be|| be|it|
+-3.372986	be|| be|lot|
+-3.372986	be|| be|no|
+-3.372986	be|| be|we|
+-0.8828866	be|| be||
+-3.372986	be|| camp|we|
+-3.372986	be|| camp||
+-3.372986	be|| climb|we|
+-3.372986	be|| come|DATE|
+-3.372986	be|| decide|I|
+-3.372986	be|| decide|PERSON|
+-3.372986	be|| decide|we|
+-3.372986	be|| decide||
+-3.372986	be|| die|I|
+-3.372986	be|| don|you|MONEY
+-3.372986	be|| do|all|
+-1.544068	be|| do||
+-3.372986	be|| do||something
+-3.372986	be|| drive|we|
+-3.372986	be|| drive|we|DURATION
+-2.274861	be|| drive||
+-3.372986	be|| eat|we|
+-3.372986	be|| embark|we|
+-3.372986	be|| excite|we|
+-3.372986	be|| expect|I|
+-3.372986	be|| feel|I|
+-3.372986	be|| feel|we|
+-3.372986	be|| fill|it|
+-3.372986	be|| fill||
+-3.372986	be|| gear|we|
+-3.372986	be|| get|PERSON|
+-2.306555	be|| get|it|
+-2.136061	be|| get|we|
+-1.669007	be|| get||
+-3.372986	be|| get||gear
+-2.770738	be|| go|I|
+-3.372986	be|| go|sun|
+-3.372986	be|| go|they|
+-2.306555	be|| go|we|
+-3.372986	be|| go|we|fishing
+-3.372986	be|| go|what|
+-3.372986	be|| go|who|
+-2.770738	be|| go||
+-3.372986	be|| go||camping
+-3.372986	be|| greet|we|
+-3.372986	be|| guess|I|
+-3.372986	be|| happen|what|
+-3.372986	be|| have|PERSON|s'more
+-3.372986	be|| have|we|
+-2.770738	be|| have|we|time
+-1.477121	be|| have||
+-3.372986	be|| have||room
+-2.306555	be|| head|we|
+-3.372986	be|| head||home
+-3.372986	be|| hear|we|
+-3.372986	be|| help|he|
+-3.372986	be|| hike|we|
+-3.372986	be|| hike||
+-3.372986	be|| hope|I|
+-3.372986	be|| imagine|you|
+-3.372986	be|| imagine||
+-3.372986	be|| impress|I|
+-3.372986	be|| include||
+-3.372986	be|| it||s
+-3.372986	be|| know||
+-3.372986	be|| laugh|I|
+-3.372986	be|| leave|we|
+-2.770738	be|| leave|we|LOCATION
+-2.770738	be|| leave||
+-3.372986	be|| let|we|
+-2.770738	be|| let||
+-3.372986	be|| like|I|it
+-3.372986	be|| listen|we|
+-3.372986	be|| listen||
+-3.372986	be|| live||
+-2.306555	be|| look|I|
+-3.372986	be|| look|PERSON|
+-2.770738	be|| look|it|
+-3.372986	be|| look|you|
+-2.770738	be|| look||
+-3.372986	be|| lose||
+-3.372986	be|| make|we|dinner
+-3.372986	be|| make|we|trip
+-3.372986	be|| mention||
+-3.372986	be|| pack||
+-3.372986	be|| play|kid|
+-3.372986	be|| put||tent
+-3.372986	be|| rain|it|
+-3.372986	be|| read|I|
+-3.372986	be|| realize|we|
+-2.770738	be|| ride||
+-3.372986	be|| s'more||
+-3.372986	be|| say|I|
+-3.372986	be|| see|we|deer
+-3.372986	be|| see|you|
+-3.372986	be|| see||PERSON
+-3.372986	be|| see||she
+-3.372986	be|| set|we|
+-3.372986	be|| sleep||
+-3.372986	be|| spend|I|DURATION
+-3.372986	be|| stand|we|
+-3.372986	be|| stand||
+-3.372986	be|| start|it|
+-3.372986	be|| start||
+-3.372986	be|| suppose|it|
+-3.372986	be|| surprise|I|
+-3.372986	be|| swim|we|
+-3.372986	be|| take|I|
+-3.372986	be|| take|picture|
+-3.372986	be|| take|we|
+-3.372986	be|| take|we|picture
+-3.372986	be|| talk|I|
+-3.372986	be|| talk||
+-3.372986	be|| tell|I|PERSON
+-3.372986	be|| think||
+-3.372986	be|| use|I|
+-3.372986	be|| use|that|
+-3.372986	be|| wait|we|
+-3.372986	be|| wait||
+-3.372986	be|| wake|I|
+-3.372986	be|| walk||
+-2.770738	be|| want|I|
+-3.372986	be|| want|she|
+-3.372986	be|| we|that|MONEY
+-3.372986	be|| work||
+-3.372986	be|| worry|PERSON|
+-3.372986	be|| zip||
+-0.7497363	blogg|| think|I|
+-0.7497363	borrow|| be||
+-0.7497363	bother|t|I hadn|I|MONEY
+-0.7497363	bring|| be||
+-0.7497363	build|we| be|lot|
+-0.7497363	build||CAUSE_OF_DEATH be||
+-0.7497363	buy|we| do|PERSON|
+-0.7497363	call|| <unk>
+-0.7497363	call||it <unk>
+-0.7497363	camp|we| <unk>
+-0.9925865	camp|| <unk>
+-1.594834	camp|| arrive|we|
+-0.9925865	camp|| be||
+-1.594834	camp|| have|we|campfire
+-1.594834	camp|| make||
+-0.7497363	camp||time see|we|
+-0.7497363	care|we| be||
+-0.7497363	carry||everything we||MONEY
+-0.7497363	carry||it be||
+-0.7497363	catch|| <unk>
+-0.7497363	celebrate|| feel|I|
+-0.7497363	change|we| be|it|
+-0.7497363	chat|| <unk>
+-0.4485185	clean||it <unk>
+-0.7497363	climb|I| <unk>
+-1.050766	climb|we| <unk>
+-1.050766	climb|we| sleep||
+-1.226858	climb|| <unk>
+-1.226858	climb|| be|MISC|
+-1.226858	climb|| go|we|
+-0.7497363	come|DATE| look||
+-0.7497363	come|I| move|we|
+-0.7497363	come|PERSON| <unk>
+-0.7497363	come|TIME| be|I|
+-0.7497363	come|she| wear||
+-1.050766	come|we| find||place
+-1.050766	come|we| stop|we|
+-0.7497363	come|you| cross||LOCATION
+-1.226858	come|| go|we|
+-1.226858	come|| prepare||
+-1.226858	come|| take||
+-0.7497363	concern|| <unk>
+-0.7497363	consider|| cover||
+-1.050766	continue|I| <unk>
+-1.050766	continue|I| have||
+-0.7497363	cook|we| be||
+-0.4485185	couldn|I|MONEY <unk>
+-1.226858	cover|| <unk>
+-1.226858	cover|| be||
+-1.226858	cover|| say||
+-0.7497363	crawl|| decide|we|
+-0.7497363	cross|we| <unk>
+-0.7497363	cross|| be||
+-0.7497363	cross||LOCATION follow||
+-0.7497363	cry|| be||
+-1.101731	decide|I| <unk>
+-1.703979	decide|I| be||
+-1.703979	decide|I| camp||
+-1.703979	decide|I| eat||lunch
+-1.703979	decide|I| give||it
+-1.703979	decide|I| have||
+-1.703979	decide|I| pull||
+-1.703979	decide|I| try|I|
+-1.050766	decide|PERSON| decide|I|
+-1.050766	decide|PERSON| do||
+-0.7497363	decide|they| <unk>
+-0.5128117	decide|we| <unk>
+-1.749736	decide|we| be||
+-1.749736	decide|we| drive||
+-1.749736	decide|we| hike||
+-1.749736	decide|we| stay||
+-1.749736	decide|we| try||camping
+-1.749736	decide|we| watch||sunrise
+-1.050766	decide|| <unk>
+-1.050766	decide|| drive||mile
+-0.7497363	desert|| decide|I|
+-0.4485185	didn|I|MONEY want|t|
+-0.7497363	didn|it|MONEY bother|t|I
+-0.7497363	die|I| <unk>
+-0.7497363	die|we| happen|which|
+-0.7497363	discover|I| be||
+-1.050766	dive|we| be||
+-1.050766	dive|we| see|we|eel
+-0.7497363	doesn|it|MONEY <unk>
+-0.7497363	don|I|MONEY <unk>
+-0.7497363	don|I|t <unk>
+-0.7497363	don|you|MONEY <unk>
+-0.7497363	down|PERSON| wander||
+-0.7497363	do|I| be||
+-0.7497363	do|NUMBER| mention|I|
+-0.6246097	do|PERSON| <unk>
+-1.226858	do|PERSON| do|PERSON|
+-0.7497363	do|all| do|he|
+-0.7497363	do|he| be||
+-0.7497363	do|she| move|I|
+-0.7497363	do|that| hang|we|
+-1.050766	do|we| <unk>
+-1.050766	do|we| be||
+-0.7497363	do|we|what go|we|camping
+-0.7497363	do|what| <unk>
+-0.225779	do|| <unk>
+-2.317938	do|| care|we|
+-2.317938	do|| come|she|
+-2.317938	do|| decide|I|
+-2.317938	do|| get|we|
+-2.317938	do|| get|you|
+-2.317938	do|| have|it|
+-2.317938	do|| have|it|electricity
+-2.317938	do|| have|we|
+-2.317938	do|| know|I|
+-2.317938	do|| like|PERSON|
+-2.317938	do|| occur|it|
+-2.317938	do|| remember|I|
+-2.317938	do|| seem|it|
+-2.317938	do|| sleep||
+-2.317938	do|| want|we|
+-0.7497363	do||something be||
+-0.7497363	drink|we|wine <unk>
+-0.7497363	drive|I| <unk>
+-0.7497363	drive|he| get|PERSON|CAUSE_OF_DEATH
+-0.8464584	drive|we| <unk>
+-1.448706	drive|we| be||
+-1.448706	drive|we| have|we|bit
+-1.448706	drive|we| hike|we|
+-0.7497363	drive|we|DURATION <unk>
+-0.7497363	drive|we|home </s>
+-0.1760913	drive|| <unk>
+-1.703979	drive|| have||
+-1.703979	drive|| stop|we|
+-1.703979	drive|| wasn|I|t
+-1.050766	drive||mile <unk>
+-1.050766	drive||mile be|car|
+-1.050766	drop|we| consider||
+-1.050766	drop|we| start|we|
+-0.7497363	eat|I| <unk>
+-1.226858	eat|we| <unk>
+-0.6246097	eat|we| be||
+-0.7497363	eat|we|lunch spend|we|
+-0.7497363	eat|| get||water
+-0.7497363	eat||lunch see|I|
+-0.7497363	embark|we| <unk>
+-0.7497363	end|it| feel|it|
+-0.6246097	enjoy|I| <unk>
+-1.226858	enjoy|I| soak||
+-0.7497363	enjoy|we| have||
+-0.7497363	enjoy|we|scenery <unk>
+-0.7497363	enjoy|| </s>
+-0.7497363	enjoy||it <unk>
+-0.7497363	enjoy||view go|we|
+-0.7497363	enter|we| be|LOCATION|
+-0.7497363	enter|we|water <unk>
+-0.7497363	excite|we| be||
+-1.050766	exhaust|| <unk>
+-1.050766	exhaust|| be||
+-0.7497363	expect|I| do||
+-0.7497363	explore|| <unk>
+-0.7497363	fail|I| get||
+-0.7497363	fall|that| <unk>
+-0.7497363	fall|we| take|I|picture
+-1.226858	fall|| be||
+-1.226858	fall|| go||
+-1.226858	fall|| have||
+-1.050766	feel|I| be||
+-1.050766	feel|I| look|I|
+-0.7497363	feel|I|way hike|we|
+-0.7497363	feel|it| be||
+-0.7495484	feel|we| <unk>
+-1.351796	feel|we| have||
+-1.351796	feel|we| make|we|it
+-0.7497363	figure|I| <unk>
+-0.7497363	fill|it| end|it|
+-1.050766	fill|| <unk>
+-1.050766	fill|| stop|we|
+-0.7497363	find|I| feel|I|way
+-0.7495484	find|we| be||
+-0.7495484	find|we| have||
+-0.7497363	find|we|spot <unk>
+-0.7497363	find||place do||
+-0.7497363	find||tent make||
+-0.7497363	find||we <unk>
+-0.7497363	finish|I| be||
+-0.7497363	flow|that| be||
+-1.050766	follow|| <unk>
+-1.050766	follow|| lighten||
+-0.7497363	gear|we| enter|we|water
+-1.448706	get|I| <unk>
+-1.448706	get|I| hang|the|
+-1.448706	get|I| have||
+-1.448706	get|I| say||
+-1.448706	get|I| sleep|PERSON|
+-0.7497363	get|I|chance go||
+-0.7497363	get|I|home <unk>
+-1.050766	get|PERSON| pound||
+-1.050766	get|PERSON| stay|PERSON|
+-0.7497363	get|PERSON|CAUSE_OF_DEATH go||
+-0.6246097	get|it| <unk>
+-1.226858	get|it| decide|I|
+-0.7497363	get|kid| <unk>
+-0.7497363	get|they| <unk>
+-0.8820609	get|we| <unk>
+-1.377937	get|we| be||
+-1.980185	get|we| do||
+-1.980185	get|we| drive|we|home
+-1.980185	get|we| go|we|
+-1.980185	get|we| happen|we|
+-1.980185	get|we| have|water|
+-1.980185	get|we| have||
+-1.980185	get|we| put|that|we
+-1.980185	get|we| run|we|
+-1.980185	get|we| set|we|
+-1.980185	get|we| set||
+-0.7497363	get|we|tent <unk>
+-0.4485185	get|you| <unk>
+-0.3565473	get|| <unk>
+-2.147676	get|| be|I|
+-1.049552	get|| be||
+-2.147676	get|| do|that|
+-2.147676	get|| get|we|tent
+-1.545429	get|| go|we|
+-2.147676	get|| have|they|
+-2.147676	get|| head||
+-2.147676	get|| make||
+-2.147676	get|| yell|I|
+-0.7497363	get||gear set||
+-0.7497363	get||there <unk>
+-0.7497363	get||water have||bit
+-0.7497363	giggle|| scream||
+-0.7497363	give|| get||
+-0.7497363	give||it <unk>
+-0.4159017	go|I| <unk>
+-1.652826	go|I| have|we|lot
+-1.652826	go|I| help||
+-1.652826	go|I| run||
+-1.652826	go|I| threaten||
+-0.7497363	go|I|camping go|I|
+-1.351796	go|PERSON| <unk>
+-1.351796	go|PERSON| be|she|
+-0.7495484	go|PERSON| go|I|
+-0.7497363	go|everyone| watch||sunset
+-0.7497363	go|guy| <unk>
+-0.7497363	go|kid| be||
+-0.7497363	go|people| be||
+-0.4485185	go|she| <unk>
+-0.8464584	go|sun| <unk>
+-1.448706	go|sun| go|PERSON|
+-1.448706	go|sun| look|it|
+-1.448706	go|sun| think|i|
+-0.7497363	go|they| sleep||
+-2.111464	go|we| </s>
+-1.068495	go|we| <unk>
+-2.111464	go|we| be|we|
+-1.01334	go|we| be||
+-2.111464	go|we| change|we|
+-2.111464	go|we| eat|we|
+-2.111464	go|we| go|sun|
+-2.111464	go|we| go||
+-2.111464	go|we| have|we|hike
+-2.111464	go|we| make|we|
+-2.111464	go|we| sleep||
+-2.111464	go|we| swim|a|
+-2.111464	go|we| wasn||MONEY
+-0.7497363	go|we|camping <unk>
+-0.7497363	go|we|fishing sit|we|
+-0.7497363	go|what| say|she|
+-0.7497363	go|which| <unk>
+-0.7497363	go|who| <unk>
+-0.6889029	go|| <unk>
+-0.8828585	go|| be||
+-1.925828	go|| camp||time
+-1.925828	go|| enjoy|we|
+-1.925828	go|| keep||
+-1.925828	go|| stop||
+-0.7497363	go||I <unk>
+-0.7497363	go||MONEY have|we|child
+-1.050766	go||camping be|that|
+-1.050766	go||camping couldn|I|MONEY
+-0.7497363	go||home agree|I|
+-0.7497363	greet|we| <unk>
+-1.226858	guess|I| <unk>
+-0.6246097	guess|I| be||
+-0.7497363	hadn|I|MONEY <unk>
+-0.7497363	hammer|| try||
+-0.7497363	hang|I| <unk>
+-0.7497363	hang|the| be||
+-1.050766	hang|we| chat||
+-1.050766	hang|we| go|we|
+-1.050766	happen|it| get|we|
+-1.050766	happen|it| make|we|way
+-0.7497363	happen|that| be|we|
+-0.7497363	happen|we| <unk>
+-0.4485185	happen|what| be||
+-0.7497363	happen|which| be||
+-0.7497363	happen|| <unk>
+-0.554702	have|I| <unk>
+-1.652826	have|I| drive||
+-1.652826	have|I| have||
+-1.652826	have|I| stay||
+-0.7497363	have|I|moment speak||
+-0.7497363	have|PERSON|fun <unk>
+-0.7497363	have|PERSON|s'more <unk>
+-1.050766	have|it| be||
+-1.050766	have|it| carry||it
+-0.7497363	have|it|electricity <unk>
+-0.7497363	have|i| go||
+-0.1604273	have|they| <unk>
+-0.7497363	have|water| <unk>
+-1.101731	have|we| <unk>
+-1.703979	have|we| backtrack||
+-0.6375485	have|we| be||
+-1.703979	have|we| drive||mile
+-1.703979	have|we| listen||
+-1.703979	have|we| stay||
+-0.7497363	have|we|DURATION <unk>
+-0.7497363	have|we|NUMBER <unk>
+-0.7497363	have|we|bit be||
+-0.7497363	have|we|campfire have|we|smore
+-0.7497363	have|we|child start||
+-0.7497363	have|we|hike be|trail|
+-0.7497363	have|we|lot <unk>
+-0.7497363	have|we|lunch be||
+-1.050766	have|we|room <unk>
+-1.050766	have|we|room be||
+-1.050766	have|we|shower have|we|shower
+-1.050766	have|we|shower hike|we|
+-0.7497363	have|we|smore </s>
+-1.050766	have|we|time <unk>
+-1.050766	have|we|time be||
+-0.3553877	have|| <unk>
+-1.515815	have|| be|I|
+-2.582245	have|| be|food|
+-2.582245	have|| be|it|
+-0.7185656	have|| be||
+-2.582245	have|| come|we|
+-2.582245	have|| decide|I|
+-2.582245	have|| do|I|
+-2.582245	have|| do||
+-2.582245	have|| get|I|
+-2.582245	have|| get|PERSON|
+-2.582245	have|| have|I|
+-2.582245	have|| hike||
+-2.582245	have|| hope|I|
+-2.582245	have|| make|they|
+-2.582245	have|| make||trip
+-2.582245	have|| plan|we|
+-2.582245	have|| put|I|
+-2.582245	have|| recover||
+-2.582245	have|| spend|we|
+-2.582245	have|| stay|we|
+-2.582245	have|| stay||
+-1.979997	have|| want|I|
+-2.582245	have|| worry||
+-0.7497363	have||bit be||
+-0.7497363	have||family be||
+-0.7497363	have||room be||
+-1.050766	head|I| <unk>
+-1.050766	head|I| drive|we|
+-0.7497363	head|PERSON| head|I|
+-0.8593973	head|we| <unk>
+-1.925828	head|we| be|ORGANIZATION|
+-1.925828	head|we| be|way|
+-0.8593973	head|we| be||
+-1.925828	head|we| concern||
+-1.32358	head|we| decide|we|
+-1.925828	head|we| do||
+-1.925828	head|we| have||
+-1.925828	head|we| run|we|
+-1.925828	head|we| see||friend
+-1.652826	head|| </s>
+-1.050578	head|| <unk>
+-1.050578	head|| be||
+-1.652826	head|| camp||
+-1.652826	head|| get|we|
+-1.652826	head|| have||
+-0.7497363	head||home be|it|
+-0.7497363	hear|I| <unk>
+-0.7497363	hear|we| be||
+-0.7497363	help|he| put||
+-0.4485185	help|| <unk>
+-0.7497363	hike|I| drive|we|
+-0.9256397	hike|we| <unk>
+-1.527888	hike|we| be||
+-1.527888	hike|we| decide|we|
+-1.527888	hike|we| drink|we|wine
+-1.527888	hike|we| have|I|
+-1.527888	hike|| <unk>
+-1.527888	hike|| be||
+-1.527888	hike|| carry||everything
+-1.527888	hike|| drive|we|
+-1.527888	hike|| find|we|
+-1.527888	hike|| hike||
+-1.050766	hit|we| <unk>
+-1.050766	hit|we| look|what|
+-0.7497363	hit|we|LOCATION be||
+-1.226858	hope|I| be||
+-1.226858	hope|I| get|I|chance
+-1.226858	hope|I| stay||
+-0.7497363	imagine|you| <unk>
+-0.7497363	imagine|| be|we|
+-0.7497363	impress|I| <unk>
+-1.050766	include|| enjoy|I|
+-1.050766	include|| have|PERSON|fun
+-0.7497363	it||MONEY <unk>
+-1.050766	it||s cover||
+-1.050766	it||s get||
+-0.7497363	keep|I| think||
+-1.351796	keep|| become||
+-1.351796	keep|| go||
+-0.7495484	keep|| walk||
+-1.226858	know|I| be|I|
+-1.226858	know|I| be|it|
+-1.226858	know|I| be||
+-0.7497363	know|she| have||
+-1.050766	know|we| be||
+-1.050766	know|we| have|we|
+-1.050766	know|who| <unk>
+-1.050766	know|who| be||
+-0.7497363	know|you| be||
+-0.7497363	know|| <unk>
+-0.7497363	laugh|I| try||
+-0.7497363	leave|I| be||
+-0.7497363	leave|I|LOCATION <unk>
+-0.7497363	leave|they| go|sun|
+-1.050766	leave|we| <unk>
+-1.050766	leave|we| be|we|
+-1.050766	leave|we|LOCATION <unk>
+-1.050766	leave|we|LOCATION head||
+-1.351796	leave|| <unk>
+-1.351796	leave|| be||
+-1.351796	leave|| guess|I|
+-1.351796	leave|| leave|I|
+-0.7497363	let|they| <unk>
+-0.7497363	let|we| drive|he|
+-1.226858	let|| <unk>
+-1.226858	let|| down|PERSON|
+-1.226858	let|| try|I|
+-1.226858	lighten|| <unk>
+-1.226858	lighten|| be||
+-1.226858	lighten|| lighten||
+-0.7497363	like|I| <unk>
+-0.7497363	like|I|it <unk>
+-0.7497363	like|PERSON| <unk>
+-0.4485185	like|you| <unk>
+-0.7497363	listen|we| <unk>
+-0.4485185	listen|| <unk>
+-0.7497363	live|who| <unk>
+-1.050766	live|| <unk>
+-1.050766	live|| say|I|
+-0.7495484	look|I| have||
+-1.351796	look|I| head||
+-1.351796	look|I| spend||time
+-1.050766	look|PERSON| be||
+-1.050766	look|PERSON| do|she|
+-0.3579097	look|it| <unk>
+-0.9925865	look|it| be||
+-1.594834	look|it| enjoy|I|
+-0.7497363	look|she| <unk>
+-0.7497363	look|they| <unk>
+-0.7497363	look|we| see|we|
+-0.7497363	look|what| be||
+-1.050766	look|you| be||
+-1.050766	look|you| happen|it|
+-0.5284041	look|| <unk>
+-1.594834	look|| decide|we|
+-1.594834	look|| get||there
+-1.594834	look|| go|PERSON|
+-1.594834	look|| yell||
+-0.7497363	lose|| doesn|it|MONEY
+-1.050766	love|I| be||
+-1.050766	love|I| take||photo
+-0.7497363	love|I|SET be||
+-0.7497363	make|I| stay|PERSON|
+-0.7497363	make|I|pancake pack|we|camp
+-0.7497363	make|it| be|it|
+-0.7497363	make|they| try|I|
+-1.226858	make|we| <unk>
+-1.226858	make|we| look|it|
+-1.226858	make|we| swim|we|
+-0.7497363	make|we|coffee <unk>
+-0.7497363	make|we|dinner hang|we|
+-0.7497363	make|we|egg scramble||
+-1.226858	make|we|it <unk>
+-1.226858	make|we|it be||
+-1.226858	make|we|it have||
+-0.7497363	make|we|trip be||
+-0.7497363	make|we|way see||
+-0.7497363	make|which| eat|we|
+-1.226858	make|| <unk>
+-0.6246097	make|| be||
+-0.7497363	make||it it||s
+-0.7497363	make||trip be|I|
+-0.7497363	make||way hit|we|
+-0.7497363	mean|I| promise||
+-0.7497363	mean|that| be||
+-0.7497363	mean|| <unk>
+-0.7497363	mention|I| <unk>
+-0.7497363	mention|| be||
+-1.050766	move|I| be||
+-1.050766	move|I| stop|we|
+-0.6246097	move|we| have||
+-1.226858	move|we| see||
+-0.7497363	move|| roll||
+-0.7497363	need|we| <unk>
+-0.7497363	notice|I| <unk>
+-0.7497363	occur|it| be||
+-1.050766	offer|| </s>
+-1.050766	offer|| give||
+-1.050766	pack|we| <unk>
+-1.050766	pack|we| need|we|
+-0.7497363	pack|we|camp head|we|
+-0.7497363	pack|we|car head||
+-1.050766	pack|| <unk>
+-1.050766	pack|| take|PERSON|
+-0.7497363	pee|| be||
+-0.7497363	pick|we| leave|we|
+-0.7497363	pick||PERSON be|who|
+-0.7497363	pick||apple be||
+-0.7497363	place|| get|I|
+-0.7497363	plan|I| <unk>
+-0.7497363	plan|we| do||
+-0.7497363	plan|| <unk>
+-0.7497363	play|PERSON| read||
+-0.7497363	play|kid| have||
+-1.050766	play|we| play|PERSON|
+-1.050766	play|we| relax|we|
+-1.050766	play|| be||
+-1.050766	play|| enjoy|I|
+-0.7497363	please|| <unk>
+-0.7497363	poke|I| be||
+-0.7497363	post|we| <unk>
+-0.7497363	post|| have||
+-0.7497363	pound|| decide|we|
+-0.7497363	pour||rain follow||
+-0.7497363	prepare|| scramble||
+-0.7497363	promise|| go|we|
+-0.7497363	pull|we| see|we|
+-0.7497363	pull|| <unk>
+-0.7497363	push|| be||
+-0.7497363	put|I| sleep|kid|
+-0.7497363	put|that|we head|we|
+-0.7497363	put|| <unk>
+-0.7497363	put||tent set||
+-1.050766	rain|it| <unk>
+-1.050766	rain|it| have|we|
+-1.050766	rain|| <unk>
+-1.050766	rain|| be||
+-1.226858	read|I| <unk>
+-1.226858	read|I| be|we|
+-1.226858	read|I| happen|that|
+-1.050766	read|| be||
+-1.050766	read|| skip||
+-0.7497363	read||book <unk>
+-0.7497363	realize|we| <unk>
+-0.7497363	recover|| have||family
+-1.050766	relax|we| be||
+-1.050766	relax|we| go|we|
+-1.050766	remember|I| <unk>
+-1.050766	remember|I| be|it|
+-0.7497363	remember|| be|it|
+-0.7497363	remind||I get||
+-0.7497363	return|I| head||
+-1.050766	ride|| <unk>
+-1.050766	ride|| fall||
+-0.7497363	ride||NUMBER <unk>
+-0.7497363	roll|| <unk>
+-0.7497363	run|that| <unk>
+-1.226858	run|we| <unk>
+-1.226858	run|we| say||
+-1.226858	run|we| sit|we|
+-0.4614573	run|| <unk>
+-0.9256397	run|| be||
+-1.527888	run|| wind||
+-0.7497363	s'more|| be|thing|
+-1.226858	say|I| <unk>
+-1.226858	say|I| be||
+-1.226858	say|I| work||
+-0.7497363	say|PERSON| want|she|
+-1.050766	say|he| be||
+-1.050766	say|he| know|you|
+-0.7497363	say|it| stay||
+-0.7497363	say|she| be|CAUSE_OF_DEATH|
+-0.7497363	say|that| stay||
+-0.7497363	say|who| be||
+-0.4614573	say|| <unk>
+-0.4614573	say|| be||
+-0.4485185	scramble|| <unk>
+-0.4485185	scream|| be||
+-1.050766	seem|it| <unk>
+-1.050766	seem|it| be||
+-0.7497363	seem|which| <unk>
+-0.7497363	seem|| <unk>
+-0.7497363	see|I| <unk>
+-0.7497363	see|I|sign go|we|
+-0.7497363	see|i| dive|we|
+-0.9256397	see|we| <unk>
+-0.4614573	see|we| be||
+-1.527888	see|we| work|it|
+-0.7497363	see|we|deer <unk>
+-0.7497363	see|we|eel seem|which|
+-0.7497363	see|you| be||
+-0.9925865	see|| <unk>
+-1.594834	see|| be||
+-1.594834	see|| get|we|
+-1.594834	see|| go|sun|
+-1.594834	see|| have||
+-1.594834	see|| visit|we|LOCATION
+-0.7497363	see||NUMBER <unk>
+-1.226858	see||PERSON be|who|
+-1.226858	see||PERSON see||PERSON
+-1.226858	see||PERSON wait|I|
+-0.7497363	see||friend be||
+-0.7497363	see||mountain <unk>
+-0.7497363	see||she <unk>
+-1.226858	set|we| <unk>
+-1.226858	set|we| have||
+-1.226858	set|we| run||
+-0.8464584	set|| <unk>
+-1.448706	set|| be||
+-1.448706	set|| know|we|
+-1.448706	set|| see||
+-0.7497363	show|| hit|we|LOCATION
+-1.050766	sit|we| go|we|
+-1.050766	sit|we| push||
+-0.4485185	sit|| <unk>
+-0.7497363	skip|| be|all|
+-0.7497363	sleep|PERSON| start|I|
+-0.7497363	sleep|kid| go|PERSON|
+-1.594834	sleep|| <unk>
+-1.594834	sleep|| be||
+-1.594834	sleep|| get|we|
+-1.594834	sleep|| have||
+-1.594834	sleep|| pack|we|
+-1.594834	sleep|| take||I
+-1.594834	sleep|| warm||
+-0.7497363	slip|| <unk>
+-0.7497363	snuggle|| didn|it|MONEY
+-1.050766	soak|| <unk>
+-1.050766	soak|| have||
+-0.7497363	sound|it| <unk>
+-0.7497363	sound|they| <unk>
+-0.7497363	speak|| be||
+-0.7497363	spend|I|DURATION <unk>
+-0.7495484	spend|we| <unk>
+-1.351796	spend|we| be||
+-1.351796	spend|we| camp||
+-0.7497363	spend|we|half pack|we|car
+-0.7497363	spend||time become||
+-0.7497363	stand|we| be|guy|
+-0.7497363	stand|you| be||
+-0.7497363	stand|| go||I
+-0.7497363	start|I| read||book
+-0.4485185	start|it| rain||
+-0.7497363	start|sun| go||
+-1.050766	start|we| be|I|
+-1.050766	start|we| make||way
+-0.7497363	start|we|hike be||
+-0.7497363	start|you| stand|you|
+-0.6246097	start|| <unk>
+-1.226858	start|| pack||
+-1.050766	stay|PERSON| cover||
+-1.050766	stay|PERSON| go|everyone|
+-1.050766	stay|we| <unk>
+-1.050766	stay|we| be|time|
+-1.594834	stay|| <unk>
+-1.594834	stay|| be|stop|
+-1.594834	stay|| be||
+-1.594834	stay|| go|PERSON|
+-1.594834	stay|| have||
+-1.594834	stay|| sleep||
+-1.594834	stay|| sound|it|
+-0.7497363	stop|I| <unk>
+-1.527888	stop|we| <unk>
+-0.9256397	stop|we| be||
+-1.527888	stop|we| have|we|lunch
+-1.527888	stop|we| pick||apple
+-1.527888	stop|we| take|we|
+-1.050766	stop|| <unk>
+-1.050766	stop|| drive||
+-0.7497363	suppose|it| be||
+-0.7497363	surprise|I| do||
+-0.7497363	swim|a| be||
+-1.050766	swim|we| be||
+-1.050766	swim|we| turn|we|
+-0.7497363	swim|| see|I|sign
+-0.7497363	take|I| <unk>
+-0.7497363	take|I|picture hike|we|
+-0.7497363	take|PERSON| spend|we|half
+-1.050766	take|it|he <unk>
+-1.050766	take|it|he fall||
+-0.7497363	take|it|we get||
+-0.7497363	take|picture| say|that|
+-1.226858	take|we| <unk>
+-1.226858	take|we| enjoy|we|scenery
+-1.226858	take|we| go|we|
+-0.7497363	take|we|picture head||
+-0.7497363	take|we|time walk||
+-0.7497363	take|we|trail <unk>
+-0.6246097	take|| <unk>
+-1.226858	take|| clean||it
+-0.7497363	take||I warm||
+-0.7497363	take||drive <unk>
+-0.7497363	take||photo have||
+-0.7497363	take||picture find|we|
+-1.050766	talk|I| be||
+-1.050766	talk|I| notice|I|
+-0.7497363	talk|we| run|we|
+-0.7497363	talk|| be||
+-0.7497363	tell|I| <unk>
+-1.050766	tell|I|PERSON happen|what|
+-1.050766	tell|I|PERSON have|we|
+-0.7497363	tend|I| wake||
+-0.7497363	thank|| be||
+-0.7497363	that||MONEY <unk>
+-1.050766	think|I| <unk>
+-1.050766	think|I| be||
+-0.4485185	think|I|which be||
+-0.7497363	think|i| be||
+-1.527888	think|| <unk>
+-1.527888	think|| be|life|
+-1.527888	think|| be|people|
+-1.527888	think|| have|we|
+-1.527888	think|| read|I|
+-1.527888	think|| see|i|
+-0.7497363	threaten|| mean|I|
+-0.7497363	throw|| wasn|it|MONEY
+-1.448706	try|I| <unk>
+-1.448706	try|I| be||
+-1.448706	try|I| climb|I|
+-1.448706	try|I| ride||NUMBER
+-1.448706	try|I| turn||
+-1.351796	try|| <unk>
+-1.351796	try|| enjoy||view
+-1.351796	try|| get||
+-1.351796	try|| live||
+-0.7497363	try||camping do||
+-0.7497363	try||it <unk>
+-0.7497363	turn|I| be||
+-0.7497363	turn|PERSON| turn|I|
+-0.7497363	turn|that| be||
+-0.7497363	turn|we| take|it|we
+-1.050766	turn|| <unk>
+-1.050766	turn|| get|I|
+-0.7497363	use|I| be||
+-0.7497363	use|that| camp||
+-0.7497363	view|| be||
+-0.7497363	visit|we|LOCATION <unk>
+-0.7497363	visit|| <unk>
+-0.7497363	wade|| <unk>
+-1.050766	wait|I| arrive|they|
+-1.050766	wait|I| see||PERSON
+-0.7497363	wait|they| <unk>
+-0.7497363	wait|we| <unk>
+-1.050766	wait|| </s>
+-1.050766	wait|| be||
+-0.7497363	wake|I| have||
+-1.226858	wake|we| <unk>
+-0.6246097	wake|we| get||
+-1.050766	wake|| <unk>
+-1.050766	wake|| start||
+-0.7497363	walk|we| <unk>
+-1.351796	walk|| <unk>
+-1.351796	walk|| be||
+-1.351796	walk|| keep||
+-1.351796	walk|| take||picture
+-0.7497363	wander|| be||
+-1.351796	want|I| <unk>
+-0.7495484	want|I| go||
+-1.351796	want|I| write||
+-1.050766	want|she| get||
+-1.050766	want|she| go||home
+-0.4485185	want|t| <unk>
+-0.6246097	want|we| <unk>
+-1.226858	want|we| head||
+-1.050766	warm|| don|I|t
+-1.050766	warm|| do||
+-0.7497363	warn|| be||
+-0.7497363	wasn|I|t be||
+-0.7497363	wasn|it|MONEY <unk>
+-0.7497363	wasn||MONEY <unk>
+-0.7497363	watch|I| <unk>
+-0.7497363	watch|we| <unk>
+-0.7497363	watch|| go|sun|
+-0.7497363	watch||sunrise be||
+-0.7497363	watch||sunset love|I|
+-0.7497363	wear|| <unk>
+-0.7497363	we|that|MONEY be||
+-0.7495484	we||MONEY <unk>
+-1.351796	we||MONEY be||
+-1.351796	we||MONEY want|we|
+-0.7497363	wind|| <unk>
+-0.7497363	work|it| </s>
+-0.4485185	work|| <unk>
+-0.7497363	worry|PERSON| <unk>
+-0.7497363	worry|we| be|all|
+-0.7497363	worry|| <unk>
+-0.7497363	write|| <unk>
+-0.7497363	yell|I| have|we|
+-0.7497363	yell|| be|we|
+-0.7497363	zip|| be|stop|
+
+\end\

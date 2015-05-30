@@ -1,0 +1,2596 @@
+
+\data\
+ngram 1=1147
+ngram 2=1439
+
+\1-grams:
+-6.248559	!!
+-3.041195	!!!	0.02714712
+-1.999803	</s>
+-99	<s>	0.1156784
+-1.472993	<unk>	-0.01420656
+-6.248559	=d
+-6.248559	abandon
+-6.248559	absolve
+-3.342225	accept	-0.01532762
+-6.248559	access
+-6.248559	accomodate
+-6.248559	accompany
+-3.342225	accomplish	-0.1014484
+-3.342225	accord	-0.08698806
+-6.248559	account
+-6.248559	ache
+-3.041195	achieve	-0.01432114
+-6.248559	acquire
+-6.248559	act
+-6.248559	add
+-3.342225	adjust	-0.01532762
+-6.248559	admire
+-3.342225	admit	-0.1124387
+-6.248559	adore
+-6.248559	advise
+-6.248559	affect
+-6.248559	afford
+-2.740165	agree	-0.05997483
+-6.248559	ahhh
+-6.248559	aim
+-6.248559	all.
+-6.248559	allocate
+-3.342225	allow	-0.08698806
+-6.248559	along.
+-6.248559	alter
+-6.248559	alternate
+-6.248559	am.
+-6.248559	amaze
+-6.248559	amount
+-6.248559	amuse
+-6.248559	anchor
+-6.248559	announce
+-6.248559	answer
+-6.248559	anticipate
+-6.248559	appeal
+-6.248559	appear
+-6.248559	appoint
+-6.248559	appreciate
+-6.248559	approach
+-6.248559	aren
+-6.248559	arise
+-3.342225	arrange	-0.1198116
+-2.439135	arrive	-0.01955201
+-6.248559	arrived
+-3.342225	ascend	-0.1196139
+-2.263044	ask	-0.1413959
+-6.248559	assateague
+-6.248559	assese
+-6.248559	associate
+-6.248559	assume
+-3.342225	assure	-0.01532762
+-3.342225	attach	-0.01532762
+-6.248559	attack
+-6.248559	attempt
+-6.248559	attend
+-6.248559	attract
+-6.248559	average
+-3.041195	avoid	-0.007977262
+-6.248559	await
+-2.865104	awake	-0.1079947
+-6.248559	back
+-6.248559	backpack
+-6.248559	backtrack
+-6.248559	balance
+-6.248559	balk
+-6.248559	bandage
+-3.342225	bang	-0.1198116
+-6.248559	barbeque
+-6.248559	bark
+-6.248559	barrel
+-3.342225	base	-0.08698806
+-6.248559	bath
+-0.6692043	be	0.2659672
+-6.248559	beach
+-6.248559	beam
+-6.248559	bear
+-3.342225	beat	-0.1030943
+-3.342225	become	-0.08698806
+-6.248559	befriend
+-6.248559	beg
+-2.300833	begin	-0.01234154
+-6.248559	behave
+-6.248559	behold
+-6.248559	believe
+-6.248559	belong
+-6.248559	bend
+-6.248559	bet
+-6.248559	bike
+-6.248559	bind
+-6.248559	bird
+-3.342225	bite	-0.1198116
+-6.248559	blag
+-6.248559	blame
+-6.248559	blare
+-6.248559	blast
+-6.248559	blaze
+-6.248559	bleed
+-6.248559	blend
+-6.248559	bless
+-6.248559	block
+-6.248559	blogg
+-6.248559	bloom
+-2.740165	blow	-0.08953773
+-3.342225	board	-0.08698806
+-6.248559	boast
+-6.248559	boat
+-6.248559	bob
+-6.248559	boil
+-6.248559	book
+-6.248559	border
+-6.248559	bore
+-6.248559	borrow
+-3.342225	bother	-0.1156423
+-6.248559	bounce
+-6.248559	bowl
+-6.248559	brave
+-2.643255	break	0.05549008
+-6.248559	breakfast
+-2.865104	breathe	-0.07855512
+-6.248559	brew
+-2.439135	bring	-0.01531717
+-3.041195	brush	-0.1039148
+-6.248559	buck
+-3.041195	build	-0.1142436
+-6.248559	bump
+-3.342225	bundle	-0.1166386
+-6.248559	bunk
+-6.248559	burly
+-2.865104	burn	0.03132439
+-3.342225	bury	-0.1014484
+-6.248559	bushwack
+-3.041195	buy	-0.00950826
+-6.248559	buzz
+-6.248559	bypass
+-3.342225	call	-0.1196139
+-3.342225	calm	-0.1178312
+-6.248559	came
+-2.497127	camp	-0.1163493
+-6.248559	campground
+-3.342225	can	-0.1186244
+-3.342225	cancel	-0.08698806
+-6.248559	canoe
+-6.248559	cant
+-6.248559	capture
+-6.248559	care
+-6.248559	carry
+-6.248559	cart
+-6.248559	cast
+-3.041195	catch	-0.01482467
+-6.248559	cause
+-6.248559	cease
+-6.248559	celebrate
+-6.248559	certify
+-6.248559	challenge
+-2.497127	change	0.088039
+-6.248559	char
+-6.248559	charge
+-6.248559	chase
+-3.041195	chat	-0.1140434
+-2.740165	check	0.01620025
+-3.342225	cherish	-0.1128404
+-3.342225	chew	-0.01532762
+-6.248559	chill
+-6.248559	chillin
+-3.041195	choose	-0.09979632
+-6.248559	chop
+-6.248559	chuckle
+-6.248559	circle
+-6.248559	claim
+-6.248559	clamber
+-6.248559	clap
+-6.248559	clean
+-6.248559	cleanse
+-6.248559	clear
+-6.248559	click
+-3.342225	climb	-0.01532762
+-6.248559	cling
+-6.248559	clock
+-2.740165	close	-0.08335019
+-6.248559	cloud
+-6.248559	coat
+-6.248559	coax
+-3.342225	collapse	-0.1196139
+-3.041195	collect	-0.08076382
+-6.248559	collide
+-2.111776	come	-0.04149359
+-6.248559	comment
+-6.248559	commit
+-6.248559	commune
+-6.248559	communicate
+-6.248559	compare
+-6.248559	compel
+-6.248559	compensate
+-3.342225	complain	-0.1051428
+-6.248559	complete
+-3.342225	comprise	-0.1186244
+-6.248559	concentrate
+-3.342225	concern	-0.01532762
+-6.248559	conclude
+-6.248559	confess
+-6.248559	confirm
+-6.248559	confuse
+-6.248559	connect
+-2.865104	consider	0.01323758
+-6.248559	consist
+-6.248559	construct
+-6.248559	consult
+-6.248559	consume
+-6.248559	contain
+-6.248559	contemplate
+-6.248559	contend
+-2.865104	continue	-0.01052596
+-6.248559	convert
+-3.041195	convince	-0.1022721
+-2.643255	cook	-0.03331213
+-6.248559	cool
+-6.248559	cooperate
+-3.342225	cost	-0.01532762
+-6.248559	could
+-3.342225	couldn	-0.1196139
+-6.248559	couldnt
+-3.041195	count	-0.01356475
+-6.248559	counter
+-6.248559	cover
+-6.248559	crack
+-6.248559	crackle
+-3.342225	cram	-0.01532762
+-6.248559	cramp
+-6.248559	crap
+-3.041195	crash	-0.1006232
+-3.041195	crawl	-0.09958938
+-6.248559	creak
+-6.248559	create
+-3.342225	creep	-0.1170365
+-6.248559	crest
+-6.248559	cringe
+-2.740165	cross	-0.06870843
+-6.248559	crowd
+-3.342225	cruise	-0.1186244
+-6.248559	crush
+-3.342225	cry	-0.01532762
+-6.248559	cuddle
+-6.248559	curl
+-3.342225	cut	-0.1196139
+-6.248559	dance
+-6.248559	dangle
+-6.248559	dare
+-6.248559	dart
+-6.248559	date
+-6.248559	dawn
+-3.041195	deal	-0.01482467
+-6.248559	debate
+-2.086953	decide	0.1085609
+-6.248559	declare
+-6.248559	deepen
+-3.342225	dehydrate	-0.1168376
+-6.248559	deliver
+-6.248559	depart
+-6.248559	depend
+-6.248559	depress
+-2.865104	descend	-0.1063674
+-3.041195	describe	-0.118228
+-6.248559	desert
+-6.248559	deserve
+-6.248559	design
+-6.248559	designate
+-3.342225	desire	-0.1030943
+-6.248559	destroy
+-3.342225	determine	-0.08698806
+-3.041195	develop	-0.01482467
+-6.248559	devise
+-6.248559	did.
+-2.497127	didn	0.007131666
+-6.248559	didnt
+-3.342225	die	-0.01532762
+-3.041195	dig	-0.1205878
+-6.248559	digress
+-6.248559	dine
+-3.342225	dip	-0.1190205
+-6.248559	direct
+-6.248559	disapoint
+-6.248559	disappear
+-3.342225	disappoint	-0.01532762
+-2.643255	discover	-0.1548988
+-6.248559	discuss
+-6.248559	distract
+-6.248559	disturb
+-2.497127	dive	0.02351125
+-3.342225	divide	-0.01532762
+-1.417946	do	0.09554005
+-6.248559	do.
+-6.248559	dock
+-6.248559	dodge
+-6.248559	doesn
+-6.248559	dominate
+-3.041195	don	-0.08592127
+-6.248559	dont
+-6.248559	dot
+-6.248559	douse
+-6.248559	down
+-6.248559	download
+-6.248559	doze
+-3.342225	drag	-0.01532762
+-6.248559	drain
+-6.248559	draw
+-6.248559	dread
+-6.248559	dream
+-3.342225	drench	-0.01532762
+-3.041195	dress	-0.08227441
+-3.342225	drift	-0.01532762
+-2.865104	drink	-0.04012036
+-6.248559	drinkin
+-6.248559	drip
+-2.138105	drive	-0.02231441
+-6.248559	drizzle
+-2.740165	drop	-0.007465705
+-3.342225	drown	-0.1194162
+-6.248559	drum
+-2.497127	dry	-0.1150248
+-6.248559	duck
+-6.248559	dump
+-6.248559	earn
+-6.248559	ease
+-2.228282	eat	0.02355902
+-6.248559	echo
+-6.248559	edge
+-6.248559	edit
+-6.248559	educate
+-6.248559	edward
+-6.248559	elect
+-6.248559	embark
+-6.248559	emerge
+-6.248559	emphasize
+-6.248559	empty
+-6.248559	encounter
+-6.248559	encourage
+-2.643255	end	-0.09709819
+-6.248559	endure
+-6.248559	engage
+-2.564074	enjoy	-0.09386994
+-6.248559	ensue
+-6.248559	ensure
+-2.740165	enter	-0.05665861
+-3.342225	entertain	-0.1184263
+-3.041195	equalize	-0.01432114
+-6.248559	equate
+-6.248559	erode
+-6.248559	escape
+-6.248559	estimate
+-6.248559	etc
+-6.248559	etch
+-6.248559	everyht
+-6.248559	everyone
+-6.248559	exaggerate
+-6.248559	examine
+-6.248559	excite
+-6.248559	exclude
+-6.248559	excuse
+-6.248559	exercise
+-6.248559	exert
+-2.740165	exhaust	0.00631433
+-6.248559	exist
+-3.342225	exit	-0.1014484
+-3.342225	expand	-0.01532762
+-3.041195	expect	-0.09772233
+-6.248559	experience
+-6.248559	explain
+-6.248559	explode
+-2.740165	explore	-0.006697267
+-6.248559	expose
+-6.248559	express
+-6.248559	face
+-6.248559	fade
+-3.342225	fail	-0.1198116
+-2.387983	fall	-0.06715165
+-6.248559	family
+-6.248559	fascinate
+-3.342225	fashion	-0.1030943
+-6.248559	feast
+-6.248559	feature
+-3.342225	feed	-0.1184263
+-2.111776	feel	0.01647317
+-6.248559	fiddle
+-3.342225	fight	-0.1176327
+-2.740165	figure	-0.05691461
+-3.342225	fill	-0.08698806
+-6.248559	film
+-3.342225	filter	-0.1014484
+-1.879827	find	0.0473005
+-6.248559	fine
+-2.497127	finish	0.09803805
+-6.248559	fire
+-3.342225	fish	-0.118228
+-6.248559	fish.
+-3.342225	fit	-0.08698806
+-3.041195	fix	-0.009762906
+-6.248559	flare
+-6.248559	flip
+-3.342225	float	-0.08698806
+-6.248559	flood
+-6.248559	flounder
+-6.248559	flow
+-6.248559	flush
+-6.248559	fly
+-3.342225	focus	-0.01532762
+-6.248559	fold
+-2.740165	follow	-0.09813791
+-6.248559	forage
+-6.248559	forbid
+-6.248559	force
+-3.342225	forget	-0.1030943
+-6.248559	form
+-6.248559	freak
+-6.248559	freeze
+-6.248559	frequent
+-6.248559	frustrate
+-6.248559	fry
+-6.248559	fuck
+-6.248559	fuel
+-6.248559	fussed
+-6.248559	gain
+-6.248559	gas
+-6.248559	gather
+-6.248559	gaze
+-6.248559	gear
+-1.378437	get	0.109363
+-3.342225	giggle	-0.1120365
+-2.439135	give	-0.04668768
+-6.248559	glance
+-6.248559	glare
+-6.248559	glaze
+-6.248559	glide
+-6.248559	glisten
+-1.542885	go	0.03167111
+-6.248559	go?
+-6.248559	gobble
+-3.342225	gon	-0.1198116
+-6.248559	goto
+-3.342225	grab	-0.1120365
+-6.248559	graze
+-3.342225	greet	-0.1168376
+-3.041195	grow	-0.08227441
+-6.248559	grumble
+-2.740165	guess	-0.04287033
+-3.342225	guide	-0.01532762
+-6.248559	had.
+-6.248559	hadn
+-6.248559	haha
+-6.248559	hail
+-6.248559	hammer
+-6.248559	hand
+-3.041195	handle	-0.1045293
+-2.740165	hang	0.05667505
+-3.041195	happen	0.003680617
+-3.342225	hasn	-0.1124387
+-6.248559	hate
+-6.248559	haul
+-1.135399	have	0.2367547
+-3.342225	haven	-0.1170365
+-6.248559	havent
+-3.342225	he	-0.1186244
+-2.439135	head	0.02297327
+-2.564074	hear	-0.161927
+-6.248559	heat
+-6.248559	heed
+-2.342225	help	-0.0985973
+-6.248559	herd
+-6.248559	here
+-6.248559	hesitate
+-6.248559	hide
+-6.248559	highlight
+-2.564074	hike	0.05549006
+-6.248559	hire
+-6.248559	hiss
+-2.564074	hit	0.0009549707
+-6.248559	hoist
+-2.740165	hold	-0.02119175
+-6.248559	holler
+-6.248559	hoof
+-6.248559	hook
+-6.248559	hop
+-3.041195	hope	-0.118228
+-6.248559	hospital
+-6.248559	host
+-6.248559	hover
+-6.248559	howl
+-6.248559	huddle
+-6.248559	hug
+-6.248559	huh
+-6.248559	hurry
+-3.342225	hurt	-0.1166386
+-6.248559	hypermile
+-6.248559	i
+-6.248559	identify
+-6.248559	ignore
+-3.342225	imagine	-0.1051428
+-6.248559	imply
+-6.248559	impose
+-6.248559	impress
+-3.041195	improve	-0.06692672
+-6.248559	include
+-6.248559	incorporate
+-3.342225	increase	-0.1196139
+-6.248559	indicate
+-6.248559	inflate
+-6.248559	inform
+-6.248559	ingrain
+-6.248559	inhabit
+-6.248559	inhale
+-3.342225	injure	-0.1198116
+-6.248559	inquire
+-3.342225	insist	-0.1124387
+-6.248559	inspire
+-6.248559	install
+-6.248559	insulate
+-3.342225	intend	-0.1014484
+-6.248559	introduce
+-3.041195	invite	-0.2242807
+-6.248559	involve
+-6.248559	isn
+-3.342225	isolate	-0.01532762
+-3.342225	it	-0.01532762
+-6.248559	jet
+-6.248559	jog
+-2.643255	join	-0.04835189
+-6.248559	joke
+-6.248559	judge
+-3.342225	jumble	-0.1170365
+-3.342225	jump	-0.1156423
+-6.248559	kayak
+-6.248559	kayake
+-2.263044	keep	-0.08535397
+-3.342225	kick	-0.1166386
+-6.248559	kid
+-6.248559	kill
+-6.248559	kinda
+-6.248559	kit
+-6.248559	knit
+-6.248559	knock
+-2.643255	know	0.03048573
+-6.248559	lace
+-6.248559	lack
+-6.248559	land
+-6.248559	lash
+-3.342225	last	-0.1196139
+-3.342225	laugh	-0.1030943
+-6.248559	launch
+-3.342225	lay	-0.1192184
+-3.342225	lead	-0.1168376
+-6.248559	leak
+-6.248559	lean
+-2.865104	learn	-0.01432116
+-1.999803	leave	0.05022113
+-6.248559	lend
+-3.342225	let	-0.1186244
+-6.248559	level
+-3.342225	lie	-0.08698806
+-6.248559	lift
+-6.248559	light
+-6.248559	lighten
+-3.342225	like	-0.1154428
+-6.248559	limit
+-6.248559	line
+-3.342225	linger	-0.1178312
+-3.342225	listen	-0.1196139
+-2.865104	live	-0.1012423
+-6.248559	lo
+-3.041195	load	-0.1180296
+-6.248559	loan
+-6.248559	locate
+-6.248559	lock
+-6.248559	lodge
+-6.248559	log
+-6.248559	london
+-1.999803	look	-0.02771391
+-6.248559	loom
+-6.248559	loop
+-2.865104	lose	-0.09501126
+-6.248559	love
+-6.248559	lower
+-6.248559	luck
+-6.248559	lure
+-6.248559	maintain
+-1.740165	make	0.1065609
+-2.740165	manage	-0.09438317
+-6.248559	march
+-6.248559	mark
+-6.248559	marry
+-6.248559	mash
+-6.248559	match
+-6.248559	me
+-2.643255	mean	-0.1755704
+-6.248559	meander
+-6.248559	measure
+-2.342225	meet	0.001982838
+-6.248559	mellow
+-3.342225	melt	-0.1120365
+-6.248559	mention
+-6.248559	mind
+-2.865104	miss	0.001062773
+-6.248559	misspoke
+-6.248559	mix
+-6.248559	mob
+-6.248559	motor
+-6.248559	mount
+-2.740165	move	-0.09563836
+-6.248559	mow
+-6.248559	muffle
+-6.248559	mumble
+-6.248559	murder
+-6.248559	name
+-6.248559	nap
+-6.248559	narrow
+-6.248559	navigate
+-6.248559	near
+-2.439135	need	-0.02086526
+-6.248559	needless
+-6.248559	needn
+-6.248559	neglect
+-6.248559	negotiate
+-3.342225	nestle	-0.1190205
+-6.248559	never
+-6.248559	note
+-2.740165	notice	-0.218666
+-6.248559	now.
+-3.342225	observe	-0.1073851
+-6.248559	obsess
+-6.248559	obstruct
+-6.248559	occupy
+-6.248559	occur
+-3.041195	offer	-0.09855312
+-2.740165	open	-0.05946629
+-6.248559	operate
+-6.248559	opt
+-3.041195	order	-0.01507622
+-6.248559	organise
+-6.248559	organize
+-6.248559	originate
+-6.248559	outfit
+-6.248559	outta
+-6.248559	overcome
+-6.248559	overhear
+-3.342225	overlook	-0.1198116
+-6.248559	overtake
+-6.248559	own
+-6.248559	pace
+-2.497127	pack	0.0493214
+-6.248559	paddle
+-6.248559	paint
+-3.041195	panic	-0.009762906
+-6.248559	pant
+-6.248559	parallel
+-3.041195	park	-0.006184243
+-6.248559	part
+-3.342225	participate	-0.1198116
+-2.865104	pass	0.009495944
+-6.248559	paste
+-6.248559	pat
+-6.248559	pause
+-6.248559	pave
+-3.041195	pay	-0.1002099
+-3.342225	pee	-0.1178312
+-6.248559	peel
+-6.248559	peer
+-6.248559	peg
+-6.248559	pelt
+-6.248559	perceive
+-6.248559	perch
+-6.248559	perfect
+-6.248559	perk
+-6.248559	permit
+-6.248559	persist
+-2.439135	pick	-0.001011416
+-3.342225	pile	-0.1128404
+-6.248559	pill
+-6.248559	pine
+-6.248559	piss
+-3.041195	pitch	-0.1194162
+-6.248559	place
+-6.248559	plague
+-2.564074	plan	-0.1156829
+-6.248559	planned
+-6.248559	plant
+-2.387983	play	-0.02257597
+-6.248559	please
+-6.248559	plod
+-6.248559	plow
+-6.248559	plug
+-6.248559	plummet
+-6.248559	plunge
+-6.248559	point
+-6.248559	poke
+-6.248559	poop
+-3.041195	pop	-0.1028889
+-6.248559	pose
+-3.041195	post	-0.08677492
+-6.248559	pound
+-6.248559	pour
+-3.342225	practice	-0.1014484
+-6.248559	practise
+-3.342225	pray	-0.08698806
+-6.248559	predict
+-3.342225	prefer	-0.01532762
+-6.248559	prep
+-3.041195	prepare	-0.1152432
+-6.248559	present
+-6.248559	press
+-6.248559	pretend
+-3.342225	prevent	-0.1051428
+-3.342225	proceed	-0.1190205
+-6.248559	process
+-6.248559	procure
+-6.248559	produce
+-6.248559	progress
+-6.248559	promise
+-6.248559	promote
+-6.248559	prompt
+-6.248559	prop
+-6.248559	propose
+-3.342225	protect	-0.01532762
+-6.248559	prove
+-3.342225	provide	-0.08698806
+-6.248559	provoke
+-6.248559	psych
+-6.248559	publish
+-2.740165	pull	-0.005413517
+-6.248559	pump
+-6.248559	punch
+-6.248559	punctuate
+-6.248559	purchase
+-6.248559	purify
+-6.248559	pursue
+-3.342225	push	-0.01532762
+-2.497127	put	0.02465989
+-6.248559	qualify
+-6.248559	question
+-3.041195	quiet	-0.1057555
+-6.248559	quit
+-6.248559	quiver
+-6.248559	race
+-6.248559	rack
+-6.248559	raft
+-6.248559	rage
+-3.342225	rain	-0.01532762
+-6.248559	rain.
+-6.248559	raise
+-6.248559	ramble
+-6.248559	rate
+-6.248559	re-do
+-3.342225	reach	-0.1154428
+-3.041195	read	-0.08677492
+-6.248559	realise
+-2.387983	realize	-0.0745465
+-6.248559	recall
+-3.342225	receive	-0.1192184
+-6.248559	recharge
+-6.248559	reckon
+-6.248559	recognize
+-3.041195	recommend	-0.01507622
+-6.248559	reconcile
+-6.248559	record
+-3.342225	recover	-0.01532762
+-6.248559	reel
+-3.342225	reflect	-0.1192184
+-3.342225	refresh	-0.1156423
+-6.248559	refuse
+-6.248559	register
+-6.248559	relax
+-6.248559	relaxin
+-6.248559	release
+-6.248559	relieve
+-3.342225	remain	-0.1166386
+-2.865104	remember	-0.1156423
+-6.248559	remind
+-6.248559	remove
+-6.248559	rename
+-6.248559	render
+-6.248559	rent
+-6.248559	repair
+-6.248559	replace
+-6.248559	replicate
+-6.248559	reply
+-3.342225	report	-0.08698806
+-6.248559	represent
+-6.248559	repusle
+-3.041195	require	-0.1164396
+-6.248559	research
+-6.248559	reserve
+-6.248559	resist
+-6.248559	respond
+-3.342225	rest	-0.1184263
+-6.248559	result
+-6.248559	resume
+-6.248559	retch
+-3.342225	retire	-0.1194162
+-6.248559	retreat
+-6.248559	retrieve
+-2.740165	return	-0.0669267
+-6.248559	reveal
+-6.248559	reward
+-3.342225	ride	-0.1172353
+-3.041195	rinse	-0.1142436
+-6.248559	rip
+-6.248559	rise
+-3.342225	risk	-0.1051428
+-6.248559	roadwalk
+-6.248559	roam
+-3.342225	roar	-0.1014484
+-6.248559	roast
+-3.342225	rob	-0.1030943
+-6.248559	rock
+-2.865104	roll	-0.3882501
+-6.248559	rough
+-6.248559	round
+-6.248559	rub
+-6.248559	ruff
+-6.248559	ruin
+-6.248559	rumble
+-2.497127	run	0.04583541
+-3.041195	rush	0.008432828
+-6.248559	s'more
+-6.248559	saddle
+-6.248559	sail
+-6.248559	salute
+-6.248559	salvage
+-6.248559	satisfy
+-2.865104	save	0.02853507
+-6.248559	saw
+-2.166134	say	0.01540001
+-3.342225	scan	-0.1184263
+-6.248559	scare
+-3.342225	scarf	-0.01532762
+-6.248559	scatter
+-6.248559	schedule
+-6.248559	scoop
+-6.248559	scop
+-6.248559	scorch
+-6.248559	score
+-3.342225	scramble	-0.01532762
+-6.248559	scratch
+-3.041195	scream	-0.01457298
+-6.248559	scurry
+-6.248559	search
+-6.248559	seat
+-6.248559	secure
+-1.762442	see	-0.07057349
+-6.248559	seek
+-2.740165	seem	-0.2373803
+-6.248559	seep
+-6.248559	sell
+-3.041195	send	-0.1118353
+-6.248559	separate
+-3.342225	serve	-0.1184263
+-1.980497	set	0.08113752
+-3.342225	settle	-0.1184263
+-6.248559	shake
+-3.041195	share	-0.1205878
+-6.248559	shed
+-6.248559	shift
+-6.248559	shine
+-6.248559	shock
+-6.248559	shoot
+-6.248559	shoulder
+-6.248559	shout
+-2.564074	show	0.002080813
+-3.342225	shower	-0.1198116
+-6.248559	shroud
+-6.248559	shrug
+-3.041195	shut	0.0063143
+-3.041195	side	-0.06870845
+-6.248559	sift
+-3.342225	sign	-0.1172353
+-3.041195	signal	-0.09855312
+-2.865104	sing	-0.01154126
+-3.041195	sink	-0.08656166
+-2.439135	sit	0.06264891
+-6.248559	site
+-6.248559	size
+-3.342225	skip	-0.1192184
+-6.248559	slant
+-2.111776	sleep	0.1266866
+-3.342225	slide	-0.1166386
+-3.342225	slip	-0.1192184
+-6.248559	slither
+-6.248559	slog
+-3.342225	slow	-0.1178312
+-6.248559	smash
+-6.248559	smell
+-6.248559	smile
+-6.248559	smoke
+-6.248559	smooth
+-6.248559	snap
+-3.342225	snatch	-0.1073851
+-6.248559	snore
+-6.248559	snorkel
+-6.248559	snorkele
+-6.248559	snorkle
+-6.248559	snow
+-6.248559	snuck
+-6.248559	snuff
+-6.248559	snuggle
+-6.248559	soak
+-6.248559	soar
+-3.342225	sort	-0.1051428
+-6.248559	sound
+-6.248559	source
+-6.248559	space
+-6.248559	spare
+-3.041195	speak	-0.01356475
+-3.342225	speed	-0.1192184
+-6.248559	spell
+-2.439135	spend	-0.1249933
+-6.248559	spin
+-6.248559	splash
+-6.248559	splatter
+-6.248559	split
+-3.342225	spoil	-0.1166386
+-6.248559	spook
+-6.248559	spot
+-6.248559	spray
+-6.248559	spread
+-2.865104	sprinkle	-0.01280706
+-6.248559	squash
+-6.248559	squat
+-6.248559	squeeze
+-6.248559	squirm
+-6.248559	stack
+-6.248559	staff
+-6.248559	stake
+-6.248559	stall
+-6.248559	stand
+-6.248559	star
+-3.342225	stare	-0.1192184
+-1.999803	start	-0.03224091
+-6.248559	startle
+-6.248559	state
+-2.342225	stay	-0.06748497
+-3.342225	steal	-0.1196139
+-6.248559	stealth
+-6.248559	steer
+-6.248559	step
+-6.248559	stew
+-3.041195	stick	-0.08076382
+-3.041195	sting	-0.1075884
+-6.248559	stink
+-3.342225	stir	-0.1192184
+-6.248559	stock
+-6.248559	stone
+-2.196097	stop	0.06303374
+-6.248559	stopped
+-6.248559	strangle
+-6.248559	strap
+-6.248559	stress
+-6.248559	stretch
+-6.248559	strew
+-6.248559	strike
+-3.342225	string	-0.08698806
+-3.342225	strip	-0.1198116
+-6.248559	stroll
+-6.248559	struggle
+-6.248559	stub
+-6.248559	study
+-6.248559	stuff
+-6.248559	stuff/cleaned
+-3.041195	stumble	-0.01482467
+-6.248559	submerge
+-6.248559	submit
+-6.248559	subside
+-6.248559	suck
+-3.342225	suffer	-0.01532762
+-6.248559	suggest
+-6.248559	suit
+-6.248559	sunbathe
+-6.248559	supply
+-6.248559	support
+-3.342225	suppose	-0.08698806
+-6.248559	sure?
+-3.342225	surface	-0.01532762
+-6.248559	surge
+-6.248559	surprise
+-6.248559	surround
+-3.342225	survive	-0.1030943
+-6.248559	suspend
+-6.248559	swallow
+-6.248559	swamp
+-6.248559	swap
+-6.248559	swarm
+-6.248559	swat
+-6.248559	swear
+-6.248559	sweep
+-6.248559	swerve
+-2.196097	swim	0.03073443
+-6.248559	swing
+-6.248559	swirl
+-6.248559	switch
+-6.248559	t-bone
+-3.342225	tackle	-0.1184263
+-6.248559	tail
+-1.785923	take	-0.1248115
+-2.387983	talk	-0.07782296
+-6.248559	tan
+-6.248559	tangle
+-6.248559	tape
+-2.865104	taste	-0.08974957
+-6.248559	teach
+-6.248559	tear
+-6.248559	tease
+-6.248559	teem
+-2.300833	tell	-0.02581152
+-6.248559	tend
+-6.248559	tent
+-6.248559	terrify
+-6.248559	test
+-6.248559	test-drive
+-6.248559	thank
+-6.248559	that
+-6.248559	there
+-6.248559	they
+-2.138105	think	-0.252054
+-6.248559	threaten
+-6.248559	thrill
+-2.740165	throw	2.008677e-05
+-6.248559	thunder
+-6.248559	tick
+-3.342225	tie	-0.1186244
+-6.248559	tighten
+-6.248559	tip
+-3.342225	tire	-0.1196139
+-6.248559	toast
+-6.248559	tolerate
+-6.248559	top
+-6.248559	torment
+-6.248559	toss
+-6.248559	total
+-3.041195	touch	-0.01432114
+-6.248559	tour
+-3.342225	tow	-0.1184263
+-6.248559	track
+-6.248559	trade
+-6.248559	trail
+-3.342225	train	-0.1184263
+-6.248559	trap
+-6.248559	trash
+-3.342225	travel	-0.1051428
+-6.248559	traverse
+-6.248559	tread
+-6.248559	treat
+-6.248559	trek
+-6.248559	trickle
+-6.248559	trigger
+-6.248559	trip
+-6.248559	trust
+-2.166134	try	-0.01723787
+-6.248559	tube
+-6.248559	tuck
+-3.342225	tumble	-0.1120365
+-6.248559	tune
+-6.248559	tuned
+-2.439135	turn	-0.3372413
+-6.248559	twist
+-3.342225	understand	-0.01532762
+-6.248559	undertake
+-6.248559	undo
+-6.248559	unhook
+-3.342225	unload	-0.1186244
+-6.248559	unpack
+-6.248559	unplug
+-6.248559	unzip
+-3.342225	update	-0.08698806
+-3.041195	upload	-0.1154428
+-6.248559	upset
+-2.740165	use	-0.005413517
+-6.248559	utilize
+-6.248559	vacate
+-6.248559	vacation
+-6.248559	vanish
+-3.342225	vary	-0.1051428
+-6.248559	venture
+-6.248559	verb
+-6.248559	view
+-2.865104	visit	-0.08108451
+-3.342225	volunteer	-0.1190205
+-6.248559	vomit
+-6.248559	wade
+-2.439135	wait	-0.0538327
+-2.111776	wake	0.02650061
+-6.248559	waken
+-2.196097	walk	-0.01239283
+-2.740165	wander	-0.004641436
+-2.111776	want	0.02854972
+-3.041195	warm	-0.01128764
+-6.248559	warn
+-6.248559	was
+-6.248559	was.
+-2.865104	wash	-0.168922
+-3.342225	wasn	-0.1198116
+-6.248559	waste
+-3.041195	watch	-0.01103389
+-6.248559	water
+-6.248559	wave
+-3.342225	we	-0.1194162
+-2.740165	wear	0.03951623
+-6.248559	wedge
+-6.248559	week
+-6.248559	welcome
+-6.248559	weren
+-6.248559	werent
+-6.248559	whine
+-6.248559	whip
+-6.248559	whisper
+-6.248559	whistle
+-6.248559	whittle
+-6.248559	who
+-6.248559	wiggle
+-6.248559	win
+-6.248559	win.
+-6.248559	wind
+-6.248559	wipe
+-3.342225	wish	-0.01532762
+-6.248559	witness
+-6.248559	won
+-3.342225	wonder	-0.08698806
+-2.387983	work	-0.2508035
+-2.865104	worry	-0.008743457
+-6.248559	would
+-6.248559	wouldn
+-3.342225	wrap	-0.01532762
+-6.248559	wreck
+-6.248559	wrestle
+-6.248559	write
+-6.248559	yeah
+-6.248559	yell
+-6.248559	yep
+-6.248559	yet?
+-6.248559	you
+-3.342225	zip	-0.1156423
+-6.248559	zoom
+
+\2-grams:
+-0.9182237	!!! be
+-0.9182237	!!! have
+-1.434252	<s> <unk>
+-1.959616	<s> be
+-1.959616	<s> camp
+-1.434252	<s> decide
+-1.959616	<s> do
+-1.959616	<s> find
+-1.959616	<s> finish
+-1.959616	<s> get
+-1.959616	<s> give
+-1.434252	<s> go
+-1.959616	<s> make
+-1.959616	<s> pick
+-1.959616	<s> send
+-1.959616	<s> take
+-1.959616	<s> think
+-1.959616	<s> update
+-1.959616	<s> wake
+-1.959616	<s> walk
+-1.959616	<s> work
+-2.486425	<unk> </s>
+-1.900046	<unk> <unk>
+-0.5904781	<unk> be
+-2.486425	<unk> camp
+-2.486425	<unk> convince
+-1.024134	<unk> do
+-1.560507	<unk> find
+-1.482565	<unk> get
+-1.961061	<unk> go
+-1.482565	<unk> have
+-2.486425	<unk> increase
+-1.961061	<unk> make
+-2.486425	<unk> miss
+-2.486425	<unk> move
+-2.486425	<unk> notice
+-2.486425	<unk> overlook
+-2.486425	<unk> receive
+-2.486425	<unk> rinse
+-2.486425	<unk> run
+-1.961061	<unk> say
+-2.486425	<unk> see
+-2.486425	<unk> side
+-2.486425	<unk> sleep
+-2.486425	<unk> stop
+-2.486425	<unk> stumble
+-1.961061	<unk> take
+-2.486425	<unk> taste
+-2.486425	<unk> try
+-2.486425	<unk> use
+-1.961061	<unk> want
+-0.6171938	accept be
+-0.6171938	accomplish get
+-0.6171938	accord have
+-0.9182237	achieve be
+-0.9182237	achieve drop
+-0.6171938	adjust be
+-0.6171938	admit see
+-0.6938891	agree be
+-1.219254	agree expect
+-1.219254	agree want
+-0.6171938	allow have
+-0.6171938	arrange travel
+-0.9949191	arrive be
+-1.520284	arrive discover
+-1.520284	arrive look
+-1.520284	arrive mean
+-1.520284	arrive pick
+-1.520284	arrive slow
+-1.520284	arrive take
+-0.6171938	ascend signal
+-1.696375	ask <unk>
+-0.4771213	ask be
+-1.696375	ask feel
+-1.696375	ask fix
+-1.696375	ask go
+-1.696375	ask head
+-1.696375	ask laugh
+-1.696375	ask leave
+-1.696375	ask sign
+-0.6171938	assure be
+-0.6171938	attach be
+-0.9182237	avoid be
+-0.9182237	avoid find
+-1.094315	awake eat
+-1.094315	awake make
+-1.094315	awake run
+-0.6171938	bang greet
+-0.6171938	base have
+-2.76485	be </s>
+-1.442572	be <unk>
+-3.290215	be accept
+-3.290215	be accomplish
+-2.76485	be achieve
+-3.290215	be agree
+-2.76485	be arrive
+-2.76485	be ask
+-3.290215	be awake
+-0.6559876	be be
+-3.290215	be begin
+-3.290215	be board
+-3.290215	be break
+-3.290215	be breathe
+-3.290215	be bring
+-3.290215	be buy
+-2.76485	be camp
+-3.290215	be can
+-3.290215	be change
+-3.290215	be chat
+-2.76485	be check
+-3.290215	be climb
+-2.76485	be close
+-3.290215	be collapse
+-2.286355	be come
+-3.290215	be comprise
+-3.290215	be concern
+-3.290215	be consider
+-3.290215	be convince
+-3.290215	be cook
+-3.290215	be count
+-3.290215	be cram
+-3.290215	be creep
+-2.070961	be decide
+-2.76485	be descend
+-3.290215	be desire
+-3.290215	be develop
+-3.290215	be didn
+-3.290215	be dig
+-3.290215	be disappoint
+-3.290215	be discover
+-2.76485	be dive
+-3.290215	be divide
+-1.442572	be do
+-2.703835	be drive
+-2.76485	be dry
+-2.364296	be eat
+-3.290215	be end
+-3.290215	be enjoy
+-3.290215	be entertain
+-3.290215	be equalize
+-2.070961	be exhaust
+-2.76485	be fall
+-3.290215	be fashion
+-2.76485	be feel
+-3.290215	be fight
+-3.290215	be figure
+-1.718778	be find
+-2.76485	be finish
+-3.290215	be fish
+-3.290215	be focus
+-1.350802	be get
+-3.290215	be give
+-1.394267	be go
+-3.290215	be guess
+-1.081956	be have
+-2.76485	be help
+-2.76485	be hike
+-2.76485	be hit
+-3.290215	be hold
+-3.290215	be intend
+-3.290215	be isolate
+-3.290215	be jumble
+-2.286355	be keep
+-2.76485	be know
+-3.290215	be last
+-2.070961	be leave
+-3.290215	be lie
+-3.290215	be look
+-2.070961	be make
+-3.290215	be manage
+-3.290215	be mean
+-2.76485	be meet
+-3.290215	be miss
+-3.290215	be nestle
+-3.290215	be observe
+-3.290215	be park
+-3.290215	be pass
+-3.290215	be pay
+-3.290215	be pick
+-2.76485	be pitch
+-2.76485	be plan
+-2.070961	be play
+-3.290215	be protect
+-3.290215	be pull
+-3.290215	be push
+-3.290215	be quiet
+-3.290215	be rain
+-3.290215	be read
+-2.76485	be realize
+-2.76485	be recommend
+-3.290215	be reflect
+-3.290215	be require
+-3.290215	be return
+-2.76485	be roll
+-3.290215	be run
+-2.76485	be save
+-2.070961	be say
+-3.290215	be scream
+-1.769931	be see
+-3.290215	be serve
+-2.070961	be set
+-2.76485	be sing
+-2.364296	be sit
+-3.290215	be sleep
+-3.290215	be speak
+-3.290215	be speed
+-3.290215	be spend
+-3.290215	be spoil
+-2.286355	be start
+-3.290215	be stay
+-3.290215	be stick
+-3.290215	be sting
+-2.76485	be stop
+-3.290215	be string
+-3.290215	be suppose
+-3.290215	be survive
+-2.703835	be swim
+-3.290215	be tackle
+-1.718778	be take
+-2.364296	be talk
+-2.76485	be tell
+-3.290215	be think
+-2.76485	be throw
+-3.290215	be tire
+-3.290215	be try
+-3.290215	be upload
+-3.290215	be use
+-2.76485	be visit
+-3.290215	be volunteer
+-3.290215	be wait
+-2.364296	be wake
+-2.070961	be walk
+-3.290215	be wander
+-2.76485	be want
+-2.76485	be wash
+-3.290215	be wasn
+-2.76485	be wear
+-2.76485	be work
+-3.290215	be worry
+-0.6171938	beat do
+-0.6171938	become have
+-1.658586	begin ascend
+-1.133222	begin be
+-1.658586	begin become
+-1.658586	begin describe
+-1.658586	begin expand
+-1.658586	begin head
+-1.658586	begin look
+-1.658586	begin put
+-1.658586	begin set
+-1.658586	begin swim
+-0.6171938	bite chew
+-1.219254	blow <unk>
+-1.219254	blow eat
+-1.219254	blow leave
+-1.219254	blow make
+-0.6171938	board have
+-0.6171938	bother start
+-1.316164	break be
+-1.316164	break drown
+-1.316164	break get
+-1.316164	break have
+-1.316164	break show
+-0.5689504	breathe be
+-1.094315	breathe think
+-1.520284	bring allow
+-1.520284	bring be
+-0.9949191	bring have
+-1.520284	bring hear
+-0.9949191	bring help
+-1.520284	bring spend
+-0.9182237	brush go
+-0.9182237	brush wake
+-0.9182237	build dive
+-0.9182237	build look
+-0.6171938	bundle sleep
+-1.094315	burn be
+-1.094315	burn do
+-1.094315	burn get
+-0.6171938	bury get
+-0.9182237	buy be
+-0.9182237	buy set
+-0.6171938	call collect
+-0.6171938	calm begin
+-0.5363736	camp be
+-1.462292	camp go
+-1.462292	camp hope
+-1.462292	camp plan
+-1.462292	camp try
+-0.6171938	can run
+-0.6171938	cancel have
+-0.9182237	catch be
+-0.9182237	catch signal
+-1.462292	change be
+-1.462292	change do
+-1.462292	change end
+-1.462292	change get
+-1.462292	change have
+-1.462292	change look
+-1.462292	change touch
+-0.9182237	chat drift
+-0.9182237	chat find
+-1.219254	check be
+-1.219254	check do
+-1.219254	check look
+-1.219254	check try
+-0.6171938	cherish take
+-0.6171938	chew be
+-0.9182237	choose get
+-0.9182237	choose head
+-0.6171938	climb be
+-1.219254	close do
+-1.219254	close get
+-1.219254	close listen
+-1.219254	close sort
+-0.6171938	collapse load
+-0.9182237	collect find
+-0.9182237	collect have
+-1.847643	come </s>
+-1.847643	come <unk>
+-0.6283889	come be
+-1.847643	come collect
+-1.847643	come come
+-1.847643	come discover
+-1.847643	come find
+-1.322278	come have
+-1.847643	come say
+-1.847643	come sink
+-1.847643	come stop
+-1.847643	come swim
+-1.847643	come think
+-0.6171938	complain <unk>
+-0.6171938	comprise run
+-0.6171938	concern be
+-1.094315	consider <unk>
+-1.094315	consider be
+-1.094315	consider take
+-1.094315	continue be
+-1.094315	continue grow
+-1.094315	continue sleep
+-0.9182237	convince blow
+-0.9182237	convince do
+-0.7907991	cook be
+-1.316164	cook eat
+-1.316164	cook enjoy
+-1.316164	cook go
+-0.6171938	cost be
+-0.6171938	couldn equalize
+-0.9182237	count be
+-0.9182237	count dive
+-0.6171938	cram be
+-0.9182237	crash get
+-0.9182237	crash wander
+-0.9182237	crawl do
+-0.9182237	crawl sleep
+-0.6171938	creep try
+-1.219254	cross <unk>
+-1.219254	cross have
+-1.219254	cross send
+-1.219254	cross turn
+-0.6171938	cruise run
+-0.6171938	cry be
+-0.6171938	cut grow
+-0.9182237	deal be
+-0.9182237	deal handle
+-1.347102	decide <unk>
+-1.872466	decide base
+-1.872466	decide be
+-1.872466	decide come
+-1.872466	decide cut
+-1.872466	decide do
+-1.872466	decide drive
+-1.872466	decide give
+-1.347102	decide go
+-1.872466	decide have
+-1.872466	decide help
+-1.872466	decide pack
+-1.872466	decide spend
+-1.872466	decide stay
+-1.872466	decide stop
+-1.872466	decide want
+-0.6171938	dehydrate think
+-1.094315	descend begin
+-1.094315	descend come
+-1.094315	descend make
+-0.9182237	describe gon
+-0.9182237	describe wait
+-0.6171938	desire do
+-0.6171938	determine have
+-0.9182237	develop be
+-0.9182237	develop sink
+-1.462292	didn be
+-1.462292	didn have
+-1.462292	didn hurt
+-1.462292	didn know
+-1.462292	didn seem
+-0.9369271	didn want
+-0.6171938	die be
+-0.3928591	dig be
+-0.6171938	dip join
+-0.6171938	disappoint be
+-0.3902456	discover be
+-1.316164	discover have
+-1.316164	discover need
+-0.9369271	dive be
+-1.462292	dive enjoy
+-1.462292	dive have
+-1.462292	dive see
+-1.462292	dive take
+-1.462292	dive wander
+-0.6171938	divide be
+-2.541473	do <unk>
+-2.541473	do agree
+-2.541473	do ask
+-0.9242793	do be
+-2.541473	do begin
+-2.541473	do bring
+-2.541473	do brush
+-2.541473	do build
+-2.541473	do burn
+-2.541473	do complain
+-2.541473	do dive
+-2.016108	do do
+-2.541473	do drive
+-2.541473	do drop
+-2.541473	do enjoy
+-2.541473	do feel
+-2.541473	do find
+-1.322219	do get
+-2.541473	do go
+-0.8103359	do have
+-2.016108	do hear
+-2.541473	do help
+-2.541473	do know
+-2.541473	do like
+-2.541473	do linger
+-2.016108	do look
+-2.541473	do make
+-2.541473	do need
+-2.541473	do pile
+-2.541473	do prepare
+-2.541473	do realize
+-1.537613	do see
+-2.016108	do seem
+-2.541473	do set
+-2.541473	do show
+-2.541473	do shut
+-2.541473	do sleep
+-2.541473	do snatch
+-2.541473	do spend
+-2.541473	do start
+-2.541473	do stay
+-2.016108	do take
+-2.541473	do taste
+-2.016108	do turn
+-2.016108	do wait
+-2.541473	do wake
+-1.615555	do want
+-0.9182237	don have
+-0.9182237	don know
+-0.6171938	drag be
+-0.6171938	drench be
+-0.9182237	dress </s>
+-0.9182237	dress have
+-0.6171938	drift be
+-1.094315	drink be
+-0.5689504	drink have
+-0.8174536	drive be
+-1.821314	drive catch
+-1.821314	drive determine
+-1.821314	drive do
+-1.821314	drive drive
+-1.821314	drive feed
+-1.295949	drive find
+-1.821314	drive help
+-1.821314	drive leave
+-1.821314	drive look
+-1.821314	drive meet
+-1.219254	drop </s>
+-1.219254	drop be
+-1.219254	drop forget
+-1.219254	drop turn
+-0.6171938	drown lose
+-0.5363736	dry be
+-1.462292	dry do
+-1.462292	dry hang
+-1.462292	dry pray
+-1.462292	dry warm
+-1.731137	eat be
+-1.731137	eat crawl
+-1.731137	eat finish
+-1.731137	eat leave
+-1.731137	eat make
+-1.731137	eat meet
+-1.731137	eat pack
+-1.731137	eat proceed
+-1.731137	eat realize
+-1.731137	eat say
+-1.731137	eat set
+-1.731137	eat tell
+-1.731137	eat we
+-1.316164	end drive
+-1.316164	end eat
+-1.316164	end go
+-1.316164	end pull
+-1.316164	end wake
+-1.395345	enjoy </s>
+-1.395345	enjoy go
+-0.8699803	enjoy have
+-1.395345	enjoy look
+-1.395345	enjoy talk
+-0.6938891	enter be
+-1.219254	enter decide
+-1.219254	enter stop
+-0.6171938	entertain bring
+-0.9182237	equalize be
+-0.9182237	equalize hold
+-1.219254	exhaust <unk>
+-1.219254	exhaust be
+-1.219254	exhaust dehydrate
+-1.219254	exhaust fall
+-0.6171938	exit get
+-0.6171938	expand be
+-0.9182237	expect decide
+-0.9182237	expect get
+-1.219254	explore arrive
+-1.219254	explore be
+-1.219254	explore continue
+-1.219254	explore set
+-0.6171938	fail attach
+-0.6455181	fall be
+-1.571436	fall crawl
+-1.571436	fall get
+-1.571436	fall hit
+-1.571436	fall sit
+-1.571436	fall take
+-1.571436	fall tell
+-0.6171938	fashion do
+-0.6171938	feed sit
+-0.9217244	feel be
+-1.847643	feel bundle
+-1.847643	feel camp
+-1.847643	feel catch
+-1.847643	feel decide
+-1.847643	feel didn
+-1.847643	feel drive
+-1.847643	feel have
+-1.847643	feel he
+-1.322278	feel make
+-1.847643	feel need
+-1.847643	feel stop
+-1.847643	feel take
+-1.847643	feel try
+-0.6171938	fight keep
+-0.6938891	figure be
+-1.219254	figure think
+-1.219254	figure try
+-0.6171938	fill have
+-0.6171938	filter get
+-2.079592	find </s>
+-1.075732	find be
+-2.079592	find burn
+-2.079592	find enter
+-2.079592	find find
+-1.554227	find get
+-2.079592	find grab
+-2.079592	find handle
+-1.153674	find have
+-2.079592	find imagine
+-2.079592	find join
+-2.079592	find leave
+-2.079592	find look
+-2.079592	find meet
+-2.079592	find pass
+-2.079592	find play
+-2.079592	find return
+-2.079592	find set
+-2.079592	find stay
+-2.079592	find stick
+-2.079592	find strip
+-2.079592	find surface
+-1.462292	finish <unk>
+-1.462292	finish be
+-1.462292	finish get
+-1.462292	finish go
+-1.462292	finish have
+-1.462292	finish live
+-1.462292	finish return
+-0.6171938	fish play
+-0.6171938	fit have
+-0.9182237	fix </s>
+-0.9182237	fix be
+-0.6171938	float have
+-0.6171938	focus be
+-1.219254	follow enjoy
+-1.219254	follow go
+-1.219254	follow guide
+-1.219254	follow see
+-0.6171938	forget do
+-1.655063	get </s>
+-2.580981	get <unk>
+-2.580981	get adjust
+-2.580981	get admit
+-0.8498445	get be
+-2.580981	get choose
+-2.580981	get come
+-2.580981	get count
+-2.580981	get cross
+-2.055617	get decide
+-1.655063	get do
+-2.580981	get drench
+-2.055617	get dress
+-2.055617	get drive
+-2.055617	get dry
+-2.580981	get end
+-2.580981	get enter
+-2.580981	get fall
+-2.580981	get figure
+-1.361728	get get
+-2.055617	get give
+-1.577121	get go
+-1.361728	get have
+-2.580981	get hike
+-2.055617	get invite
+-2.580981	get learn
+-2.055617	get leave
+-2.055617	get look
+-2.580981	get lose
+-2.055617	get make
+-2.580981	get meet
+-2.580981	get need
+-2.580981	get open
+-2.580981	get order
+-2.580981	get pack
+-2.580981	get pay
+-2.580981	get prevent
+-2.580981	get provide
+-2.580981	get rinse
+-2.580981	get scan
+-1.655063	get see
+-2.055617	get set
+-2.580981	get settle
+-2.580981	get sing
+-2.055617	get start
+-2.580981	get steal
+-2.580981	get stop
+-2.580981	get take
+-2.580981	get think
+-2.580981	get throw
+-2.055617	get use
+-2.580981	get wish
+-0.6171938	giggle make
+-1.520284	give <unk>
+-0.5943655	give be
+-1.520284	give camp
+-1.520284	give do
+-1.520284	give get
+-1.520284	give try
+-2.416534	go </s>
+-1.490616	go <unk>
+-2.416534	go arrive
+-0.5952206	go be
+-2.416534	go begin
+-2.416534	go bring
+-2.416534	go crash
+-2.416534	go decide
+-2.416534	go didn
+-1.490616	go do
+-2.416534	go drop
+-2.416534	go eat
+-2.416534	go fill
+-1.89117	go get
+-2.416534	go go
+-1.197281	go have
+-2.416534	go hear
+-2.416534	go hit
+-2.416534	go join
+-2.416534	go lay
+-2.416534	go make
+-2.416534	go panic
+-2.416534	go pick
+-2.416534	go plan
+-2.416534	go play
+-2.416534	go practice
+-2.416534	go require
+-2.416534	go say
+-2.416534	go see
+-1.89117	go set
+-2.416534	go skip
+-1.490616	go sleep
+-2.416534	go stop
+-1.89117	go take
+-2.416534	go walk
+-2.416534	go want
+-0.6171938	gon jump
+-0.6171938	grab make
+-0.6171938	greet think
+-0.9182237	grow have
+-0.9182237	grow look
+-0.6938891	guess be
+-1.219254	guess beat
+-1.219254	guess do
+-0.6171938	guide be
+-0.9182237	handle <unk>
+-0.9182237	handle consider
+-1.219254	hang be
+-1.219254	hang go
+-1.219254	hang have
+-1.219254	hang make
+-0.9182237	happen <unk>
+-0.9182237	happen be
+-0.6171938	hasn see
+-2.298655	have </s>
+-1.898101	have <unk>
+-2.82402	have arrange
+-1.898101	have ask
+-2.82402	have bang
+-0.845098	have be
+-2.82402	have begin
+-2.82402	have blow
+-2.82402	have break
+-2.82402	have breathe
+-2.298655	have bring
+-2.82402	have cancel
+-2.298655	have change
+-2.82402	have check
+-2.82402	have choose
+-2.82402	have close
+-2.82402	have come
+-2.82402	have consider
+-2.82402	have cross
+-2.82402	have dig
+-2.82402	have discover
+-2.82402	have dive
+-2.23764	have do
+-2.82402	have don
+-2.298655	have drink
+-2.82402	have eat
+-2.82402	have enjoy
+-2.82402	have exit
+-2.82402	have explore
+-2.298655	have feel
+-2.298655	have find
+-1.82016	have get
+-2.298655	have go
+-2.82402	have happen
+-1.206826	have have
+-2.82402	have hear
+-2.82402	have help
+-2.82402	have hit
+-2.82402	have hope
+-2.82402	have keep
+-2.82402	have kick
+-2.82402	have learn
+-1.604766	have leave
+-2.82402	have let
+-2.82402	have live
+-1.898101	have make
+-2.298655	have manage
+-2.82402	have mean
+-2.82402	have meet
+-2.82402	have notice
+-2.298655	have offer
+-2.82402	have pack
+-2.82402	have pee
+-2.82402	have pick
+-2.82402	have prefer
+-2.82402	have prepare
+-2.82402	have put
+-2.82402	have realize
+-2.82402	have rush
+-1.82016	have see
+-2.298655	have set
+-2.82402	have share
+-2.298655	have show
+-1.898101	have sleep
+-2.82402	have spend
+-2.82402	have start
+-1.604766	have stay
+-2.298655	have stop
+-2.82402	have swim
+-2.82402	have take
+-1.898101	have talk
+-2.82402	have tell
+-2.82402	have think
+-2.82402	have train
+-2.82402	have try
+-2.298655	have wake
+-2.82402	have wash
+-2.82402	have watch
+-2.298655	have wear
+-2.82402	have wonder
+-1.82016	have work
+-2.298655	have worry
+-0.6171938	haven try
+-0.6171938	he change
+-0.9949191	head be
+-1.520284	head buy
+-1.520284	head have
+-1.520284	head leave
+-1.520284	head look
+-1.520284	head stay
+-1.520284	head swim
+-0.4694268	hear be
+-1.395345	hear don
+-1.395345	hear participate
+-1.395345	hear report
+-1.617194	help <unk>
+-1.091829	help have
+-1.617194	help hold
+-1.617194	help save
+-1.091829	help set
+-1.617194	help show
+-1.617194	help tie
+-1.617194	help walk
+-1.395345	hike <unk>
+-1.395345	hike be
+-1.395345	hike do
+-1.395345	hike get
+-1.395345	hike reach
+-1.395345	hike realize
+-0.8699803	hit be
+-1.395345	hit have
+-1.395345	hit keep
+-1.395345	hit realize
+-1.395345	hit remain
+-1.219254	hold be
+-0.6938891	hold blow
+-1.219254	hold have
+-0.9182237	hope avoid
+-0.9182237	hope finish
+-0.6171938	hurt feel
+-0.6171938	imagine <unk>
+-0.9182237	improve get
+-0.9182237	improve have
+-0.6171938	increase deal
+-0.6171938	injure slip
+-0.6171938	insist see
+-0.6171938	intend get
+-0.3928591	invite join
+-0.6171938	isolate be
+-0.6171938	it be
+-0.7907991	join be
+-1.316164	join enter
+-1.316164	join meet
+-1.316164	join stay
+-0.6171938	jumble try
+-0.6171938	jump start
+-1.17101	keep ask
+-0.7704568	keep be
+-1.696375	keep cry
+-1.696375	keep decide
+-1.696375	keep eat
+-1.696375	keep fit
+-1.696375	keep give
+-1.696375	keep head
+-1.696375	keep post
+-0.6171938	kick feel
+-1.316164	know be
+-1.316164	know descend
+-1.316164	know have
+-1.316164	know insist
+-1.316164	know pick
+-0.6171938	last quiet
+-0.6171938	laugh do
+-0.6171938	lay guess
+-0.6171938	lead think
+-1.094315	learn be
+-1.094315	learn lose
+-1.094315	learn understand
+-1.959616	leave <unk>
+-1.959616	leave arrive
+-1.959616	leave ask
+-1.033698	leave be
+-1.959616	leave cook
+-1.959616	leave cruise
+-1.959616	leave drink
+-1.959616	leave drive
+-1.959616	leave explore
+-1.959616	leave figure
+-1.434252	leave go
+-1.959616	leave happen
+-1.434252	leave have
+-1.959616	leave hike
+-1.959616	leave order
+-1.959616	leave plan
+-1.959616	leave take
+-1.959616	leave walk
+-0.6171938	let put
+-0.6171938	lie have
+-0.6171938	like set
+-0.6171938	linger begin
+-0.6171938	listen scream
+-1.094315	live dive
+-1.094315	live do
+-1.094315	live speak
+-0.9182237	load fall
+-0.9182237	load unload
+-1.033698	look be
+-1.959616	look build
+-1.959616	look cherish
+-1.959616	look describe
+-1.959616	look do
+-1.959616	look have
+-1.959616	look haven
+-1.959616	look look
+-1.959616	look make
+-1.959616	look notice
+-1.959616	look remember
+-1.959616	look say
+-0.7403627	look see
+-1.959616	look stare
+-1.959616	look start
+-1.959616	look talk
+-1.959616	look turn
+-1.094315	lose find
+-1.094315	lose get
+-1.094315	lose upload
+-1	make <unk>
+-1.632874	make be
+-2.219254	make begin
+-1.293336	make do
+-2.219254	make eat
+-2.219254	make end
+-2.219254	make explore
+-2.219254	make feel
+-2.219254	make figure
+-2.219254	make find
+-1.693889	make get
+-1.293336	make have
+-2.219254	make head
+-2.219254	make keep
+-2.219254	make make
+-2.219254	make move
+-2.219254	make roar
+-2.219254	make see
+-2.219254	make spend
+-2.219254	make sprinkle
+-2.219254	make stop
+-2.219254	make suffer
+-2.219254	make swim
+-2.219254	make taste
+-2.219254	make touch
+-2.219254	make try
+-2.219254	make wrap
+-1.219254	manage <unk>
+-1.219254	manage fix
+-1.219254	manage swim
+-1.219254	manage take
+-0.3902456	mean be
+-1.316164	mean do
+-1.316164	mean realize
+-1.617194	meet !!!
+-1.617194	meet arrive
+-1.091829	meet be
+-1.617194	meet get
+-1.617194	meet hang
+-1.617194	meet hasn
+-1.617194	meet play
+-1.617194	meet say
+-1.617194	meet wait
+-0.6171938	melt make
+-1.094315	miss be
+-1.094315	miss calm
+-1.094315	miss go
+-1.219254	move come
+-1.219254	move go
+-1.219254	move open
+-1.219254	move take
+-1.520284	need be
+-1.520284	need deal
+-1.520284	need fail
+-0.9949191	need go
+-1.520284	need load
+-1.520284	need pop
+-1.520284	need rush
+-0.6171938	nestle cook
+-0.2933355	notice be
+-1.219254	notice have
+-0.6171938	observe go
+-0.9182237	offer </s>
+-0.9182237	offer do
+-0.6938891	open be
+-1.219254	open close
+-1.219254	open sleep
+-0.9182237	order be
+-0.9182237	order scramble
+-0.6171938	overlook accord
+-1.462292	pack be
+-1.462292	pack drop
+-1.462292	pack explore
+-1.462292	pack have
+-1.462292	pack head
+-1.462292	pack make
+-1.462292	pack start
+-0.9182237	panic be
+-0.9182237	panic look
+-0.9182237	park be
+-0.9182237	park take
+-0.6171938	participate retire
+-1.094315	pass be
+-1.094315	pass get
+-1.094315	pass wander
+-0.9182237	pay get
+-0.9182237	pay plan
+-0.6171938	pee tell
+-1.520284	pick arrive
+-0.9949191	pick be
+-1.520284	pick fall
+-1.520284	pick get
+-1.520284	pick hike
+-1.520284	pick pick
+-1.520284	pick set
+-0.6171938	pile take
+-0.9182237	pitch filter
+-0.9182237	pitch side
+-1.395345	plan ask
+-1.395345	plan bury
+-1.395345	plan decide
+-0.8699803	plan do
+-1.395345	plan go
+-1.046072	play be
+-1.571436	play break
+-1.571436	play come
+-1.571436	play do
+-1.046072	play eat
+-1.571436	play play
+-1.571436	play tell
+-0.9182237	pop go
+-0.9182237	pop start
+-0.9182237	post have
+-0.9182237	post vary
+-0.6171938	practice get
+-0.6171938	pray have
+-0.6171938	prefer be
+-0.9182237	prepare pack
+-0.9182237	prepare want
+-0.6171938	prevent <unk>
+-0.6171938	proceed break
+-0.6171938	protect be
+-0.6171938	provide have
+-1.219254	pull be
+-1.219254	pull drive
+-1.219254	pull lead
+-1.219254	pull start
+-0.6171938	push be
+-1.462292	put assure
+-1.462292	put be
+-1.462292	put begin
+-1.462292	put come
+-1.462292	put get
+-1.462292	put say
+-1.462292	put think
+-0.9182237	quiet arrive
+-0.9182237	quiet go
+-0.6171938	rain be
+-0.6171938	reach set
+-0.9182237	read have
+-0.9182237	read ride
+-0.5675762	realize be
+-1.571436	realize bite
+-1.571436	realize do
+-1.571436	realize feel
+-1.571436	realize improve
+-0.6171938	receive move
+-0.9182237	recommend be
+-0.9182237	recommend call
+-0.6171938	recover be
+-0.6171938	reflect notice
+-0.6171938	refresh </s>
+-0.6171938	remain come
+-1.094315	remember learn
+-1.094315	remember tell
+-1.094315	remember turn
+-0.6171938	report have
+-0.9182237	require drive
+-0.9182237	require expect
+-0.6171938	rest head
+-0.6171938	retire burn
+-1.219254	return <unk>
+-1.219254	return cost
+-1.219254	return feel
+-1.219254	return have
+-0.6171938	ride stop
+-0.9182237	rinse change
+-0.9182237	rinse leave
+-0.6171938	risk <unk>
+-0.6171938	roar get
+-0.6171938	rob do
+-0.1683968	roll be
+-1.462292	run <unk>
+-1.462292	run be
+-1.462292	run dip
+-1.462292	run get
+-1.462292	run make
+-1.462292	run remember
+-1.462292	run want
+-0.9182237	rush be
+-0.9182237	rush get
+-1.094315	save <unk>
+-1.094315	save be
+-1.094315	save get
+-1.26792	say <unk>
+-0.8673668	say be
+-1.793285	say bring
+-1.793285	say do
+-1.793285	say fall
+-1.793285	say follow
+-1.793285	say have
+-1.26792	say look
+-1.793285	say rob
+-1.793285	say sleep
+-1.793285	say think
+-0.6171938	scan wait
+-0.6171938	scarf be
+-0.6171938	scramble be
+-0.9182237	scream be
+-0.9182237	scream roll
+-2.196977	see </s>
+-0.5383909	see be
+-2.196977	see check
+-2.196977	see die
+-1.671613	see do
+-2.196977	see float
+-1.193117	see have
+-2.196977	see hear
+-1.671613	see make
+-2.196977	see meet
+-2.196977	see post
+-2.196977	see run
+-2.196977	see see
+-2.196977	see spend
+-1.671613	see start
+-2.196977	see stop
+-2.196977	see think
+-2.196977	see turn
+-2.196977	see walk
+-2.196977	see want
+-2.196977	see work
+-0.2933355	seem be
+-1.219254	seem get
+-0.9182237	send make
+-0.9182237	send tumble
+-0.6171938	serve need
+-1.053003	set be
+-1.978922	set chat
+-1.978922	set didn
+-1.978922	set do
+-1.978922	set drag
+-1.453557	set go
+-1.978922	set have
+-1.978922	set head
+-1.978922	set help
+-1.978922	set keep
+-1.978922	set leave
+-1.453557	set make
+-1.978922	set need
+-1.978922	set put
+-1.978922	set sit
+-1.978922	set sleep
+-1.978922	set start
+-1.978922	set tell
+-1.978922	set want
+-0.6171938	settle sit
+-0.3928591	share be
+-0.8699803	show be
+-1.395345	show do
+-1.395345	show get
+-1.395345	show giggle
+-1.395345	show help
+-0.6171938	shower rest
+-0.9182237	shut be
+-0.9182237	shut do
+-0.9182237	side do
+-0.9182237	side have
+-0.6171938	sign walk
+-0.9182237	signal do
+-0.9182237	signal look
+-1.094315	sing be
+-1.094315	sing keep
+-1.094315	sing pass
+-0.9182237	sink develop
+-0.9182237	sink have
+-1.520284	sit <unk>
+-1.520284	sit be
+-1.520284	sit have
+-1.520284	sit melt
+-1.520284	sit pick
+-1.520284	sit pop
+-1.520284	sit read
+-1.520284	sit take
+-0.6171938	skip hang
+-1.847643	sleep awake
+-1.261263	sleep be
+-1.847643	sleep decide
+-1.847643	sleep do
+-1.847643	sleep get
+-1.847643	sleep have
+-1.847643	sleep move
+-1.847643	sleep put
+-1.847643	sleep realize
+-1.847643	sleep take
+-1.847643	sleep tow
+-1.847643	sleep wake
+-0.6171938	slide sleep
+-0.6171938	slip manage
+-0.6171938	slow begin
+-0.6171938	snatch go
+-0.6171938	sort <unk>
+-0.9182237	speak be
+-0.9182237	speak finish
+-0.6171938	speed cross
+-1.520284	spend <unk>
+-1.520284	spend decide
+-1.520284	spend go
+-0.9949191	spend take
+-0.9949191	spend try
+-1.520284	spend wait
+-0.6171938	spoil come
+-1.094315	sprinkle be
+-1.094315	sprinkle change
+-1.094315	sprinkle sprinkle
+-0.6171938	stare seem
+-1.959616	start agree
+-0.9557563	start be
+-1.959616	start breathe
+-1.959616	start couldn
+-1.434252	start feel
+-1.033698	start get
+-1.959616	start give
+-1.959616	start go
+-1.959616	start it
+-1.959616	start need
+-1.959616	start panic
+-1.959616	start pull
+-1.959616	start put
+-1.959616	start think
+-1.959616	start walk
+-0.6133336	stay be
+-1.091829	stay have
+-1.617194	stay say
+-1.617194	stay share
+-1.617194	stay zip
+-0.6171938	steal park
+-0.9182237	stick find
+-0.9182237	stick have
+-0.9182237	sting look
+-0.9182237	sting make
+-0.6171938	stir guess
+-1.237957	stop <unk>
+-1.237957	stop be
+-1.763322	stop change
+-1.763322	stop continue
+-1.763322	stop cook
+-1.763322	stop cross
+-1.763322	stop get
+-1.763322	stop have
+-1.763322	stop mean
+-1.763322	stop pack
+-1.763322	stop put
+-1.763322	stop talk
+-0.6171938	string have
+-0.6171938	strip slide
+-0.9182237	stumble be
+-0.9182237	stumble crash
+-0.6171938	suffer be
+-0.6171938	suppose have
+-0.6171938	surface be
+-0.6171938	survive do
+-1.763322	swim avoid
+-1.176942	swim be
+-1.763322	swim discover
+-1.763322	swim dry
+-1.763322	swim follow
+-1.237957	swim get
+-1.763322	swim start
+-1.763322	swim swim
+-0.6171938	tackle need
+-2.173496	take !!!
+-0.60206	take be
+-2.173496	take begin
+-1.648132	take do
+-2.173496	take fall
+-2.173496	take find
+-0.9542425	take get
+-1.247578	take have
+-2.173496	take hike
+-2.173496	take hit
+-2.173496	take meet
+-2.173496	take open
+-2.173496	take pack
+-2.173496	take pull
+-2.173496	take recover
+-1.648132	take see
+-2.173496	take turn
+-2.173496	take visit
+-1.648132	take wake
+-2.173496	take warm
+-1.571436	talk do
+-1.571436	talk get
+-1.571436	talk go
+-1.571436	talk leave
+-1.571436	talk live
+-1.571436	talk look
+-1.046072	talk tell
+-1.571436	talk watch
+-1.094315	taste do
+-1.094315	taste go
+-1.094315	taste scarf
+-1.658586	tell </s>
+-1.658586	tell agree
+-1.658586	tell ask
+-0.7326682	tell be
+-1.658586	tell have
+-1.658586	tell return
+-1.658586	tell set
+-1.658586	tell shut
+-1.658586	tell sit
+-1.295949	think <unk>
+-0.30103	think be
+-1.821314	think bring
+-1.821314	think come
+-1.821314	think continue
+-1.821314	think have
+-1.821314	think see
+-1.821314	think want
+-1.219254	throw be
+-1.219254	throw feel
+-1.219254	throw make
+-1.219254	throw miss
+-0.6171938	tie didn
+-0.6171938	tire stumble
+-0.9182237	touch be
+-0.9182237	touch open
+-0.6171938	tow spend
+-0.6171938	train give
+-0.6171938	travel <unk>
+-1.26792	try <unk>
+-1.793285	try ask
+-1.26792	try find
+-1.793285	try get
+-1.793285	try go
+-1.793285	try have
+-1.793285	try injure
+-1.793285	try remember
+-1.793285	try see
+-1.793285	try set
+-1.793285	try sleep
+-1.793285	try take
+-1.793285	try walk
+-0.6171938	tumble make
+-0.30103	turn be
+-0.9949191	turn follow
+-1.520284	turn get
+-1.520284	turn swim
+-0.6171938	understand be
+-0.6171938	unload camp
+-0.6171938	update have
+-0.9182237	upload </s>
+-0.9182237	upload refresh
+-1.219254	use </s>
+-1.219254	use be
+-1.219254	use improve
+-1.219254	use say
+-0.6171938	vary <unk>
+-0.5689504	visit be
+-1.094315	visit show
+-0.6171938	volunteer mean
+-0.9949191	wait be
+-1.520284	wait cook
+-1.520284	wait enter
+-1.520284	wait say
+-1.520284	wait sting
+-0.9949191	wait wake
+-0.9217244	wake be
+-1.847643	wake break
+-1.847643	wake fall
+-1.847643	wake feel
+-1.847643	wake go
+-1.322278	wake have
+-1.847643	wake make
+-1.847643	wake sprinkle
+-1.847643	wake stir
+-1.847643	wake think
+-1.847643	wake throw
+-1.847643	wake wait
+-1.847643	wake wake
+-1.847643	wake walk
+-1.763322	walk <unk>
+-0.7594616	walk be
+-1.763322	walk decide
+-1.237957	walk didn
+-1.763322	walk feel
+-1.763322	walk get
+-1.763322	walk make
+-1.763322	walk shower
+-1.763322	walk walk
+-1.219254	wander be
+-1.219254	wander brush
+-1.219254	wander decide
+-1.219254	wander start
+-0.9217244	want be
+-1.847643	want do
+-1.847643	want end
+-1.847643	want feel
+-1.847643	want get
+-1.847643	want go
+-1.847643	want keep
+-1.847643	want leave
+-1.847643	want make
+-1.847643	want risk
+-1.322278	want take
+-1.847643	want try
+-1.322278	want wake
+-0.9182237	warm be
+-0.9182237	warm think
+-1.094315	wash do
+-0.5689504	wash dry
+-0.6171938	wasn bother
+-0.9182237	watch be
+-0.9182237	watch come
+-0.6171938	we awake
+-1.219254	wear be
+-1.219254	wear have
+-1.219254	wear hold
+-1.219254	wear make
+-0.6171938	wish be
+-0.6171938	wonder have
+-1.571436	work </s>
+-0.3521825	work be
+-1.571436	work finish
+-1.571436	work hang
+-1.571436	work leave
+-1.571436	work start
+-1.094315	worry be
+-1.094315	worry guess
+-1.094315	worry leave
+-0.6171938	wrap be
+-0.6171938	zip start
+
+\end\
