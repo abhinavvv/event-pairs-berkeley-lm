@@ -80,20 +80,17 @@ public class Experiments {
 	}
 		
 		
-	public static void Cloze(String testFile) throws IOException{
-		int totalDeltaCp=0,totalDeltaPmi=0,totalDeltaLogp=0,totalLength=0,totalLines=0,perfectTotalCp=0,
-		perfectTotalPmi=0,perfectTotalLogp=0;
-		double averageDeltaTotalCp,averageDeltaTotalPmi,averageDeltaTotalLogp;
+	public static void Cloze(String testFile,Compute c) throws IOException{
+		int totalDeltaCp=0,totalDeltaLogp=0,totalLength=0,totalLines=0,perfectTotalCp=0,
+				perfectTotalLogp=0;
+		double averageDeltaTotalCp=0.0,averageDeltaTotalLogp=0.0;
 		
-		int lineNumber;
+		int lineNumber =0;
 		for (String line : Files.readAllLines(Paths.get(Compute.getFilename()+"refined_test_files/"+testFile))) {
 			List<String> words = Arrays.asList(line.split("\\s+"));
-			lineNumber = 0;
 			int deltaCp = 0;
-			int deltaPmi = 0;
 			int deltaLogp = 0;
 			int perfectLineCp = 0;
-			int perfectLinePmi = 0;
 			int perfectLineLogp = 0;
 			if(words.size() > 50 || words.size() == 0){
 				System.out.println("Skipped");
@@ -107,170 +104,101 @@ public class Experiments {
 			
 //	        # Loop for a single file(plucking out verbs).
 			for(int i=0;i<words.size();i++){
-				List<String> eventsTemp =  new ArrayList<String>();
+				List<String> eventsTemp =  new ArrayList<String>(words);
 				Collections.copy(eventsTemp,words);
 				int actualPosition = i;
 				String actualEvent = eventsTemp.get(i);
 //				# remove event
 				eventsTemp.remove(i);
-				System.out.printf("Line number = %i, Actual Event position = %i, Actual Event = %s ", 
-						lineNumber,i,actualEvent);
+				System.out.printf("\n Line number = %d, Actual Event position = %d, Actual Event = %s ", 
+						totalLines,i,actualEvent);
 				double maxCp = -1000000.0;
-			    double maxPmi = -1000000.0;
 			    double maxLogp = -1000000.0;
 			    
 			    int minPositionCp = actualPosition;
-			    int minPositionPmi = actualPosition;
 			    int minPositionLogp = actualPosition;
 //			    # loop for trying out the verb at each position(puttting verbs).
+			    System.out.println("\nPrinting positions");
 			    for(int j=0;j<eventsTemp.size()+1;j++){
 			    	eventsTemp.add(j, actualEvent);
-			    	double logLine = 0.0;
-			    	double pmiLine = 0.0;
+			    	double logpLine = 0.0;
 			    	double cpLine = 0.0;
+			    	
 //			    	 #Find Measure(LP, pmi, CP)
+			    	double[] results = new double[2];
+			    	results = c.overallScore(eventsTemp);
+			    	logpLine = results[0];
+			    	cpLine = results[1];
+			    	
+			    	if(cpLine > maxCp){
+			    		maxCp = cpLine;
+			            minPositionCp = j;
+			    	}
+			    	if(logpLine > maxLogp){
+			    		maxLogp = logpLine;
+			            minPositionLogp = j;
+			    	}
+			    	
+			    	eventsTemp.remove(j);
 			    	
 			    }
 			    
-				
-				
-				
-				
-				
+			    System.out.printf("\n Position : Actual =%d,  Logp = %d and by CP = %d",actualPosition, minPositionLogp,minPositionCp);
+			    deltaCp += Math.abs(actualPosition - minPositionCp);
+			    deltaLogp += Math.abs(actualPosition - minPositionLogp);
+			    
+			    if(minPositionCp == actualPosition){
+			    	perfectLineCp +=1;
+			    }
+			    if(minPositionLogp == actualPosition){
+			    	perfectLineLogp +=1;
+			    }
+			    
+			    eventsTemp.add(actualPosition, actualEvent);
 				
 			}
+			double averageDeltaCpLine = deltaCp/words.size();
+			averageDeltaTotalCp += averageDeltaCpLine;
+			perfectTotalCp += perfectLineCp;
+			
+			System.out.printf("\n  CP : Line number  = %d, Mean Position = %f, Number of perfect lines = %d",
+					totalLines, averageDeltaCpLine,perfectLineCp); 
+			
+			double averageDeltaLogpLine = deltaLogp/words.size();
+			averageDeltaTotalLogp += averageDeltaLogpLine;
+			perfectTotalLogp += perfectLineLogp;
+			
+			System.out.printf("\n Logp : Line number  = %d, Logp Mean Position = %f, Number of perfect lines = %d",
+					totalLines, averageDeltaLogpLine,perfectLineLogp); 
+			
 			lineNumber +=1;
+//			#Add for the global deltas.
+	        totalDeltaCp += deltaCp;
+	        totalDeltaLogp += deltaLogp;
+	        
 		}
+//        Average delta(penalizing) by each of them
+		System.out.printf("\n Line number and total lines = %d %d",lineNumber,totalLines);
+		System.out.println("\n Statistics:");
+		System.out.printf("\nNumber of documents = %d ",totalLines);
+		System.out.println("\n ---------------- By total Length of line --------------");
+		double sub = totalDeltaCp/totalLength;
+		System.out.printf("\n Average Mean Positional score for CP = %f",sub);
+		double sub1 = totalDeltaLogp/totalLength;
+		System.out.printf("\n Average Mean Positional score for Logp = %f",sub1);
+		System.out.println("\n ---------------- By Number of Lines -----------");
+		System.out.printf("\n Line wise Average Mean Positional score for CP = %f",averageDeltaTotalCp/totalLines);
+		System.out.printf("\n Line wise Average Mean Positional score for Logp = %f",averageDeltaTotalLogp/totalLines);
+		System.out.println("\n ---------------- Perfect Lines -----------");
+		System.out.printf("Perfect lines for CP = %d", perfectTotalCp);
+		System.out.printf("Perfect lines for Logp = %d", perfectTotalLogp);
 		
-
-//		        # Loop for a single file(plucking out verbs).
-//		        for i in range(len(events)):
-//		            events_temp = list(events)
-//		            actual_position = i
-//		            actual_event = events_temp[actual_position]
-//		            # remove event
-//		            del events_temp[actual_position]
-//		            print "Line ", ct, " event ", i
-//		            print actual_position, actual_event
-//		            max_cp = -1000000.0
-//		            max_pmi = -1000000.0
-//		            max_logp = -1000000.0
-//
-//		            min_position_cp = actual_position
-//		            min_position_pmi = actual_position
-//		            min_position_logp = actual_position
-//
-//		            # loop for trying out the verb at each position(puttting verbs).
-//		            for j in range(len(events_temp)+1):
-//		                events_temp.insert(j, actual_event)
-//		                # print events_temp
-//		                logp_line = 0.0
-//		                pmi_line = 0.0
-//		                cp_line = 0.0
-//
-//
-//		                #Find Measure(LP, pmi, CP)
-//		                for k in range(len(events_temp)-1):
-//		                    e1 = events_temp[k]
-//		                    e2 = events_temp[k+1]
-//		                    cp_line += calculate_cp(e1, e2, pmi_dict, bigram_dict, unigram_dict)
-//		                    pmi_line += get_pmi(e1, e2, pmi_dict, bigram_dict, unigram_dict)
-//		                    logp_line += get_logp(e1, e2, bigram_dict, unigram_dict)
-//
-//		                if cp_line > max_cp:
-//		                    max_cp = cp_line
-//		                    min_position_cp = j
-//		                if pmi_line > max_pmi:
-//		                    max_pmi = pmi_line
-//		                    min_position_pmi = j
-//		                if logp_line > max_logp:
-//		                    max_logp = logp_line
-//		                    min_position_logp = j
-//
-//		                del events_temp[j]
-//		                # print "Trying at position: ", j
-//		                # print cp_line, " ", pmi_line, " ", logp_line
-//
-//		            #Now find delta for line.
-//		            print "Placed at(CP): ", min_position_cp
-//		            print "Placed at(PMI): ", min_position_pmi
-//		            print "Placed at(LogP): ", min_position_logp
-//
-//		            delta_cp += abs(actual_position - min_position_cp)
-//		            delta_pmi += abs(actual_position - min_position_pmi)
-//		            delta_logp += abs(actual_position - min_position_logp)
-//
-//		            if actual_position == min_position_cp:
-//		                perfect_line_cp += 1
-//		            if actual_position == min_position_pmi:
-//		                perfect_line_pmi += 1
-//		            if actual_position == min_position_logp:
-//		                perfect_line_logp += 1
-//
-//		            # insert event back.
-//		            events_temp.insert(actual_position, actual_event)
-//
-//		        # Average for line
-//		        avg_delta_cp_line = float(delta_cp)/len_line
-//		        average_delta_total_cp += avg_delta_cp_line
-//		        perfect_total_cp += perfect_line_cp
-//		        print "Line ", ct, " Mean position for line(CP): ", avg_delta_cp_line, " Perfect for line(CP): ", perfect_line_cp
-//
-//		        avg_delta_pmi_line = float(delta_pmi)/len_line
-//		        average_delta_total_pmi += avg_delta_pmi_line
-//		        perfect_total_pmi += perfect_line_pmi
-//		        print "Line ", ct, " Mean position for line(PMI): ", avg_delta_pmi_line, " Perfect for line(PMI): ", perfect_line_pmi
-//
-//		        avg_delta_logp_line = float(delta_logp)/len_line
-//		        average_delta_total_logp += avg_delta_logp_line
-//		        perfect_total_logp += perfect_line_logp
-//		        print "Line ", ct, " Mean position for line(LogP): ", avg_delta_logp_line, " Perfect for line(LogP): ", perfect_line_logp
-//
-//		        #Add for the global deltas.
-//		        total_delta_cp += delta_cp
-//		        total_delta_pmi += delta_pmi
-//		        total_delta_logp += delta_logp
-//
-//		    # Average for whole test set.
-//		    avg_total_bytotal_cp = float(total_delta_cp)/total_length
-//		    avg_total_bytotal_pmi = float(total_delta_pmi)/total_length
-//		    avg_total_bytotal_logp = float(total_delta_logp)/total_length
-//
-//		    avg_total_by_lines_cp = float(average_delta_total_cp)/total_lines
-//		    avg_total_by_lines_pmi = float(average_delta_total_pmi)/total_lines
-//		    avg_total_by_lines_logp = float(average_delta_total_logp)/total_lines
-//
-//		    print "Total Stats:"
-//		    print "Number of documents: ", total_lines, " ", total_length
-//		    print "Average Mean Positional score for CP ", avg_total_bytotal_cp
-//		    print "Average Mean Positional score for PMI ", avg_total_bytotal_pmi
-//		    print "Average Mean Positional score for LOGP ", avg_total_bytotal_logp
-//		    print "Average Mean Positional score for CP(By line average total) ", avg_total_by_lines_cp
-//		    print "Average Mean Positional score for PMI(By line average total) ", avg_total_by_lines_pmi
-//		    print "Average Mean Positional score for LOGP(By line average total) ", avg_total_by_lines_logp
-//		    print "Perfect Total(CP)", perfect_total_cp
-//		    print "Perfect Total(PMI)", perfect_total_pmi
-//		    print "Perfect Total(LogP)", perfect_total_logp
-//
-//
-//		    w = open(results_file, "wb")
-//		    w.write(test_file + "\n")
-//		    w.write("Total Stats:" + "\n")
-//		    w.write("Number of documents: " + str(total_lines) + " #Events" + str(total_length) + "\n")
-//		    w.write("Average Mean Positional score for CP " + str(avg_total_bytotal_cp) + "\n")
-//		    w.write("Average Mean Positional score for PMI " + str(avg_total_bytotal_pmi) + "\n")
-//		    w.write("Average Mean Positional score for LOGP " + str(avg_total_bytotal_logp) + "\n")
-//		    w.write("Average Mean Positional score for CP(By line average total) " + str(avg_total_by_lines_cp) + "\n")
-//		    w.write("Average Mean Positional score for PMI(By line average total) " + str(avg_total_by_lines_pmi) + "\n")
-//		    w.write("Average Mean Positional score for LOGP(By line average total) " + str(avg_total_by_lines_logp) + "\n")
-//		    w.write("Perfect Total(CP)" + str(perfect_total_cp) + "\n")
-//		    w.write("Perfect Total(PMI)" + str(perfect_total_pmi) + "\n")
-//		    w.write("Perfect Total(LogP)" + str(perfect_total_logp) + "\n")
+		
 	}
 		
 	public static void normalDiscriminate(String arpaFile, String outputFile, String testFile) throws IOException{
 		Compute c = new Compute(arpaFile);
-		PrintWriter writer = new PrintWriter(new FileWriter(Compute.getFilename()+"refined_gt_result_files/"+ outputFile));
+		PrintWriter writer = new PrintWriter(new FileWriter(Compute.getFilename()+"refined_add_result_files/"+ outputFile));
 		discriminate(testFile,writer,c);
 	}
 	
@@ -297,7 +225,7 @@ public class Experiments {
 
 		
 		// Travel!!!!
-//		normalDiscriminate("travel_refined.v.o2.ov.kn.arpa","travel_refined_v_discriminate.txt","travel_refined_verbs_test.txt");
+		normalDiscriminate("refined_add_arpa_files/travel_refined.v.o2.ov.add1.arpa","travel_refined_v_discriminate.txt","travel_refined_verbs_test.txt");
 //		normalDiscriminate("travel_refined.vo.o2.ov.kn.arpa","travel_refined_vo_discriminate.txt","travel_refined_vo_test.txt");
 //		normalDiscriminate("travel_refined.vs.o2.ov.kn.arpa","travel_refined_vs_discriminate.txt","travel_refined_vs_test.txt");
 //		normalDiscriminate("travel_refined.vso.o2.ov.kn.arpa","travel_refined_vso_discriminate.txt","travel_refined_vso_test.txt");
@@ -355,13 +283,17 @@ public class Experiments {
 		// TODO Auto-generated method stub
 		
 //		
-		Compute c = new Compute("refined_kn_arpa_files/travel_refined.v.o2.ov.kn.arpa",
-				"refined_kn_arpa_files/travel_refined.v.o2.ov.kn.arpa",0.8);
-		c.getEventParis("travel_refined_verbs_test_skipped.txt", "travel_refined_verbs_pairs_skipped.txt");
+//		Compute c = new Compute("refined_kn_arpa_files/travel_refined.v.o2.ov.kn.arpa",
+//				"refined_kn_arpa_files/travel_refined.v.o2.ov.kn.arpa",0.8);
+//		c.getEventParis("travel_refined_verbs_test_skipped.txt", "travel_refined_verbs_pairs_skipped.txt");
 		
 //		Compute c = new Compute("kn_arpa_files/travel.vso.o2.ov.kn.arpa");
 //		c.getEventParis("travel_representation_vs_test.txt", "travel_vso_pairs.txt");
 		
+		
+//		!!!!!!!! CLOZE !!!!!!
+		
+//		Cloze("travel_refined_verbs_test_skipped.txt",c);
 		
 
 	}

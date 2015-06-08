@@ -68,7 +68,7 @@ public class Compute{
 			P_b = getCombinedLogProb(unigram2);
 		}
 		
-		return (P_ab + P_ba)/(P_a * P_b);
+		return (P_ab + P_ba) - (P_a * P_b);
 
 	}
 	
@@ -139,17 +139,17 @@ public class Compute{
 				outputFile));
 		for (String line : Files.readAllLines(Paths.get(Compute.getFilename()+"refined_test_files/"+testFile))) {
 			List<String> words = Arrays.asList(line.split("\\s+"));
-			for(int i=0;i<words.size()-1;i++){
+			for(int j=0;j<words.size()-1;j++){
 				
 				int[] bigrams = new int[2];
 				
-				bigrams[0] = wi.getIndexPossiblyUnk(words.get(i));
+				bigrams[0] = wi.getIndexPossiblyUnk(words.get(j));
 				
-				bigrams[1] = wi.getIndexPossiblyUnk(words.get(i+1));
+				bigrams[1] = wi.getIndexPossiblyUnk(words.get(j+1));
 				
 				
-				writer.printf("%s %s = %f , %f \n", words.get(i),words.get(i+1),myArpaLm.getLogProb(bigrams),getCp(bigrams));
-				System.out.printf("%s %s = %f , %f \n", words.get(i),words.get(i+1),myArpaLm.getLogProb(bigrams),getCp(bigrams));
+				writer.printf("%s %s = %f , %f \n", words.get(j),words.get(j+1),myArpaLm.getLogProb(bigrams),getCp(bigrams));
+				System.out.printf("%s %s = %f , %f \n", words.get(j),words.get(j+1),myArpaLm.getLogProb(bigrams),getCp(bigrams));
 				
 				
 			}
